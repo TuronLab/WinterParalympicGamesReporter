@@ -2,7 +2,6 @@ import os
 import json
 from typing import Any
 
-from dotenv import load_dotenv
 from crewai import Agent, Task, Crew, BaseLLM
 from crewai_tools import ScrapeWebsiteTool, WebsiteSearchTool
 from pydantic import InstanceOf
@@ -73,8 +72,6 @@ def run_research(
     ValueError
         If sport is not supported.
     """
-
-    load_dotenv()
 
     if country is not None:
         os.environ["COUNTRY_SEARCH"] = country
