@@ -5,7 +5,6 @@ from typing import List
 from crewai.tools import BaseTool
 from ddgs import DDGS
 
-from athlete_model import AthleteSummary
 from config import COUNTRY_REGION_MAP, REPORTER_LOGGER
 
 
@@ -42,12 +41,12 @@ def get_output_filenames(athlete_name: str, sport: str, category: str, output_di
 
 def athletes_summary_to_excel_table(athletes: List[dict], output_path: str | None = None) -> pd.DataFrame:
     """
-    Convierte una lista de dicts (o AthleteSummary convertidos a dict) en un Excel expandido
-    (1 fila por atleta y deporte) y devuelve el DataFrame.
-    Si se pasa output_path, también lo guarda en archivo .xlsx.
+    Converts a list of json fashioned like AthleteSummary pydantic class into an expanded excel (one row by
+    athlete and sport), and it returns the DataFrame
+    If you pass the output_path, it also saves the xlsx
     """
 
-    # Definimos las columnas
+    # Define columns
     columns = [
         "name_of_the_athlete",
         "date_of_birth",
@@ -111,16 +110,16 @@ def athletes_summary_to_excel_table(athletes: List[dict], output_path: str | Non
 
 
 def athletes_summary_to_markdown_table(
-        athletes: List[AthleteSummary | dict],
+        athletes: List[dict],
         links: List[str] | None = None,
         output_path: str | None = None
 ) -> str:
     """
-    Convierte una lista de AthleteSummary en una tabla Markdown.
-    Cada nombre de atleta puede ser un enlace a otro markdown si se pasa `links`.
+    Converts a list of json fashioned like AthleteSummary pydantic class into a markdown table, linking
+    each athlete name to the `.md` file with its report.
     """
 
-    # Encabezados de la tabla
+    # Table headers
     headers = [
         "name_of_the_athlete",
         "date_of_birth",
@@ -140,19 +139,18 @@ def athletes_summary_to_markdown_table(
         "personal_data",
     ]
 
-    # Markdown: encabezado de tabla
+    # Markdown: table heading
     md_lines = []
     md_lines.append("| " + " | ".join(headers) + " |")
     md_lines.append("|" + "|".join(["---"] * len(headers)) + "|")
 
-    # Contador para los enlaces
+    # link counter
     link_index = 0
 
     for athlete in athletes:
         for i, sport in enumerate(athlete.get("sports", [{}])):
             row = []
             for field in headers:
-                value = None
                 if field == "name_of_the_athlete":
                     name = athlete.get("name_of_the_athlete", "")
                     if links and link_index < len(links):
@@ -167,7 +165,7 @@ def athletes_summary_to_markdown_table(
                 else:
                     value = ""
 
-                # Escapar tuberías
+                # Scape pipes
                 if isinstance(value, str):
                     value = value.replace("|", "\\|")
                 row.append(str(value))
