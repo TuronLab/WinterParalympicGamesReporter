@@ -79,6 +79,7 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
 
                     # We control the maximum amount of athletes to research
                     if top_k is not None and athlete_num_i >= top_k:
+                        REPORTER_LOGGER.info(f"Maximum number of athletes for {sport}, {category}, {gender}")
                         break
 
                     _, _, json_result_path = get_output_filenames(athlete_name=athlete_conf["name"], sport=sport, category=category, output_dir=os.path.join(output_base_path, "articles"))
