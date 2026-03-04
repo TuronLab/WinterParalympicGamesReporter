@@ -75,10 +75,10 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
             markdown_files[sport][category] = {}
             for gender in ["male", "female"]:
                 athlete_results, athlete_links = [], []
-                for athlete_i, athlete_conf in enumerate(json.load(open(os.path.join(athletes_metadata_path, f"para_{sport}_{category}_{gender}.json")))):
+                for athlete_num_i, athlete_conf in enumerate(json.load(open(os.path.join(athletes_metadata_path, f"para_{sport}_{category}_{gender}.json")))):
 
                     # We control the maximum amount of athletes to research
-                    if top_k is not None and athlete_i >= top_k:
+                    if top_k is not None and athlete_num_i >= top_k:
                         break
 
                     _, _, json_result_path = get_output_filenames(athlete_name=athlete_conf["name"], sport=sport, category=category, output_dir=os.path.join(output_base_path, "articles"))
@@ -93,7 +93,7 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
 
                     json_result = None
                     # Sometimes, the web research abruptly stops. We added a retrial logic
-                    for retry_i in range(5):
+                    for retry_num_i in range(5):
                         try:
                             _, json_result = run_research(
                                 athlete_name=athlete_conf["name"],
@@ -109,7 +109,7 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
                             if json_result is not None:
                                 break
                         except Exception as e:
-                            REPORTER_LOGGER.warning(f"Attempt {retry_i +1} failed: {e}")
+                            REPORTER_LOGGER.warning(f"Attempt {retry_num_i +1} failed: {e}")
                             time.sleep(60)  # optional delay between retries
 
                     if json_result is None:
