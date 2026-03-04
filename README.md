@@ -5,7 +5,7 @@ structured reports about Paralympic winter sport athletes (Biathlon and
 Cross-Country Skiing).
 
 This project orchestrates a research workflow using CrewAI agents and OpenAI 
-models deployed through Azure AI Foundry, producing:
+models deployed through OpenAI API, producing:
 
 - ✅ A fact-checked English article
 - ✅ A validated Spanish translation
@@ -43,7 +43,7 @@ further refinement.
 The pipeline is built using:
 
 - Multi-agent orchestration with CrewAI
-- Azure OpenAI models via AI Foundry
+- OpenAI models
 - Website scraping & DuckDuckGo search
 - Structured data validation with Pydantic
 - Automated article generation + fact-checking
@@ -91,51 +91,25 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-# 🔐 Environment Configuration (.env)
-
-Create a .env file in the project root:
-
-```
-AZURE_OPENAI_API_KEY=your-token
-OPENAI_API_KEY=your-token
-AZURE_OPENAI_ENDPOINT=your-endpoint
-AZURE_OPENAI_DEPLOYMENT_NAME=your-deployment
-AZURE_OPENAI_API_VERSION=yyyy-mm-dd
-```
-
-Where
-
-| Variable                       | Description                     |
-| ------------------------------ | ------------------------------- |
-| `AZURE_OPENAI_API_KEY`         | API Key from Azure AI Foundry   |
-| `AZURE_OPENAI_ENDPOINT`        | Your Azure OpenAI endpoint      |
-| `AZURE_OPENAI_DEPLOYMENT_NAME` | Deployment name of your model   |
-| `AZURE_OPENAI_API_VERSION`     | API version configured in Azure |
-| `OPENAI_API_KEY`               | Optional fallback key           |
-
 
 # 🧠 Models
 
-This project uses OpenAI models deployed through Azure AI Foundry using:
+This project uses OpenAI models, but you can configure any model compatible with CrewAI (`openai`, `anthropic`, 
+`claude`, `azure`, etc). 
+
+To employ the system as it is right now, with the OpenAI token, you will have to set the openai key by setting 
+the environment variable `OPENAI_API_KEY`, or setting it manually. For example:
 
 ```python
-from langchain_openai import AzureChatOpenAI
+from crewai import LLM
 
-Example initialization:
+# Example initialization:
 
-azure_llm = AzureChatOpenAI(
-    azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-    api_key=os.getenv("AZURE_OPENAI_API_KEY"),
-    azure_deployment=os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME"),
-    model="gpt-4o-mini",
-    api_version=os.getenv("AZURE_OPENAI_API_VERSION"),
-    temperature=0,
-    streaming=True,
-    timeout=600
+llm = LLM(
+    model=f"openai/gpt-4o-mini",
+    api_key=os.getenv("OPENAI_API_KEY")
 )
 ```
-
-However, you can replace this model with any model compatible with CrewAI.
 
 
 # 🏃 How to Run the Research
@@ -149,7 +123,7 @@ category. For example:
 spanish_article, json_summary = run_research(
     athlete_name="John Doe",
     sport="biathlon",  # or "cross_country"
-    llm=azure_llm,
+    llm=llm,
     world_cup_rank=5,
     country="GER",
     world_cup_points=350,

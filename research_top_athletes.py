@@ -3,8 +3,7 @@ import json
 import time
 from typing import Any
 
-from crewai import BaseLLM
-from langchain_openai import AzureChatOpenAI
+from crewai import BaseLLM, LLM
 from pydantic import InstanceOf
 
 from config import REPORTER_LOGGER
@@ -148,20 +147,13 @@ if __name__ == "__main__":
     output_base_path = rf".\results\{model}"
 
     # We initialize the model inferencer
-    azure_llm = AzureChatOpenAI(
-        azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-        api_key=os.getenv("AZURE_OPENAI_API_KEY"),
-        azure_deployment=os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME"),
-        model=model,
-        api_version=os.getenv("AZURE_OPENAI_API_VERSION"),
-        temperature=0,
-        streaming=False,
-        timeout=300,
-        max_retries=3
+    llm = LLM(
+        model=f"openai/{model}",
+        api_key=os.getenv("OPENAI_API_KEY")
     )
 
     research_for_top_k_athletes(
-        llm=azure_llm,
+        llm=llm,
         athletes_metadata_path=athletes_metadata_path,
         output_base_path=output_base_path,
         top_k = 20

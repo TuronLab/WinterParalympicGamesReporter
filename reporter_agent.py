@@ -8,7 +8,7 @@ from crewai_tools import ScrapeWebsiteTool, WebsiteSearchTool
 from pydantic import InstanceOf
 
 from athlete_model import AthleteSummary
-from langchain_openai import AzureChatOpenAI
+from crewai import LLM
 
 from config import REPORTER_LOGGER
 from utils import DuckDuckGoTool, get_output_filenames
@@ -396,16 +396,9 @@ if __name__ == "__main__":
 
     model = "gpt-4o-mini"
 
-    azure_llm = AzureChatOpenAI(
-        azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-        api_key=os.getenv("AZURE_OPENAI_API_KEY"),
-        azure_deployment=os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME"),
-        model=model,
-        api_version=os.getenv("AZURE_OPENAI_API_VERSION"),
-        temperature=0,
-        streaming=False,
-        timeout=300,
-        max_retries=3
+    llm = LLM(
+        model=f"openai/{model}",
+        api_key=os.getenv("OPENAI_API_KEY")
     )
 
     _, result = run_research(
@@ -417,5 +410,5 @@ if __name__ == "__main__":
         category="Sitting",
         gender="Male",
         output_dir=os.path.join(".", "borrar_articles", model),
-        llm=azure_llm,
+        llm=llm,
     )

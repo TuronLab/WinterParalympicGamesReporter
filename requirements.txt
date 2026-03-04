@@ -1,9 +1,7 @@
 crewai==1.10.0
 crewai-tools==1.10.0
-langchain==1.2.10
 openai==2.24.0
 python-dotenv==1.1.1
-langchain-openai==1.1.10
 pydantic==2.11.10
 numpy==2.4.2
 pandas==3.0.1
