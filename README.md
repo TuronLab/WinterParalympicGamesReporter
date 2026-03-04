@@ -18,8 +18,9 @@ to minimize the hallucination impact.
 <details><summary>Click here to read about project motivation</summary>
 
 Recently, as an athlete with the Spanish Biathlon and Cross-Country Ski Federation, 
-I was selected to serve as a commentator for RTVE during the Milano Cortina 2026 Paralympic 
-Winter Games, covering parabiathlon and para cross-country skiing.
+I was selected to serve as a commentator for [RTVE](https://www.rtve.es/) during 
+the [Milano Cortina 2026 Paralympic Winter Games](https://www.olympics.com/en/milano-cortina-2026/paralympic-games), 
+covering parabiathlon and para cross-country skiing.
 
 As part of my preparation for this role, I began gathering information about the athletes 
 competing in the Games. However, given the large number of participants, I decided to 
@@ -37,8 +38,6 @@ further refinement.
 
 </details>
 
--------------
-
 # 🚀 Architecture Overview
 
 The pipeline is built using:
@@ -50,8 +49,6 @@ The pipeline is built using:
 - Automated article generation + fact-checking
 - Structured JSON export
 - Excel & Markdown table generation
-
--------------
 
 # 🤖 Agents Workflow
 
