@@ -1,6 +1,5 @@
 import os
 import json
-import time
 from typing import Any
 
 from dotenv import load_dotenv
@@ -12,8 +11,7 @@ from athlete_model import AthleteSummary
 from langchain_openai import AzureChatOpenAI
 
 from config import REPORTER_LOGGER
-from utils import athletes_summary_to_excel_table, athletes_summary_to_markdown_table, DuckDuckGoTool, \
-    get_athlete_filename, get_output_filenames
+from utils import DuckDuckGoTool, get_output_filenames
 
 
 # ==========================================================
@@ -31,6 +29,50 @@ def run_research(
     gender: str = "",
     output_dir: str = "output"
 ):
+
+    """
+    Run a multi-agent research pipeline to generate a verified article and
+    structured JSON summary for a Paralympic winter sport athlete.
+
+    The workflow:
+    1. Research verified information from official and public sources.
+    2. Write a structured English article.
+    3. Strictly validate all factual claims.
+    4. Translate the validated article into Spanish.
+    5. Generate a JSON summary compliant with the AthleteSummary schema.
+    6. Save all outputs to disk.
+
+    Parameters
+    ----------
+    athlete_name : str
+        Full name of the athlete.
+    sport : str
+        Must be "biathlon" or "cross_country".
+    llm : str | BaseLLM | Any
+        LLM identifier or instance used by the agents.
+    world_cup_rank : int, optional
+        Injected into the final JSON output.
+    country : str, optional
+        Athlete country code.
+    world_cup_points : int, optional
+        Injected into the final JSON output.
+    category : str, optional
+        Athlete classification/category.
+    gender : str, optional
+        Athlete gender.
+    output_dir : str, optional
+        Directory where output files are stored.
+
+    Returns
+    -------
+    tuple[str, dict]
+        Spanish validated article and structured JSON dictionary.
+
+    Raises
+    ------
+    ValueError
+        If sport is not supported.
+    """
 
     load_dotenv()
 
@@ -321,10 +363,10 @@ Rules:
         output_dir=output_dir
     )
 
-    with open(english_path, "w", encoding="utf-8") as f:
+    with open(english_path, "w", encoding="utf-8-sig") as f:
         f.write(english_article)
 
-    with open(spanish_path, "w", encoding="utf-8") as f:
+    with open(spanish_path, "w", encoding="utf-8-sig") as f:
         f.write(spanish_article)
 
     # We hardcode available information
@@ -335,10 +377,10 @@ Rules:
     final_json["world_cup_points"] = world_cup_points
     final_json["category"] = category
 
-    with open(json_path, "w", encoding="utf-8") as f:
+    with open(json_path, "w", encoding="utf-8-sig") as f:
         json.dump(final_json, f, indent=4, ensure_ascii=False)
 
-    REPORTER_LOGGER.info("\n✅ Files successfully generated:")
+    REPORTER_LOGGER.info("-- Files successfully generated --")
     REPORTER_LOGGER.info(english_path)
     REPORTER_LOGGER.info(spanish_path)
     REPORTER_LOGGER.info(json_path)
@@ -353,10 +395,7 @@ Rules:
 if __name__ == "__main__":
 
     model = "gpt-4o-mini"
-    athletes_metadata_path = r"C:\Users\pablo\OneDrive\Profesional\Proyectos\Paralympic Agent Researcher\athletes"
-    output_base_path = rf".\results\{model}"
 
-    # We initialize the model inferencer
     azure_llm = AzureChatOpenAI(
         azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
         api_key=os.getenv("AZURE_OPENAI_API_KEY"),
@@ -369,77 +408,14 @@ if __name__ == "__main__":
         max_retries=3
     )
 
-    markdown_files = {}
-
-    for sport in ["biathlon", "cross_country"]:
-        markdown_files[sport] = {}
-        for category in ["sitting", "standing", "vision"]:
-            markdown_files[sport][category] = {}
-            for gender  in ["male", "female"]:
-                athlete_results, athlete_links = [], []
-                for athlete_conf in json.load(open(os.path.join(athletes_metadata_path, f"para_{sport}_{category}_{gender}.json"))):
-
-                    _, _, json_result_path = get_output_filenames(athlete_name=athlete_conf["name"], sport=sport, category=category, output_dir=os.path.join(output_base_path, "articles"))
-
-                    # Control to not rerun previous experiments
-                    if os.path.exists(json_result_path):
-                        athlete_results.append(json.load(open(json_result_path)))
-                        athlete_filename = get_athlete_filename(athlete_name=athlete_conf['name'], sport=sport, category=athlete_conf['class'])
-                        athlete_links.append(os.path.join(rf"../articles/{athlete_filename}_ES.md"))
-                        REPORTER_LOGGER.info(f"Cached info of {athlete_filename}")
-                        continue
-
-                    json_result = None
-                    # Sometimes, the web research abruptly stops. We added a retrial logic
-                    for i in range(5):
-                        try:
-                            _, json_result = run_research(
-                                athlete_name=athlete_conf["name"],
-                                sport=sport,
-                                llm=azure_llm,
-                                world_cup_rank=athlete_conf["rank"],
-                                country=athlete_conf["country"],
-                                world_cup_points=athlete_conf["points"],
-                                category=athlete_conf["class"],
-                                gender=gender,
-                                output_dir=os.path.join(output_base_path, "articles")
-                            )
-                            if json_result is not None:
-                                break
-                        except Exception as e:
-                            REPORTER_LOGGER.warning(f"Attempt {i+1} failed: {e}")
-                            time.sleep(60)  # optional delay between retries
-
-                    if json_result is None:
-                        output_name = f"{sport}_{category}_{gender}_{athlete_conf['name'].replace(' ', '_')}"
-                        with open(f"{output_name}_error.txt", "w", encoding="utf-8") as f:
-                            f.write(f"Unable to find information about {athlete_conf['name']} in sport {sport}")
-
-                    athlete_results.append(json_result)
-                    athlete_links.append(os.path.join(rf"../articles/{get_athlete_filename(athlete_name=athlete_conf['name'], sport=sport, category=athlete_conf['class'])}_ES.md"))
-
-            try:
-                output_name = f"para_{sport}_{category}_{gender}"
-                markdown_table = os.path.join(output_base_path, "tables", f"{output_name}.md")
-                markdown_files[sport][category][gender] = markdown_table
-
-                athletes_summary_to_excel_table(athletes=athlete_results, output_path=markdown_table.replace(".md", ".xlsx"))
-
-                athletes_summary_to_markdown_table(
-                        athletes=athlete_results,
-                        links=athlete_links,
-                        output_path=markdown_table
-                )
-            except Exception as e:
-                output_name = f"para_{sport}_{category}_{gender}"
-                REPORTER_LOGGER.error(f"Unable to dump {output_name}: {e}")
-                with open(f"{output_name}_error.txt", "w", encoding="utf-8-sig") as f:
-                    f.write(f"Unable to dump {output_name} with:\n{athlete_results}\n{athlete_links}")
-
-    with open(r".\tables\athlete_navigation_tables.md", "w", encoding="utf-8-sig") as f:
-        for sport, categories in markdown_files.items():
-            f.write("# " + sport.capitalize() + "\n")
-            for category, genders in categories.items():
-                f.write("## " + category.capitalize() + "\n")
-                for gender, file in genders.items():
-                    f.write(f"[{gender}]({file})\n")
+    _, result = run_research(
+        athlete_name="RIVERO FERNANDEZ Higinio",
+        sport="biathlon",
+        country="ESP",
+        world_cup_rank=13,
+        world_cup_points=310,
+        category="Sitting",
+        gender="Male",
+        output_dir=os.path.join(".", "borrar_articles", model),
+        llm=azure_llm,
+    )
