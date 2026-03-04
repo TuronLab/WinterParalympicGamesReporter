@@ -1,0 +1,86 @@
+[
+    {
+        "rank": 1,
+        "name": "WILKIEN Natalie",
+        "country": "CAN",
+        "points": 885,
+        "class": "Standing"
+    },
+    {
+        "rank": 2,
+        "name": "HUDAK Brittany",
+        "country": "CAN",
+        "points": 662,
+        "class": "Standing"
+    },
+    {
+        "rank": 3,
+        "name": "ARAVICH Danielle",
+        "country": "USA",
+        "points": 629,
+        "class": "Standing"
+    },
+    {
+        "rank": 4,
+        "name": "LIASHENKO Liudmyla",
+        "country": "UKR",
+        "points": 540,
+        "class": "Standing"
+    },
+    {
+        "rank": 5,
+        "name": "KONONOVA Oleksandra",
+        "country": "UKR",
+        "points": 522,
+        "class": "Standing"
+    },
+    {
+        "rank": 6,
+        "name": "BUI Iryna",
+        "country": "UKR",
+        "points": 500,
+        "class": "Standing"
+    },
+    {
+        "rank": 7,
+        "name": "KONASHUK Bohdana",
+        "country": "UKR",
+        "points": 458,
+        "class": "Standing"
+    },
+    {
+        "rank": 8,
+        "name": "ZHAO Zhiqing",
+        "country": "CHN",
+        "points": 285,
+        "class": "Standing"
+    },
+    {
+        "rank": 9,
+        "name": "ABE Yurika",
+        "country": "JPN",
+        "points": 285,
+        "class": "Standing"
+    },
+    {
+        "rank": 10,
+        "name": "GUO Yujie",
+        "country": "CHN",
+        "points": 270,
+        "class": "Standing"
+    },
+    {
+        "rank": 11,
+        "name": "PETERSON Sydney",
+        "country": "USA",
+        "points": 239,
+        "class": "Standing"
+    },
+    {
+        "rank": 12,
+        "name": "BLANC Cleo",
+        "country": "FRA",
+        "points": 155,
+        "class": "Standing"
+    }
+]

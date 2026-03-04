@@ -1,0 +1,128 @@
+[
+    {
+        "rank": 1,
+        "name": "MESSINGER Nico",
+        "country": "GER",
+        "points": 810,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 2,
+        "name": "VOLKERT Lennart",
+        "country": "GER",
+        "points": 805,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 3,
+        "name": "CHALENCON Anthony",
+        "country": "FRA",
+        "points": 656,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 4,
+        "name": "BIENKO Blazej",
+        "country": "POL",
+        "points": 621,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 5,
+        "name": "KAZIK Oleksandr",
+        "country": "UKR",
+        "points": 460,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 6,
+        "name": "RESHETYNSKYI Iaroslav",
+        "country": "UKR",
+        "points": 440,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 7,
+        "name": "BOLD Theo",
+        "country": "GER",
+        "points": 433,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 8,
+        "name": "KOVALEVSKYI Anatolii",
+        "country": "UKR",
+        "points": 414,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 9,
+        "name": "GIL Pawel",
+        "country": "POL",
+        "points": 392,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 10,
+        "name": "SUIARKO Dmytro",
+        "country": "UKR",
+        "points": 362,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 11,
+        "name": "YU Shuang",
+        "country": "CHN",
+        "points": 280,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 12,
+        "name": "MURASHKOVSKYI Maksym",
+        "country": "UKR",
+        "points": 275,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 13,
+        "name": "DANG Hesong",
+        "country": "CHN",
+        "points": 245,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 14,
+        "name": "KRAVCHUK Ihor",
+        "country": "UKR",
+        "points": 202,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 15,
+        "name": "KIM Minyeong",
+        "country": "KOR",
+        "points": 170,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 16,
+        "name": "MODIN Zebastian",
+        "country": "SWE",
+        "points": 132,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 17,
+        "name": "ARIYASU Ryohei",
+        "country": "JPN",
+        "points": 129,
+        "class": "Vision Impaired"
+    },
+    {
+        "rank": 18,
+        "name": "LAJTMAN Alex",
+        "country": "SVK",
+        "points": 54,
+        "class": "Vision Impaired"
+    }
+]
