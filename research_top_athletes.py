@@ -37,13 +37,14 @@ def build_navigable_markdown_file(markdown_files: dict, output_base_path: str):
                              and where the navigation file will be created.
     """
 
-    with open(os.path.join(output_base_path, "tables", "athlete_navigation_tables.md"), "w", encoding="utf-8-sig") as f:
+    with open(os.path.join(output_base_path, "athlete_navigation_tables.md"), "w", encoding="utf-8-sig") as f:
         for sport, categories in markdown_files.items():
             f.write("# " + sport.capitalize() + "\n")
             for category, genders in categories.items():
                 f.write("## " + category.capitalize() + "\n")
                 for gender, file in genders.items():
-                    f.write(f"[{gender}]({file})\n")
+                    f.write(f"- [{gender.capitalize()}]({file})\n")
+    REPORTER_LOGGER.info("Navigable information tables markdown has been succesfully created")
 
 
 def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_metadata_path: str, output_base_path: str, top_k: int = 15):
@@ -67,12 +68,12 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
     :param top_k: Maximum number of athletes to process per sport/category/gender combination.
                   Default is 15.
     """
-    markdown_files = {}
+    relative_path_markdown_files = {}
 
     for sport in ["biathlon", "cross_country"]:
-        markdown_files[sport] = {}
+        relative_path_markdown_files[sport] = {}
         for category in ["sitting", "standing", "vision"]:
-            markdown_files[sport][category] = {}
+            relative_path_markdown_files[sport][category] = {}
             for gender in ["male", "female"]:
                 athlete_results, athlete_links = [], []
                 for athlete_num_i, athlete_conf in enumerate(json.load(open(os.path.join(athletes_metadata_path, f"para_{sport}_{category}_{gender}.json")))):
@@ -121,25 +122,25 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
                     athlete_results.append(json_result)
                     athlete_links.append(os.path.join(rf"../articles/{get_athlete_filename(athlete_name=athlete_conf['name'], sport=sport, category=athlete_conf['class'])}_ES.md"))
 
-            try:
-                output_name = f"para_{sport}_{category}_{gender}"
-                markdown_table = os.path.join(output_base_path, "tables", f"{output_name}.md")
-                markdown_files[sport][category][gender] = markdown_table
+                try:
+                    output_name = f"para_{sport}_{category}_{gender}"
+                    markdown_table = os.path.join(output_base_path, "tables", f"{output_name}.md")
+                    relative_path_markdown_files[sport][category][gender] = f"./tables/{output_name}.md"
 
-                athletes_summary_to_excel_table(athletes=athlete_results, output_path=markdown_table.replace(".md", ".xlsx"))
+                    athletes_summary_to_excel_table(athletes=athlete_results, output_path=markdown_table.replace(".md", ".xlsx"))
 
-                athletes_summary_to_markdown_table(
-                    athletes=athlete_results,
-                    links=athlete_links,
-                    output_path=markdown_table
-                )
-            except Exception as e:
-                output_name = f"para_{sport}_{category}_{gender}"
-                REPORTER_LOGGER.error(f"Unable to dump {output_name}: {e}")
-                with open(f"{output_name}_error.txt", "w", encoding="utf-8-sig") as f:
-                    f.write(f"Unable to dump {output_name} with:\n{athlete_results}\n{athlete_links}")
+                    athletes_summary_to_markdown_table(
+                        athletes=athlete_results,
+                        links=athlete_links,
+                        output_path=markdown_table
+                    )
+                except Exception as e:
+                    output_name = f"para_{sport}_{category}_{gender}"
+                    REPORTER_LOGGER.error(f"Unable to dump {output_name}: {e}")
+                    with open(f"{output_name}_error.txt", "w", encoding="utf-8-sig") as f:
+                        f.write(f"Unable to dump {output_name} with:\n{athlete_results}\n{athlete_links}")
 
-    build_navigable_markdown_file(markdown_files=markdown_files, output_base_path=output_base_path)
+    build_navigable_markdown_file(markdown_files=relative_path_markdown_files, output_base_path=output_base_path)
 
 
 if __name__ == "__main__":
@@ -160,5 +161,5 @@ if __name__ == "__main__":
         llm=llm,
         athletes_metadata_path=athletes_metadata_path,
         output_base_path=output_base_path,
-        top_k = 20
+        top_k=20
     )
