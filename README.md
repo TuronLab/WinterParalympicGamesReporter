@@ -1,4 +1,4 @@
-# 🏔️ Paralympic Athlete Research Agent
+# 🏔️ Paralympic Athlete Reporter Agent
 
 An AI-powered multi-agent research system designed to generate verified, 
 structured reports about Paralympic winter sport athletes (Biathlon and 
