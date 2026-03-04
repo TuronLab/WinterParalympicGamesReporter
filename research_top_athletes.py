@@ -146,6 +146,9 @@ if __name__ == "__main__":
     athletes_metadata_path = r".\athletes"
     output_base_path = rf".\results\{model}"
 
+    from dotenv import load_dotenv
+    load_dotenv(".env")
+
     # We initialize the model inferencer
     llm = LLM(
         model=f"openai/{model}",

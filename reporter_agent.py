@@ -394,6 +394,9 @@ Rules:
 
 if __name__ == "__main__":
 
+    from dotenv import load_dotenv
+    load_dotenv(".env")
+
     model = "gpt-4o-mini"
 
     llm = LLM(
