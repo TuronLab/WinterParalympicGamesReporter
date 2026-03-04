@@ -24,9 +24,9 @@ def run_research(
     athlete_name: str,
     sport: str,
     llm: str | InstanceOf[BaseLLM] | Any,
-    rank: int = -1,
+    world_cup_rank: int = -1,
     country: str = "",
-    points: int = -1,
+    world_cup_points: int = -1,
     category: str = "",
     gender: str = "",
     output_dir: str = "output"
@@ -329,9 +329,9 @@ Rules:
     # We hardcode available information
     final_json["sport_under_study"] = sport
     final_json["gender"] = gender
-    final_json["world_cup_rank"] = rank
+    final_json["world_cup_rank"] = world_cup_rank
     final_json["country"] = country
-    final_json["world_cup_points"] = points
+    final_json["world_cup_points"] = world_cup_points
     final_json["category"] = category
 
     with open(json_path, "w", encoding="utf-8") as f:
@@ -385,9 +385,9 @@ if __name__ == "__main__":
                                 athlete_name=athlete_conf["name"],
                                 sport="biathlon" if sport == "parabiatlon" else "cross_country",
                                 llm=azure_llm,
-                                rank=athlete_conf["rank"],
+                                world_cup_rank=athlete_conf["rank"],
                                 country=athlete_conf["country"],
-                                points=athlete_conf["points"],
+                                world_cup_points=athlete_conf["points"],
                                 category=athlete_conf["class"],
                                 gender=gender,
                                 output_dir=os.path.join(output_base_path, "articles")
