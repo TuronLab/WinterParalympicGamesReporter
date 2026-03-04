@@ -6,3 +6,5 @@ python-dotenv==1.1.1
 langchain-openai==1.1.10
 pydantic==2.11.10
 numpy==2.4.2
+pandas==3.0.1
+openpyxl==3.1.5
