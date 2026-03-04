@@ -32,6 +32,14 @@ class DuckDuckGoTool(BaseTool):
 def get_athlete_filename(athlete_name: str, sport: str, category: str):
     return f"{athlete_name.replace(' ', '_')}_{sport}_{category}"
 
+def get_output_filenames(athlete_name: str, sport: str, category: str, output_dir: str):
+    base_filename = get_athlete_filename(athlete_name=athlete_name, sport=sport, category=category)
+
+    english_path = os.path.join(output_dir, base_filename + "_EN.md")
+    spanish_path = os.path.join(output_dir, base_filename + "_ES.md")
+    json_path = os.path.join(output_dir, base_filename + "_summary.json")
+    return english_path, spanish_path, json_path
+
 def athletes_summary_to_excel_table(athletes: List[dict], output_path: str | None = None) -> pd.DataFrame:
     """
     Convierte una lista de dicts (o AthleteSummary convertidos a dict) en un Excel expandido

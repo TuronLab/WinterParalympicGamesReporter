@@ -13,7 +13,7 @@ from langchain_openai import AzureChatOpenAI
 
 from config import REPORTER_LOGGER
 from utils import athletes_summary_to_excel_table, athletes_summary_to_markdown_table, DuckDuckGoTool, \
-    get_athlete_filename
+    get_athlete_filename, get_output_filenames
 
 
 # ==========================================================
@@ -158,7 +158,7 @@ STEP 5: Document the source URL for each claim.
 If unverifiable, write "Information not publicly available".
 
 Produce a structured research report with sources and mark unavailable data. Do not over extend yourself; 
-focus in any information about the athlete
+focus in any information about the athlete without exceeding 10k tokens.
 """,
         agent=research_agent,
         expected_output=f"Structured research report for the athlete in {sport}, with sources, verified identity, "
@@ -314,11 +314,12 @@ Rules:
     spanish_article = tasks_output[-2].raw
     final_json = tasks_output[-1].json_dict
 
-    base_filename = get_athlete_filename(athlete_name=athlete_name, sport=sport, category=category)
-
-    english_path = os.path.join(output_dir, base_filename + "_EN.md")
-    spanish_path = os.path.join(output_dir, base_filename + "_ES.md")
-    json_path = os.path.join(output_dir, base_filename + "_summary.json")
+    english_path, spanish_path, json_path = get_output_filenames(
+        athlete_name=athlete_name,
+        sport=sport,
+        category=category,
+        output_dir=output_dir
+    )
 
     with open(english_path, "w", encoding="utf-8") as f:
         f.write(english_article)
@@ -363,19 +364,30 @@ if __name__ == "__main__":
         model=model,
         api_version=os.getenv("AZURE_OPENAI_API_VERSION"),
         temperature=0,
-        streaming=True,
-        timeout=600
+        streaming=False,
+        timeout=300,
+        max_retries=3
     )
 
     markdown_files = {}
 
-    for sport in ["parabiatlon", "paraski"]:
+    for sport in ["biathlon", "cross_country"]:
         markdown_files[sport] = {}
         for category in ["sitting", "standing", "vision"]:
             markdown_files[sport][category] = {}
             for gender  in ["male", "female"]:
                 athlete_results, athlete_links = [], []
-                for athlete_conf in json.load(open(os.path.join(athletes_metadata_path, f"{sport}_{category}_{gender}.json"))):
+                for athlete_conf in json.load(open(os.path.join(athletes_metadata_path, f"para_{sport}_{category}_{gender}.json"))):
+
+                    _, _, json_result_path = get_output_filenames(athlete_name=athlete_conf["name"], sport=sport, category=category, output_dir=os.path.join(output_base_path, "articles"))
+
+                    # Control to not rerun previous experiments
+                    if os.path.exists(json_result_path):
+                        athlete_results.append(json.load(open(json_result_path)))
+                        athlete_filename = get_athlete_filename(athlete_name=athlete_conf['name'], sport=sport, category=athlete_conf['class'])
+                        athlete_links.append(os.path.join(rf"../articles/{athlete_filename}_ES.md"))
+                        REPORTER_LOGGER.info(f"Cached info of {athlete_filename}")
+                        continue
 
                     json_result = None
                     # Sometimes, the web research abruptly stops. We added a retrial logic
@@ -383,7 +395,7 @@ if __name__ == "__main__":
                         try:
                             _, json_result = run_research(
                                 athlete_name=athlete_conf["name"],
-                                sport="biathlon" if sport == "parabiatlon" else "cross_country",
+                                sport=sport,
                                 llm=azure_llm,
                                 world_cup_rank=athlete_conf["rank"],
                                 country=athlete_conf["country"],
@@ -396,7 +408,7 @@ if __name__ == "__main__":
                                 break
                         except Exception as e:
                             REPORTER_LOGGER.warning(f"Attempt {i+1} failed: {e}")
-                            time.sleep(1)  # optional delay between retries
+                            time.sleep(60)  # optional delay between retries
 
                     if json_result is None:
                         output_name = f"{sport}_{category}_{gender}_{athlete_conf['name'].replace(' ', '_')}"
@@ -407,7 +419,7 @@ if __name__ == "__main__":
                     athlete_links.append(os.path.join(rf"../articles/{get_athlete_filename(athlete_name=athlete_conf['name'], sport=sport, category=athlete_conf['class'])}_ES.md"))
 
             try:
-                output_name = f"{sport}_{category}_{gender}"
+                output_name = f"para_{sport}_{category}_{gender}"
                 markdown_table = os.path.join(output_base_path, "tables", f"{output_name}.md")
                 markdown_files[sport][category][gender] = markdown_table
 
@@ -419,12 +431,12 @@ if __name__ == "__main__":
                         output_path=markdown_table
                 )
             except Exception as e:
-                output_name = f"{sport}_{category}_{gender}"
+                output_name = f"para_{sport}_{category}_{gender}"
                 REPORTER_LOGGER.error(f"Unable to dump {output_name}: {e}")
-                with open(f"{output_name}_error.txt", "w", encoding="utf-8") as f:
+                with open(f"{output_name}_error.txt", "w", encoding="utf-8-sig") as f:
                     f.write(f"Unable to dump {output_name} with:\n{athlete_results}\n{athlete_links}")
 
-    with open(r".\tables\athlete_navigation_tables.md", "w", encoding="utf-8") as f:
+    with open(r".\tables\athlete_navigation_tables.md", "w", encoding="utf-8-sig") as f:
         for sport, categories in markdown_files.items():
             f.write("# " + sport.capitalize() + "\n")
             for category, genders in categories.items():
