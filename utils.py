@@ -105,6 +105,7 @@ def athletes_summary_to_excel_table(athletes: List[dict], output_path: str | Non
     if output_path:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         df.to_excel(output_path, index=False, engine="openpyxl")
+        REPORTER_LOGGER.info("Excel table saved successfully in " + output_path)
 
     return df
 
@@ -179,5 +180,6 @@ def athletes_summary_to_markdown_table(
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(markdown_content)
+        REPORTER_LOGGER.info("Markdown table saved successfully in " + output_path)
 
     return markdown_content
