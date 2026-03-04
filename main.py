@@ -1,72 +1,20 @@
 import os
 import json
 import time
+from typing import Any
 
 from dotenv import load_dotenv
-from crewai import Agent, Task, Crew
+from crewai import Agent, Task, Crew, BaseLLM
 from crewai_tools import ScrapeWebsiteTool, WebsiteSearchTool
-from crewai.tools import BaseTool
+from pydantic import InstanceOf
+
 from athlete_model import AthleteSummary
 from langchain_openai import AzureChatOpenAI
 
-from ddgs import DDGS
+from config import REPORTER_LOGGER
+from utils import athletes_summary_to_excel_table, athletes_summary_to_markdown_table, DuckDuckGoTool, \
+    get_athlete_filename
 
-from utils import athletes_summary_to_excel_table, athletes_summary_to_markdown_table
-
-COUNTRY_REGION_MAP = {
-    "ITA": "it-it",
-    "UKR": "uk-ua",
-    "USA": "en-us",
-    "GBR": "en-gb",
-    "CHN": "zh-cn",
-    "FRA": "fr-fr",
-    "MGL": "mn-mn",
-    "CZE": "cs-cz",
-    "KAZ": "ru-kz",
-    "RUS": "ru-ru",
-    "BRA": "pt-br",
-    "BLR": "ru-by",
-    "JPN": "ja-jp",
-    "GEO": "ka-ge",
-    "ESA": "es-sv",
-    "AUS": "en-au",
-    "CAN": "en-ca",
-    "GER": "de-de",
-    "KOR": "ko-kr",
-    "NOR": "no-no",
-    "FIN": "fi-fi",
-    "POL": "pl-pl",
-    "SUI": "de-ch",
-    "SWE": "sv-se",
-    "SVK": "sk-sk",
-    "ARG": "es-ar",
-    "AUT": "de-at",
-    "ESP": "es-es",
-    "WORLD": "wt-wt",
-}
-
-class DuckDuckGoTool(BaseTool):
-    name: str = "DuckDuckGo Search"
-    description: str = "Search the web using DuckDuckGo with safe filtering"
-
-    def _run(self, query: str):
-        try:
-            with DDGS() as ddgs:
-                results = list(
-                    ddgs.text(
-                        query,
-                        region=COUNTRY_REGION_MAP.get(os.getenv("COUNTRY_SEARCH", "WORLD")),
-                        safesearch="strict",
-                        max_results=10
-                    )
-                )
-            return results
-        except Exception as e:
-            print("DuckDuckGoTool failed:", e)
-            raise  # re-raise so you see the full traceback
-
-def get_athlete_filename(athlete_name: str, sport: str, category: str):
-    return f"{athlete_name.replace(' ', '_')}_{sport}_{category}"
 
 # ==========================================================
 # MAIN FUNCTION
@@ -75,12 +23,12 @@ def get_athlete_filename(athlete_name: str, sport: str, category: str):
 def run_research(
     athlete_name: str,
     sport: str,
+    llm: str | InstanceOf[BaseLLM] | Any,
     rank: int = -1,
     country: str = "",
     points: int = -1,
     category: str = "",
     gender: str = "",
-    model: str = "gpt-4o-mini",
     output_dir: str = "output"
 ):
 
@@ -88,17 +36,6 @@ def run_research(
 
     if country is not None:
         os.environ["COUNTRY_SEARCH"] = country
-
-    azure_llm = AzureChatOpenAI(
-        azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-        api_key=os.getenv("AZURE_OPENAI_API_KEY"),
-        azure_deployment=os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME"),
-        model=model,
-        api_version=os.getenv("AZURE_OPENAI_API_VERSION"),
-        temperature=0,
-        streaming=True,
-        timeout=600
-    )
 
     os.makedirs(output_dir, exist_ok=True)
 
@@ -143,7 +80,7 @@ def run_research(
         ),
         tools=tools,
         verbose=True,
-        llm=azure_llm,
+        llm=llm,
         allow_delegation=False
     )
 
@@ -157,7 +94,7 @@ def run_research(
             "Do NOT speculate, infer, or add information not present in the report."
         ),
         verbose=True,
-        llm=azure_llm,
+        llm=llm,
         allow_delegation=False
     )
 
@@ -173,7 +110,7 @@ def run_research(
             "Ensure logical coherence and source traceability."
         ),
         verbose=True,
-        llm=azure_llm,
+        llm=llm,
         allow_delegation=False
     )
 
@@ -187,7 +124,7 @@ def run_research(
             "Maintain exact factual content and wording as much as possible."
         ),
         verbose=True,
-        llm=azure_llm,
+        llm=llm,
         allow_delegation=False
     )
 
@@ -400,10 +337,10 @@ Rules:
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(final_json, f, indent=4, ensure_ascii=False)
 
-    print("\n✅ Files successfully generated:")
-    print(english_path)
-    print(spanish_path)
-    print(json_path)
+    REPORTER_LOGGER.info("\n✅ Files successfully generated:")
+    REPORTER_LOGGER.info(english_path)
+    REPORTER_LOGGER.info(spanish_path)
+    REPORTER_LOGGER.info(json_path)
 
     return spanish_article, final_json
 
@@ -418,6 +355,18 @@ if __name__ == "__main__":
     athletes_metadata_path = r"C:\Users\pablo\OneDrive\Profesional\Proyectos\Paralympic Agent Researcher\athletes"
     output_base_path = rf".\results\{model}"
 
+    # We initialize the model inferencer
+    azure_llm = AzureChatOpenAI(
+        azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
+        api_key=os.getenv("AZURE_OPENAI_API_KEY"),
+        azure_deployment=os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME"),
+        model=model,
+        api_version=os.getenv("AZURE_OPENAI_API_VERSION"),
+        temperature=0,
+        streaming=True,
+        timeout=600
+    )
+
     markdown_files = {}
 
     for sport in ["parabiatlon", "paraski"]:
@@ -429,11 +378,13 @@ if __name__ == "__main__":
                 for athlete_conf in json.load(open(os.path.join(athletes_metadata_path, f"{sport}_{category}_{gender}.json"))):
 
                     json_result = None
+                    # Sometimes, the web research abruptly stops. We added a retrial logic
                     for i in range(5):
                         try:
                             _, json_result = run_research(
                                 athlete_name=athlete_conf["name"],
                                 sport="biathlon" if sport == "parabiatlon" else "cross_country",
+                                llm=azure_llm,
                                 rank=athlete_conf["rank"],
                                 country=athlete_conf["country"],
                                 points=athlete_conf["points"],
@@ -444,7 +395,7 @@ if __name__ == "__main__":
                             if json_result is not None:
                                 break
                         except Exception as e:
-                            print(f"Attempt {i+1} failed: {e}")
+                            REPORTER_LOGGER.warning(f"Attempt {i+1} failed: {e}")
                             time.sleep(1)  # optional delay between retries
 
                     if json_result is None:
@@ -469,7 +420,7 @@ if __name__ == "__main__":
                 )
             except Exception as e:
                 output_name = f"{sport}_{category}_{gender}"
-                print(f"Unable to dump {output_name}: {e}")
+                REPORTER_LOGGER.error(f"Unable to dump {output_name}: {e}")
                 with open(f"{output_name}_error.txt", "w", encoding="utf-8") as f:
                     f.write(f"Unable to dump {output_name} with:\n{athlete_results}\n{athlete_links}")
 

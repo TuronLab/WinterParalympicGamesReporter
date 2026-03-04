@@ -2,8 +2,35 @@ import os
 import pandas as pd
 from typing import List
 
-from athlete_model import AthleteSummary
+from crewai.tools import BaseTool
+from ddgs import DDGS
 
+from athlete_model import AthleteSummary
+from config import COUNTRY_REGION_MAP, REPORTER_LOGGER
+
+
+class DuckDuckGoTool(BaseTool):
+    name: str = "DuckDuckGo Search"
+    description: str = "Search the web using DuckDuckGo with safe filtering"
+
+    def _run(self, query: str):
+        try:
+            with DDGS() as ddgs:
+                results = list(
+                    ddgs.text(
+                        query,
+                        region=COUNTRY_REGION_MAP.get(os.getenv("COUNTRY_SEARCH", "WORLD")),
+                        safesearch="strict",
+                        max_results=10
+                    )
+                )
+            return results
+        except Exception as e:
+            REPORTER_LOGGER.error("DuckDuckGoTool failed:", e)
+            raise  # re-raise so you see the full traceback
+
+def get_athlete_filename(athlete_name: str, sport: str, category: str):
+    return f"{athlete_name.replace(' ', '_')}_{sport}_{category}"
 
 def athletes_summary_to_excel_table(athletes: List[dict], output_path: str | None = None) -> pd.DataFrame:
     """
