@@ -39,6 +39,9 @@ def config_logger(log_file, used_by='MONITOR'):
     logger.addHandler(file_handler)
     logger.addHandler(console_handler)
 
+    # STOP log propagation to root logger
+    logger.propagate = False
+
     logger.info("Logger initialized for %s, logs will be stored into %s",
                 used_by, os.path.dirname(log_file))
     return logger
