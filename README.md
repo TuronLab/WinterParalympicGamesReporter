@@ -3,13 +3,7 @@
 An AI-powered multi-agent research system designed to generate verified, 
 structured reports about Paralympic winter sport athletes.
 
-The system was originally developed for Biathlon and Cross-Country Skiing. However, 
-it can be readily adapted to other sports by updating the [get_primary_website method](./utils.py). 
-To do so, simply specify the sport’s name and provide the official website where the 
-agent should begin retrieving athlete information—typically the relevant international 
-federation’s webpage.
-
-Built using CrewAI agents and OpenAI models via the OpenAI API, the project 
+Built using [CrewAI](https://crewai.com) agents and OpenAI models via the OpenAI API, the project 
 orchestrates a structured research workflow that produces:
 
 - ✅ A fact-checked English article
@@ -17,9 +11,14 @@ orchestrates a structured research workflow that produces:
 - ✅ A structured JSON summary (Pydantic schema compliant)
 - ✅ Excel and Markdown summary tables
 
-The system focuses on strict factual validation, source traceability, trying 
+The system focuses on strict factual validation, **source traceability**, trying 
 to minimize the hallucination impact, and producing an output as can be seen 
 in the [athlete report navigation example panel](./results/gpt-4o-mini/tables/athlete_navigation_tables.md).
+
+Originally developed for Biathlon and Cross-Country Skiing athletes, the system can be 
+easily adapted to other sports by updating the [get_primary_website method](./utils.py). 
+Simply specify the sport’s name and provide the official website from which the agent 
+should begin retrieving athlete data—typically the relevant international federation’s page.
 
 <details><summary>Click here to read about project motivation</summary>
 
@@ -54,7 +53,7 @@ The pipeline is built using:
 - Structured data validation with Pydantic
 - Automated article generation + fact-checking
 - JSON export of structured schematic article summaries
-- Excel and Markdown table generation from the schematicarticle summary JSON
+- Excel and Markdown table generation from the schematic article summary JSON
 
 # 🤖 Agents Workflow
 
@@ -157,11 +156,10 @@ methods.
 ## Multiple Athletes Example
 
 For my personal use case, I deployed the [research_top_athletes.py](research_top_k_athletes.py) script, 
-which automatically gathers reports for all athletes registered in the World Cup. It preserves the 
-metadata I manually extracted from official sources.
+which automatically generates the reports for all athletes registered in the 2026
+World Cup that I've manually extracted, with its metadata (stored in the 
+[athletes](athletes) folder in JSON format).
 
-All collected data is stored in the [athletes](athletes) folder in JSON format, organized by sport, category, and gender.
-
-The script not only compiles all the reports but also generates a Markdown file that makes it easy to navigate the 
-summaries and individual athlete reports, as the shown in 
+The script not only compiles all the reports but also generates a Markdown file that makes 
+it easy to navigate through the summaries and individual athlete reports, as the shown in 
 [athlete report navigation example panel](./results/gpt-4o-mini/tables/athlete_navigation_tables.md).
