@@ -1,11 +1,12 @@
 import os
 import json
 import time
-from typing import Any
+from typing import Any, List
 
 from crewai import BaseLLM, LLM
 from pydantic import InstanceOf
 
+from athlete_model import AthleteInfo
 from config import REPORTER_LOGGER
 from reporter_agent import run_research
 from utils import athletes_summary_to_excel_table, athletes_summary_to_markdown_table, get_athlete_filename, get_output_filenames
@@ -47,7 +48,13 @@ def build_navigable_markdown_file(markdown_files: dict, output_base_path: str):
     REPORTER_LOGGER.info("Navigable information tables markdown has been succesfully created")
 
 
-def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_metadata_path: str, output_base_path: str, top_k: int = 15):
+def research_for_top_k_athletes(
+        llm: str | InstanceOf[BaseLLM] | Any,
+        athletes_metadata_path: str,
+        output_base_path: str,
+        top_k: int = 15,
+        dump_excel: bool = False
+):
     """
     Performs automated research on the top K athletes for selected sports and categories,
     saves their data as JSON, Excel, and Markdown tables, and builds a navigable Markdown index.
@@ -67,7 +74,13 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
     :param output_base_path: Base directory where articles, tables, and navigation files are saved.
     :param top_k: Maximum number of athletes to process per sport/category/gender combination.
                   Default is 15.
+    :param dump_excel: It controls if we want to dump results into excel files also
     """
+
+    def get_relative_athlete_article_md_report_path(athlete_name: str, sport: str, category: str):
+        athlete_filename = get_athlete_filename(athlete_name=athlete_name, sport=sport, category=category)
+        return os.path.join(rf"../articles/{athlete_filename}_ES.md")
+
     relative_path_markdown_files = {}
     MAX_NUM_RETRIALS_BY_ATHLETE = 3
 
@@ -76,7 +89,7 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
         for category in ["sitting", "standing", "vision_impaired"]:
             relative_path_markdown_files[sport][category] = {}
             for gender in ["male", "female"]:
-                athlete_results, athlete_links = [], []
+                athlete_results: List[AthleteInfo] = []
                 for athlete_num_i, athlete_conf in enumerate(json.load(open(os.path.join(athletes_metadata_path, f"para_{sport}_{category}_{gender}.json")))):
 
                     # We control the maximum amount of athletes to research
@@ -88,9 +101,13 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
 
                     # Control to not rerun previous experiments
                     if os.path.exists(json_result_path):
-                        athlete_results.append(json.load(open(json_result_path, encoding="utf-8-sig")))
                         athlete_filename = get_athlete_filename(athlete_name=athlete_conf['name'], sport=sport, category=athlete_conf['class'])
-                        athlete_links.append(os.path.join(rf"../articles/{athlete_filename}_ES.md"))
+                        athlete_results.append(
+                            AthleteInfo(
+                                summary_json=json.load(open(json_result_path, encoding="utf-8-sig")),
+                                md_report_path=get_relative_athlete_article_md_report_path(athlete_name=athlete_conf['name'], sport=sport, category=athlete_conf['class'])
+                            )
+                        )
                         REPORTER_LOGGER.info(f"Cached info of {athlete_filename}")
                         continue
 
@@ -120,26 +137,33 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
                         with open(f"{output_name}_error.txt", "w", encoding="utf-8") as f:
                             f.write(f"Unable to find information about {athlete_conf['name']} in sport {sport}")
 
-                    athlete_results.append(json_result)
-                    athlete_links.append(os.path.join(rf"../articles/{get_athlete_filename(athlete_name=athlete_conf['name'], sport=sport, category=athlete_conf['class'])}_ES.md"))
+                    athlete_results.append(
+                        AthleteInfo(
+                            summary_json=json_result,
+                            md_report_path=get_relative_athlete_article_md_report_path(athlete_name=athlete_conf['name'], sport=sport, category=athlete_conf['class'])
+                        )
+                    )
 
                 try:
                     output_name = f"para_{sport}_{category}_{gender}"
                     markdown_table = os.path.join(output_base_path, "tables", f"{output_name}.md")
                     relative_path_markdown_files[sport][category][gender] = f"./tables/{output_name}.md"
 
-                    athletes_summary_to_excel_table(athletes=athlete_results, output_path=markdown_table.replace(".md", ".xlsx"))
+                    if dump_excel:
+                        athletes_summaries = [ath.summary_json for ath in athlete_results]
+                        athletes_summary_to_excel_table(athletes=athletes_summaries, output_path=markdown_table.replace(".md", ".xlsx"))
 
                     athletes_summary_to_markdown_table(
-                        athletes=athlete_results,
-                        links=athlete_links,
+                        athletes_info=athlete_results,
                         output_path=markdown_table
                     )
                 except Exception as e:
                     output_name = f"para_{sport}_{category}_{gender}"
+                    athletes_summaries = [ath.summary_json for ath in athlete_results]
+                    athletes_md_paths = [ath.md_report_path for ath in athlete_results]
                     REPORTER_LOGGER.error(f"Unable to dump {output_name}: {e}")
                     with open(f"{output_name}_error.txt", "w", encoding="utf-8-sig") as f:
-                        f.write(f"Unable to dump {output_name} with:\n{athlete_results}\n{athlete_links}")
+                        f.write(f"Unable to dump {output_name} with:\n{athletes_summaries}\n{athletes_md_paths}\n{len(athlete_results)}\n{len(athletes_md_paths)}")
 
     build_navigable_markdown_file(markdown_files=relative_path_markdown_files, output_base_path=output_base_path)
 

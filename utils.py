@@ -5,7 +5,7 @@ from typing import List
 from crewai.tools import BaseTool
 from ddgs import DDGS
 
-from athlete_model import AthleteSummary, SportInfo
+from athlete_model import AthleteSummary, SportInfo, AthleteInfo
 from config import COUNTRY_REGION_MAP, REPORTER_LOGGER
 
 
@@ -102,8 +102,7 @@ def athletes_summary_to_excel_table(athletes: List[dict], output_path: str | Non
 
 
 def athletes_summary_to_markdown_table(
-        athletes: List[dict],
-        links: List[str] | None = None,
+        athletes_info: List[AthleteInfo],
         output_path: str | None = None
 ) -> str:
     """
@@ -120,24 +119,18 @@ def athletes_summary_to_markdown_table(
             headers.extend([k for k in SportInfo.model_fields.keys()])
 
     # Markdown: table heading
-    md_lines = []
-    md_lines.append("| " + " | ".join(headers) + " |")
-    md_lines.append("|" + "|".join(["---"] * len(headers)) + "|")
+    md_lines = ["| " + " | ".join(headers) + " |", "|" + "|".join(["---"] * len(headers)) + "|"]
+    markdown_content = ""
 
-    # link counter
-    link_index = 0
-
-    for athlete in athletes:
+    for athlete_info in athletes_info:
+        athlete = athlete_info.summary_json
+        md_report_path = athlete_info.md_report_path
         for i, sport in enumerate(athlete.get("sports", [{}])):
             row = []
             for field in headers:
                 if field == "name_of_the_athlete":
                     name = athlete.get("name_of_the_athlete", "")
-                    if links and link_index < len(links):
-                        # Markdown link
-                        value = f"[{name}]({links[link_index]})" if i == 0 else ""
-                    else:
-                        value = name if i == 0 else ""
+                    value = f"[{name}]({md_report_path})" if i == 0 else ""
                 elif field == "reference_urls":
                     value = "; ".join(athlete.get("reference_urls", [""]))
                 elif field in athlete:
@@ -153,9 +146,8 @@ def athletes_summary_to_markdown_table(
                 row.append(str(value))
 
             md_lines.append("| " + " | ".join(row) + " |")
-        link_index += 1
 
-    markdown_content = "\n".join(md_lines)
+        markdown_content = "\n".join(md_lines)
 
     if output_path:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
