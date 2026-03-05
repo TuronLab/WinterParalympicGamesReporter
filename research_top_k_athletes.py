@@ -40,9 +40,11 @@ def build_navigable_markdown_file(markdown_files: dict, output_base_path: str):
 
     with open(os.path.join(output_base_path, "athlete_navigation_tables.md"), "w", encoding="utf-8-sig") as f:
         for sport, categories in markdown_files.items():
-            f.write("# " + sport.capitalize() + "\n")
+            f.write(f"# {sport.capitalize().replace('_', ' ')} athletes\n")
+            f.write(f"In this section, we expose a navigable menu to access to the summary tables of "
+                    f"{sport.capitalize().replace('_', ' ')} athletes by category.\n")
             for category, genders in categories.items():
-                f.write("## " + category.capitalize() + "\n")
+                f.write(f"## {category.capitalize().replace('_', ' ')}\n")
                 for gender, file in genders.items():
                     f.write(f"- [{gender.capitalize()}]({file})\n")
     REPORTER_LOGGER.info("Navigable information tables markdown has been succesfully created")
@@ -93,9 +95,9 @@ def research_for_top_k_athletes(
                 for athlete_num_i, athlete_conf in enumerate(json.load(open(os.path.join(athletes_metadata_path, f"para_{sport}_{category}_{gender}.json")))):
 
                     # We control the maximum amount of athletes to research
-                    if top_k is not None and athlete_num_i >= top_k:
-                        REPORTER_LOGGER.info(f"Maximum number of athletes for {sport}, {category}, {gender}")
-                        break
+                    #if top_k is not None and athlete_num_i >= top_k:
+                    #    REPORTER_LOGGER.info(f"Maximum number of athletes for {sport}, {category}, {gender}")
+                    #    break
 
                     _, _, json_result_path = get_output_filenames(athlete_name=athlete_conf["name"], sport=sport, category=athlete_conf["class"], output_dir=os.path.join(output_base_path, "articles"))
 
@@ -110,6 +112,7 @@ def research_for_top_k_athletes(
                         )
                         REPORTER_LOGGER.info(f"Cached info of {athlete_filename}")
                         continue
+                    continue
 
                     json_result = None
                     # Sometimes, the web research abruptly stops. We added a retrial logic
