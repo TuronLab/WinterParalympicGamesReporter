@@ -26,3 +26,4 @@ class AthleteSummary(BaseModel):
     paralympic_category_lw: str = Field(..., description="Category (LW) or 'Information not publicly available'")
     sports: List[SportInfo] = Field(..., description="List of sports the athlete participates in, with detailed info per sport")
     personal_data: str = Field(..., description="Any personal or contextual info, else 'Information not publicly available'")
+    reference_urls: List[str] = Field(..., description="List of URLs used to write the article")

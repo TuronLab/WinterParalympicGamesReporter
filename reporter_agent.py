@@ -311,7 +311,8 @@ AthleteSummary structure:
             "personal_contextual_info": "str"
         }}
     ],
-    "personal_data": "str"
+    "personal_data": "str",
+    "reference_urls": ["str"]
 }}
 
 Rules:
