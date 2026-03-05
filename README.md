@@ -151,7 +151,10 @@ output/
 
 Additionally, you can use the methods in `utils` to dump the information of the summary
 jsons into tables by using `athletes_summary_to_excel_table` and `athletes_summary_to_markdown_table`
-methods.
+methods. These methods export the information from each athlete’s summary JSON into table rows, 
+generating one row per sport practiced by the athlete. Therefore, athletes who practice multiple 
+sports will appear in multiple rows—one for each sport. To reduce redundancy and make it visually 
+clearer when consecutive rows refer to the same athlete, fields with identical values are not repeated.
 
 ## Multiple Athletes Example
 
