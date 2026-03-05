@@ -72,7 +72,7 @@ def athletes_summary_to_excel_table(athletes: List[dict], output_path: str | Non
         "preparation_style",
         "personal_contextual_info",
         "personal_data",
-        "url_references"
+        "reference_urls"
     ]
 
     rows = []
@@ -106,7 +106,7 @@ def athletes_summary_to_excel_table(athletes: List[dict], output_path: str | Non
                 "performance_trends": sport.get("performance_trends", ""),
                 "preparation_style": sport.get("preparation_style", ""),
                 "personal_contextual_info": sport.get("personal_contextual_info", ""),
-                "url_references": ";".join(sport.get("reference_urls", [""]))
+                "reference_urls": "; ".join(athlete.get("reference_urls", [""]))
             }
             rows.append(row)
 
@@ -148,7 +148,7 @@ def athletes_summary_to_markdown_table(
         "preparation_style",
         "personal_contextual_info",
         "personal_data",
-        "url_references"
+        "reference_urls"
     ]
 
     # Markdown: table heading
@@ -170,8 +170,8 @@ def athletes_summary_to_markdown_table(
                         value = f"[{name}]({links[link_index]})"
                     else:
                         value = name
-                elif field == "url_references":
-                    value = ";".join(sport.get("reference_urls", [""]))
+                elif field == "reference_urls":
+                    value = "; ".join(athlete.get("reference_urls", [""]))
                 elif field in athlete:
                     value = athlete.get(field, "") if i == 0 else ""
                 elif field in sport:
