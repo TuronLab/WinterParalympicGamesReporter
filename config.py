@@ -46,9 +46,9 @@ def config_logger(log_file, used_by='MONITOR'):
                 used_by, os.path.dirname(log_file))
     return logger
 
-project_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+project_path = os.path.dirname(os.path.abspath(__file__))
 LOG_PATH = os.environ.get("LOG_PATH",  os.path.join(project_path, ".logs"))
-REPORTER_LOGGER = config_logger(os.path.join(LOG_PATH, "merlin.log"), 'REPORTER_LOGGER')
+REPORTER_LOGGER = config_logger(os.path.join(LOG_PATH, "REPORTER.log"), 'REPORTER_LOGGER')
 
 COUNTRY_REGION_MAP = {
     "ITA": "it-it",
