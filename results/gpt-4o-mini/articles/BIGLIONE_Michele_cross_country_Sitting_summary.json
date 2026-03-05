@@ -1,0 +1,37 @@
+﻿{
+    "name_of_the_athlete": "Michele Biglione",
+    "date_of_birth": "1992-04-01",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 5,
+    "world_cup_points": 610,
+    "country": "ITA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de oro en Sprint y plata en 5 km en los Campeonatos Paralímpicos Italianos (febrero de 2026). Participación en los Juegos Paralímpicos de Beijing 2022.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno Beijing 2022: 21º en Distancia Larga Masculina Sentado, 29º en Sprint Masculino Sentado, 25º en Distancia Media Masculina Sentado, 10º en Relevo Abierto 4x2.5km.",
+            "participation": "Participación previa en esquí y snowboard antes del accidente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Participación constante en eventos internacionales con mejoras en las posiciones en eventos de la Copa del Mundo de cara a 2026.",
+            "preparation_style": "Disfruta entrenar en la naturaleza y valora el espíritu de equipo. Utiliza música techno durante los entrenamientos.",
+            "personal_contextual_info": "Reside en Centallo, Cuneo, Italia. Involucrado con la asociación 'Discesa Liberi', que apoya a atletas con discapacidades."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291491)",
+        "[Perfil Paralímpico](https://www.paralympic.org/michele-biglione)",
+        "[Comitato Italiano Paralimpico](https://www.comitatoparalimpico.it/organizzazione/organismi-sportivi/discipline-sportive-paralimpiche/item/biglione-michele.html)",
+        "[Artículo de Unionemonregalese](https://unionemonregalese.it/news/territorio/308762/oro-tricolore-e-sogno-paralimpico-michele-biglione-trascina-discesa-liberi.html)",
+        "[Los Resultados Deportivos](https://www.the-sports.org/m-biglione-cross-country-skiing-spf717919.html)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291491)",
+        "[Perfil Paralímpico](https://www.paralympic.org/michele-biglione)",
+        "[Comitato Italiano Paralimpico](https://www.comitatoparalimpico.it/organizzazione/organismi-sportivi/discipline-sportive-paralimpiche/item/biglione-michele.html)",
+        "[Artículo de Unionemonregalese](https://unionemonregalese.it/news/territorio/308762/oro-tricolore-e-sogno-paralimpico-michele-biglione-trascina-discesa-liberi.html)",
+        "[Los Resultados Deportivos](https://www.the-sports.org/m-biglione-cross-country-skiing-spf717919.html)"
+    ]
+}

@@ -1,0 +1,35 @@
+﻿{
+    "name_of_the_athlete": "Arkadz Shykuts",
+    "date_of_birth": "1986-10-08",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 42,
+    "world_cup_points": 120,
+    "country": "BLR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Invierno 2018 y logró un podio en el Relevo Mixto en el Campeonato Mundial de Deportes de Nieve Para 2021 en Lillehammer.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Pyeongchang 2018.",
+            "participation": "Paracanoe, Sprint de Canoe",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participó en múltiples eventos con resultados variados, mostrando una tendencia de mejora en eventos de relevo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290738)",
+        "[Perfil de Paralympic.org](https://www.paralympic.org/arkadz-shykuts)",
+        "[Resultados Deportivos](https://www.the-sports.org/arkadz-shykuts-cross-country-skiing-spf533271.html)",
+        "[Perfil de Canoe ICF](https://www.canoeicf.com/athlete/arkadz-shykuts)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290738)",
+        "[Perfil de Paralympic.org](https://www.paralympic.org/arkadz-shykuts)",
+        "[Resultados Deportivos](https://www.the-sports.org/arkadz-shykuts-cross-country-skiing-spf533271.html)",
+        "[Perfil de Canoe ICF](https://www.canoeicf.com/athlete/arkadz-shykuts)"
+    ]
+}

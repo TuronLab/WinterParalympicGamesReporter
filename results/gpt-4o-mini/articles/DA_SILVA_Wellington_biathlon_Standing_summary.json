@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "DA SILVA Wellington",
+    "date_of_birth": "2006-08-04",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 23,
+    "world_cup_points": 106,
+    "country": "BRA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "1er Lugar en Salida en Intervalo (Copa Continental, Tierra Mayor, Ushuaia, 15-08-2025); 1er Lugar en Sprint (Copa Continental, Tierra Mayor, Ushuaia, 12-08-2025); 6to Lugar en Final de Sprint (Copa del Mundo, Szklarska Poreba-Jakuszyce, 28-01-2026); 8vo Lugar en Clasificación de Sprint (Copa del Mundo, Szklarska Poreba-Jakuszyce, 28-01-2026); 9no Lugar en Relevo Mixto (Copa del Mundo, Finsterau, 18-01-2026); 10mo Lugar en Salida en Intervalo (Copa del Mundo, Szklarska Poreba-Jakuszyce, 29-01-2026); 15to Lugar en Salida en Intervalo (Copa del Mundo, Szklarska Poreba-Jakuszyce, 31-01-2026); 22do Lugar en Final de Sprint (Copa del Mundo, Finsterau, 17-01-2026); 22do Lugar en Clasificación de Sprint (Copa del Mundo, Finsterau, 17-01-2026)",
+            "paralympic_participation": "Juegos Paralímpicos de Milano Cortina 2026: Programado para competir en biatlón.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Wellington ha mostrado un rendimiento consistente en eventos de la Copa Continental, logrando primeros lugares. Sus resultados en eventos de la Copa del Mundo indican una presencia competitiva, con posiciones que varían desde el 6to hasta el 22do lugar.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "DA SILVA Wellington actualmente reside en Jundiaí, São Paulo, Brasil."
+        }
+    ],
+    "personal_data": "DA SILVA Wellington es un atleta brasileño que compite en el deporte del biatlón. Está clasificado en la categoría LW8 (De pie) y está programado para representar a Brasil en los Juegos Paralímpicos de Milano Cortina 2026.",
+    "reference_urls": [
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/da-silva-wellington/58745)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291952)",
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/da-silva-wellington/58745)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291952)"
+    ]
+}

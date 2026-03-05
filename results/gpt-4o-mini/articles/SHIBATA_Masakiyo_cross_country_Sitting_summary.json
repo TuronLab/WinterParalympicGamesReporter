@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "SHIBATA Masakiyo",
+    "date_of_birth": "1996-12-24",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 48,
+    "world_cup_points": 82,
+    "country": "JPN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "3er lugar en la Final de Sprint Masculino de 1.2 km en los Campeonatos Nacionales Abiertos de Hakuba (2026), 3er lugar en la Salida por Intervalos Masculina de 10 km en los Campeonatos Nacionales Abiertos de Hakuba (2026)",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "SHIBATA ha demostrado posiciones consistentes en el podio en competiciones recientes.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "SHIBATA Masakiyo nació el 24 de diciembre de 1996 y actualmente está activo en su deporte, representando a Japón en el escenario internacional."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?competitorid=291061&sectorcode=PCC)",
+        "[FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=292020&raceid=769)"
+    ]
+}

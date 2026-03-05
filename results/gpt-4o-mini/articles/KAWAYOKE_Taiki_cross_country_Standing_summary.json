@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "KAWAYOKE Taiki",
+    "date_of_birth": "2001-02-21",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 5,
+    "world_cup_points": 458,
+    "country": "JPN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW5/7",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de Oro en los Juegos Paralímpicos de Invierno de 2022: 20 km en pie (Tiempo: 52:52.8). Medalla de Oro en los Campeonatos Mundiales de Esquí Nórdico Paralímpico 2019: Larga distancia en pie. Medalla de Bronce en los Campeonatos Mundiales de Esquí Nórdico Paralímpico 2019: Estilo libre en pie.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Pyeongchang 2018 y Pekín 2022.",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Mejora significativa en la preparación para los Juegos Paralímpicos de Invierno de 2022, culminando en una victoria con medalla de oro. Cambio en el enfoque de entrenamiento para los Juegos Paralímpicos de 2026, centrándose en el esquí de alta intensidad y el entrenamiento en altitud.",
+            "preparation_style": "Nuevo régimen de entrenamiento que enfatiza los entrenamientos de alta intensidad y el entrenamiento en altitud.",
+            "personal_contextual_info": "Nació con múltiples discapacidades en las extremidades, le faltan dos dedos en el pie derecho y tres en el pie izquierdo, así como dedos en ambas manos. Comenzó a esquiar a una edad temprana, motivado por su deseo de inspirar a otros."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[Wikipedia - Taiki Kawayoke](https://en.wikipedia.org/wiki/Taiki_Kawayoke)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290552&type=result)",
+        "[Japan Forward - Taiki Kawayoke](https://japan-forward.com/odds-and-evens-taiki-kawayoke-follows-heros-path-achieves-golden-success-at-paralympics/)",
+        "[Kyodo News - Kawayoke Cambia su Plan de Juego](https://english.kyodonews.net/articles/-/71534)",
+        "[Japan Times - Kawayoke Captura el Oro](https://newsonjapan.com/article/133515.php)"
+    ]
+}

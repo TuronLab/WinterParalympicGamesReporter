@@ -1,0 +1,40 @@
+﻿{
+    "name_of_the_athlete": "Dmytro Sereda",
+    "date_of_birth": "1998-02-08",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 19,
+    "world_cup_points": 283,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Campeonatos Mundiales de Para Deportes de Nieve de Lillehammer 2021: Esprint Masculino de Pie: 7º (15 de enero de 2022), Media Distancia Masculina de Pie: 12º (16 de enero de 2022), Larga Distancia Masculina - Estilo Libre de Pie: 9º (18 de enero de 2022), Larga Distancia Masculina de Pie: 10º (20 de enero de 2022)",
+            "paralympic_participation": "Programado para competir en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+            "participation": "Compite también en biatlón.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "El rendimiento de Dmytro Sereda en los Campeonatos Mundiales de Para Deportes de Nieve de Lillehammer 2021 indica una presencia competitiva en el esquí de fondo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil de Dmytro Sereda](https://www.biathlonworld.com/athlete/sereda-dmytro/44278)",
+        "[Perfil de Dmytro Sereda](https://www.paralympic.org/dmytro-sereda)"
+    ]
+}

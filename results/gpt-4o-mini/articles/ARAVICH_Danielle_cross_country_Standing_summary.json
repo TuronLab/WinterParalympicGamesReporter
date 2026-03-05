@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Danielle \"Dani\" Aravich",
+    "date_of_birth": "1996-08-05",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 4,
+    "world_cup_points": 646,
+    "country": "USA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Verano de Tokio 2020 y en los Juegos Paralímpicos de Invierno de Pekín 2022. Se unió a la Comisión de Atletas de la FIS y al Consejo de la FIS en 2025.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Verano de Tokio 2020 y en los Juegos Paralímpicos de Invierno de Pekín 2022.",
+            "participation": "Atletismo (Juegos Paralímpicos de Verano)",
+            "achievements": "Información no disponible públicamente",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Participación constante en eventos FIS con puntos en mejora a lo largo de las temporadas.",
+            "preparation_style": "Transición de trabajo voluntario a entrenamiento competitivo en atletismo, reconocida por un entrenador de esquí nórdico de EE. UU. en 2019.",
+            "personal_contextual_info": "Reside en Boise, Idaho. Lucha activamente por la visibilidad y el apoyo para los atletas para."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=290428&type=fispoints)",
+        "[Perfil del Miembro del Consejo de la FIS](https://www.fis-ski.com/inside-fis/organisation/council/danielle-aravich)",
+        "[Resultados de Esquí de Fondo de la FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=822)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=290428&type=fispoints)",
+        "[Perfil del Miembro del Consejo de la FIS](https://www.fis-ski.com/inside-fis/organisation/council/danielle-aravich)",
+        "[Resultados de Esquí de Fondo de la FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=822)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=290428&type=fispoints)",
+        "[Perfil del Miembro del Consejo de la FIS](https://www.fis-ski.com/inside-fis/organisation/council/danielle-aravich)",
+        "[Resultados de Esquí de Fondo de la FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=822)"
+    ]
+}

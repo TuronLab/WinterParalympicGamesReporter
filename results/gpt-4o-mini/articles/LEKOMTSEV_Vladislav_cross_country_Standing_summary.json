@@ -1,0 +1,47 @@
+﻿{
+    "name_of_the_athlete": "LEKOMTSEV Vladislav",
+    "date_of_birth": "1994-12-08",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 29,
+    "world_cup_points": 213,
+    "country": "RUS",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de bronce en el esquí de fondo de 20 km de pie en los Juegos Paralímpicos de Invierno de 2014 en Sochi. Medalla de oro en la prueba de esquí de fondo de 12.5 km de pie en los Campeonatos Mundiales de Para Deportes de Nieve de 2021 en Lillehammer, Noruega.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2014 en la prueba de esquí de fondo de 20 km de pie, obteniendo una medalla de bronce.",
+            "participation": "También compite en para-biatlón.",
+            "achievements": "Medalla de oro en la prueba de biatlón de 6 km de pie en los Campeonatos Mundiales de Para Deportes de Nieve de 2021.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente con múltiples medallas en competiciones importantes.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació el 8 de diciembre de 1994 en Romashkino, Udmurtia, Rusia. Perdió su brazo izquierdo en un accidente a la edad de 12 años."
+        },
+        {
+            "sport_name": "Para-biatlón",
+            "major_achievements": "Medalla de oro en la prueba de biatlón de 6 km de pie en los Campeonatos Mundiales de Para Deportes de Nieve de 2021.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Fuente: Kremlin.ru](http://en.kremlin.ru/events/president/news/20451)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Vladislav_Lekomtsev)",
+        "[Fuente: Paralympic.org](https://www.paralympic.org/news/vladislav-lekomtsev-makes-it-five-out-five-final-day-para-biathlon)",
+        "[Fuente: Paralympic.org](https://www.paralympic.org/news/vladislav-lekomtsev-makes-it-five-out-five-final-day-para-biathlon)",
+        "[Fuente: Paralympic.org](https://www.paralympic.org/news/vladislav-lekomtsev-makes-it-five-out-five-final-day-para-biathlon)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Vladislav_Lekomtsev)",
+        "[Wikipedia](https://en.wikipedia.org/wiki/Vladislav_Lekomtsev)",
+        "[Kremlin.ru](http://en.kremlin.ru/events/president/news/20451)",
+        "[Paralympic.org](https://www.paralympic.org/news/vladislav-lekomtsev-makes-it-five-out-five-final-day-para-biathlon)"
+    ]
+}

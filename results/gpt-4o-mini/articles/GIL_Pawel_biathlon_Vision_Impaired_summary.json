@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Pawel Gil",
+    "date_of_birth": "1998-04-01",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 9,
+    "world_cup_points": 392,
+    "country": "POL",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Invierno Beijing 2022.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno Beijing 2022: Men's Sprint VI: 12º, Men's Middle Distance VI: 10º, Men's Individual VI: 7º, Men's Long Distance VI: 14º, Open 4x2.5km Relay: 11º.",
+            "participation": "Compite regularmente en esquí nórdico.",
+            "achievements": "14º en Men's Middle Distance - Classic VI en los Campeonatos Mundiales de Para Deportes de Nieve Lillehammer 2021.",
+            "guide": "Compite con los guías Michal Landa o Radoslaw Koszyk.",
+            "performance_trends": "Los datos no están consistentemente disponibles a través de las temporadas. Las posiciones clave notadas son específicamente de Beijing 2022.",
+            "preparation_style": "Los métodos de entrenamiento no se han detallado públicamente.",
+            "personal_contextual_info": "Pawel compite en DV tanto a nivel nacional como internacional."
+        }
+    ],
+    "personal_data": "Información no pública disponible.",
+    "reference_urls": [
+        "https://www.paralympic.org/pawel-gil",
+        "https://www.biathlonworld.com/cz/athlete/gil-pawel/40859"
+    ]
+}

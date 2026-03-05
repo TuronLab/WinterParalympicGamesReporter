@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Kathrin Marchand",
+    "date_of_birth": "1990-11-15",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 9,
+    "world_cup_points": 425,
+    "country": "GER",
+    "category": "Standing",
+    "paralympic_category_lw": "LW9",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "2º lugar en la Salida Masiva en Szklarska Poreba-Jakuszyce (01-02-2026), 5º lugar en la Salida por Intervalos en Szklarska Poreba-Jakuszyce (31-01-2026), 9º lugar en la Clasificación de Sprint en Szklarska Poreba-Jakuszyce (28-01-2026), 9º lugar en la Final de Sprint en Szklarska Poreba-Jakuszyce (28-01-2026), 12º lugar en el Relevo Mixto en Finsterau (18-01-2026), 2 podios en la Copa del Mundo en la temporada 2026 (2º lugar).",
+            "paralympic_participation": "Participará en los Paralímpicos de 2026 en Esquí de Fondo.",
+            "participation": "Remo",
+            "achievements": "Dos veces olímpica en remo, Campeona del Mundo en dobles mixtos (2023), Medallista de bronce en cuatro con timonel mixto (2023).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Colocaciones consistentes en el top 12 en múltiples eventos de la Copa del Mundo en esquí de fondo.",
+            "preparation_style": "Enfoque equilibrado en su entrenamiento, enfatizando la importancia de la salud y el bienestar.",
+            "personal_contextual_info": "Sufrió un accidente cerebrovascular en 2021, lo que llevó a una reevaluación de su vida y carrera, llevándola a regresar al deporte como una forma de rehabilitación."
+        }
+    ],
+    "personal_data": "Equilibra su carrera atlética con su profesión como doctora.",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292235)",
+        "[Historias de Nieve FIS](https://www.fis-ski.com/para-cross-country/news/2025-26/-snowstories-oars-obstacles-open-snow-kathrin-marchand-is-finding-her-joy-again)",
+        "[Clasificaciones de la Copa FIS](https://www.fis-ski.com/DB/para-snowsports/para-cross-country/cup-standings.html?sectorcode=PCC&seasoncode=2026&cupcode=WC&disciplinecode=ALL&gendercode=W)"
+    ]
+}

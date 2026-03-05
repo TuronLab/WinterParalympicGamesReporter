@@ -1,0 +1,35 @@
+﻿{
+    "name_of_the_athlete": "Maximilian Weidner",
+    "date_of_birth": "1989-12-15",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 13,
+    "world_cup_points": 346,
+    "country": "GER",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "3er lugar en la prueba masculina de 10 km salida en masa de pie clásica, Szklarska Poreba-Jakuszyce (Puntos FIS: 53.55, Puntos de Copa: 90)",
+            "paralympic_participation": "Información no disponible públicamente",
+            "participation": "Información no disponible públicamente",
+            "achievements": "Información no disponible públicamente",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Mejora notable con un podio en los últimos eventos, indicando una tendencia positiva en el rendimiento.",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        }
+    ],
+    "personal_data": "Información no disponible públicamente",
+    "reference_urls": [
+        "[Maximilian Weidner - Biografía del Atleta](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291352)",
+        "[Resultados - Szklarska Poreba-Jakuszyce](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=823)",
+        "[Resultados - Finsterau](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=693)",
+        "[Resultados - Finsterau](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=699)",
+        "[Maximilian Weidner - Biografía del Atleta](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291352)",
+        "[Resultados - Szklarska Poreba-Jakuszyce](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=823)",
+        "[Resultados - Finsterau](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=693)",
+        "[Resultados - Finsterau](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=699)"
+    ]
+}

@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "WANG Chenyang",
+    "date_of_birth": "2002-01-08",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 23,
+    "world_cup_points": 240,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de Oro en la Técnica Libre de Media Distancia de Pie en Beijing 2022, Medalla de Plata en el Relevo Mixto 4x2.5 km en Beijing 2022, Primer esquiador chino en ganar oro en la Media Distancia de Pie en los Juegos Paralímpicos.",
+            "paralympic_participation": "Participó en PyeongChang 2018 y Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "WANG demostró una mejora notable de PyeongChang 2018 a Beijing 2022, logrando podios en múltiples eventos.",
+            "preparation_style": "WANG Chenyang se preparó para los Juegos Paralímpicos de Invierno de Beijing entrenando intensamente durante casi dos meses en Baiyin, Provincia de Gansu.",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "WANG Chenyang nació el 8 de enero de 2002.",
+    "reference_urls": [
+        "https://www.paralympic.org/news/china-swell-medals-tally-cross-country].",
+        "https://www.paralympic.org/beijing-2022/results/cross-country/mixed-4x2-5km-relay].",
+        "https://www.laitimes.com/en/article/3g558_3wu6i.html].",
+        "https://www.nbcolympics.com/videos/wang-chenyang-wins-surprise-cross-country-paralympic-gold].",
+        "https://www.paralympic.org/chenyang-wang].",
+        "https://www.paralympic.org/news/china-swell-medals-tally-cross-country",
+        "https://www.paralympic.org/beijing-2022/results/cross-country/mixed-4x2-5km-relay",
+        "https://www.paralympic.org/beijing-2022/results/cross-country/men-s-sprint-free-standing",
+        "https://www.paralympic.org/beijing-2022/results/cross-country/men-s-middle-distance-free-standing",
+        "https://www.paralympic.org/beijing-2022/results/cross-country/men-s-long-distance-classic-standing",
+        "https://www.paralympic.org/pyeongchang-2018/results/cross-country/mens-20km-free-standing",
+        "https://www.paralympic.org/pyeongchang-2018/results/cross-country/mens-10km-classic-standing",
+        "https://www.nbcolympics.com/videos/wang-chenyang-wins-surprise-cross-country-paralympic-gold",
+        "https://www.laitimes.com/en/article/3g558_3wu6i.html",
+        "https://www.paralympic.org/chenyang-wang"
+    ]
+}

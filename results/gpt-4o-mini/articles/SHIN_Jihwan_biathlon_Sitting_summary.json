@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "SHIN Jihwan",
+    "date_of_birth": "1996-08-21",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 27,
+    "world_cup_points": 88,
+    "country": "KOR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "No se enumeran logros importantes específicos.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Compite en esquí de fondo para personas con discapacidad.",
+            "achievements": "Puntos FIS: 195.96 (a partir de la temporada 2025/26).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Final de Sprint de la Copa del Mundo: 43º (17-01-2026, Finsterau, GER). Clasificación de Sprint de la Copa del Mundo: 43º (17-01-2026, Finsterau, GER). Salida Masiva de la Copa del Mundo: 42º (15-01-2026, Finsterau, GER). Salida por Intervalos de la Copa del Mundo: 35º (14-01-2026, Finsterau, GER). Salida Masiva de la Copa del Mundo: 24º (07-12-2025, Canmore, CAN).",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Fecha de nacimiento: 21-08-1996. Edad: 29. Estado: Activo."
+        }
+    ],
+    "personal_data": "Nacionalidad: Corea del Sur.",
+    "reference_urls": [
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/shin-jihwan/62269)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292230)",
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/shin-jihwan/62269)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292230)"
+    ]
+}

@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "ZHAO Zhiqing",
+    "date_of_birth": "1997-11-06",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 8,
+    "world_cup_points": 285,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW5/7",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Plata en el evento de 12.5 km de pie para mujeres en los Juegos Paralímpicos de Invierno de 2022 (Tiempo: 48:06.3); Medalla de Bronce en el evento de 6 km de pie para mujeres en los Juegos Paralímpicos de Invierno de 2022 (Tiempo: 20:05.1)",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2022",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Los datos de rendimiento a lo largo del tiempo no están disponibles públicamente.",
+            "preparation_style": "Los detalles sobre los métodos de entrenamiento y el estilo de preparación no están disponibles públicamente.",
+            "personal_contextual_info": "ZHAO Zhiqing ha hecho avances significativos en su deporte, particularmente durante los Juegos Paralímpicos de Invierno de 2022."
+        }
+    ],
+    "personal_data": "Nacida el 6 de noviembre de 1997 en Zhangjiakou, China.",
+    "reference_urls": [
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Zhao_Zhiqing)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Zhao_Zhiqing)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Zhao_Zhiqing)",
+        "[Wikipedia - Zhao Zhiqing](https://en.wikipedia.org/wiki/Zhao_Zhiqing)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/zhao-zhiqing/40579)"
+    ]
+}

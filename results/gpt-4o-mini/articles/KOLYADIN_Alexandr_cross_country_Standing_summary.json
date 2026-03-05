@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "KOLYADIN Alexandr",
+    "date_of_birth": "1973-02-20",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 37,
+    "world_cup_points": 163,
+    "country": "KAZ",
+    "category": "Standing",
+    "paralympic_category_lw": "LW4",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de Oro en 1.5 km Sprint Clásico de Pie en los Juegos Paralímpicos de Invierno 2018.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2014 y 2018.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora notable de 2014 a 2018, destacándose con una medalla de oro.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació el 20 de febrero de 1973 en Kazajistán."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Alexandr Kolyadin](https://en.wikipedia.org/wiki/Alexandr_Kolyadin)",
+        "[Paralympic.org - Alexandr Kolyadin](https://www.paralympic.org/alexandr-kolyadin)",
+        "[Kazinform - Kazajistán envía 7 atletas a los Juegos Paralímpicos de 2026](https://qazinform.com/news/kazakhstan-sends-7-athletes-to-2026-paralympic-game-23092a)",
+        "[AKIpress - Alexandr Kolyadin de Kazajistán reclama su primera medalla de oro paralímpica](https://m.akipress.com/news:603527/)"
+    ]
+}

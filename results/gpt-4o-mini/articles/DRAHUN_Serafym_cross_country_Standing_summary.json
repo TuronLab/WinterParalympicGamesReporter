@@ -1,0 +1,35 @@
+﻿{
+    "name_of_the_athlete": "Serafym Drahun",
+    "date_of_birth": "2005-05-22",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 1,
+    "world_cup_points": 689,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Ganador del Gran Globo de Cristal en FIS Para Esquí de Fondo para la temporada 2025/26 en la categoría de Pie.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de Pekín 2022.",
+            "participation": "Biatlón",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "1ª lista de puntos FIS: 29.64 (Rango 7), 2ª lista de puntos FIS: 29.30 (Rango 7), 3ª lista de puntos FIS: 29.30 (Rango 7), 4ª lista de puntos FIS: 25.91 (Rango 6), 5ª lista de puntos FIS: 25.91 (Rango 8), 6ª lista de puntos FIS: 18.11 (Rango 7), 7ª lista de puntos FIS: 10.55 (Rango 6).",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291616&type=fispoints)",
+        "[Paralympic.org](https://www.paralympic.org/serafym-drahun)",
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/drahun-serafym/51973)",
+        "[Facebook](https://www.facebook.com/parasnowsports/posts/-serafym-drahun-is-the-big-crystal-globe-winner-in-fis-para-cross-country-for-th/1407363424769175/)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291616&type=fispoints)",
+        "[Paralympic.org](https://www.paralympic.org/serafym-drahun)",
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/drahun-serafym/51973)",
+        "[Facebook](https://www.facebook.com/parasnowsports/posts/-serafym-drahun-is-the-big-crystal-globe-winner-in-fis-para-cross-country-for-th/1407363424769175/)"
+    ]
+}

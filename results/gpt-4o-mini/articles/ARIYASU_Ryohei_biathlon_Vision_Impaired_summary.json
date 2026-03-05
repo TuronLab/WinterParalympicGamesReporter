@@ -1,0 +1,40 @@
+﻿{
+    "name_of_the_athlete": "Ryohei Ariyasu",
+    "date_of_birth": "1987-02-02",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 17,
+    "world_cup_points": 129,
+    "country": "JPN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Invierno de Pekín 2022: 7° lugar en Masculino Distancia Clásica VI, 16° lugar en Masculino Sprint Libre VI (Clasificación), 16° lugar en Masculino Distancia Media Libre VI.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de Pekín 2022.",
+            "participation": "Participó también en remo.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Promedios de rendimiento específicos o tendencias no han sido reportados.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Compite en esquí nórdico y remo; basado en Japón."
+        },
+        {
+            "sport_name": "Remo",
+            "major_achievements": "Participó en los Juegos Paralímpicos de Tokio 2020: 6° lugar en Serie 2 (PR3 Cuatro Remolcados Mixto), 5° lugar en Serie 2, 6° lugar en Final B.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Tokio 2020.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Compite en esquí nórdico y remo; basado en Japón."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/ariyasu-ryohei/50011",
+        "https://www.paralympic.org/ryohei-ariyasu"
+    ]
+}

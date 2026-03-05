@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Sato Keiichi",
+    "date_of_birth": "1979-07-14",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 20,
+    "world_cup_points": 281,
+    "country": "JPN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Seleccionado para representar a Japón en los Juegos Paralímpicos de Invierno de Milán Cortina 2026.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Vancouver 2010, Sochi 2014, PyeongChang 2018, Pekín 2022 y está programado para Milán Cortina 2026.",
+            "participation": "Biatlón, Triatlón",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Participación constante en eventos nacionales e internacionales con un enfoque en mejorar sus posiciones en la Copa del Mundo.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=289484)",
+        "[Futunn](https://news.futunn.com/en/post/69212473/announcement-of-keiichi-sato-s-qualification-for-the-milan-cortina)",
+        "[IPC](https://www.paralympic.org/keiichi-sato)",
+        "[Yomiuri](https://www.yomiuri.co.jp/olympic/paralympic2026/results/athlete/58084/)",
+        "[Perfil de Sato Keiichi](https://www.satokeiichi.com/profile-1/)"
+    ]
+}

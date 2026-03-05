@@ -1,0 +1,40 @@
+﻿{
+    "name_of_the_athlete": "YANG Qianru",
+    "date_of_birth": "2001-05-09",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 11,
+    "world_cup_points": 216,
+    "country": "CHN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "NS3",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Participó en los Juegos Paralímpicos de Beijing 2022, logrando 5º lugar en Sprint Femenino VI y Distancia Media Femenina VI, 6º lugar en Clasificación de Sprint Libre VI, 4º lugar en Semifinal de Sprint Libre VI y 5º lugar en Final Individual VI.",
+            "paralympic_participation": "2022 Beijing Winter Paralympics: Sprint Femenino VI, Distancia Media Femenina VI, Sprint Libre VI.",
+            "participation": "Compite en esquí de fondo para personas con discapacidad.",
+            "achievements": "Ganó dos medallas de plata en competiciones anteriores de la Copa Asiática.",
+            "guide": "Yu Hongshun durante los eventos en Beijing 2022.",
+            "performance_trends": "Las posiciones competitivas de YANG oscilan entre el 4º y 6º lugar en eventos importantes.",
+            "preparation_style": "Entrenamiento riguroso que incluye múltiples sesiones diarias; consume cinco huevos por la noche.",
+            "personal_contextual_info": "Es originaria de Beijing y ha superado desafíos asociados con su discapacidad visual, con el apoyo de su comunidad."
+        },
+        {
+            "sport_name": "Esquí de fondo para personas con discapacidad",
+            "major_achievements": "Información no públicamente disponible",
+            "paralympic_participation": "Información no públicamente disponible",
+            "participation": "Junto al biatlón.",
+            "achievements": "Información no públicamente disponible",
+            "guide": "Información no públicamente disponible",
+            "performance_trends": "Información no públicamente disponible",
+            "preparation_style": "Información no públicamente disponible",
+            "personal_contextual_info": "Información no públicamente disponible"
+        }
+    ],
+    "personal_data": "YANG ha mostrado determinación y habilidad en deportes de invierno, siendo un nombre a seguir en futuros eventos.",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291271&type=cups&cupcode=WC",
+        "https://www.paralympic.org/qianru-yang"
+    ]
+}

@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Madison Mullin",
+    "date_of_birth": "2007-03-16",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 5,
+    "world_cup_points": 354,
+    "country": "CAN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí Nórdico Para",
+            "major_achievements": "Oro en el sprint de 1.2 km, Plata en 2.5 km clásico, Plata en 5 km estilo libre en los Juegos de Invierno de Canadá 2023. Obtuvo un lugar en el equipo Nacional de Prospectos Para-Nórdico.",
+            "paralympic_participation": "Actualmente preparando para los Juegos Paralímpicos de 2026.",
+            "participation": "Esquí Alpino",
+            "achievements": "Compitió a un alto nivel en esquí alpino antes de pasar al esquí de fondo.",
+            "guide": "Compite con una guía, actualmente Tory Audet y anteriormente Faith Goudie.",
+            "performance_trends": "Éxito nacional e internacional notable, incluyendo actuaciones en el podio en los Juegos de Invierno de Canadá y mejora constante en el circuito de la Copa del Mundo.",
+            "preparation_style": "Entrena con el entrenador principal Brian McKeever y ha participado en el campamento de entrenamiento juvenil internacional de élite Equinox en Noruega.",
+            "personal_contextual_info": "Nació el 16 de marzo de 2007 en Fergus, Ontario. Diagnosticada con glaucoma congénito, lo que ha llevado a su discapacidad visual."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.snowathletes.ca/athlete/madison-mullin",
+        "https://paralympic.ca/athlete/madison-mullin/",
+        "https://xcskiontario.ca/athletes/madison-mullin-2/",
+        "https://nordiqcanada.ca/athlete/madison-mullin/",
+        "https://www.wellingtonadvertiser.com/fergus-girl-wins-gold-in-para-nordic-skiing-at-canada-winter-games/"
+    ]
+}

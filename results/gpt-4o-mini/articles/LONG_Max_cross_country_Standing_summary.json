@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "LONG Max",
+    "date_of_birth": "2006-10-16",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 48,
+    "world_cup_points": 46,
+    "country": "GER",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participación en múltiples eventos de la Copa del Mundo y Campeonatos Nacionales.",
+            "paralympic_participation": "Información no públicamente disponible.",
+            "participation": "Información no públicamente disponible.",
+            "achievements": "Logró un top 5 en competiciones nacionales.",
+            "guide": "Información no públicamente disponible.",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo con posiciones que varían desde el 5º hasta el 29º.",
+            "preparation_style": "Información no públicamente disponible.",
+            "personal_contextual_info": "Información no públicamente disponible."
+        }
+    ],
+    "personal_data": "Información no públicamente disponible.",
+    "reference_urls": [
+        "[FIS - Max LONG](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291730)",
+        "[FIS - Max LONG](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291730)",
+        "[FIS - Max LONG](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291730)"
+    ]
+}

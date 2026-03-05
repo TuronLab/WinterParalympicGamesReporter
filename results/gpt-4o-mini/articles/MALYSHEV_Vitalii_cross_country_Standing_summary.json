@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Vitalii Malyshev",
+    "date_of_birth": "1991-03-30",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 24,
+    "world_cup_points": 235,
+    "country": "RUS",
+    "category": "Standing",
+    "paralympic_category_lw": "LW9",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "1º en Relevo Abierto (2026), 2º en Final de Sprint (2026), 4º en Clasificación de Sprint (2026), 9º en Salida Masiva (2026), 9º en Salida por Intervalos (2026), múltiples finales en el podio en temporadas anteriores.",
+            "paralympic_participation": "Información no disponible públicamente",
+            "participation": "Información no disponible públicamente",
+            "achievements": "Información no disponible públicamente",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Temporada 2026: 1 final en el podio (2º lugar en Final de Sprint), Temporada 2022: 4 finales en el podio (todos segundos lugares), Temporada 2021: 3 finales en el podio (todos terceros lugares).",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        }
+    ],
+    "personal_data": "Información no disponible públicamente",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290922)",
+        "[Resultados en Vivo de FIS](https://www.fis-ski.com/DB/cross-country/live.html?mi=menu-live)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290922)",
+        "[Resultados en Vivo de FIS](https://www.fis-ski.com/DB/cross-country/live.html?mi=menu-live)"
+    ]
+}

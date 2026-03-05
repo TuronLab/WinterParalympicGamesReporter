@@ -1,0 +1,57 @@
+﻿{
+    "name_of_the_athlete": "Lauren Parker OAM",
+    "date_of_birth": "1988-12-15",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 17,
+    "world_cup_points": 190,
+    "country": "AUS",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Compitiendo en biatlón para y esquí de fondo en los Juegos Paralímpicos de Invierno 2026. Transición al esquí de fondo en junio de 2025.",
+            "paralympic_participation": "Programada para competir en esquí de fondo y biatlón en los Juegos Paralímpicos de Invierno 2026.",
+            "participation": "Compite en biatlón para junto con el esquí de fondo.",
+            "achievements": "Información no disponible públicamente",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Información no disponible públicamente",
+            "preparation_style": "Lauren Parker es entrenada por Dan Atkins. Los detalles específicos del entrenamiento no están disponibles públicamente.",
+            "personal_contextual_info": "Lauren Parker fue representante nacional de triatlón antes de un grave accidente de entrenamiento en abril de 2017 que la dejó parapléjica."
+        },
+        {
+            "sport_name": "Para-triatlón",
+            "major_achievements": "Medalla de plata en PTWC Femenino en los Juegos Paralímpicos de Verano 2020 (Tokio). Medallas de oro en PTWC Femenino tanto en triatlón como en ciclismo en los Juegos Paralímpicos de Verano 2024 (París).",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Verano 2020 y 2024.",
+            "participation": "Información no disponible públicamente",
+            "achievements": "Información no disponible públicamente",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Información no disponible públicamente",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        },
+        {
+            "sport_name": "Para-ciclismo",
+            "major_achievements": "Medalla de oro en la Contrarreloj Femenina H3 y medalla de plata en la Carrera en Ruta Femenina H3 en los Campeonatos Mundiales de Ciclismo en Ruta UCI Para 2023 en Glasgow. Medalla de oro en la Carrera en Ruta Femenina H1-4 y medalla de plata en la Contrarreloj en Ruta Femenina H1-3 en los Juegos Paralímpicos de Verano 2024 (París).",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Verano 2024.",
+            "participation": "Información no disponible públicamente",
+            "achievements": "Información no disponible públicamente",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Información no disponible públicamente",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        }
+    ],
+    "personal_data": "Lauren Parker fue representante nacional de triatlón antes de su accidente en 2017, que la llevó a hacer la transición a los para-deportes.",
+    "reference_urls": [
+        "[Wikipedia - Lauren Parker](https://en.wikipedia.org/wiki/Lauren_Parker)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/)",
+        "[Paralympics Australia](https://www.paralympic.org.au/)",
+        "[Snow Australia](https://www.snow.org.au/news/aus-paralympic-winter-team-finalised-for-milano-cortina-2026)",
+        "[Wikipedia - Lauren Parker](https://en.wikipedia.org/wiki/Lauren_Parker)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/)",
+        "[Paralympics Australia](https://www.paralympic.org.au/)",
+        "[Snow Australia](https://www.snow.org.au/news/aus-paralympic-winter-team-finalised-for-milano-cortina-2026)"
+    ]
+}

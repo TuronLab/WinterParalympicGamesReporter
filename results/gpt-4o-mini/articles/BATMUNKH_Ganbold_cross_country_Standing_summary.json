@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Batmönkhiin Ganbold",
+    "date_of_birth": "1991-10-22",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 27,
+    "world_cup_points": 228,
+    "country": "MGL",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de Bronce en la Copa Continental FIS Para Nórdica (2024) en una carrera selectiva de cinco kilómetros, finalizando en 17 minutos y 57.7 segundos.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno: Sochi 2014, Pyeongchang 2018, Beijing 2022.",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Mejora constante en las clasificaciones generales de 2016 a 2023, alcanzando un pico en el 8° lugar en 2022.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Batmunkh Ganbold sigue siendo un competidor activo en esquí de fondo, representando a Mongolia."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289993&type=cups&cupcode=WC)",
+        "[Perfil Paralímpico](https://www.paralympic.org/ganbold-batmunkh)",
+        "[Artículo de Montsame News](https://montsame.mn/en/read/356283)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289993&type=cups&cupcode=WC)",
+        "[Perfil Paralímpico](https://www.paralympic.org/ganbold-batmunkh)",
+        "[Artículo de Montsame News](https://montsame.mn/en/read/356283)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289993&type=cups&cupcode=WC)",
+        "[Perfil Paralímpico](https://www.paralympic.org/ganbold-batmunkh)",
+        "[Artículo de Montsame News](https://montsame.mn/en/read/356283)"
+    ]
+}

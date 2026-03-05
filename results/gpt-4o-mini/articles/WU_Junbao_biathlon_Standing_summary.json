@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "WU Junbao",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 19,
+    "world_cup_points": 231,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Terminó 4º en el evento de media distancia de pie para hombres en los Juegos Paralímpicos de Invierno de Beijing 2022 y alcanzó el 8º lugar en el evento de 7.5 km de pie para hombres en los Juegos Paralímpicos de Invierno de PyeongChang 2018.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de PyeongChang 2018 y Beijing 2022.",
+            "participation": "Compite también en esquí de fondo para personas con discapacidad.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Los promedios y tendencias de rendimiento específicos para WU Junbao no están disponibles públicamente.",
+            "preparation_style": "Antes de los Juegos Paralímpicos de Invierno de Beijing 2022, realizó un riguroso régimen de entrenamiento durante casi dos meses en Baiyin, en la provincia de Gansu.",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del atleta para Junbao WU](https://www.biathlonworld.com/cz/athlete/wu-junbao/29927)",
+        "[Laitimes - Final del evento de media distancia de pie para hombres en biatlón paralímpico](https://www.laitimes.com/en/article/3dpnf_3uep4.html)",
+        "[People's Daily Online - Reportaje: Primer biatleta paralímpico chino decorado con dos medallas paralímpicas](https://en.people.cn/n3/2022/0309/c90000-9968550.html)",
+        "[FIS - Junbao WU - Biografía del atleta - Esquí de fondo para personas con discapacidad](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=290558)"
+    ]
+}

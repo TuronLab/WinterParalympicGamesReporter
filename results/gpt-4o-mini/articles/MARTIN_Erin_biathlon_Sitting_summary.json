@@ -1,0 +1,38 @@
+﻿{
+    "name_of_the_athlete": "Erin Martin",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 15,
+    "world_cup_points": 66,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Competir en seis deportes en los Juegos Paralímpicos de Invierno de Milano Cortina 2026 como parte del Equipo de EE. UU.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno de Milano Cortina 2026",
+            "participation": "Competir en seis deportes en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Fuente](https://www.seattleu.edu/newsroom/2026/bright-horizon.php)",
+        "[Fuente](https://www.seattleu.edu/newsroom/2026/bright-horizon.php)",
+        "[Fuente](https://www.seattleu.edu/newsroom/2026/bright-horizon.php)",
+        "[Unión Internacional de Biatlón - Perfil de Erin Martin](https://www.biathlonworld.com/athlete/martin-erin/44309)",
+        "[Noticias de la Universidad de Seattle sobre Erin Martin](https://www.seattleu.edu/newsroom/2026/bright-horizon.php)",
+        "[Fuente](https://www.seattleu.edu/newsroom/2026/bright-horizon.php)",
+        "[Fuente](https://www.seattleu.edu/newsroom/2026/bright-horizon.php)",
+        "[Fuente](https://www.seattleu.edu/newsroom/2026/bright-horizon.php)",
+        "[Fuente](https://www.seattleu.edu/newsroom/2026/bright-horizon.php)",
+        "[Unión Internacional de Biatlón - Perfil de Erin Martin](https://www.biathlonworld.com/athlete/martin-erin/44309)",
+        "[Noticias de la Universidad de Seattle sobre Erin Martin](https://www.seattleu.edu/newsroom/2026/bright-horizon.php)"
+    ]
+}

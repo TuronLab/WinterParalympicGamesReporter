@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Oksana Masters",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 1,
+    "world_cup_points": 895,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Oro en 12.5km Individual - Sentado - Mujeres (Beijing 2022), Oro en 4 x 2.5km Relevo Mixto (Beijing 2022), Oro en 6km Individual - Sentado - Mujeres (Beijing 2022), Plata en 10km Medio - Sentado - Mujeres (Beijing 2022), Plata en 15km - Sentado - Mujeres (Beijing 2022), Plata en 1km Sprint - Sentado - Mujeres (Beijing 2022), Plata en 7.5km - Sentado - Mujeres (Beijing 2022), Oro en 1km Sprint - Sentado - Mujeres (Pyeongchang 2018), Oro en 5km - Sentado - Mujeres (Pyeongchang 2018), Plata en 12.5km Individual - Sentado - Mujeres (Pyeongchang 2018), Bronce en 12km - Sentado - Mujeres (Pyeongchang 2018)",
+            "paralympic_participation": "Participaciones en Pyeongchang 2018 y Beijing 2022",
+            "participation": "Ciclismo Adaptado, Remo Adaptado",
+            "achievements": "Oro en H4-5 - Contrarreloj - Mujeres (Tokio 2020), Oro en H5 - Carrera en Ruta - Mujeres (Tokio 2020), Oro en H5 - Carrera en Ruta - Mujeres (París 2024), Bronce en Doble Scull de Tronco y Brazos - Mixto (Londres 2012)",
+            "guide": "Information not publicly available",
+            "performance_trends": "Medallista constante en eventos importantes, destacando su actuación en los Juegos Paralímpicos de Beijing 2022, donde ganó múltiples medallas.",
+            "preparation_style": "Sigue un horario de entrenamiento estructurado y repetitivo que enfatiza tanto los entrenamientos físicos como la preparación mental.",
+            "personal_contextual_info": "Nació en Ucrania y fue adoptada a la edad de siete años. Ha superado defectos de nacimiento significativos vinculados al desastre de Chernobyl. Es autora de 'The Hard Parts: A Story of Courage and Triumph.'"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Oksana Masters - Wikipedia](https://en.wikipedia.org/wiki/Oksana_Masters)",
+        "[Oksana Masters | Team USA](https://www.teamusa.com/profiles/oksana-masters-803196)",
+        "[FIS | Oksana MASTERS - Biografía del Atleta - Para Esquí de Fondo](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=290040&type=fispoints)",
+        "[Cómo entrena y compite la paralímpica Oksana Masters para la longevidad](https://www.womenshealthmag.com/life/a69749468/oksana-masters-2026-winter-paralympics/)"
+    ]
+}

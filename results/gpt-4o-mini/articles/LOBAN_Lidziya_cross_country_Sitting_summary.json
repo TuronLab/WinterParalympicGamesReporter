@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Lidziya Loban",
+    "date_of_birth": "1985-12-14",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 18,
+    "world_cup_points": 178,
+    "country": "BLR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de bronce en biatlón femenino de 6 km en categoría sentada en los Juegos Paralímpicos de Invierno 2018.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2014 y 2018.",
+            "participation": "Compite en biatlón junto con el esquí de fondo.",
+            "achievements": "Medalla de bronce en biatlón femenino de 6 km en categoría sentada en los Juegos Paralímpicos de Invierno 2018.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo, frecuentemente dentro de las 15 mejores.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació el 14 de diciembre de 1985 en Novolukoml, Bielorrusia. Está casada con el esquiador paralímpico bielorruso Dzmitry Loban."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de bronce en biatlón femenino de 6 km en categoría sentada en los Juegos Paralímpicos de Invierno 2018.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2014 y 2018.",
+            "participation": "Compite en esquí de fondo junto con el biatlón.",
+            "achievements": "Medalla de bronce en biatlón femenino de 6 km en categoría sentada en los Juegos Paralímpicos de Invierno 2018.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo, frecuentemente dentro de las 15 mejores.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació el 14 de diciembre de 1985 en Novolukoml, Bielorrusia. Está casada con el esquiador paralímpico bielorruso Dzmitry Loban."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=289935)",
+        "[Wikipedia](https://en.wikipedia.org/wiki/Lidziya_Hrafeyeva)",
+        "[Resultados FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC)"
+    ]
+}

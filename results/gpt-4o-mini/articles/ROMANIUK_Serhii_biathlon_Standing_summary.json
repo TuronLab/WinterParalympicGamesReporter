@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "ROMANIUK Serhii",
+    "date_of_birth": "1995-02-22",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 7,
+    "world_cup_points": 460,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Invierno de Pyeongchang 2018 con colocaciones notables en varios eventos.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno de Pyeongchang 2018: 12º en 10 km Clásico - De pie, 12º en 15 km - De pie, 13º en Sprint Clásico 1.5 km - De pie, 7º en 12.5 km - De pie, 7º en 20 km Libre - De pie, 15º en 7.5 km - De pie.",
+            "participation": "Compite en eventos de Esquí Nórdico.",
+            "achievements": "9º lugar en la categoría Masculina de Media Distancia de pie en los Campeonatos Mundiales de Esquí Nórdico IPC 2017. 6º lugar en la categoría Masculina de Media Distancia de pie en los Campeonatos Mundiales de Esquí Nórdico Para 2019. 8º lugar en la categoría Masculina de Larga Distancia de pie en los Campeonatos Mundiales de Deportes de Nieve Para Lillehammer 2021.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Representa a Ucrania en competiciones internacionales."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/romaniuk-serhii/24000)",
+        "[Paralympic.org - Serhii Romaniuk](https://www.paralympic.org/serhii-romaniuk)",
+        "[The Sports - Serhii Romaniuk](https://www.the-sports.org/serhii-romaniuk-biathlon-spf533198.html)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/romaniuk-serhii/24000)",
+        "[Paralympic.org - Serhii Romaniuk](https://www.paralympic.org/serhii-romaniuk)",
+        "[The Sports - Serhii Romaniuk](https://www.the-sports.org/serhii-romaniuk-biathlon-spf533198.html)"
+    ]
+}

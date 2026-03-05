@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "WU Gaoqun",
+    "date_of_birth": "2000-03-26",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 43,
+    "world_cup_points": 80,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Juegos Paralímpicos de Invierno de Beijing 2022: 6º lugar en Esprint de hombres de pie, 5º lugar en Media distancia de hombres de pie, 14º lugar en Esprint libre de hombres de pie (Clasificación), 4º lugar en Individual de hombres de pie.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos con clasificaciones que varían desde el 4º hasta el 14º lugar en competiciones importantes.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació el 26 de marzo de 2000 y representa a la República Popular China en competiciones internacionales."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Comité Paralímpico Internacional - Gaoqun Wu](https://www.paralympic.org/gaoqun-wu)",
+        "[Resultados de Beijing 2022 - Esquí de Fondo](https://www.paralympic.org/beijing-2022/results/cross-country)",
+        "[Clasificaciones IPC - Resultados Paralímpicos](https://www.paralympic.org/results)"
+    ]
+}

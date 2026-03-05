@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Liudmyla Liashenko",
+    "date_of_birth": "1993-05-17",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 4,
+    "world_cup_points": 540,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6/8",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Bronce en 6 km de pie femenino en los Juegos Paralímpicos de Invierno 2018; Oro en Individual de pie femenino, Plata en Sprint de pie femenino, Bronce en Media Distancia de pie femenino en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2014, 2018 y 2022.",
+            "participation": "Compite también en esquí de fondo.",
+            "achievements": "Bronce en 10 km de pie femenino en los Campeonatos Mundiales de Deportes de Nieve para Personas con Discapacidad 2021.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente en medallas a lo largo de los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "preparation_style": "Enfatiza un régimen de entrenamiento riguroso, atribuyendo su éxito al esfuerzo constante y al apoyo de su entrenador.",
+            "personal_contextual_info": "Nacida en Ucrania, conocida por su determinación y resiliencia en medio del conflicto en su patria."
+        },
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Bronce en 10 km de pie femenino en los Campeonatos Mundiales de Deportes de Nieve para Personas con Discapacidad 2021.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Compite también en biatlón.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Liudmyla Liashenko](https://en.wikipedia.org/wiki/Liudmyla_Liashenko)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/liashenko-liudmyla/19080)",
+        "[Noticias del IPC - La Mejor Actuación de Ucrania en el Biatlón Paralímpico](https://www.paralympic.org/news/ukraine-signs-best-ever-performance-para-biathlon)"
+    ]
+}

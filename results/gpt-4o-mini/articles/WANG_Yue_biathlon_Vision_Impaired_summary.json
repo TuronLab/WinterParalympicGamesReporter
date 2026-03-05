@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Wang Yue",
+    "date_of_birth": "1991-04-09",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 6,
+    "world_cup_points": 290,
+    "country": "CHN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "84ª en el evento individual, Khanty-Mansiysk (2011); 17ª en el evento de relevo, Khanty-Mansiysk (2011); 70ª en el evento de sprint, Oberhof (2011); 81ª en el evento de sprint, Antholz-Anterselva (2011); 93ª en los Campeonatos Mundiales, Kontiolahti (2015).",
+            "paralympic_participation": "Medalla de bronce en los Juegos Paralímpicos de Invierno 2022, evento de 10 km femenino.",
+            "participation": "Esquí de fondo para discapacitados",
+            "achievements": "1ª en un evento de salida en intervalo en Lygna (7 de enero de 2024); 2ª en otro evento en Lygna (6 de enero de 2024).",
+            "guide": "Wang Guanyu",
+            "performance_trends": "Compitió consistentemente desde 2010 hasta 2015 con resultados variados; no hay resultados registrados después de 2015.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Esquí de Fondo para Discapacitados",
+            "major_achievements": "1ª en un evento de salida en intervalo en Lygna (7 de enero de 2024); 2ª en otro evento en Lygna (6 de enero de 2024).",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Nacida el 9 de abril de 1991 en China. Actividad actual: Competidora activa en biatlón y esquí de fondo para discapacitados.",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/wang-yue/BTCHN20904199101",
+        "https://en.wikipedia.org/wiki/Wang_Yue_(biathlete)",
+        "https://www.biathlon.com.ua/profile/3251-yu-vang",
+        "https://www.fis-ski.com/en/"
+    ]
+}

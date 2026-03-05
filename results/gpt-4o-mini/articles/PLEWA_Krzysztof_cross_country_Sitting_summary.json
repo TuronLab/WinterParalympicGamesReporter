@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Krzysztof Plewa",
+    "date_of_birth": "1975-05-01",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 12,
+    "world_cup_points": 360,
+    "country": "POL",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "14º lugar en la categoría masculina de media distancia sentado y 23º lugar en la categoría masculina de sprint sentado en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2022, Beijing.",
+            "participation": "Information not publicly available",
+            "achievements": "6º lugar en la salida en intervalos, 9º lugar en la salida masiva, 10º lugar en la salida en intervalos, 13º lugar en la clasificación de sprint y 13º lugar en la final de sprint en la Copa del Mundo, Szklarska Poreba-Jakuszyce (2026).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo, con posiciones generalmente dentro del top 20.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Krzysztof Plewa es un atleta activo que representa a Polonia en el esquí de fondo."
+        }
+    ],
+    "personal_data": "Krzysztof Plewa nació el 1 de mayo de 1975.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291486)",
+        "[Paralympic.org](https://www.paralympic.org/krzysztof-plewa)",
+        "[The Sports](https://www.the-sports.org/k-plewa-cross-country-skiing-spf717510.html)"
+    ]
+}

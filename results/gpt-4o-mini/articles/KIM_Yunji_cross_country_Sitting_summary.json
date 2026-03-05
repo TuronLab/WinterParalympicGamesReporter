@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "KIM Yunji",
+    "date_of_birth": "2006-09-06",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 3,
+    "world_cup_points": 570,
+    "country": "KOR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de Oro en el Sprint Clásico Femenino en la categoría de sentado en los Campeonatos Mundiales de Esquí Nórdico de la FIS en Trondheim, Noruega (5 de marzo de 2025). 2° lugar en la carrera de 10 km estilo libre en la Copa del Mundo de Esquí de Fondo Paralímpico en Steinkjer, Noruega (2 de marzo de 2025). 3° lugar en la final Femenina de Sentado en la Copa del Mundo de Esquí de Fondo Paralímpico en Steinkjer, Noruega (2 de marzo de 2025). Campeona Mundial de Sprint 2025.",
+            "paralympic_participation": "Participación esperada en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Tendencias de rendimiento indican posiciones consistentes en el podio en competiciones recientes, particularmente durante la temporada 2024/25.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=291701)",
+        "[FIS](https://www.fis-ski.com/para-cross-country/news/2024-25/para-cross-country-world-cup-concludes-in-steinkjer-as-athletes-gear-up-for-trondheim-2025)",
+        "[Alamy](https://www.alamy.com/kim-yunji-of-south-korea-celebrates-after-crossing-the-finish-line-to-win-the-gold-medal-in-the-para-cross-country-womens-sprint-classic-sitting-at-the-nordic-world-ski-championships-in-trondheim-norway-wednesday-march-5-2025-ap-photomatthias-schrader-image654512126.html)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=291701)",
+        "[FIS](https://www.fis-ski.com/para-cross-country/news/2024-25/para-cross-country-world-cup-concludes-in-steinkjer-as-athletes-gear-up-for-trondheim-2025)",
+        "[Alamy](https://www.alamy.com/kim-yunji-of-south-korea-celebrates-after-crossing-the-finish-line-to-win-the-gold-medal-in-the-para-cross-country-womens-sprint-classic-sitting-at-the-nordic-world-ski-championships-in-trondheim-norway-wednesday-march-5-2025-ap-photomatthias-schrader-image654512126.html)"
+    ]
+}

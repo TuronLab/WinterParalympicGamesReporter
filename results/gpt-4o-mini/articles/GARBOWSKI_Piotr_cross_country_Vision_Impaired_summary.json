@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Piotr Garbowski",
+    "date_of_birth": "1973-09-14",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 2,
+    "world_cup_points": 708,
+    "country": "POL",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "NS3",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Bronce en Sprint en la Copa del Mundo 2026; Plata en un evento no especificado en la Copa del Mundo 2024.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Pyeongchang 2018.",
+            "participation": "También participa en para-biatlón.",
+            "achievements": "Sin resultados específicos documentados en para-biatlón.",
+            "guide": "Compite con el guía Jakub Twardowski.",
+            "performance_trends": "Rendimiento constante con mejora continua en los eventos de la FIS.",
+            "preparation_style": "Información no públicamente disponible.",
+            "personal_contextual_info": "Destaca la motivación y orgullo en su participación en los Juegos Paralímpicos."
+        }
+    ],
+    "personal_data": "Información no públicamente disponible.",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290597",
+        "https://www.paralympic.org/piotr-garbowski",
+        "https://www.polsatsport.pl/film/piotr-garbowski-do-konca-mialem-nadzieje-ze-taka-sytuacja-nie-bedzie-miala-miejsca/",
+        "https://www.rmf24.pl/raports/raport-raport-pjongczang-2018/polacy/news-garbowski-zabraklo-mi-trzech-sekund-do-polfinalu-ale-mam-med,nId,2556721"
+    ]
+}

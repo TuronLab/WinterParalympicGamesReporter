@@ -1,0 +1,51 @@
+﻿{
+    "name_of_the_athlete": "WON Yoomin",
+    "date_of_birth": "1988-01-19",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 37,
+    "world_cup_points": 148,
+    "country": "KOR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Información no disponible públicamente",
+            "paralympic_participation": "Juegos Paralímpicos de Río 2016 y Juegos Paralímpicos de Pekín 2022",
+            "participation": "Biatlón Adaptado y Baloncesto en Silla de Ruedas",
+            "achievements": "Compitió en los Juegos Paralímpicos de Río 2016 y Pekín 2022 (resultados específicos no disponibles)",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Progresión de Puntos FIS: 120.96 (7ª lista de puntos FIS 2025/26), 131.83 (6ª lista de puntos FIS 2025/26), 139.41 (5ª lista de puntos FIS 2025/26), 150.94 (4ª lista de puntos FIS 2025/26)",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        },
+        {
+            "sport_name": "Biatlón Adaptado",
+            "major_achievements": "Información no disponible públicamente",
+            "paralympic_participation": "Juegos Paralímpicos de Río 2016",
+            "participation": "Información no disponible públicamente",
+            "achievements": "Compitió en los Juegos Paralímpicos de Río 2016 (resultados específicos no disponibles)",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Información no disponible públicamente",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        },
+        {
+            "sport_name": "Baloncesto en Silla de Ruedas",
+            "major_achievements": "Información no disponible públicamente",
+            "paralympic_participation": "Juegos Paralímpicos de Río 2016",
+            "participation": "Información no disponible públicamente",
+            "achievements": "Compitió en los Juegos Paralímpicos de Río 2016 (resultados específicos no disponibles)",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Información no disponible públicamente",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        }
+    ],
+    "personal_data": "Fecha de Nacimiento: 19 de enero de 1988, Edad: 38, Género: Masculino, Nacionalidad: Corea del Sur (KOR)",
+    "reference_urls": [
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290946)",
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/won-yoomin/35217)"
+    ]
+}

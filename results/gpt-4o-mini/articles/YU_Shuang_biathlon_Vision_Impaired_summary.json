@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Yu Shuang",
+    "date_of_birth": "2003-08-29",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 11,
+    "world_cup_points": 280,
+    "country": "CHN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Bronce en el Biatlón Individual Masculino de 12.5 km para Personas con Discapacidad Visual en los Juegos Paralímpicos de Invierno de 2022, Medalla de Oro en un evento de salida por intervalos en la Copa del Mundo de 2024.",
+            "paralympic_participation": "2022 Juegos Paralímpicos de Invierno: Medalla de Bronce, 4to Lugar en Sprint Masculino, 4to Lugar en Relevo Abierto 4x2.5 km, 6to Lugar en Biatlón de Media Distancia Masculino, 4to Lugar en Sprint de Esquí de Fondo (Semifinal).",
+            "participation": "Atletismo",
+            "achievements": "Medallas de Plata en varios eventos en los Juegos Deportivos locales para Personas con Discapacidad en Dazhou, China, a la edad de 13 años.",
+            "guide": "Wang Guanyu",
+            "performance_trends": "Yu Shuang demostró una mejora significativa, logrando estatus de medalla rápidamente después de su debut en 2021.",
+            "preparation_style": "Entrena en instalaciones de gran altitud con un enfoque en la técnica de esquí y la resistencia, emplea técnicas de sincronización con su guía.",
+            "personal_contextual_info": "Yu nació con una discapacidad visual congénita en la provincia de Sichuan, China y ha enfrentado y superado desafíos educativos y sociales asociados con su discapacidad."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Yu_Shuang",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/72104",
+        "https://www.biathlonworld.com/athlete/yu-shuang/44048",
+        "https://www.realbiathlon.com/"
+    ]
+}

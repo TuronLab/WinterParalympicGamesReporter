@@ -1,0 +1,43 @@
+﻿{
+    "name_of_the_athlete": "Mark Arendz",
+    "date_of_birth": "1990-03-03",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 21,
+    "world_cup_points": 275,
+    "country": "CAN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "6 medallas en los Juegos Paralímpicos de PyeongChang 2018 (1 Oro, 2 Plata, 3 Bronce). Medalla de Oro en la distancia media de esquí de fondo en la Copa del Mundo en Vuokatti, Finlandia.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Vancouver 2010, Sochi 2014, PyeongChang 2018 y Beijing 2022.",
+            "participation": "Compite también en biatlón.",
+            "achievements": "Medalla de Plata en los Juegos Paralímpicos de Sochi 2014 (7.5km de pie) y Bronce (12.5km de pie). Medallas de Plata en PyeongChang 2018 (7.5km, 12.5km) y Bronce (Relevo Mixto).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora constante a lo largo de los años, con actuaciones destacadas en 2018 y 2022.",
+            "preparation_style": "Entrenamiento enfocado en esquí de fondo y biatlón, utilizando equipos y técnicas especializadas.",
+            "personal_contextual_info": "Nació el 3 de marzo de 1990 en Charlottetown, Isla del Príncipe Eduardo. Perdió su brazo izquierdo en un accidente agrícola a los siete años. Activo en el servicio comunitario, incluyendo la construcción de escuelas en Nicaragua."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Plata en los Juegos Paralímpicos de Sochi 2014 (7.5km de pie) y Bronce (12.5km de pie).",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Sochi 2014 y PyeongChang 2018.",
+            "participation": "Compite también en esquí de fondo.",
+            "achievements": "Medallas de Plata en PyeongChang 2018 (7.5km, 12.5km) y Bronce (Relevo Mixto).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Mark Arendz](https://en.wikipedia.org/wiki/Mark_Arendz)",
+        "[Cross Country Canada - Mark Arendz](https://cccski.com/National-Ski-Team/Athlete-Information/Para-Nordic-World-Cup-Team/Mark-Arendz.html)",
+        "[Paralympic Canada - Mark Arendz](https://paralympic.ca/athlete/mark-arendz/)",
+        "[Nordiq Canada - Mark Arendz](https://nordiqcanada.ca/athlete/mark-arendz/)",
+        "[FIS - Mark Arendz](https://www.fis-ski.com/DB/general/athlete-biography.html?competitorid=289445)"
+    ]
+}

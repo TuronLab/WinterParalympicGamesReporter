@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Vasyl Kravchuk",
+    "date_of_birth": "1996-07-26",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 9,
+    "world_cup_points": 525,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de oro en el relevo abierto de 4x2.5 km en los Juegos Paralímpicos de Invierno 2022 (Pekín).",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de plata en el sprint de 7.5 km en la Copa del Mundo.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Compitió activamente en eventos de la Copa del Mundo, logrando múltiples podios.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Vasyl Kravchuk](https://en.wikipedia.org/wiki/Vasyl_Kravchuk)",
+        "[Paralympic.org - Vasyl Kravchuk](https://www.paralympic.org/vasyl-kravchuk)",
+        "[FIS - Biografía del Atleta Vasyl Kravchuk](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290939)",
+        "[Unión Internacional de Biatlón - Vasyl Kravchuk](https://www.biathlonworld.com/athlete/kravchuk-vasyl/35094)",
+        "[Espreso - Los Paralímpicos Ucranianos Ganaron Medallas](https://global.espreso.tv/ukraine-ukrainian-paralympians-win-8-medals-at-world-cup-in-cross-country-skiing-and-biathlon)",
+        "[Wikipedia - Vasyl Kravchuk](https://en.wikipedia.org/wiki/Vasyl_Kravchuk)",
+        "[Paralympic.org - Vasyl Kravchuk](https://www.paralympic.org/vasyl-kravchuk)",
+        "[FIS - Biografía del Atleta Vasyl Kravchuk](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290939)",
+        "[Unión Internacional de Biatlón - Vasyl Kravchuk](https://www.biathlonworld.com/athlete/kravchuk-vasyl/35094)",
+        "[Espreso - Los Paralímpicos Ucranianos Ganaron Medallas](https://global.espreso.tv/ukraine-ukrainian-paralympians-win-8-medals-at-world-cup-in-cross-country-skiing-and-biathlon)",
+        "[Wikipedia - Vasyl Kravchuk](https://en.wikipedia.org/wiki/Vasyl_Kravchuk)",
+        "[Paralympic.org - Vasyl Kravchuk](https://www.paralympic.org/vasyl-kravchuk)",
+        "[FIS - Biografía del Atleta Vasyl Kravchuk](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290939)",
+        "[Unión Internacional de Biatlón - Vasyl Kravchuk](https://www.biathlonworld.com/athlete/kravchuk-vasyl/35094)",
+        "[Espreso - Los Paralímpicos Ucranianos Ganaron Medallas](https://global.espreso.tv/ukraine-ukrainian-paralympians-win-8-medals-at-world-cup-in-cross-country-skiing-and-biathlon)"
+    ]
+}

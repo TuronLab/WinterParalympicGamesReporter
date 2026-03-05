@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Nicole Zaino",
+    "date_of_birth": "1996-02-25",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 9,
+    "world_cup_points": 357,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "4ª en biatlón de media distancia (2024), 6ª en carrera de esquí de fondo de media distancia (2024), 5ª en sprint de esquí de fondo (2024), 6ª en 12.5km Individual - Sentada - Mujeres (2025), 8ª en 7.5km Sprint - Sentada - Mujeres (2025), 6ª en Pursuit Sprint - Sentada - Mujeres (2025), Clasificada para el equipo de EE. UU. para los Juegos Paralímpicos de Invierno Milano Cortina 2026, Compitió en los Campeonatos Mundiales de Biatlón Para IBU 2025.",
+            "paralympic_participation": "Clasificada para los Juegos Paralímpicos de Invierno 2026 (Milano Cortina).",
+            "participation": "Hockey sobre trineo (jugó para Seattle Kraken de 2019 a 2023), Esquí alpino recreativo de 4 pistas.",
+            "achievements": "Desarrolló fuerza en la parte superior del cuerpo y movimiento de propulsión a través del hockey sobre trineo, lo que se tradujo en esquí sentado.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora constante observada a lo largo de la temporada 2024-25, Clasificada para la final de la temporada de la Copa del Mundo en Prince George, Columbia Británica (2024), Finalizaciones consistentes en el top 10 en varios eventos.",
+            "preparation_style": "Entrena durante todo el año enfocándose en la técnica de palos, escalada y resistencia. Utiliza esquís de rodillo y mountainboards para acondicionamiento. Aplica principios de biomecánica para mejorar la eficiencia en el esquí.",
+            "personal_contextual_info": "Sufrió un derrame cerebral a los 8 años que resultó en parálisis en el lado izquierdo de su cuerpo. Se mantuvo activa en varias actividades a lo largo de su infancia."
+        }
+    ],
+    "personal_data": "Ciudad natal: Brookfield, Connecticut. Educación: Licenciatura en Ciencias en Ingeniería Mecánica de la Universidad de Clarkson; Doctorado en Ingeniería Mecánica de la Universidad de Washington (2023).",
+    "reference_urls": [
+        "[Perfil de Team USA](https://www.teamusa.com/profiles/nicole-zaino)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291761)",
+        "[U.S. Para Nordic](https://www.usparanordic.org/news/2023/october/20/with-phd-in-hand-nicole-zaino-uses-a-scientific-approach-as-she-climbs-the-ranks-in-sit-skiing)",
+        "[Perfil de Team USA](https://www.teamusa.com/profiles/nicole-zaino)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291761)",
+        "[U.S. Para Nordic](https://www.usparanordic.org/news/2023/october/20/with-phd-in-hand-nicole-zaino-uses-a-scientific-approach-as-she-climbs-the-ranks-in-sit-skiing)",
+        "[Perfil de Team USA](https://www.teamusa.com/profiles/nicole-zaino)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291761)",
+        "[U.S. Para Nordic](https://www.usparanordic.org/news/2023/october/20/with-phd-in-hand-nicole-zaino-uses-a-scientific-approach-as-she-climbs-the-ranks-in-sit-skiing)"
+    ]
+}

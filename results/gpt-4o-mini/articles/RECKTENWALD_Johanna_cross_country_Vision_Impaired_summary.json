@@ -1,0 +1,57 @@
+﻿{
+    "name_of_the_athlete": "Johanna Recktenwald",
+    "date_of_birth": "2001-06-11",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 14,
+    "world_cup_points": 170,
+    "country": "GER",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "B2",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo Para",
+            "major_achievements": "4to lugar en Juegos Paralímpicos de Invierno 2022 en 10 km y 12.5 km; Medallas de plata en 12.5 km Individual y bronce en 7.5 km Sprint y Sprint Estilo Libre en Campeonatos Mundiales de Esquí Nórdico Para 2023; Medallas de plata en Sprint Clásico y 10 km Estilo Libre en Juegos Mundiales Universitarios de Invierno 2025.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2022 (Beijing); Seleccionada para los Juegos Paralímpicos de Invierno 2026.",
+            "participation": "Biatlón Para, Ciclismo Para (Ciclismo en Tándem).",
+            "achievements": "Medallista de oro en los Campeonatos Mundiales de Biatlón 2025; Reconocida como 'Para-Sportlerin des Jahres' en Alemania en 2025.",
+            "guide": "Trabaja con guía durante las competiciones para navegación visual.",
+            "performance_trends": "Progresión de resultados de 4to lugar en 2022 a múltiples podios en 2023, mostrando mejoras constantes en competiciones.",
+            "preparation_style": "Entrena con el Equipo de Biatlón de Saarland y en la base de entrenamiento olímpica en Friburgo, enfocado en cursos para discapacitados visuales.",
+            "personal_contextual_info": "Ciudadh natal en Marpingen, Saarland; residente en Friburgo im Breisgau; estudia educación en salud en PH Friburgo."
+        },
+        {
+            "sport_name": "Biatlón Para",
+            "major_achievements": "Medallista de oro en los Campeonatos Mundiales de Biatlón 2025.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2022 (Beijing).",
+            "participation": "Esquí de Fondo Para, Ciclismo Para (Ciclismo en Tándem).",
+            "achievements": "Reconocida como 'Para-Sportlerin des Jahres' en Alemania en 2025.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Ciclismo Para (Ciclismo en Tándem)",
+            "major_achievements": "Medallista de oro en los Campeonatos Mundiales de Biatlón 2025.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Esquí de Fondo Para, Biatlón Para.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Johanna_Recktenwald",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/64329",
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290940&type=result",
+        "https://www.zdfheute.de/sport/portraet-johanna-recktenwald-paralympics-2026-100.html",
+        "https://www.teamdeutschland-paralympics.de/athletinnen/details/johanna-recktenwald",
+        "https://biathlon23.wordpress.com/2024/08/30/johanna-recktenwald-the-interview/",
+        "https://www.johanna-recktenwald.de/ueber-mich/",
+        "https://www.sportschau.de/paralympics/deutschlands-para-sportlerin-des-jahres,johanna-recktenwald-120.html"
+    ]
+}

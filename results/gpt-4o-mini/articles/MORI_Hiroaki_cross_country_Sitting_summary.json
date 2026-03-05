@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "MORI Hiroaki",
+    "date_of_birth": "1996-04-26",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 31,
+    "world_cup_points": 186,
+    "country": "JPN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Invierno de Beijing 2022 y en los Campeonatos Mundiales de Esquí Nórdico Para 2019.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participó en múltiples competiciones internacionales con resultados variados, lo que indica un desarrollo continuo en su rendimiento.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290949)",
+        "[Perfil de Paralympic.org](https://www.paralympic.org/hiroaki-mori)",
+        "[Perfil de The Sports.org](https://www.the-sports.org/h-mori-cross-country-skiing-spf718311.html)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290949)",
+        "[Perfil de Paralympic.org](https://www.paralympic.org/hiroaki-mori)",
+        "[Perfil de The Sports.org](https://www.the-sports.org/h-mori-cross-country-skiing-spf718311.html)"
+    ]
+}

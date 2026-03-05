@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Natalia Kocherova",
+    "date_of_birth": "1990-02-23",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 19,
+    "world_cup_points": 174,
+    "country": "RUS",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de bronce en los 12.5 km Individual (Silla) en los Campeonatos Mundiales de Esquí Nórdico IPC 2015 y medalla de oro en el relevo mixto 4 x 2.5 km.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2014 y 2018.",
+            "participation": "Atletismo (Pista y Campo)",
+            "achievements": "5 Medallas de Oro (200m, 400m, 800m, 1500m, 5000m) y 1 Medalla de Plata en los Campeonatos Europeos de Atletismo IPC 2016.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos importantes desde 2014, con mejora notable en las posiciones de medallas.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació en Yegorovka, región de Omsk, Rusia. Tiene una pierna derecha amputada por encima de la rodilla debido a un accidente."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Natalia Kocherova](https://en.wikipedia.org/wiki/Natalia_Kocherova)",
+        "[Comité Paralímpico Internacional - Natalia Kocherova](https://www.paralympic.org/natalia-kocherova)",
+        "[FIS - Biografía del Atleta Natalia Kocherova](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289893)"
+    ]
+}

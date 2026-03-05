@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Ryohei Ariyasu",
+    "date_of_birth": "1987-02-02",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 20,
+    "world_cup_points": 257,
+    "country": "JPN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Información no pública disponible",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Beijing 2022; 7º lugar en Clase VI de Larga Distancia Masculina.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Beijing 2022.",
+            "participation": "Remo",
+            "achievements": "6º en la serie 2 y Final B en los Juegos Paralímpicos de Tokio 2020 (Remo).",
+            "guide": "Entrena con Yuhei Fujita como su guía en esquí de fondo.",
+            "performance_trends": "Compite regularmente en competiciones nacionales e internacionales, mostrando un compromiso constante.",
+            "preparation_style": "Entrenamiento enfocado en acondicionamiento integral, fuerza y resistencia.",
+            "personal_contextual_info": "Demuestra resiliencia y positividad, superando los desafíos de una discapacidad visual."
+        },
+        {
+            "sport_name": "Remo",
+            "major_achievements": "6º en Heat 2 y participación en Final B en los Juegos Paralímpicos de Tokio 2020.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Tokio 2020.",
+            "participation": "Esquí de fondo.",
+            "achievements": "Resultados en competiciones mundiales con clasificaciones alrededor de 5º a 6º.",
+            "guide": "Información no pública disponible",
+            "performance_trends": "Mantenido a través de diversas competiciones y eventos.",
+            "preparation_style": "Enfoque en la preparación general y específica para eventos de remo.",
+            "personal_contextual_info": "Información no pública disponible."
+        }
+    ],
+    "personal_data": "Ryohei ha mostrado resiliencia en su trayectoria como para-atleta.",
+    "reference_urls": [
+        "https://www.paralympic.org/ryohei-ariyasu",
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291455",
+        "https://english.kyodonews.net/articles/-/31778"
+    ]
+}

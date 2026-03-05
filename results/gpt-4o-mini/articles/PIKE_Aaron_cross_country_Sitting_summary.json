@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Aaron Pike",
+    "date_of_birth": "1986-05-04",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 10,
+    "world_cup_points": 510,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Oro en el evento de 12.5 km sentado, Plata en el sprint de 7.5 km, Plata en el evento de 10 km en los Campeonatos Mundiales de Esquí Nórdico Para 2023.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2014, 2018 y 2022.",
+            "participation": "Carreras en silla de ruedas",
+            "achievements": "16º en el maratón en silla de ruedas en los Juegos Paralímpicos de Verano 2012, 10º en el maratón en silla de ruedas en los Juegos Paralímpicos de Verano 2016, 2º en el Maratón de Boston 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró una mejora constante en eventos importantes, particularmente notada durante los Campeonatos Mundiales de Esquí Nórdico Para 2023.",
+            "preparation_style": "Equilibra su entrenamiento entre el esquí de fondo y las carreras en silla de ruedas, entrenando seis días a la semana.",
+            "personal_contextual_info": "Sufrió una lesión en la médula espinal T-11 a los 13 años debido a un accidente de caza. Su pareja es Oksana Masters, quien también es Paralímpica."
+        }
+    ],
+    "personal_data": "Ciudad natal: Park Rapids, Minnesota.",
+    "reference_urls": [
+        "[Wikipedia - Aaron Pike](https://en.wikipedia.org/wiki/Aaron_Pike_(athlete)",
+        "[Perfil de Team USA](https://www.teamusa.com/profiles/aaron-pike-808727)",
+        "[Park Rapids Enterprise - Pike set to compete](https://www.parkrapidsenterprise.com/sports/pike-set-to-compete-in-paralympic-winter-games)",
+        "[Park Rapids Enterprise - Pike places in top-10](https://www.parkrapidsenterprise.com/sports/pike-places-in-top-10-at-paralympic-games)",
+        "[Nordic Mag - Aaron Pike](https://www.nordicmag.info/en/para-biathlon-para-cross-country-skiing-american-aaron-pikes-summer-between-the-ski-slopes-and-the-athletics-track-0828/)",
+        "[Paralympic.org - Aaron Pike ready to race](https://www.paralympic.org/news/aaron-pike-ready-race-after-swapping-snow-road)"
+    ]
+}

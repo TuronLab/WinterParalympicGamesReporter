@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Nico Messinger",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 1,
+    "world_cup_points": 810,
+    "country": "GER",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Ganador de la Copa del Mundo General en Biatlón Masculino con discapacidad visual, temporada 2025; Medalla de plata en la carrera de 10 km en los Campeonatos Mundiales de Esquí Nórdico, 2023; 1er lugar en la carrera individual en el Para Biatlón Heimweltcup sobre 12.5 kilómetros, 9 de enero de 2026; 2º lugar en la carrera de 10 km en los Campeonatos Mundiales de Esquí Nórdico, 26 de enero de 2023.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno PyeongChang 2018 y Juegos Paralímpicos de Invierno Beijing 2022.",
+            "participation": "Esquí de Fondo Adaptado",
+            "achievements": "Medalla de plata en los sprints en los Campeonatos Mundiales de Esquí Nórdico, 2023.",
+            "guide": "Robin Wunderle",
+            "performance_trends": "Mantiene un patrón de actuaciones consistentes, evidenciado por múltiples finales en el podio y alta precisión en el tiro, acertando 19 de los 20 disparos en las últimas carreras.",
+            "preparation_style": "Nico Messinger enfatiza tanto la aptitud física como la precisión en el tiro, con un enfoque de mejora continua.",
+            "personal_contextual_info": "Edad: 31 (A partir de 2026). Origen: Friburgo, Alemania."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "https://www.teamdeutschland-paralympics.de/news/",
+        "https://drs.org/2023/"
+    ]
+}

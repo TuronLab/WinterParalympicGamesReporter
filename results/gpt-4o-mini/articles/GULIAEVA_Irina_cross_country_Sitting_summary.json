@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Irina Guliaeva",
+    "date_of_birth": "1984-05-17",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 20,
+    "world_cup_points": 166,
+    "country": "RUS",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "14ª en Clasificación de Sprint en la Copa del Mundo, Finsterau (17 de enero de 2026); 14ª en Final de Sprint en la Copa del Mundo, Finsterau (17 de enero de 2026); 12ª en Salida Masiva en la Copa del Mundo, Finsterau (15 de enero de 2026); 7ª en Salida por Intervalos en los Campeonatos Mundiales, Lillehammer (18 de enero de 2022); 6ª en Salida por Intervalos en la Copa del Mundo, Canmore (5 de diciembre de 2021).",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de 2018 representando a Atletas Paralímpicos Neutros.",
+            "participation": "Atletismo",
+            "achievements": "6ª en 200 m T54 Femenino (Final) en los Campeonatos Mundiales de Atletismo IPC (2015); 5ª en 800 m T54 Femenino (Final) en los Campeonatos Mundiales de Atletismo IPC (2015).",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo, generalmente ubicándose dentro del top 20. Mejora notable observada en los Campeonatos Mundiales, logrando un 7º lugar en el evento de Salida por Intervalos.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290259&type=result)",
+        "[IPC](https://www.paralympic.org/irina-guliaeva)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290259&type=result)",
+        "[IPC](https://www.paralympic.org/irina-guliaeva)"
+    ]
+}

@@ -1,0 +1,47 @@
+﻿{
+    "name_of_the_athlete": "Pavlo Bal",
+    "date_of_birth": "1986-06-12",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 11,
+    "world_cup_points": 318,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Múltiple medallista en Campeonatos Mundiales en carreras de esquí y biatlón en eventos individuales y por equipos.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de 2024, ganando una medalla de bronce en handbike de ruta.",
+            "participation": "Esquí de Fondo Para, Ciclismo Para (Handbike de Ruta)",
+            "achievements": "Medallista de bronce en handbike de ruta en los Juegos Paralímpicos de 2024.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Promedios y tendencias de rendimiento específicos no están disponibles públicamente.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Pavlo Bal perdió sus piernas en un accidente a la edad de 30 años, pero encontró fuerza en el deporte, entrenando extensamente y compitiendo a altos niveles."
+        },
+        {
+            "sport_name": "Ciclismo Para (Handbike de Ruta)",
+            "major_achievements": "Medallista de bronce en los Juegos Paralímpicos de 2024.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de 2024.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/bal-pavlo/44276)",
+        "[Sokal Voice - Campeón del Mundo en Carreras de Esquí](https://golossokal.com.ua/en/inshi-vydy/pavlo-bal-z-lvivshchyny-chempion-svitu-z-lyzhnykh-perehoniv.html)",
+        "[Obozrevatel - Perfil del Atleta](https://eng.obozrevatel.com/section-sport/news-lost-his-legs-and-found-the-strength-to-be-reborn-the-story-of-a-paralympian-who-won-a-historic-medal-for-ukraine-09-11-2024.html)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/bal-pavlo/44276)",
+        "[Sokal Voice - Campeón del Mundo en Carreras de Esquí](https://golossokal.com.ua/en/inshi-vydy/pavlo-bal-z-lvivshchyny-chempion-svitu-z-lyzhnykh-perehoniv.html)",
+        "[Obozrevatel - Perfil del Atleta](https://eng.obozrevatel.com/section-sport/news-lost-his-legs-and-found-the-strength-to-be-reborn-the-story-of-a-paralympian-who-won-a-historic-medal-for-ukraine-09-11-2024.html)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/bal-pavlo/44276)",
+        "[Sokal Voice - Campeón del Mundo en Carreras de Esquí](https://golossokal.com.ua/en/inshi-vydy/pavlo-bal-z-lvivshchyny-chempion-svitu-z-lyzhnykh-perehoniv.html)",
+        "[Obozrevatel - Perfil del Atleta](https://eng.obozrevatel.com/section-sport/news-lost-his-legs-and-found-the-strength-to-be-reborn-the-story-of-a-paralympian-who-won-a-historic-medal-for-ukraine-09-11-2024.html)"
+    ]
+}

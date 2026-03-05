@@ -1,0 +1,45 @@
+﻿{
+    "name_of_the_athlete": "WANG Tao",
+    "date_of_birth": "1997-02-27",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 26,
+    "world_cup_points": 232,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participó en los Juegos Paralímpicos de Invierno de Pekín 2022, logrando múltiples posiciones destacadas.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de Pekín 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Compitió activamente en los Juegos Paralímpicos de Invierno 2022 con posiciones consistentes en el top 10.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291294&type=cups&cupcode=WC)",
+        "[Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291294&type=cups&cupcode=WC)",
+        "[Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Fuente: Perfil IPC](https://www.paralympic.org/tao-wang-0)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291294&type=cups&cupcode=WC)",
+        "[Perfil IPC](https://www.paralympic.org/tao-wang-0)"
+    ]
+}

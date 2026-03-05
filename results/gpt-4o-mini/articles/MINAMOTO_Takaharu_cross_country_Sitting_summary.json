@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Takaharu Minamoto",
+    "date_of_birth": "1980-05-16",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 29,
+    "world_cup_points": 202,
+    "country": "JPN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "3er lugar en el 1km (sentado) en los 27º Campeonatos Nacionales de Esquí de Fondo de Japón para Personas con Discapacidad (2025). 3er lugar en el 2.5km LW12 en los 27º Campeonatos Nacionales de Esquí de Fondo Para de Japón (2025). 2do lugar en el 5km (sentado) en la Copa Paracontinental de la FIS (Copa de Asia) en Sapporo (2025). 7mo lugar en el Sprint Combinado LW12 en la Copa Paracontinental de la FIS (Copa de Asia) en Sapporo (2025).",
+            "paralympic_participation": "Actualmente se está preparando para los Juegos Paralímpicos de Milán-Cortina 2026 en esquí de fondo.",
+            "participation": "Biatlón",
+            "achievements": "13er lugar en el Sprint 7.5km (sentado) en los Campeonatos Mundiales de Biatlón Para de la IBU 2025. 11er lugar en el Sprint 7.5km (sentado) en la Copa Mundial de Biatlón Para de la IBU 2025.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Clasificación general 39 con 29 puntos en 2022. Clasificación general 21 con 249 puntos en 2023. Clasificación general 14 con 370 puntos en 2024. Clasificación general 18 con 306 puntos en 2025. Clasificación general 29 con 202 puntos en 2026.",
+            "preparation_style": "Se centra en mejorar su precisión en biatlón mientras se prepara para los Juegos Paralímpicos.",
+            "personal_contextual_info": "Es parte del Proyecto de Fortalecimiento de Atletas Para de Tokio, que apoya a los atletas con conexiones a Tokio."
+        }
+    ],
+    "personal_data": "Reside en Kitahiroshima, Japón y está afiliado a Amgen KK.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291456&type=cups&cupcode=WC)",
+        "[Sports Tokyo](https://en.sports-tokyo-info.metro.tokyo.lg.jp/athlete/athlete/676.html)",
+        "[Japan Daily](https://japandaily.jp/cross-country-skiing-gains-power-aiming-for-milan-2026-paralympics/)",
+        "[Japan Para-Ski Federation](https://jps-ski.com/players/takaharu-minamoto)"
+    ]
+}

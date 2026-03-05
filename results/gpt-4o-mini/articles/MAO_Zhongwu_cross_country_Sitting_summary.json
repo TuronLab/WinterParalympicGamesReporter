@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Mao Zhongwu",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 21,
+    "world_cup_points": 277,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de oro en Medio Fondo Sentado Masculino (10 km), Medalla de plata en Fondo Largo Sentado Masculino (18 km), Medalla de plata en Sprint Sentado Masculino (1.5 km) en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró podios en todos los eventos en los que participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Mao Zhongwu tiene 36 años a partir de 2022 y es originario de Dalian, China. Tiene una discapacidad resultante de una paraplejía alta debido a un accidente que ocurrió hace 16 años."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia](https://en.wikipedia.org/wiki/Mao_Zhongwu)",
+        "[China Daily](https://global.chinadaily.com.cn/a/202204/08/WS624fb050a310fd2b29e55d0f_1.html)",
+        "[Entrevista REHACARE](https://www.rehacare.com/en/personality/Interview-Mao-Zhongwu-Paralympics-winner-inclusion-ambassador)"
+    ]
+}

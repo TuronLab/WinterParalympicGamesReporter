@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Cristian Westemaier Ribera",
+    "date_of_birth": "2002-11-13",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 18,
+    "world_cup_points": 289,
+    "country": "BRA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de plata en Esquí Sprint - Clásico en Silla en los Campeonatos Mundiales de Lillehammer 2021, Medalla de oro en Esquí Sprint en Silla en los Campeonatos Mundiales en Trondheim, Noruega (marzo de 2025), Oro en ambas distancias de 5 km y 800 m en sprint en la Copa Continental en Beitostolen, Noruega (noviembre de 2025).",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno PyeongChang 2018 y Beijing 2022, y se está preparando para los Juegos Paralímpicos de Invierno Milano Cortina 2026.",
+            "participation": "Cristian también ha competido en atletismo para personas con discapacidad.",
+            "achievements": "Medalla de plata en atletismo para personas con discapacidad en los Juegos Parapanamericanos Santiago 2023 (detalles específicos del evento no disponibles).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Cristian ha demostrado una notable trayectoria ascendente en su rendimiento, logrando un total de 13 podios, con 7 ocurriendo en la temporada 2024/2025.",
+            "preparation_style": "Cristian entrena con esquís de ruedas para simular el esquí de fondo y ha participado en campamentos de entrenamiento en Ushuaia, Argentina, y Val di Fiemme, Italia.",
+            "personal_contextual_info": "Cristian nació con artrogriposis múltiple congénita y ha pasado por más de 20 cirugías. Su introducción al deporte fue parte de su rehabilitación."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia](https://en.wikipedia.org/wiki/Cristian_Ribera)",
+        "[Paralympic.org](https://www.paralympic.org/cristian-westemaier-ribera)",
+        "[Latin American News](https://latin-american.news/cristian-ribeira-wins-2-gold-medals-in-cross-country-skiing-in-norway/)",
+        "[FIS Ski](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290886)",
+        "[Paralympic Feature](https://www.paralympic.org/feature/road-milano-cortina-2026-cristian-westemaier-ribera)"
+    ]
+}

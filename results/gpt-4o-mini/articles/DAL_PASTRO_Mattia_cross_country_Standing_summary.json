@@ -1,0 +1,37 @@
+﻿{
+    "name_of_the_athlete": "Mattia Dal Pastro",
+    "date_of_birth": "1988-07-12",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 30,
+    "world_cup_points": 212,
+    "country": "ITA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de oro en Esquí de Fondo Nórdico en los Juegos Invictus 2025, Medalla de plata en Para Esquí de Fondo de Pie en los Juegos Mundiales Militares de Invierno en Lucerna.",
+            "paralympic_participation": "Actualmente activo en esquí de fondo, compitiendo en eventos internacionales.",
+            "participation": "Anteriormente participó en hockey sobre ruedas antes de pasar al esquí de fondo.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Puntos FIS: 162.19 (7ª lista de puntos FIS 2025/26), 167.85 (6ª lista de puntos FIS 2025/26), 191.86 (5ª lista de puntos FIS 2025/26), 208.00 (4ª lista de puntos FIS 2025/26), 232.14 (4ª lista de puntos FIS 2025/26).",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Edad: 37, Código FIS: 100885, Estado: Activo."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291751)",
+        "[Difesa](https://www.difesa.it/primopiano/invictus-games-primo-oro-per-il-team-italia/64825.html)",
+        "[Paralimpici](https://www.paralimpici.it/news/giochi-mondiali-militari-di-lucerna/)",
+        "[Fuente: Difesa](https://www.difesa.it/primopiano/invictus-games-primo-oro-per-il-team-italia/64825.html)",
+        "[Fuente: Paralimpici](https://www.paralimpici.it/news/giochi-mondiali-militari-di-lucerna/)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291751)",
+        "[Difesa](https://www.difesa.it/primopiano/invictus-games-primo-oro-per-il-team-italia/64825.html)",
+        "[Paralimpici](https://www.paralimpici.it/news/giochi-mondiali-militari-di-lucerna/)",
+        "https://www.difesa.it/primopiano/invictus-games-primo-oro-per-il-team-italia/64825.html]",
+        "https://www.paralimpici.it/news/giochi-mondiali-militari-di-lucerna/]"
+    ]
+}

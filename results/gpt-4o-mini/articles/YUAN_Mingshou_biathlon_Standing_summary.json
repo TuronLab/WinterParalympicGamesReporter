@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "YUAN Mingshou",
+    "date_of_birth": "1996-07-06",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 22,
+    "world_cup_points": 146,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW5/7",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "5to lugar en Sprint Masculino de Pie, 8vo lugar en Media Distancia Masculina de Pie, 9no lugar en Individual Masculino de Pie en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Compite también en Esquí Nórdico como parte de los eventos de Para Esquí de Fondo.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "El rendimiento en los Juegos Paralímpicos de Invierno de Beijing 2022 indica una fuerte presencia competitiva, con posiciones en el top diez en múltiples eventos.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Nació el 6 de julio de 1996 y representa a la República Popular China.",
+    "reference_urls": [
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/yuan-mingshou/44056)",
+        "[Perfil IPC](https://www.paralympic.org/mingshou-yuan)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291285)"
+    ]
+}

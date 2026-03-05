@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Kjartan Haugen",
+    "date_of_birth": "1975-03-06",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 40,
+    "world_cup_points": 135,
+    "country": "NOR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW4",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "1er Lugar en la Final de Sprint Masculino de 1 km en Beitostoelen (NOR) el 21 de noviembre de 2025; 1er Lugar en la Final de Sprint Masculino de 1 km en Gaalaa (NOR) el 29 de noviembre de 2025.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Haugen ha demostrado un rendimiento consistente con múltiples podios en eventos de sprint, lo que indica una fuerte capacidad en carreras de corta distancia.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Kjartan Haugen nació el 6 de marzo de 1975, lo que lo hace tener 50 años en la actualidad. Es un competidor activo que representa a Noruega en el esquí de fondo."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289490)",
+        "[Resultados FIS - Finsterau (GER)](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=711)",
+        "[Resultados FIS - Gaalaa (NOR)](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=3780)",
+        "[Resultados FIS - Beitostoelen (NOR)](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=794)"
+    ]
+}

@@ -1,0 +1,49 @@
+﻿{
+    "name_of_the_athlete": "Marco Maier",
+    "date_of_birth": "1988-06-07",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 4,
+    "world_cup_points": 489,
+    "country": "GER",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de plata en los Juegos Paralímpicos de 2022 en Pekín, evento de 6 km (Tiempo: 17:03.4 minutos)",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de 2022",
+            "participation": "Compite en esquí nórdico",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró una notable medalla de plata en los Juegos Paralímpicos de 2022, finalizando detrás de Grigori Wowtschinski (Ucrania) y delante de Mark Arendz (Canadá)",
+            "preparation_style": "Emplea un riguroso régimen de entrenamiento que incluye un extenso entrenamiento de verano con handbike y esquí sobre ruedas, seguido por un perfeccionamiento de la técnica durante los eventos de la Copa del Mundo",
+            "personal_contextual_info": "Perdió su pierna izquierda en un ataque en Irak en 2019 durante una misión con las Fuerzas Especiales, lo que lo llevó a hacer la transición al deporte competitivo"
+        },
+        {
+            "sport_name": "Esquí Nórdico",
+            "major_achievements": "2x Oro en los Juegos Mundiales Universitarios de Invierno en eventos de 10 km y sprint",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Oro en eventos de 10 km y sprint en los Juegos Mundiales Universitarios de Invierno",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Nació el 7 de junio de 1988 en Bagno a Ripoli, Italia. Su trayectoria en el deporte comenzó después de una lesión que cambió su vida durante una misión en Irak.",
+    "reference_urls": [
+        "[Fuente: T-Online](https://www.t-online.de/sport/olympia/id_91775186/paralympics-marco-maier-ueberrascht-mit-silber-beim-biathlon-auftakt.html)",
+        "[Fuente: SV Kirchzarten](https://svkirchzarten.de/parasport/2025/01/20/2x-gold-fuer-marco-maier/)",
+        "[Fuente: Süddeutsche Zeitung](https://www.sueddeutsche.de/service/behindertensport-marco-maier-ueberrascht-mit-silber-beim-biathlon-auftakt-dpa.urn-newsml-dpa-com-20090101-220305-99-393154)",
+        "[Fuente: T-Online](https://www.t-online.de/sport/olympia/id_91775186/paralympics-marco-maier-ueberrascht-mit-silber-beim-biathlon-auftakt.html)",
+        "[Fuente: SV Kirchzarten](https://svkirchzarten.de/parasport/2025/01/20/2x-gold-fuer-marco-maier/)",
+        "[Fuente: SV Kirchzarten](https://svkirchzarten.de/parasport/2025/01/20/2x-gold-fuer-marco-maier/)",
+        "[Fuente: Süddeutsche Zeitung](https://www.sueddeutsche.de/service/behindertensport-marco-maier-ueberrascht-mit-silber-beim-biathlon-auftakt-dpa.urn-newsml-dpa-com-20090101-220305-99-393154)",
+        "[Fuente: SV Kirchzarten](https://svkirchzarten.de/parasport/2025/01/20/2x-gold-fuer-marco-maier/)",
+        "[T-Online](https://www.t-online.de/sport/olympia/id_91775186/paralympics-marco-maier-ueberrascht-mit-silber-beim-biathlon-auftakt.html)",
+        "[Süddeutsche Zeitung](https://www.sueddeutsche.de/service/behindertensport-marco-maier-ueberrascht-mit-silber-beim-biathlon-auftakt-dpa.urn-newsml-dpa-com-20090101-220305-99-393154)",
+        "[SV Kirchzarten](https://svkirchzarten.de/parasport/2025/01/20/2x-gold-fuer-marco-maier/)"
+    ]
+}

@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Uladzislau Kandratau",
+    "date_of_birth": "2003-08-05",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 40,
+    "world_cup_points": 128,
+    "country": "BLR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Participación en los Campeonatos Mundiales de Para Deportes de Nieve de Lillehammer 2021.",
+            "paralympic_participation": "Clasificado para los Juegos Paralímpicos de 2022, pero no participó.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participó en múltiples eventos con clasificaciones que varían del 14º al 21º.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Atleta activo a la edad de 22 años, compitiendo en la categoría LW12."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil del Comité Paralímpico Internacional](https://www.paralympic.org/uladzislau-kandratau)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291499)",
+        "[Resultados de la Copa Europa WPNS](https://live.ultimate.dk/desktop/front/index.php?eventid=5478001&ignoreuseragent=true)",
+        "[Artículo de SB.by](https://www.sb.by/en/i-can.html)"
+    ]
+}

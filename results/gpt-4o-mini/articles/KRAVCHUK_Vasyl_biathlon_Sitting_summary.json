@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Vasyl Kravchuk",
+    "date_of_birth": "1996-07-26",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 7,
+    "world_cup_points": 449,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de plata en el relevo por equipos en los Campeonatos Mundiales de Biatlón Paralímpico 2024 en Canadá (con Taras Rad).",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Esquí de fondo",
+            "achievements": "Medalla de oro en el relevo abierto de 4 × 2.5 km en los Juegos Paralímpicos de Invierno 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Los promedios de rendimiento específicos y las tendencias para Kravchuk en biatlón no están disponibles públicamente.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Vasyl Kravchuk nació el 26 de julio de 1996 en Skole, Ucrania. Representa a Ucrania en competiciones internacionales."
+        },
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de oro en el relevo abierto de 4 × 2.5 km en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Enlace](https://www.biathlonworld.com/athlete/kravchuk-vasyl/35094)",
+        "[Enlace](https://en.wikipedia.org/wiki/Vasyl_Kravchuk)",
+        "[Enlace](https://unn.ua/en/news/ukraines-para-biathlon-team-wins-world-cup-in-canada)"
+    ]
+}

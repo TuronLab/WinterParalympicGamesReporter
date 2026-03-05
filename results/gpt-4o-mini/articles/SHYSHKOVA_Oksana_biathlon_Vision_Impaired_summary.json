@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Oksana Shyshkova",
+    "date_of_birth": "1991-06-10",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 10,
+    "world_cup_points": 227,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "2014 Juegos Paralímpicos de Invierno: 4 Medallas de Bronce (3 en Biatlón, 1 en Esquí de Fondo). 2018 Juegos Paralímpicos de Invierno: Medalla de Oro - Biatlón 10km visualmente impaired, Medalla de Plata - Biatlón 6km visualmente impaired, Medalla de Bronce - Relevo mixto.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno 2010 (sin medallas), 2014 (4 medallas), 2018 (5 medallas), 2022 (varias medallas).",
+            "participation": "Esquí de Fondo",
+            "achievements": "Múltiples medallas en eventos de esquí de fondo en Campeonatos Mundiales y competiciones paralímpicas.",
+            "guide": "Vitaliy Kazakov",
+            "performance_trends": "2016-2017: Temporada de ruptura; 2018-2019: Competitividad en el Circuito de la Copa del Mundo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://es.wikipedia.org/wiki/Oksana_Shyshkova",
+        "https://www.biathlonworld.com/athlete/shyshkova-oksana/13657",
+        "https://www.paralympic.org/oksana-shyshkova",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/20442"
+    ]
+}

@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Oleksandra Danylenko",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 6,
+    "world_cup_points": 332,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Competidora en los Juegos Paralímpicos de 2026 (próximos). Ha logrado múltiples podios en eventos de esquí de fondo así como en biatlón a lo largo de los años.",
+            "paralympic_participation": "Competidora en los Juegos Paralímpicos, incluyendo Vancouver 2010 y Beijing 2022.",
+            "participation": "Participó principalmente en eventos de biatlón.",
+            "achievements": "Aseguró múltiples títulos en biatlón junto con competiciones de esquí de fondo.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos importantes, con actuaciones recientes que indican un regreso a la forma tras problemas de salud durante 2017-18.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Criada por su abuela, se involucró en el deporte tras experimentar acoso durante su infancia debido a su discapacidad."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=292161&type=cups&cupcode=WC",
+        "https://www.biathlonworld.com/athlete/danylenko-oleksandra/61904?tab=results",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/20506"
+    ]
+}

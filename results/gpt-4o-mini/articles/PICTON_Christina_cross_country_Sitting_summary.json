@@ -1,0 +1,48 @@
+﻿{
+    "name_of_the_athlete": "Christina Picton",
+    "date_of_birth": "1993-04-06",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 8,
+    "world_cup_points": 401,
+    "country": "CAN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "6º en Sprint de Esquí de Fondo Sentado, 7º en Sprint de Biatlón Sentado, 7º en Biatlón Individual Sentado, 8º en Biatlón de Media Distancia Sentado en los Juegos Paralímpicos de Invierno 2022 (Pekín); 3er lugar en Biatlón Individual 12.5 km en los Campeonatos Mundiales de Esquí Nórdico Para 2023 (Östersund); 4º en el individual de 12.5 km en el circuito de la Copa del Mundo de Biatlón Para en enero de 2026.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2022 (Pekín).",
+            "participation": "Hockey sobre Hielo Para",
+            "achievements": "Medalla de plata en los primeros Campeonatos Mundiales de Hockey sobre Hielo Para Femenino en 2025.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Finales consistentes entre los ocho primeros en competiciones importantes desde su debut.",
+            "preparation_style": "Descubrió el esquí nórdico para a través de un participante en su programa de hockey sobre hielo. Progresó rápidamente desde su primera carrera hasta obtener el estatus de equipo provincial en 2019.",
+            "personal_contextual_info": "Nació con deficiencia femoral congénita, lo que llevó a la amputación de su pierna derecha a los 16 años."
+        },
+        {
+            "sport_name": "Hockey sobre Hielo Para",
+            "major_achievements": "Miembro del Equipo Nacional Femenino de Hockey sobre Hielo en Trineo de Canadá desde 2006; capitana durante la temporada 2014-15; primera mujer en probar suerte para el equipo masculino de hockey sobre hielo para de Hockey Canadá en 2019.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Lideró a Canadá a la medalla de plata en los primeros Campeonatos Mundiales de Hockey sobre Hielo Para Femenino en 2025.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Christina Picton](https://en.wikipedia.org/wiki/Christina_Picton)",
+        "[Comité Paralímpico Canadiense - Christina Picton](https://paralympic.ca/athlete/christina-picton/)",
+        "[Nordiq Canada - Christina Picton](https://nordiqcanada.ca/athlete/christina-picton/)",
+        "[Grokipedia - Christina Picton](https://grokipedia.com/page/christina_picton)",
+        "[Vaughan Today - Tres medallas para Canadá en el Sprint de Esquí de Fondo Para](https://www.vaughantoday.ca/three-medals-for-canada-in-parasky-cross-country-sprint/)",
+        "[Wikipedia - Christina Picton](https://en.wikipedia.org/wiki/Christina_Picton)",
+        "[Comité Paralímpico Canadiense - Christina Picton](https://paralympic.ca/athlete/christina-picton/)",
+        "[Nordiq Canada - Christina Picton](https://nordiqcanada.ca/athlete/christina-picton/)",
+        "[Grokipedia - Christina Picton](https://grokipedia.com/page/christina_picton)",
+        "[Vaughan Today - Tres medallas para Canadá en el Sprint de Esquí de Fondo Para](https://www.vaughantoday.ca/three-medals-for-canada-in-parasky-cross-country-sprint/)"
+    ]
+}

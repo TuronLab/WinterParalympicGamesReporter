@@ -1,0 +1,39 @@
+﻿{
+    "name_of_the_athlete": "Oleksandra KONONOVA",
+    "date_of_birth": "1991-02-27",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 8,
+    "world_cup_points": 476,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "3er lugar en la prueba de 6 km de salida en intervalos de mujeres de pie libre en Szklarska Poreba-Jakuszyce (2026). 9no lugar en la final de sprint de 1.5 km de mujeres de pie clásica en Finsterau (2026). 4to lugar en la clasificación de sprint de 1.5 km de mujeres de pie clásica en Finsterau (2026). 4to lugar en la clasificación de sprint de 1.5 km de mujeres de pie libre en Canmore (2025).",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo con posiciones típicamente dentro del top 10.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS - Esquí de Fondo Para](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289538&type=fispoints)",
+        "[Resultados de Esquí de Fondo Para - Szklarska Poreba-Jakuszyce](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=828)",
+        "[Resultados de Esquí de Fondo Para - Finsterau (GER)](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=710)",
+        "[Resultados de Esquí de Fondo Para - Canmore (CAN)](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=624)",
+        "[Biografía del Atleta FIS - Esquí de Fondo Para](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289538&type=fispoints)",
+        "[Resultados de Esquí de Fondo Para - Szklarska Poreba-Jakuszyce](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=828)",
+        "[Resultados de Esquí de Fondo Para - Finsterau (GER)](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=710)",
+        "[Resultados de Esquí de Fondo Para - Canmore (CAN)](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=624)",
+        "[Biografía del Atleta FIS - Esquí de Fondo Para](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289538&type=fispoints)",
+        "[Resultados de Esquí de Fondo Para - Szklarska Poreba-Jakuszyce](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=828)",
+        "[Resultados de Esquí de Fondo Para - Finsterau (GER)](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=710)",
+        "[Resultados de Esquí de Fondo Para - Canmore (CAN)](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=624)"
+    ]
+}

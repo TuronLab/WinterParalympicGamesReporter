@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Sergey Ussoltsev",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 12,
+    "world_cup_points": 313,
+    "country": "KAZ",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Biathlon",
+            "major_achievements": "Compitió en múltiples eventos en los Juegos Paralímpicos de Invierno 2017/2018.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno 2017/2018.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Los datos de rendimiento específicos no están disponibles públicamente.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Kazajistán en los Juegos Paralímpicos de Invierno 2022 - Wikipedia](https://en.wikipedia.org/wiki/Kazakhstan_at_the_2022_Winter_Paralympics)",
+        "[RaceTimePro - Resultados de Sergey Ussoltsev](https://winter.racetime.pro/crosscountry/international/2023-2024/event/592/results/competition/1519)",
+        "[Qazinform - Yerbol Khamitov gana bronce en la Copa del Mundo de Biatlón Paralímpico](https://qazinform.com/news/yerbol-khamitov-hauls-bronze-at-paralympic-biathlon-world-cup)"
+    ]
+}

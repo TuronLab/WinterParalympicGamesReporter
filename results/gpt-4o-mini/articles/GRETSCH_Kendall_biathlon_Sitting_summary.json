@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Kendall Gretsch",
+    "date_of_birth": "1992-04-02",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 4,
+    "world_cup_points": 580,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de oro en 6 km Sentados Femenino y 12 km Sentados Femenino en los Juegos Paralímpicos de Invierno de PyeongChang 2018. Medalla de oro en 10 km Medio - Sentados - Mujeres en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de PyeongChang 2018 y Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Primera atleta femenina de EE. UU. en ganar una medalla de oro en biatlón.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Gretsch ha demostrado una mejora y éxito constantes desde su debut en 2018.",
+            "preparation_style": "Se enfoca en la eficiencia del esquí y la precisión de tiro.",
+            "personal_contextual_info": "Diagnosticada con espina bífida, mide 5'0\" y es alumna de la Universidad de Washington en St. Louis."
+        },
+        {
+            "sport_name": "Paratriatlón",
+            "major_achievements": "Medalla de oro en los Juegos Paralímpicos de Tokio 2020.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Tokio 2020.",
+            "participation": "Information not publicly available",
+            "achievements": "Múltiples campeonatos mundiales en paratriatlón de 2014 a 2016.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Nacida el 2 de abril de 1992 en Downers Grove, Illinois.",
+    "reference_urls": [
+        "[Kendall Gretsch - Team USA](https://www.teamusa.com/profiles/kendall-gretsch-1078035)",
+        "[Kendall Gretsch - International Biathlon Union](https://www.biathlonworld.com/athlete/gretsch-kendall/19851)",
+        "[Kendall Gretsch - Paralympic.org](https://www.paralympic.org/athlete/kendall-gretsch)",
+        "[Kendall Gretsch - Wikipedia](https://en.wikipedia.org/wiki/Kendall_Gretsch)"
+    ]
+}

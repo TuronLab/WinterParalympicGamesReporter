@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Anastasiia Bagiian",
+    "date_of_birth": "2001-10-19",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 9,
+    "world_cup_points": 270,
+    "country": "RUS",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "NS1",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "3ª posición en Sprint Femenino (Lillehammer, 2022) y varias posiciones destacadas en la Copa del Mundo.",
+            "paralympic_participation": "Programada para participar en los Juegos Paralímpicos de Milano Cortina 2026 (6-15 de marzo de 2026).",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Clasificación General de la Copa del Mundo 2022: 4ª (376 puntos); Clasificación General de la Copa del Mundo 2026: 9ª (270 puntos).",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Competidora activa en la categoría de discapacidad visual."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291608&type=cups&cupcode=WC",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/66778",
+        "https://www.paralympic.org/anastasiia-bagiian"
+    ]
+}

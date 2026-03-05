@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Vilde Nilsen",
+    "date_of_birth": "2001-01-12",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 1,
+    "world_cup_points": 920,
+    "country": "NOR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW4",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de plata en los Juegos Paralímpicos de Invierno de 2018 en el Sprint Clásico de 1.5 km Femenino. Medalla de oro en los Campeonatos Mundiales de Deportes de Nieve para Personas con Discapacidad de 2021 en los 10 km Femenino. Medalla de plata en los Juegos Paralímpicos de Invierno de 2022 en el Sprint Libre Femenino. Medalla de bronce en los Juegos Paralímpicos de Invierno de 2022 en el Relevo Abierto 4x2.5 km.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2018 y 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de plata en Biatlón en Copas del Mundo. Medalla de bronce en Biatlón en los Campeonatos Mundiales de Esquí Nórdico para Personas con Discapacidad de 2019.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Nilsen ha mostrado un patrón consistente de éxito, ganando frecuentemente medallas en eventos importantes. Desde 2018 hasta 2022, demostró una mejora notable, logrando más finales en el podio y ampliando su colección de medallas.",
+            "preparation_style": "Vilde Nilsen dedica aproximadamente 700 horas anuales a su régimen de entrenamiento, enfocándose tanto en el desarrollo físico como mental.",
+            "personal_contextual_info": "Nacida el 12 de enero de 2001 en Tromsø, Noruega, Nilsen fue diagnosticada con esclerodermia lineal a la edad de 8 años, lo que ha afectado su movilidad."
+        }
+    ],
+    "personal_data": "Fuera del deporte, disfruta de pasatiempos como la pesca, la caza y tocar instrumentos musicales, incluyendo el violín, la guitarra y el piano.",
+    "reference_urls": [
+        "[Wikipedia - Vilde Nilsen](https://en.wikipedia.org/wiki/Vilde_Nilsen)",
+        "[Paralympic.org - Vilde Nilsen](https://www.paralympic.org/vilde-nilsen)",
+        "[Skiforbundet - Vilde Nilsen](https://www.skiforbundet.no/langrenn/landslagene/utoverprofil/vilde-nilsen/)"
+    ]
+}

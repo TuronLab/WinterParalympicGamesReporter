@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Shan Yilin",
+    "date_of_birth": "2001-04-03",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 23,
+    "world_cup_points": 122,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de Plata en el Relevo Mixto 4x2.5km en los Juegos Paralímpicos de Beijing 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2022.",
+            "participation": "Compite también en biatlón.",
+            "achievements": "3er lugar en la Individual Femenina Sentada y 4to lugar en la Media Distancia Femenina Sentada en los Juegos Paralímpicos de Beijing 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Compitió activamente en los Juegos Paralímpicos de Beijing 2022 con colocaciones notables.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Plata en el Biatlón Femenino 6 km Sentado y Medalla de Bronce en el Biatlón Femenino 12.5 km Sentado en los Juegos Paralímpicos de Beijing 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2022.",
+            "participation": "Compite también en esquí de fondo.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Fecha de Nacimiento: 3 de abril de 2001. Nacionalidad: China.",
+    "reference_urls": [
+        "[Wikipedia - Shan Yilin](https://en.wikipedia.org/wiki/Shan_Yilin)",
+        "[FIS - Biografía del Atleta Yilin SHAN](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290797)",
+        "[Paralympic.org - Yilin Shan](https://www.paralympic.org/yilin-shan)"
+    ]
+}

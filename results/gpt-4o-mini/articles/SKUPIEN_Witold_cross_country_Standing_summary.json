@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Witold Skupien",
+    "date_of_birth": "1989-06-07",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 8,
+    "world_cup_points": 416,
+    "country": "POL",
+    "category": "Standing",
+    "paralympic_category_lw": "LW5/7",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de oro en la categoría masculina de pie en los Campeonatos Mundiales de Esquí Nórdico Para FIS.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Beijing 2022 y programado para competir en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Finales consistentes en el podio en la temporada 2026 con un total de 4 podios (1 oro, 2 platas y 1 bronce).",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290075)",
+        "[Resultados FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290075)",
+        "[Resultados FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC)"
+    ]
+}

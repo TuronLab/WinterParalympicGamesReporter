@@ -1,0 +1,48 @@
+﻿{
+    "name_of_the_athlete": "Michael Kneeland",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 29,
+    "world_cup_points": 54,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11.5",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Clasificado para los Juegos Paralímpicos de Invierno de Milano Cortina 2026",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno 2026",
+            "participation": "Esquí Nórdico para Personas con Discapacidad",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora en el rendimiento de tiro observada durante las competiciones.",
+            "preparation_style": "Comenzó a esquiar a los 17 años y actualmente asiste a la Universidad Estatal de Montana, donde estudia ingeniería eléctrica.",
+            "personal_contextual_info": "Reconocido por ser la única persona en el mundo con plastia de rotación bilateral."
+        },
+        {
+            "sport_name": "Esquí Nórdico para Personas con Discapacidad",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Disfruta tocar el piano, cantar y participar en juegos de mesa estratégicos.",
+    "reference_urls": [
+        "[Team USA](https://www.teamusa.com/profiles/michael-kneeland)",
+        "[US Paralympics](https://www.usparanordic.org/news/2024/february/12/teen-michael-kneeland-traded-high-school-classes-for-a-two-week-nordic-skiing-crash-course-in-italy)",
+        "[Team USA](https://www.teamusa.com/profiles/michael-kneeland)",
+        "[Team USA](https://www.teamusa.com/profiles/michael-kneeland)",
+        "[Team USA](https://www.teamusa.com/profiles/michael-kneeland)",
+        "[Team USA](https://www.teamusa.com/profiles/michael-kneeland)",
+        "[Team USA](https://www.teamusa.com/profiles/michael-kneeland)",
+        "[US Paralympics](https://www.usparanordic.org/news/2024/february/12/teen-michael-kneeland-traded-high-school-classes-for-a-two-week-nordic-skiing-crash-course-in-italy)",
+        "[US Paralympics](https://www.usparanordic.org/news/2025/september/02/work-church-school-why-not-the-paralympics-too-college-freshman-michael-kneeland-is-giving-it-a-shot)",
+        "[Team USA](https://www.teamusa.com/profiles/michael-kneeland)"
+    ]
+}

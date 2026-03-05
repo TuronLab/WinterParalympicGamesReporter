@@ -1,0 +1,39 @@
+﻿{
+    "name_of_the_athlete": "Karl Tabouret",
+    "date_of_birth": "2003-03-05",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 12,
+    "world_cup_points": 369,
+    "country": "FRA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW3",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de oro en el evento de sprint en los Campeonatos Mundiales 2025.",
+            "paralympic_participation": "Participará en los Juegos Paralímpicos 2026 en Milán-Cortina.",
+            "participation": "Biatlón",
+            "achievements": "Información no públicamente disponible.",
+            "guide": "Información no públicamente disponible.",
+            "performance_trends": "Tendencias de rendimiento fuertes, con finalizaciones consistentes en el top 10.",
+            "preparation_style": "Información no públicamente disponible.",
+            "personal_contextual_info": "Representa al club Albertville Handisport."
+        }
+    ],
+    "personal_data": "Información no públicamente disponible.",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291387)",
+        "[Artículo de Nordic Mag](https://www.nordicmag.info/en/para-cross-country-skiing-vuokatti-benjamin-daviet-and-karl-tabouret-in-the-top-15-of-the-individual-skate-chloe-pinto-outside-the-top-10-1219/)",
+        "[Wikipedia - Campeonatos Mundiales de Esquí Nórdico FIS 2025](https://en.wikipedia.org/wiki/FIS_Nordic_World_Ski_Championships_2025)",
+        "[Artículo de 20 Minutes sobre Oportunidades Paralímpicas](https://www.20minutes.fr/sport/4204379-20260304-jeux-paralympiques-2026-principales-chances-medailles-francaises)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291387)",
+        "[Artículo de Nordic Mag](https://www.nordicmag.info/en/para-cross-country-skiing-vuokatti-benjamin-daviet-and-karl-tabouret-in-the-top-15-of-the-individual-skate-chloe-pinto-outside-the-top-10-1219/)",
+        "[Wikipedia - Campeonatos Mundiales de Esquí Nórdico FIS 2025](https://en.wikipedia.org/wiki/FIS_Nordic_World_Ski_Championships_2025)",
+        "[Artículo de 20 Minutes sobre Oportunidades Paralímpicas](https://www.20minutes.fr/sport/4204379-20260304-jeux-paralympiques-2026-principales-chances-medailles-francaises)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291387)",
+        "[Artículo de Nordic Mag](https://www.nordicmag.info/en/para-cross-country-skiing-vuokatti-benjamin-daviet-and-karl-tabouret-in-the-top-15-of-the-individual-skate-chloe-pinto-outside-the-top-10-1219/)",
+        "[Wikipedia - Campeonatos Mundiales de Esquí Nórdico FIS 2025](https://en.wikipedia.org/wiki/FIS_Nordic_World_Ski_Championships_2025)",
+        "[Artículo de 20 Minutes sobre Oportunidades Paralímpicas](https://www.20minutes.fr/sport/4204379-20260304-jeux-paralympiques-2026-principales-chances-medailles-francaises)"
+    ]
+}

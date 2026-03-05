@@ -1,0 +1,44 @@
+﻿{
+    "name_of_the_athlete": "Grygorii Vasylovych Vovchynskyi",
+    "date_of_birth": "1988-07-04",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 10,
+    "world_cup_points": 395,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Plata en Relevo Masculino (4x2.5 km) y Bronce en 10 km, de pie en los Juegos Paralímpicos de Invierno 2010.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno en 2010, 2014, 2018 y 2022.",
+            "participation": "Biatlón",
+            "achievements": "Plata en 12.5 km, de pie y Bronce en 3 km persecución en los Juegos Paralímpicos de Invierno 2010; Oro en 15 km, de pie en los Juegos Paralímpicos de Invierno 2014.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos importantes desde 2010.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Vovchynskyi ha expresado vínculos emocionales con Ucrania, dedicando sus actuaciones a su país durante tiempos de conflicto."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Oro en Biatlón Masculino 6 km, de pie en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno en 2010, 2014, 2018 y 2022.",
+            "participation": "Esquí de Fondo",
+            "achievements": "Plata en 12.5 km, de pie y Bronce en 3 km persecución en los Juegos Paralímpicos de Invierno 2010; Oro en 15 km, de pie en los Juegos Paralímpicos de Invierno 2014.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logros significativos en biatlón, culminando en una medalla de oro en los Juegos Paralímpicos de Invierno 2022.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Vovchynskyi ha expresado vínculos emocionales con Ucrania, dedicando sus actuaciones a su país durante tiempos de conflicto."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Grygorii Vovchynskyi](https://en.wikipedia.org/wiki/Grygorii_Vovchynskyi)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289549)",
+        "[International Business Times](https://www.ibtimes.sg/who-grygorii-vovchynskyi-ukrainian-biathlete-wins-first-gold-his-war-torn-nation-winter-63191)",
+        "[Wikipedia - Grygorii Vovchynskyi](https://en.wikipedia.org/wiki/Grygorii_Vovchynskyi)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289549)",
+        "[International Business Times](https://www.ibtimes.sg/who-grygorii-vovchynskyi-ukrainian-biathlete-wins-first-gold-his-war-torn-nation-winter-63191)"
+    ]
+}

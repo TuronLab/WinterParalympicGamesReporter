@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Inkki Inola",
+    "date_of_birth": "1999-01-26",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 10,
+    "world_cup_points": 359,
+    "country": "FIN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "2º lugar en la categoría de 6 km de salida en intervalos masculino con discapacidad visual en Szklarska Poreba, Polonia el 29 de enero de 2026. 5º lugar en la categoría de 10 km de salida en intervalos masculino con discapacidad visual en Steinkjer, Noruega el 28 de febrero de 2025.",
+            "paralympic_participation": "Información no disponible públicamente.",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Reetu Inkila (para el evento de 6 km) y Arttu Kaario (para el evento de 10 km).",
+            "performance_trends": "Mejora en rankings, logró un puesto en el podio (2º lugar) en el evento de 6 km e indicó tiempos competitivos.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=290268",
+        "https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=291989&raceid=831",
+        "https://www.fis-ski.com/DB/para-snowsports/para-cross-country/cup-standings.html?sectorcode=PCC&seasoncode=2025&cupcode=WC&disciplinecode=ALL&gendercode=M",
+        "https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=3718"
+    ]
+}

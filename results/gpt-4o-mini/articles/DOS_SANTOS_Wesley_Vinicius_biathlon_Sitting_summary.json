@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Wesley Vinicius DOS SANTOS",
+    "date_of_birth": "1998-03-11",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 28,
+    "world_cup_points": 86,
+    "country": "BRA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11.5",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Juegos Paralímpicos de Invierno de Beijing 2022: Longitud de Hombres Sentado: 23º lugar, Sprint de Hombres Sentado: 24º lugar (Clasificación), Distancia Media de Hombres Sentado: 27º lugar.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Esquí nórdico.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Los promedios específicos de rendimiento para el tiempo de esquí y las estadísticas de tiro no están disponibles.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Wesley Vinicius DOS SANTOS es un atleta brasileño que compite en el deporte de biatlón, específicamente en la categoría de sentado. Está clasificado en la Clase Deportiva LW11.5 (SI - Sentado).",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/dos-santos-wesley-vinicius/43573)",
+        "[Perfil del Atleta Paralímpico](https://www.paralympic.org/wesley-vinicius-dos-santos)"
+    ]
+}

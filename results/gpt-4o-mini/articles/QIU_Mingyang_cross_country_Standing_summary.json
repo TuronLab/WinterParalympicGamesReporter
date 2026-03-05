@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Qiu Mingyang",
+    "date_of_birth": "1988-12-10",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 35,
+    "world_cup_points": 176,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW5/7",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de bronce en el evento clásico de 20 km en los Juegos Paralímpicos de Invierno 2022 y tres medallas de oro en los Juegos Nacionales para Personas con Discapacidad.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2022.",
+            "participation": "Atletismo y Ciclismo.",
+            "achievements": "Múltiples medallas de oro provinciales en eventos de pista.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Consistentes finales en el podio en competiciones nacionales desde que comenzó a esquiar en 2018.",
+            "preparation_style": "Sesiones de entrenamiento intensivas centradas en mejorar la resistencia y la técnica en el esquí de fondo.",
+            "personal_contextual_info": "Qiu perdió ambos antebrazos en un accidente a la edad de 10 años."
+        }
+    ],
+    "personal_data": "Qiu Mingyang es un destacado atleta chino especializado en esquí de fondo, que ha logrado avances significativos en el ámbito de los deportes paralímpicos.",
+    "reference_urls": [
+        "[Wikipedia - Qiu Mingyang](https://en.wikipedia.org/wiki/Qiu_Mingyang)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291312)",
+        "[Perfil Paralímpico](https://www.paralympic.org/mingyang-qiu)"
+    ]
+}

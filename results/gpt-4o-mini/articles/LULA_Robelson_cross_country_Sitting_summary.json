@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Robelson Lula",
+    "date_of_birth": "1993-05-04",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 16,
+    "world_cup_points": 297,
+    "country": "BRA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "20º en la Prueba de Larga Distancia Masculina en Silla (57:17.7), 21º en la Prueba de Sprint Masculina en Silla (2:36.77), 20º en la Prueba de Media Distancia Masculina en Silla (38:20.3), 8º en el Relevo Mixto 4x2.5km (34:10.8) en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2022 en Beijing, China.",
+            "participation": "Balonmano en silla de ruedas, Atletismo.",
+            "achievements": "Logros no disponibles públicamente.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Compitió en los Juegos Paralímpicos de Invierno 2022 con un enfoque en mejorar sus clasificaciones en eventos posteriores.",
+            "preparation_style": "Se entrenó en el clima frío de China antes de los Juegos Paralímpicos de Invierno 2022 para aclimatarse a las condiciones.",
+            "personal_contextual_info": "Nació el 4 de mayo de 1993 en Juru, Brasil. Perdió su pierna derecha por encima de la rodilla debido al cáncer a la edad de 12 años. Hizo la transición al esquí de fondo en 2018."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Brasil en los Juegos Paralímpicos de Invierno 2022](https://en.wikipedia.org/wiki/Brazil_at_the_2022_Winter_Paralympics)",
+        "[Jornal da Paraíba - Robelson Lula estreia na Paralimpíada de Inverno de Pequim](https://jornaldaparaiba.com.br/esportes/paraibano-robelson-lula-estreia-na-paralimpiada-de-inverno-de-pequim-no-esqui-cross-country)",
+        "[FIS - Robelson LULA - Biografía del Atleta](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291054)",
+        "[Unión Internacional de Biatlón - Perfil del atleta Robelson LULA](https://www.biathlonworld.com/athlete/lula-robelson/40641)",
+        "[Paralympic.org - Robelson Lula](https://www.paralympic.org/robelson-lula)"
+    ]
+}

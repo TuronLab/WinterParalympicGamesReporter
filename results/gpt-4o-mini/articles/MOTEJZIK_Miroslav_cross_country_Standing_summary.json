@@ -1,0 +1,52 @@
+﻿{
+    "name_of_the_athlete": "Miroslav Motejzik",
+    "date_of_birth": "1975-09-19",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 46,
+    "world_cup_points": 56,
+    "country": "CZE",
+    "category": "Standing",
+    "paralympic_category_lw": "ST - Standing",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Completó el Grand Slam de esquí nórdico en 2023 y fue el primer atleta con discapacidad en completar el Nordenskiöldsloppet de 220 km en esquís.",
+            "paralympic_participation": "Participó en los eventos de esquí de fondo en 2026.",
+            "participation": "Biatlón Paralímpico y Triatlón.",
+            "achievements": "Campeón Mundial XTERRA Maui 2021 en triatlón de montaña.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Puntos FIS: 181.03 en Salida Masiva, 244.08 en Salida por Intervalos.",
+            "preparation_style": "Tiempo de preparación limitado, con solo tres horas de práctica de tiro antes de la competencia.",
+            "personal_contextual_info": "Motiva a otros a través de su estilo de vida activo y participación en deportes."
+        },
+        {
+            "sport_name": "Biatlón Paralímpico",
+            "major_achievements": "Primer biatleta paralímpico checo en competir en Val di Fiemme y Pokljuka.",
+            "paralympic_participation": "Participación en eventos de biatlón en 2025.",
+            "participation": "Esquí de fondo y Triatlón.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Triatlón",
+            "major_achievements": "Campeón Mundial XTERRA Maui 2021.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Esquí de fondo y Biatlón Paralímpico.",
+            "achievements": "Completó Ironman y varias caminatas en alta montaña.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Nacido el 19 de septiembre de 1975, Motejzik tiene actualmente 50 años.",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291895)",
+        "[Ruptura del Biatlón Paralímpico Checo](https://www.biathlonworld.com/news/miroslav-motejzik-story/2dTXnI8TYWmgHCKEusns7r)",
+        "[Miroslav Motejzík - ALPS](https://easyliner.eu/ambassador/miroslav-motejzik/)"
+    ]
+}

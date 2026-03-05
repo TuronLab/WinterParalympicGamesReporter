@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Dmytro Suiarko",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 10,
+    "world_cup_points": 362,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biathlon",
+            "major_achievements": "Participated in the 2018 Paralympic Winter Games with notable finishes.",
+            "paralympic_participation": "Competed in the 2018 Paralympic Winter Games.",
+            "participation": "Primarily identified with biathlon and cross-country skiing.",
+            "achievements": "Information not publicly available.",
+            "guide": "Information regarding guides not publicly available.",
+            "performance_trends": "Consistent top-10 placements in the 2018 Paralympic Winter Games.",
+            "preparation_style": "Information not publicly available.",
+            "personal_contextual_info": "Represents Ukraine in visually impaired categories, showcasing determination and success in adaptive sports."
+        }
+    ],
+    "personal_data": "Information not publicly available.",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/suiarko-dmytro/24008",
+        "https://www.paralympic.org/athletes/dmytro-suiarko",
+        "https://www.the-sports.org/dmytro-suiarko-biathlon-spf533214.html"
+    ]
+}

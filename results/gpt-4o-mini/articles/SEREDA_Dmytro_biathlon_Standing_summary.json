@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Dmytro Sereda",
+    "date_of_birth": "1998-02-08",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 10,
+    "world_cup_points": 413,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Participó en los Campeonatos Mundiales de Para Deportes de Nieve de Lillehammer 2021: Sprint Masculino de Pie: 7º lugar (2022-01-15), Media Distancia Masculina de Pie: 12º lugar (2022-01-16), Larga Distancia Masculina - Estilo Libre de Pie: 9º lugar (2022-01-18), Larga Distancia Masculina de Pie: 10º lugar (2022-01-20)",
+            "paralympic_participation": "Programado para competir en los Juegos Paralímpicos de Invierno de Milano Cortina 2026",
+            "participation": "Esquí Nórdico",
+            "achievements": "Participó en los Campeonatos Mundiales de Para Deportes de Nieve de Lillehammer 2021: Sprint Masculino de Pie: 7º lugar, Media Distancia Masculina de Pie: 12º lugar, Larga Distancia Masculina - Estilo Libre de Pie: 9º lugar, Larga Distancia Masculina de Pie: 10º lugar",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Esquí Nórdico",
+            "major_achievements": "Participó en los Campeonatos Mundiales de Para Deportes de Nieve de Lillehammer 2021: Sprint Masculino de Pie: 7º lugar, Media Distancia Masculina de Pie: 12º lugar, Larga Distancia Masculina - Estilo Libre de Pie: 9º lugar, Larga Distancia Masculina de Pie: 10º lugar",
+            "paralympic_participation": "Programado para competir en los Juegos Paralímpicos de Invierno de Milano Cortina 2026",
+            "participation": "Biatlón",
+            "achievements": "Participó en los Campeonatos Mundiales de Para Deportes de Nieve de Lillehammer 2021: Sprint Masculino de Pie: 7º lugar, Media Distancia Masculina de Pie: 12º lugar, Larga Distancia Masculina - Estilo Libre de Pie: 9º lugar, Larga Distancia Masculina de Pie: 10º lugar",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Dmytro Sereda nació el 8 de febrero de 1998 y representa a Ucrania en competiciones internacionales.",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/sereda-dmytro/44278)",
+        "[Paralympic.org](https://www.paralympic.org/dmytro-sereda)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291362&type=fispoints)"
+    ]
+}

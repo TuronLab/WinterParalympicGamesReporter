@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Guilherme Rocha",
+    "date_of_birth": "1996-03-20",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 14,
+    "world_cup_points": 304,
+    "country": "BRA",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Invierno de Beijing 2022: 19° lugar en Masculino Distancia Larga Sentado, 18° lugar en Masculino Sprint Sentado (Clasificación), 18° lugar en Masculino Distancia Media Sentado, 8° lugar en Relevo Mixto 4x2.5km.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Guilherme Rocha también compite en Esquí de Fondo para Personas con Discapacidad.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "El rendimiento de Guilherme Rocha en los Juegos Paralímpicos de Invierno de Beijing 2022 indica una presencia competitiva en la categoría de Sentado del biatlón. Los datos de rendimiento para la temporada 2025/2026 actualmente no están disponibles.",
+            "preparation_style": "El régimen de entrenamiento incluye entrenamiento de resistencia a través del esquí de fondo, entrenamiento de fuerza, acondicionamiento mental, entrenamiento de habilidades centrado en el tiro con rifle y simulación de condiciones de carrera.",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Guilherme Rocha nació el 20 de marzo de 1996.",
+    "reference_urls": [
+        "[Paralympic.org](https://www.paralympic.org/guilherme-rocha)",
+        "[International Biathlon Union](https://www.biathlonworld.com/athlete/rocha-guilherme/40642)",
+        "[Paralympic.org](https://www.paralympic.org/guilherme-rocha)",
+        "[Paralympic.org](https://www.paralympic.org/guilherme-rocha)",
+        "[The Sports Reviewer](https://thesportsreviewer.com/how-do-biathlon-athletes-train/)",
+        "[Paralympic.org](https://www.paralympic.org/guilherme-rocha)",
+        "[Paralympic.org](https://www.paralympic.org/guilherme-rocha)",
+        "[International Biathlon Union](https://www.biathlonworld.com/athlete/rocha-guilherme/40642)",
+        "[The Sports Reviewer](https://thesportsreviewer.com/how-do-biathlon-athletes-train/)"
+    ]
+}

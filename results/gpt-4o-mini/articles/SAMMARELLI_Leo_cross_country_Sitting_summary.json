@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Leo Sammarelli",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 39,
+    "world_cup_points": 130,
+    "country": "CAN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de bronce en la carrera de distancia de 5 km para hombres en esquí sentado en los Campeonatos Nacionales Paralímpicos de Esquí Nórdico de EE. UU. y medalla de bronce en la carrera de sprint para hombres en esquí sentado en los Campeonatos Nacionales Paralímpicos de Esquí Nórdico de EE. UU.",
+            "paralympic_participation": "Juegos Paralímpicos de Milán 2026, evento de esquí sentado para hombres, debut próximo.",
+            "participation": "Boxeo",
+            "achievements": "Logró títulos, incluidos los prestigiosos Interregionales en Italia.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ha mostrado una rápida progresión en su rendimiento, habiendo competido solo durante dos años en el esquí de fondo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Leo es de ascendencia italiana y filipina, habla con fluidez tanto inglés como italiano y es reconocido como un líder en deportes adaptados de Vancouver."
+        },
+        {
+            "sport_name": "Boxeo",
+            "major_achievements": "Logró títulos, incluidos los prestigiosos Interregionales en Italia.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Comité Paralímpico Canadiense](https://paralympic.ca/athlete/leo-sammarelli/)",
+        "[North Shore News](https://www.nsnews.com/local-news/north-vancouvers-leo-sammarelli-was-a-rising-star-in-boxing-when-a-gunshot-changed-his-life-11951751)",
+        "[Fundación Rick Hansen](https://www.rickhansen.com/LeoSammarelli)",
+        "[Cross Country BC](https://cvtc.ca/crosscountrybc.ca/leo-sammarelli-nordic-racers-earns-2-bronze-medals-us-para-nordic-nationals)"
+    ]
+}

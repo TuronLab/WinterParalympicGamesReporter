@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Dzmitry Loban",
+    "date_of_birth": "1981-05-03",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 44,
+    "world_cup_points": 108,
+    "country": "BLR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de bronce en el relevo 4x2.5 km, categoría abierta en los Juegos Paralímpicos de Invierno 2010; Medallas de plata en 15 km sentado y 7.5 km sentado en los Juegos Paralímpicos de Invierno 2014.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2010, 2014 y 2018.",
+            "participation": "Biatlón",
+            "achievements": "Resultados específicos no detallados en las fuentes disponibles.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente con finales en el podio en eventos importantes, destacándose en las pruebas de 15 km y 7.5 km durante los Juegos Paralímpicos de 2014.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Dzmitry Loban](https://en.wikipedia.org/wiki/Dzmitry_Loban)",
+        "[Paralympic.org - Perfil de Dzmitry Loban](https://www.paralympic.org/dzmitry-loban)",
+        "[FIS - Resultados de Esquí de Fondo](https://www.fis-ski.com/)",
+        "[Wikipedia - Dzmitry Loban](https://en.wikipedia.org/wiki/Dzmitry_Loban)",
+        "[Paralympic.org - Perfil de Dzmitry Loban](https://www.paralympic.org/dzmitry-loban)",
+        "[FIS - Resultados de Esquí de Fondo](https://www.fis-ski.com/)"
+    ]
+}

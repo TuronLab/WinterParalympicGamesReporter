@@ -1,0 +1,28 @@
+﻿{
+    "name_of_the_athlete": "Endre Lykken",
+    "date_of_birth": "2006-08-02",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 4,
+    "world_cup_points": 586,
+    "country": "NOR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Competidor en los Paralímpicos de Invierno de 2026",
+            "paralympic_participation": "Participación en los Paralímpicos de Invierno de 2026",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Requiere el uso de un guía para la navegación",
+            "performance_trends": "Participación constante con finalizaciones en el Top 15",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Atleta activo en la categoría NS3 para atletas con discapacidad visual"
+        }
+    ],
+    "personal_data": "Información no disponible",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291989"
+    ]
+}

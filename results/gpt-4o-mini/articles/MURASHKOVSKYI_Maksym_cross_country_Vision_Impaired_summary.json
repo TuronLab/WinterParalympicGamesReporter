@@ -1,0 +1,28 @@
+﻿{
+    "name_of_the_athlete": "Maksym Murashkovskyi",
+    "date_of_birth": "2000-06-26",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 10,
+    "world_cup_points": 359,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Campeonatos Mundiales de Para Deportes de Nieve de Lillehammer 2021: Distancia Media Masculina - Clásica VI: 12º (13 de enero de 2022), Sprint Masculino VI: 12º (15 de enero de 2022), Distancia Media Masculina VI: 13º (16 de enero de 2022), Distancia Larga Masculina VI: 9º (20 de enero de 2022), Sprint Masculino - Clásica VI: 18º (22 de enero de 2022).",
+            "paralympic_participation": "Participación confirmada en los eventos de esquí nórdico en los próximos Juegos Paralímpicos de Milán Cortina 2026.",
+            "participation": "No hay información verificada que indique participación en deportes distintos al esquí de fondo.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejoría notable a lo largo de los campeonatos, con una fuerza marcada en los eventos de larga distancia como lo evidencia su 9º puesto.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Actualmente es un atleta activo, Murashkovskyi está compitiendo y participando en eventos de la Copa del Mundo."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.paralympic.org/maksym-murashkovskyi"
+    ]
+}

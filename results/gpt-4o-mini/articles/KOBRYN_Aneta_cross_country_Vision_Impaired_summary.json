@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Aneta KOBRYN",
+    "date_of_birth": "2000-08-16",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 4,
+    "world_cup_points": 483,
+    "country": "POL",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo Paralímpico",
+            "major_achievements": "Medalla de bronce en la Universiada de Invierno en Turín, Italia, el 15 de enero de 2025, con un tiempo de 31:46.3.",
+            "paralympic_participation": "Preparándose para los Juegos Paralímpicos de Milán Cortina 2026.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Compite con la guía Katarzyna Witek.",
+            "performance_trends": "Ha logrado terminar en el podio en múltiples eventos de la Copa del Mundo durante la temporada 2025/26.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291392",
+        "https://odzn.pl/pl/aneta-kobryn-zdobyla-dla-polski-brazowy-medal-w-zawodach-narciarskich-we-wloszech-15-01-2025-r-turyn-wlochy/"
+    ]
+}

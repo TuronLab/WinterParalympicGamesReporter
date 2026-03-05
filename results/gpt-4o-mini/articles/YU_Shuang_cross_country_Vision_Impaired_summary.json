@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Yu Shuang",
+    "date_of_birth": "2003-08-29",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 14,
+    "world_cup_points": 300,
+    "country": "CHN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "B2",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de oro en el evento de salida en intervalos en la Copa del Mundo de 2024.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022, donde finalizó 4º en las semifinales del Sprint Libre VI y logró el 4º lugar en el relevo abierto de 4x2.5 km.",
+            "participation": "Information not publicly available",
+            "achievements": "Medalla de bronce en el Biatlón Individual Masculino de 12.5 km para Personas con Discapacidad Visual en los Juegos Paralímpicos de Invierno de 2022. Medalla de plata en el Sprint Masculino de 7.5 km VI en la Copa del Mundo de Para-Biatlón 2024. Medalla de bronce en el Sprint Pursuit Masculino VI en la Copa del Mundo de Para-Biatlón 2024.",
+            "guide": "Wang Guanyu",
+            "performance_trends": "Hizo una transición exitosa del biatlón al esquí de fondo y ha tenido un desempeño consistentemente activo en competiciones internacionales para-nórdicas desde 2022.",
+            "preparation_style": "Régimen de entrenamiento integral que incluye instalaciones de entrenamiento a gran altitud, enfoque en la técnica de esquí y resistencia, sincronización con su guía, y uso de señales de audio para mejorar la precisión de tiro.",
+            "personal_contextual_info": "Nació con una discapacidad visual congénita y creció en el área rural de Sichuan, China, enfrentando desafíos educativos y sociales."
+        },
+        {
+            "sport_name": "Para-biatlón",
+            "major_achievements": "Medalla de bronce en el Biatlón Individual Masculino de 12.5 km para Personas con Discapacidad Visual en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022, logrando varios podios en competiciones internacionales.",
+            "participation": "Logros en Para-Biatlón: Medalla de bronce en la Copa Europa en Vuokatti, Finlandia, en diciembre de 2021.",
+            "achievements": "Medalla de plata en el Sprint Masculino de 7.5 km VI en la Copa del Mundo de Para-Biatlón 2024. Medalla de bronce en el Sprint Pursuit Masculino VI en la Copa del Mundo de Para-Biatlón 2024.",
+            "guide": "Wang Guanyu",
+            "performance_trends": "Significativa adaptación y éxito en eventos para-nórdicos, destacándose en individuales y relevos.",
+            "preparation_style": "Entrenamiento en instalaciones de gran altitud, mejorando continuamente su técnica y rendimiento.",
+            "personal_contextual_info": "Promueve deportes adaptativos en su comunidad, compartiendo sus experiencias para inspirar a jóvenes con discapacidades."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291277&type=result",
+        "https://www.paralympic.org/shuang-yu",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/72104"
+    ]
+}

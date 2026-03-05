@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Alexander Ehler",
+    "date_of_birth": "1969-06-26",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 48,
+    "world_cup_points": 46,
+    "country": "GER",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de Bronce en Esquí de Fondo Masculino en Distancia Larga Sentado en los Juegos Paralímpicos de PyeongChang 2018 y Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de PyeongChang 2018 y Beijing 2022.",
+            "participation": "Biatlón",
+            "achievements": "Compitió en eventos de Biatlón en los Juegos Paralímpicos de PyeongChang 2018, pero no logró medallas.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ehler ha demostrado un rendimiento consistente en varias competiciones, especialmente notable su logro de medalla de bronce en los Juegos Paralímpicos de PyeongChang 2018.",
+            "preparation_style": "Su régimen de entrenamiento ha sido adaptado para acomodar los desafíos que plantea su condición física tras su accidente.",
+            "personal_contextual_info": "Ehler comenzó a esquiar a una edad temprana y tenía aspiraciones de competir en los Juegos Olímpicos antes de su accidente."
+        }
+    ],
+    "personal_data": "Ehler tiene dos hijas que son esgrimistas exitosas, lo que resalta un legado familiar de logros atléticos.",
+    "reference_urls": [
+        "[Comité Paralímpico Internacional - Alexander Ehler](https://www.paralympic.org/alexander-ehler)",
+        "[FIS - Resultados de Esquí de Fondo Paralímpico](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=3802)",
+        "[Mundo del Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/ehler-alexander/35089?tab=results)"
+    ]
+}

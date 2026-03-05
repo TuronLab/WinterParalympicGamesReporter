@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Hryhorii Shymko",
+    "date_of_birth": "1996-01-09",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 20,
+    "world_cup_points": 228,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biathlon",
+            "major_achievements": "8º lugar en la Copa del Mundo de Salida en Intervalo, Szklarska Poreba-Jakuszyce, 31 de enero de 2026 (Puntos FIS: 105.61); 12º lugar en la Copa del Mundo de Salida en Intervalo, Szklarska Poreba-Jakuszyce, 29 de enero de 2026 (Puntos FIS: 80.81); 10º lugar en la Clasificación de Sprint, Szklarska Poreba-Jakuszyce, 28 de enero de 2026 (Puntos FIS: 82.05); 12º lugar en la Final de Sprint, Szklarska Poreba-Jakuszyce, 28 de enero de 2026 (Puntos FIS: 58); 11º lugar en el Relevo Abierto, Finsterau, 18 de enero de 2026 (Puntos FIS: 60)",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Para Cross-Country Skiing",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Hryhorii Shymko compite en la categoría LW10.5, que está designada para atletas con una discapacidad en silla de ruedas."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/shymko-hryhorii/59538)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292043)",
+        "[Biatlón Real](https://www.realbiathlon.com/)"
+    ]
+}

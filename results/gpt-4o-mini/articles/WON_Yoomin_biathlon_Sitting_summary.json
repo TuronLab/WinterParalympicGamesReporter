@@ -1,0 +1,52 @@
+﻿{
+    "name_of_the_athlete": "Yoomin Won",
+    "date_of_birth": "1988-01-19",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 15,
+    "world_cup_points": 287,
+    "country": "KOR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo para personas con discapacidad",
+            "major_achievements": "1º en Clasificación 11-12 en los Juegos Paralímpicos de Río 2016.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Río 2016.",
+            "participation": "Biatlón y baloncesto en silla de ruedas.",
+            "achievements": "17º en hombres en distancia media sentado en los Juegos Paralímpicos de Invierno de Pekín 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Pekín 2022.",
+            "participation": "Esquí de fondo para personas con discapacidad y baloncesto en silla de ruedas.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Baloncesto en silla de ruedas",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Esquí de fondo para personas con discapacidad y biatlón.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Nacido el 19 de enero de 1988, representando a la República de Corea.",
+    "reference_urls": [
+        "[Perfil de IBU](https://www.biathlonworld.com/athlete/won-yoomin/35217)",
+        "[Perfil Paralímpico](https://www.paralympic.org/yoomin-won)",
+        "[Assam Tribune](https://assamtribune.com/sports/kravchenko-won-elected-chair-and-second-vice-chair-of-ipc-athletes-council-1558640)"
+    ]
+}

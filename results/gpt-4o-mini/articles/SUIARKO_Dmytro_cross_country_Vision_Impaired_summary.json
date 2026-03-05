@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "SUIARKO Dmytro",
+    "date_of_birth": "1996-10-22",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 3,
+    "world_cup_points": 675,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de bronce en 15 km masculino discapacitados visuales en los Juegos Paralímpicos de Beijing 2022 (5 de marzo de 2022). Medalla de bronce en el sprint masculino en los Juegos Paralímpicos de Beijing 2022 (9 de marzo de 2022).",
+            "paralympic_participation": "Participacion en los Juegos Paralímpicos de Invierno 2014, 2018 y 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de bronce en media distancia discapacitados visuales en los Juegos Paralímpicos de Beijing 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Finalización consistente dentro del top 10 durante importantes eventos internacionales.",
+            "preparation_style": "Dmytro fue una vez entrenado por su padre, reflejando un fuerte sistema de apoyo familiar en el entrenamiento.",
+            "personal_contextual_info": "SUIARKO creció en un pueblo ucraniano."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de bronce en los Juegos Olímpicos de Beijing 2022 en la categoría de discapacitados visuales.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2014, 2018 y 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "6ª posición en 15 km masculino discapacitados visuales en los Juegos Paralímpicos de Invierno 2018.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Finalizaciones en competencias de la Copa del Mundo.",
+            "preparation_style": "Dmytro fue una vez entrenado por su padre, reflejando un fuerte sistema de apoyo familiar en el entrenamiento.",
+            "personal_contextual_info": "SUIARKO creció en un pueblo ucraniano."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.paralympic.org/dmytro-suiarko",
+        "https://www.paralympic.org/news/dmytro-suiarko-blazes-trail-ukrainian-village-world",
+        "https://www.paralympic.org/beijing-2022/results/cross-country/men-s-sprint-free-vi",
+        "https://www.paralympic.org/news/ukraine-dominates-paralympic-world-cup-racing-28-medals"
+    ]
+}

@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Luca Tavasci",
+    "date_of_birth": "1988-06-07",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 17,
+    "world_cup_points": 306,
+    "country": "SUI",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "12° lugar en el sprint de 7.5 km en Notschrei (GER) 2026; 8° lugar en la persecución de sprint en Notschrei (GER) 2026; 13° lugar en la persecución de sprint en Szklarska Poreba Jakuszyce (POL) 2026; 13° lugar en el Individual de 12.5 km en Szklarska Poreba Jakuszyce (POL) 2026; Participación en los Juegos Paralímpicos de Invierno de 2026 en Milán Cortina; Múltiples finales en el top 15 en eventos de la Copa del Mundo.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2026, Milán Cortina.",
+            "participation": "Esquí de fondo",
+            "achievements": "26° lugar en el sprint en Val di Fiemme (ITA) 2025; 17° lugar en el sprint en Vuokatti (FIN) 2024; 24° lugar en el sprint en Martell (ITA).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Notable mejora en eventos de sprint, con posiciones consistentes en el top 15 en eventos de la Copa del Mundo.",
+            "preparation_style": "Emplea un extenso régimen de entrenamiento de verano que incluye actividades de handbike y ski roll, seguido por un perfeccionamiento técnico durante los eventos de la Copa del Mundo.",
+            "personal_contextual_info": "El viaje atlético de Luca Tavasci comenzó después de un incidente militar en Irak en 2019, que resultó en la pérdida de su pierna izquierda."
+        },
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "26° lugar en el sprint en Val di Fiemme (ITA) 2025; 17° lugar en el sprint en Vuokatti (FIN) 2024; 24° lugar en el sprint en Martell (ITA).",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Luca Tavasci es un atleta paralímpico italiano especializado en biatlón y esquí de fondo. Compite en la clasificación de sentado y es conocido por su resiliencia y determinación tras un incidente que cambió su vida.",
+    "reference_urls": [
+        "[Artículo de SRF Sport](https://www.srf.ch/sport/mehr-sport/paralympics/para-langlauf-in-zhangjiakou-langlaeufer-tavasci-scheitert-in-der-qualifikation)",
+        "[First Ski Sport](https://firstskisport.com/cross-country/athletes.php?nat=SUI)",
+        "[Perfil de FISIP](https://www.fisip.it)"
+    ]
+}

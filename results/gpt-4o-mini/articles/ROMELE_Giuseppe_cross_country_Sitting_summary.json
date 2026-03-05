@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Giuseppe Romele",
+    "date_of_birth": "1992-02-12",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 1,
+    "world_cup_points": 901,
+    "country": "ITA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de bronce en la prueba de media distancia en posición sentada en los Juegos Paralímpicos de Invierno 2022, medalla de plata en la prueba clásica de media distancia en los Campeonatos Mundiales de Deportes de Nieve para Discapacitados 2022, medalla de oro en dos eventos de salida en intervalos en los Campeonatos Mundiales de Esquí Nórdico para Discapacitados 2023.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2022.",
+            "participation": "Triatlón Para (clasificación PTWC hombres), natación para.",
+            "achievements": "Medalla de oro en la Serie Mundial de Triatlón Para en Montreal (29 de junio de 2024), 11 finales en el podio y 6 victorias en 21 participaciones en su carrera, ganador del Campeonato Italiano Juvenil 2006 en los 50m estilo libre.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Terminó quinto en la prueba de larga distancia en los Juegos Paralímpicos de Invierno 2022, ocupó el cuarto lugar en la semifinal de sprint en los Juegos Paralímpicos de Invierno 2022.",
+            "preparation_style": "El régimen de entrenamiento incluye acondicionamiento intensivo fuera de la nieve y práctica de técnica sobre la nieve.",
+            "personal_contextual_info": "Nació con hipoplasia femoral bilateral, lo que afecta el desarrollo de sus extremidades inferiores. Es un defensor activo de los deportes inclusivos."
+        }
+    ],
+    "personal_data": "Giuseppe Romele es un atleta paralímpico italiano especializado en esquí de fondo. Hizo la transición de la natación para discapacitados al esquí de fondo, donde ha logrado un éxito significativo en el escenario internacional.",
+    "reference_urls": [
+        "[Wikipedia - Giuseppe Romele](https://en.wikipedia.org/wiki/Giuseppe_Romele)",
+        "[Grokipedia - Giuseppe Romele](https://grokipedia.com/page/giuseppe_romele)",
+        "[FIS - Masters and Romele make triumphant return](https://www.fis-ski.com/para-cross-country/news/2025-26/masters-and-romele-make-triumphant-return-at-canmore-world-cup-opener)",
+        "[Paralympic.org - From water to snow, Giuseppe Romele is on track to Paralympic debut](https://www.paralympic.org/news/water-snow-giuseppe-romele-track-paralympic-debut)"
+    ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Danielle Aravich",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 3,
+    "world_cup_points": 629,
+    "country": "USA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW9",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de bronce en el clímax de la temporada de la Copa del Mundo de Biatlón Paralímpico IBU 2025 en Torsby, Suecia. Compitió en cuatro eventos en los Juegos Paralímpicos de Invierno de Beijing 2022: 8° lugar en 1km Sprint Estilo Libre - Pie - Mujeres, 9° lugar en 10km Estilo Libre - Pie - Mujeres, 11° lugar en 10km Medio - Pie - Mujeres, 13° lugar en 6km Individual - Pie - Mujeres. Medalla de oro en el relevo mixto de 4 x 2.5km en los Campeonatos Mundiales de 2023.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Atletismo Paralímpico (400m T47) en los Juegos Paralímpicos de Tokio 2020.",
+            "achievements": "10° lugar en 400m T47 - Mujeres en los Juegos Paralímpicos de Tokio 2020.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en múltiples eventos de biatlón desde su debut en 2022. Logró su primer podio en 2025.",
+            "preparation_style": "Emplea un régimen de entrenamiento que enfatiza la resistencia, la consistencia en el tiro y la preparación mental. Incorpora la equitación en su entrenamiento.",
+            "personal_contextual_info": "Nació sin su mano y antebrazo izquierdo. Cofundadora de Culxtured, una empresa de redes sociales dedicada a promover a los atletas paralímpicos. Disfruta de pasatiempos como la equitación, el senderismo y la moda. Apodada 'Biathlon Bandit'."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil de Team USA](https://www.teamusa.com/profiles/dani-aravich)",
+        "[Medios de Dani Aravich](https://www.daniaravich.com/media)",
+        "[Paralympic.org - Entrenamiento de Biathlon Bandit](https://www.paralympic.org/feature/biathlon-bandit-dani-aravich-summer-training)",
+        "[Paralympic.org - Misión para Milano Cortina 2026](https://www.paralympic.org/feature/dani-aravich-mission-milano-cortina-2026)",
+        "[Perfil de la Unión Internacional de Biatlón](https://www.biathlonworld.com/athlete/aravich-danielle/27128)",
+        "[Artículo de Glamour](https://www.glamour.com/story/for-dani-aravich-dominating-one-paralympic-sport-isnt-enough)"
+    ]
+}

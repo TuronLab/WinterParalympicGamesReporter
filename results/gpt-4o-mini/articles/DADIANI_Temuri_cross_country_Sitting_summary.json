@@ -1,0 +1,35 @@
+﻿{
+    "name_of_the_athlete": "Temuri Dadiani",
+    "date_of_birth": "1991-09-08",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 49,
+    "world_cup_points": 78,
+    "country": "GEO",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Compitió en dos Juegos Paralímpicos de Invierno (2018, 2022) y participó en Campeonatos Mundiales de Para Deportes de Nieve.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno Pyeongchang 2018 y Beijing 2022.",
+            "participation": "Compitió en esgrima en silla de ruedas (Campeonatos Mundiales 2015, 36° lugar) y en powerlifting.",
+            "achievements": "Medalla de oro en la Copa del Mundo de Para Powerlifting (2023) y medalla de bronce en la clase de 65 kg en un evento de la Copa del Mundo de powerlifting (2021).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participó en múltiples competiciones internacionales desde 2018, con clasificaciones generalmente en la mitad inferior del campo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Dadiani perdió ambas piernas debido a una explosión de mina terrestre mientras servía en Afganistán en 2011. Comenzó a competir en esquí para nórdicos en 2017."
+        }
+    ],
+    "personal_data": "Dadiani fue el abanderado de Georgia en las ceremonias de apertura de los Juegos Paralímpicos de Invierno de 2018 y 2022.",
+    "reference_urls": [
+        "[Wikipedia - Temuri Dadiani](https://no.wikipedia.org/wiki/Temuri_Dadiani)",
+        "[Paralympic.org - Temuri Dadiani](https://www.paralympic.org/temuri-dadiani)",
+        "[FIS - Biografía del Atleta Temuri Dadiani](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=290877&type=cups&cupcode=WC)",
+        "[The Sports - Resultados de Temuri Dadiani](https://www.the-sports.org/temuri-dadiani-cross-country-skiing-spf533274.html)",
+        "[Wikipedia - Temuri Dadiani](https://no.wikipedia.org/wiki/Temuri_Dadiani)",
+        "[Paralympic.org - Temuri Dadiani](https://www.paralympic.org/temuri-dadiani)",
+        "[FIS - Biografía del Atleta Temuri Dadiani](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=290877&type=cups&cupcode=WC)",
+        "[The Sports - Resultados de Temuri Dadiani](https://www.the-sports.org/temuri-dadiani-cross-country-skiing-spf533274.html)"
+    ]
+}

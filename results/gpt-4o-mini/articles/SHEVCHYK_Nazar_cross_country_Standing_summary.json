@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Nazar Shevchyk",
+    "date_of_birth": "2001-08-10",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 7,
+    "world_cup_points": 419,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "7º en Salida Masiva en Szklarska Poreba-Jakuszyce (POL) el 1 de febrero de 2026; 8º en Salida por Intervalos en Szklarska Poreba-Jakuszyce (POL) el 29 de enero de 2026; 8º en Final de Sprint en Szklarska Poreba-Jakuszyce (POL) el 28 de enero de 2026; 7º en Clasificación de Sprint en Szklarska Poreba-Jakuszyce (POL) el 28 de enero de 2026; 14º en Relevo Abierto en Finsterau (GER) el 18 de enero de 2026; 29º en Salida Masiva en Finsterau (GER) el 15 de enero de 2026; 13º en Salida Masiva en Canmore (CAN) el 7 de diciembre de 2025; 9º en Final de Sprint en Canmore (CAN) el 6 de diciembre de 2025; 6º en Clasificación de Sprint en Canmore (CAN) el 6 de diciembre de 2025; 14º en Salida por Intervalos en Canmore (CAN) el 4 de diciembre de 2025.",
+            "paralympic_participation": "Programado para competir en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+            "participation": "Compite en Biatlón.",
+            "achievements": "10º en Sprint Masculino de Pie en los Campeonatos Mundiales de Para Deportes de Nieve de Lillehammer 2021 (15 de enero de 2022).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo con posiciones generalmente dentro de los 30 mejores.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "10º en Sprint Masculino de Pie en los Campeonatos Mundiales de Para Deportes de Nieve de Lillehammer 2021 (15 de enero de 2022).",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291363)",
+        "[Paralympic.org](https://www.paralympic.org/nazar-shevchyk)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291363)",
+        "[Paralympic.org](https://www.paralympic.org/nazar-shevchyk)"
+    ]
+}

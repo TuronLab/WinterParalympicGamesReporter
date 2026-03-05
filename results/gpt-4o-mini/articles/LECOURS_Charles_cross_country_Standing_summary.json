@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Charles Lecours",
+    "date_of_birth": "2001-09-08",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 48,
+    "world_cup_points": 46,
+    "country": "CAN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW9",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "1er Lugar en la carrera masculina de 4 km para de pie en la Copa de Canadá Oriental (18 de diciembre de 2022), Primer medallista de esquí de fondo paralímpico FISU para Canadá (17 de enero de 2025), 18º Lugar en la salida masiva en Canmore (7 de diciembre de 2025), 18º Lugar en la final de sprint en Canmore (6 de diciembre de 2025), 20º Lugar en la salida por intervalos en Canmore (4 de diciembre de 2025), Múltiples finales en el podio en eventos de la Copa Continental.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo y de la Copa Continental, indicando un desarrollo continuo y competencia a altos niveles.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Charles Lecours está afiliado al club Mauriski."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291602&type=result)",
+        "[Noticias de Nordiq Canada](https://nordiqcanada.ca/news-item/canadian-cross-country-ski-athletes-head-into-holiday-break-after-eastern-canada-cup-in-quebec/)",
+        "[Publicación de Facebook](https://www.facebook.com/reel/2108452946239498/)"
+    ]
+}

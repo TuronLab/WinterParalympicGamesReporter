@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Natalie Wilkie",
+    "date_of_birth": "2001-01-21",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 1,
+    "world_cup_points": 885,
+    "country": "CAN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Doble campeona mundial de biatlón. Medalla de oro en el sprint femenino de 7.5 km en la Copa del Mundo en Vuokatti. Consistentes finales en el podio en varios eventos de la Copa del Mundo.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2018 y 2022, ganando múltiples medallas.",
+            "participation": "Esquí de fondo",
+            "achievements": "Triple medallista de oro paralímpica. Medallas en los Juegos Paralímpicos de Invierno de 2018 y 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "En la temporada 2025-26, acumuló seis victorias en el circuito de la Copa del Mundo de biatlón para atletas con discapacidad. Logró un puesto en el podio en su primera carrera de biatlón de la temporada a pesar de recuperarse de una enfermedad.",
+            "preparation_style": "Ajusta su entrenamiento según los horarios de competencia, asegurando un enfoque equilibrado en biatlón y esquí de fondo. Participa en prácticas de tiro para mejorar su precisión y velocidad.",
+            "personal_contextual_info": "Nació el 21 de enero de 2001 en Salmon Arm, Columbia Británica, Canadá. Perdió cuatro dedos de su mano izquierda en un accidente de carpintería en 2016."
+        },
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Triple medallista de oro paralímpica. Logros en los Juegos Paralímpicos de Invierno de 2018 y 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2018 y 2022, ganando múltiples medallas.",
+            "participation": "Biatlón",
+            "achievements": "Doble campeona mundial de biatlón. Medalla de oro en el sprint femenino de 7.5 km en la Copa del Mundo en Vuokatti.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/wilkie-natalie/35400)",
+        "[Comité Paralímpico Canadiense - Natalie Wilkie](https://paralympic.ca/athlete/natalie-wilkie/)",
+        "[Wikipedia - Natalie Wilkie](https://en.wikipedia.org/wiki/Natalie_Wilkie)",
+        "[Entrevista de Biathlon23 con Natalie Wilkie](https://biathlon23.wordpress.com/2024/02/22/natalie-wilkie-the-interview/)"
+    ]
+}

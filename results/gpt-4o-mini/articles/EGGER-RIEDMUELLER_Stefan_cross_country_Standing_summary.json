@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Stefan Egger-Riedmueller",
+    "date_of_birth": "1996-06-12",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 3,
+    "world_cup_points": 599,
+    "country": "AUT",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de bronce en los Juegos Paralímpicos de Pyeongchang 2018, 2x Oro y 1x Plata en los Campeonatos Mundiales en Prince George (CAN) 2019, 2x Oro y 1x Plata en los Campeonatos Mundiales en Finsterau (GER) 2017, Ganador de la Copa del Mundo en general en las temporadas 2016/2017 y 2017/2018, 3er lugar en la clasificación general de la Copa del Mundo de Esquí de Fondo Paralímpico 2026.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Pyeongchang 2018 y próxima participación en los Juegos Paralímpicos de Milano Cortina 2026.",
+            "participation": "Compite en Biatlón Paralímpico.",
+            "achievements": "Compite en carreras de Sprint e Individual en Biatlón Paralímpico.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente a lo largo de la temporada 2025/2026, con seis resultados en el Top Ten.",
+            "preparation_style": "Entrena bajo la guía del entrenador Tobias Eberhard, enfocándose en las disciplinas de esquí de fondo y biatlón paralímpico.",
+            "personal_contextual_info": "Nació el 12 de junio de 1996 en Austria. Se le animó a comenzar a esquiar por su primo."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Ski Austria News](https://www.skiaustria.at/de/news/egger-riedmueller-dritter-im-gesamtweltcup-der-para-langlaeufer)",
+        "[Artículo de Kurier](https://kurier.at/cm/paralympics-2026/stefan-egger-riedmueller-der-tiroler-senkrechtstarter/403134413)",
+        "[Olympiazentrum Tirol](https://www.olympiazentrum-tirol.at/portfolio/egger-riedmueller-stefan/)"
+    ]
+}

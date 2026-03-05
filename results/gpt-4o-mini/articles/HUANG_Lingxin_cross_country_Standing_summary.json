@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "HUANG Lingxin",
+    "date_of_birth": "2002-07-28",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 31,
+    "world_cup_points": 207,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "1ª en Salida por Intervalos en Steinkjer, Noruega (2025), 3ª en Salida por Intervalos en Siji Skiing Resort, China (2021), 5ª en Relevo Abierto en Finsterau, Alemania (2026), 20ª en Final de Sprint en Finsterau, Alemania (2026), 11ª en Sprint en Steinkjer, Noruega (2025)",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de Beijing 2022",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo, con colocaciones notables en salidas por intervalos y sprints, y mejora observada en campeonatos nacionales con múltiples finales en el podio.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291310)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291310)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291310)"
+    ]
+}

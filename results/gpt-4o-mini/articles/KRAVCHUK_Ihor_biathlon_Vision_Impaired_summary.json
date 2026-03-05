@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Ihor Kravchuk",
+    "date_of_birth": "2000-08-17",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 14,
+    "world_cup_points": 202,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Compitiendo en los Juegos Paralímpicos de Invierno de 2026 en Milán-Cortina.",
+            "paralympic_participation": "Esperado debut en los Juegos Paralímpicos de Invierno de 2026.",
+            "participation": "Esquí de fondo paraolímpico.",
+            "achievements": "10º lugar en Medio fondo masculino - Clásico VI, 16º lugar en Sprint VI, 12º lugar en Fondo masculino VI y múltiples finales en posiciones menores en los Campeonatos Mundiales de Deportes de Nieve para Atletas con Discapacidad 2021.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Representa a Ucrania en esquí nórdico."
+        },
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "10º lugar en Medio fondo masculino - Clásico VI, 16º lugar en Sprint VI, 16º lugar en Medio fondo VI, 12º lugar en Fondo VI y 16º lugar en Sprint - Clásico VI.",
+            "paralympic_participation": "Esperado debut en los Juegos Paralímpicos de Invierno de 2026.",
+            "participation": "Compitiendo en biatlón.",
+            "achievements": "10º lugar en Medio fondo masculino - Clásico VI en los Campeonatos Mundiales de Deportes de Nieve para Atletas con Discapacidad 2021.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/kravchuk-ihor/44281?tab=overview",
+        "https://www.paralympic.org/ihor-kravchuk",
+        "https://empr.media/discover-ukraine/sport/ukraine-to-compete-at-the-2026-paralympic-games-with-a-record-breaking-squad-who-is-on-the-roster/",
+        "https://sports.yahoo.com/articles/ukraine-compete-record-squad-2026-102300344.html"
+    ]
+}

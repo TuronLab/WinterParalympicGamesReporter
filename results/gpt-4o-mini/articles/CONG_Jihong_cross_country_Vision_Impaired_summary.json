@@ -1,0 +1,40 @@
+﻿{
+    "name_of_the_athlete": "CONG Jihong",
+    "date_of_birth": "1999-04-25",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 10,
+    "world_cup_points": 233,
+    "country": "CHN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Competidora en los Juegos Paralímpicos de Invierno 2026 (resultados específicos aún no disponibles).",
+            "paralympic_participation": "Participante en Esquí de Fondo y Biatlón en Silla de Ruedas en los Juegos Paralímpicos de Invierno 2026.",
+            "participation": "Participación confirmada en biatlón en silla de ruedas en los Juegos Paralímpicos de Invierno 2026.",
+            "achievements": "Resultados en eventos de la Copa del Mundo en enero de 2026, logrando finalizaciones en el top 15.",
+            "guide": "Liu Jiaxuan",
+            "performance_trends": "Clasificada consistentemente en el top 15 durante eventos de la Copa del Mundo de enero de 2026.",
+            "preparation_style": "Información no públicamente disponible.",
+            "personal_contextual_info": "Ciudad natal: Liaoning, China."
+        },
+        {
+            "sport_name": "Biatlón en Silla de Ruedas",
+            "major_achievements": "Participación junto con el esquí de fondo en los Juegos Paralímpicos de Invierno 2026.",
+            "paralympic_participation": "Competidora en los Juegos Paralímpicos de Invierno 2026.",
+            "participation": "Información no públicamente disponible.",
+            "achievements": "Información no públicamente disponible.",
+            "guide": "Liu Jiaxuan",
+            "performance_trends": "Información no públicamente disponible.",
+            "preparation_style": "Información no públicamente disponible.",
+            "personal_contextual_info": "Información no públicamente disponible."
+        }
+    ],
+    "personal_data": "Información no públicamente disponible.",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291430&type=cups&cupcode=WC",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/72097"
+    ]
+}

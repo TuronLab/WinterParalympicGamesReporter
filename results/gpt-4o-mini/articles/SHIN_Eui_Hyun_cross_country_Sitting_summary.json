@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "SHIN Eui Hyun",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 11,
+    "world_cup_points": 375,
+    "country": "KOR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de Oro en 7.5 km Sentado en los Juegos Paralímpicos de Invierno de PyeongChang 2018.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de PyeongChang 2018 y Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "4º Lugar en Sprint Libre VI Masculino y 4º Lugar en Relevo Abierto 4x2.5 km en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró una notable mejora que lo llevó a ganar la medalla de oro en 2018 y participación constante en eventos internacionales.",
+            "preparation_style": "Sigue un riguroso régimen de entrenamiento que enfatiza la resistencia y la técnica, a menudo en instalaciones de gran altitud.",
+            "personal_contextual_info": "Reconocido como una figura significativa en los deportes paralímpicos surcoreanos, sirviendo de inspiración para futuros atletas."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Paralympic.org - PyeongChang 2018](https://www.paralympic.org/pyeongchang-2018)",
+        "[Korea JoongAng Daily - Shin Eui-hyun](https://koreajoongangdaily.joins.com/2022/03/13/sports/olympics/Paralympics-Team-Korea-Shin-Euihyun/20220313173347408.html)",
+        "[Paralympic.org - Beijing 2022](https://www.paralympic.org/beijing-2022)"
+    ]
+}

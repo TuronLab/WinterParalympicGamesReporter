@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Guilherme Rocha",
+    "date_of_birth": "1996-03-20",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 13,
+    "world_cup_points": 322,
+    "country": "BRA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno de Beijing 2022: 19° lugar en Esquí de Fondo Masculino de Larga Distancia en Sentado, 18° lugar en Esquí de Fondo Masculino de Sprint en Sentado (Clasificación), 18° lugar en Esquí de Fondo Masculino de Media Distancia en Sentado, 8° lugar en Relevo Mixto 4x2.5km.",
+            "participation": "Información no disponible.",
+            "achievements": "Información no disponible.",
+            "guide": "Información no disponible.",
+            "performance_trends": "Clasificación General de la Copa del Mundo 2023: 9° lugar con 448 puntos, 2024: 17° lugar con 281 puntos, 2025: 21° lugar con 261 puntos, 2026: 13° lugar con 322 puntos.",
+            "preparation_style": "Entrenamiento regular en el Parque Eco Esportivo Damha en São Carlos, Brasil.",
+            "personal_contextual_info": "Guilherme Rocha tiene actualmente 29 años y reside en Jundiaí, São Paulo, Brasil. Es un competidor activo."
+        }
+    ],
+    "personal_data": "Información no disponible.",
+    "reference_urls": [
+        "[Paralympic.org - Perfil de Guilherme Rocha](https://www.paralympic.org/guilherme-rocha)",
+        "[FIS - Biografía del Atleta Guilherme Rocha](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291055&type=cups&cupcode=WC)"
+    ]
+}

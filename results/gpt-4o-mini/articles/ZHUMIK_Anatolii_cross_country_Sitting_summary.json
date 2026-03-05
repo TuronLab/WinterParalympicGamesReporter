@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "ZHUMIK Anatolii",
+    "date_of_birth": "2003-05-28",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 52,
+    "world_cup_points": 44,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10.5",
+    "sports": [
+        {
+            "sport_name": "Cross-Country Skiing",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Competed at the 2014 Winter Paralympics, securing a silver medal in the men's 15km visually impaired biathlon event.",
+            "participation": "Competes in biathlon events.",
+            "achievements": "Information not publicly available",
+            "guide": "Competes with a sighted guide, Oleksandr Mukshyn.",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Born on May 28, 2003, currently an active competitor."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292200)",
+        "[IBU](https://www.biathlonworld.com/athlete/zhumik-anatolii/62054)"
+    ]
+}

@@ -1,0 +1,35 @@
+﻿{
+    "name_of_the_athlete": "Akzhana Abdikarimova",
+    "date_of_birth": "1984-04-22",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 22,
+    "world_cup_points": 136,
+    "country": "RUS",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "10ª en 6 km Sentada, 14ª en 12 km Sentada, 5ª en 10 km Sentada en los Juegos Paralímpicos de Sochi 2014; 11ª en 6 km Sentada, 16ª en 12 km Sentada, 10ª en 10 km Sentada en los Juegos Paralímpicos de Pyeongchang 2018.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Sochi 2014 y Pyeongchang 2018.",
+            "participation": "Compitió en Atletismo en los Campeonatos Mundiales de Atletismo IPC 2015.",
+            "achievements": "Plata en 4x400 m T53/54 en los Campeonatos Mundiales de Atletismo IPC 2015.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en Copas del Mundo y Campeonatos con posiciones variables.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació en Karaganda, Kazajistán, y se sometió a una operación de columna a los 6 meses."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=289690)",
+        "[Perfil del Comité Paralímpico Internacional](https://www.paralympic.org/akzhana-abdikarimova)",
+        "[Perfil de RusTeam](https://rus.team/people/abdikarimova-akzhana-nurlanovna)",
+        "[Comité Paralímpico de Rusia](https://paralymp.ru/sport/athletes/akzhana-abdikarimova/)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=289690)",
+        "[Perfil del Comité Paralímpico Internacional](https://www.paralympic.org/akzhana-abdikarimova)",
+        "[Perfil de RusTeam](https://rus.team/people/abdikarimova-akzhana-nurlanovna)",
+        "[Comité Paralímpico de Rusia](https://paralymp.ru/sport/athletes/akzhana-abdikarimova/)"
+    ]
+}

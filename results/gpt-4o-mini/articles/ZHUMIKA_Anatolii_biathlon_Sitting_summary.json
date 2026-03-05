@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Anatolii ZHUMIKA",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 30,
+    "world_cup_points": 46,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "biatlón",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil de IBU](https://www.biathlonworld.com/athlete/zhumik-anatolii/62054)",
+        "[Biatlón IPC](https://www.paralympic.org/biathlon)"
+    ]
+}

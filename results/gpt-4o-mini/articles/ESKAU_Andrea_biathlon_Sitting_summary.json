@@ -1,0 +1,43 @@
+﻿{
+    "name_of_the_athlete": "Andrea Eskau",
+    "date_of_birth": "1971-03-21",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 3,
+    "world_cup_points": 620,
+    "country": "GER",
+    "category": "Sitting",
+    "paralympic_category_lw": "H4",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Bronce, 10 km Biatlón, Juegos Paralímpicos de Invierno de Vancouver 2010; Medalla de Oro, 6 km Biatlón, Juegos Paralímpicos de Invierno de Sochi 2014; Medallas de Oro en biatlón de 10 km y 12.5 km, Juegos Paralímpicos de Invierno de Pyeongchang 2018; Medalla de Bronce, 6 km Biatlón, Campeonatos Mundiales de Esquí Nórdico Para de Prince George 2019; Medallas de Bronce en biatlón de 7.5 km y 10 km, Campeonatos Mundiales de Esquí Nórdico Para de Östersund 2023.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Verano de Beijing 2008, Juegos Paralímpicos de Invierno de Vancouver 2010, Juegos Paralímpicos de Verano de Londres 2012, Juegos Paralímpicos de Invierno de Sochi 2014, Juegos Paralímpicos de Verano de Río de Janeiro 2016, Juegos Paralímpicos de Invierno de Pyeongchang 2018, Juegos Paralímpicos de Verano de Tokio 2020 y está programada para competir en los Juegos Paralímpicos de Verano de París 2024.",
+            "participation": "Ciclismo Adaptado",
+            "achievements": "Medalla de Oro en Carrera de Ruta en Handbike, Juegos Paralímpicos de Verano de Beijing 2008; Medallas de Oro en eventos de Handbike en los Juegos Paralímpicos de Verano de Londres 2012; Medalla de Oro en Carrera de Ruta en Handbike, Juegos Paralímpicos de Verano de Río de Janeiro 2016.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente en medallas a lo largo de múltiples Juegos Paralímpicos y Campeonatos Mundiales, indicando una fuerte presencia competitiva en el deporte.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació el 21 de marzo de 1971 en Apolda, Alemania. Clasificación: H4 (cuadripléjica)."
+        },
+        {
+            "sport_name": "Ciclismo Adaptado",
+            "major_achievements": "Medalla de Oro en Carrera de Ruta en Handbike, Juegos Paralímpicos de Verano de Beijing 2008; Medallas de Oro en eventos de Handbike en los Juegos Paralímpicos de Verano de Londres 2012; Medalla de Oro en Carrera de Ruta en Handbike, Juegos Paralímpicos de Verano de Río de Janeiro 2016.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Verano de Beijing 2008, Juegos Paralímpicos de Verano de Londres 2012 y Juegos Paralímpicos de Verano de Río de Janeiro 2016.",
+            "participation": "Biatlón",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Andrea Eskau](https://de.wikipedia.org/wiki/Andrea_Eskau)",
+        "[Paralympic.org - Andrea Eskau](https://www.paralympic.org/feature/pioneers-andrea-eskau-para-biathlon)",
+        "[ZDFheute - Entrevista a Andrea Eskau](https://www.zdfheute.de/sport/parasport-radsport-eskau-interview-100.html)",
+        "[BSSA - Andrea Eskau](https://www.bssa.de/aktuelles/bronze-zum-wm-abschluss-fuer-andrea-eskau/)",
+        "[Breaking Now News - Andrea Eskau](https://www.breakingnownews.com/the-elite-few-who-conquer-summer-and-winter-paralympics-377486)"
+    ]
+}

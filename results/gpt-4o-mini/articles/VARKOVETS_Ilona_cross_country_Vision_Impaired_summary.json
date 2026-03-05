@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Ilona Varkovets",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 8,
+    "world_cup_points": 283,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Compite en los Juegos Paralímpicos de Milano Cortina 2026.",
+            "participation": "También está involucrada en el para-biatlón.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/20527",
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291732&type=result",
+        "https://www.biathlonworld.com/cz/athlete/varkovets-ilona/55460",
+        "https://www.paralympic.org/results"
+    ]
+}

@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Robelson Moreira Lula",
+    "date_of_birth": "1993-05-04",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 21,
+    "world_cup_points": 220,
+    "country": "BRA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Invierno 2022 (Beijing), clasificado como el tercer mejor brasileño en el ranking mundial de su categoría.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno 2022 en Beijing: 20° lugar en Distancia Larga Masculina en Silla, 21° lugar en Sprint Masculino en Silla, 20° lugar en Distancia Media Masculina en Silla, 8° lugar en Relevo Mixto 4x2.5km.",
+            "participation": "Natación, Balonmano en Silla de Ruedas, Atletismo.",
+            "achievements": "Compitió en la Copa del Mundo de esquí de fondo en 2018 en Vuokatti, Finlandia.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Compitió en múltiples eventos en los Juegos Paralímpicos de Beijing 2022, mostrando participación constante.",
+            "preparation_style": "Participó en campamentos de entrenamiento en Alemania con el equipo brasileño de Para Biatlón, centrándose en técnicas de esquí y habilidades de tiro.",
+            "personal_contextual_info": "Perdió su pierna derecha por encima de la rodilla debido al cáncer a la edad de 12 años. Comenzó su carrera deportiva en São Carlos, São Paulo, después de su amputación."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/lula-robelson/40641)",
+        "[Perfil del Atleta Paralímpico](https://www.paralympic.org/robelson-lula)",
+        "[Jornal da Paraíba - Debut Paralímpico](https://jornaldaparaiba.com.br/esportes/paraibano-robelson-lula-estreia-na-paralimpiada-de-inverno-de-pequim-no-esqui-cross-country)",
+        "[Ge Globo - Preparación para los Paralímpicos](https://ge.globo.com/pb/paralimpiadas/noticia/2022/03/02/do-forte-calor-do-brasil-aos-11oc-da-china-dupla-brasileira-esta-pronta-para-as-paralimpiadas-de-inverno.ghtml)"
+    ]
+}

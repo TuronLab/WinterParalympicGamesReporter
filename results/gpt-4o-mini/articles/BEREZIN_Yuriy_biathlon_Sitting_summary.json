@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Yuriy Berezin",
+    "date_of_birth": "1984-02-05",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 26,
+    "world_cup_points": 150,
+    "country": "KAZ",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Beijing 2022: 24º lugar en Longitud de hombres sentado, 30º lugar en Sprint de hombres sentado, 31º lugar en Distancia media de hombres sentado.",
+            "paralympic_participation": "Juegos Paralímpicos de Beijing 2022.",
+            "participation": "Esquí nórdico.",
+            "achievements": "Resultados en esquí nórdico en los Juegos Paralímpicos de 2022: 24º lugar en Longitud de hombres sentado, 30º lugar en Sprint de hombres sentado, 31º lugar en Distancia media de hombres sentado.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Tendencia de rendimiento ascendente, aunque los datos específicos de rendimiento no están disponibles públicamente.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació el 5 de febrero de 1984 y representa a Kazajistán en competiciones internacionales."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Qazinform](https://qazinform.com/news/yerbol-khamitov-hauls-bronze-at-paralympic-biathlon-world-cup-stage-a3197f)",
+        "[Unión Internacional de Biatlón - Perfil del atleta](https://www.biathlonworld.com/athlete/berezin-yuriy/40928)",
+        "[Perfil del atleta paralímpico](https://www.paralympic.org/yuriy-berezin)",
+        "[Kazajistán en los Juegos Paralímpicos de Invierno de 2022 - Wikipedia](https://en.wikipedia.org/wiki/Kazakhstan_at_the_2022_Winter_Paralympics)",
+        "[Qazinform](https://qazinform.com/news/yerbol-khamitov-hauls-bronze-at-paralympic-biathlon-world-cup-stage-a3197f)"
+    ]
+}

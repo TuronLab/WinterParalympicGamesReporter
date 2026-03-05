@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "WANG Tao",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 19,
+    "world_cup_points": 270,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Invierno de Beijing 2022 junto a su compañero de equipo Liu Zixu, contribuyendo al rendimiento general del equipo.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Compitió en eventos de esquí de fondo junto al biatlón.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Es miembro de los equipos nacionales de biatlón y esquí de fondo para personas con discapacidad de China."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil de IBU](https://www.biathlonworld.com/athlete/wang-tao/44067)",
+        "[Real Biathlon](https://www.realbiathlon.com/)",
+        "[Flashscore](https://www.flashscore.com/biathlon/individual-men/world-championship-2023/)",
+        "[Perfil de IBU](https://www.biathlonworld.com/athlete/wang-tao/44067)",
+        "[Real Biathlon](https://www.realbiathlon.com/)",
+        "[Flashscore](https://www.flashscore.com/biathlon/individual-men/world-championship-2023/)"
+    ]
+}

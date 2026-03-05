@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Wellington da Silva",
+    "date_of_birth": "2006-08-04",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 25,
+    "world_cup_points": 231,
+    "country": "BRA",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "6to lugar en la Final de Sprint en Szklarska Poreba-Jakuszyce (28 de enero de 2026), 10mo lugar en la Salida por Intervalos en Szklarska Poreba-Jakuszyce (29 de enero de 2026), 15to lugar en la Salida por Intervalos en Szklarska Poreba-Jakuszyce (31 de enero de 2026), No comenzó (DNS) en la Salida Masiva en Szklarska Poreba-Jakuszyce (1 de febrero de 2026)",
+            "paralympic_participation": "Programado para hacer su debut en los Juegos Paralímpicos de Invierno de Milano Cortina 2026",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora notable en eventos de sprint, logrando una posición en el podio en la Final de Sprint. Participación constante en eventos de la Copa del Mundo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Wellington da Silva reside en Jundiaí, São Paulo, Brasil. Actualmente está soltero y no tiene hijos."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291952)",
+        "[Perfil Olímpico](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/66179)",
+        "[Olimpiada Todo Dia](https://www.olimpiadatododia.com.br/paralimpiada-todo-dia/724782-elena-e-wellington-chegam-em-final-de-etapa-da-copa-do-mundo-de-para-cross-country/)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291952)",
+        "[Perfil Olímpico](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/66179)",
+        "[Olimpiada Todo Dia](https://www.olimpiadatododia.com.br/paralimpiada-todo-dia/724782-elena-e-wellington-chegam-em-final-de-etapa-da-copa-do-mundo-de-para-cross-country/)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291952)",
+        "[Perfil Olímpico](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/66179)",
+        "[Olimpiada Todo Dia](https://www.olimpiadatododia.com.br/paralimpiada-todo-dia/724782-elena-e-wellington-chegam-em-final-de-etapa-da-copa-do-mundo-de-para-cross-country/)"
+    ]
+}

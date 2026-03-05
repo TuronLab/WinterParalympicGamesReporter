@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Alice Morelius",
+    "date_of_birth": "2008-01-17",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 12,
+    "world_cup_points": 320,
+    "country": "SWE",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Logró 8º lugar en dos eventos de la Copa del Mundo en 2025 y seleccionada para competir en los Juegos Paralímpicos de 2026.",
+            "paralympic_participation": "Compitiendo en los Juegos Paralímpicos de 2026 (debut).",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró 8º lugar en dos eventos de la Copa del Mundo durante la temporada 2025.",
+            "preparation_style": "Entrena entre 12 y 20 horas por semana en un gimnasio de esquí en Mora.",
+            "personal_contextual_info": "Nació con dismelia, faltándole parte de su brazo derecho."
+        }
+    ],
+    "personal_data": "Representa al IFK Hedemora SK.",
+    "reference_urls": [
+        "[Alice Morelius - Wikipedia](https://sv.wikipedia.org/wiki/Alice_Morelius)",
+        "[Alice Morelius | Parasport Sverige](https://parasport.se/paralympics/personer-milano-cortina-2026/alice-morelius)",
+        "[FIS | Alice MORELIUS - Biografía del Atleta - Esquí de Fondo](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=284991&type=result&categorycode=JUN&limit=100)",
+        "[Alice Morelius - Wikipedia](https://sv.wikipedia.org/wiki/Alice_Morelius)",
+        "[Alice Morelius | Parasport Sverige](https://parasport.se/paralympics/personer-milano-cortina-2026/alice-morelius)",
+        "[FIS | Alice MORELIUS - Biografía del Atleta - Esquí de Fondo](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=284991&type=result&categorycode=JUN&limit=100)",
+        "[Alice Morelius - Wikipedia](https://sv.wikipedia.org/wiki/Alice_Morelius)",
+        "[Alice Morelius | Parasport Sverige](https://parasport.se/paralympics/personer-milano-cortina-2026/alice-morelius)",
+        "[FIS | Alice MORELIUS - Biografía del Atleta - Esquí de Fondo](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=284991&type=result&categorycode=JUN&limit=100)"
+    ]
+}

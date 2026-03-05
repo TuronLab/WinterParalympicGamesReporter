@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "ZINOV Denis",
+    "date_of_birth": "1999-07-05",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 26,
+    "world_cup_points": 230,
+    "country": "KAZ",
+    "category": "Standing",
+    "paralympic_category_lw": "LW3",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de Plata en los 10 km Libre Masculino en los Juegos Universitarios de Invierno FISU Torino 2025.",
+            "paralympic_participation": "ZINOV Denis aún no ha participado en los Juegos Paralímpicos.",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "ZINOV ha mostrado un patrón constante de participación en los Campeonatos Mundiales y eventos de la Copa del Mundo.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "ZINOV nació el 5 de julio de 1999 y representa a Kazajistán en competiciones internacionales."
+        }
+    ],
+    "personal_data": "ZINOV es un atleta activo, contribuyendo a la visibilidad de los deportes paralímpicos en su país.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291740&type=fispoints)",
+        "[Para News](https://para-news.ch/athlete/denis-zinov)"
+    ]
+}

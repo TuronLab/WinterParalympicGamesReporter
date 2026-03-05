@@ -1,0 +1,35 @@
+﻿{
+    "name_of_the_athlete": "Sebastian Marburger",
+    "date_of_birth": "1997-08-16",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 2,
+    "world_cup_points": 610,
+    "country": "GER",
+    "category": "Standing",
+    "paralympic_category_lw": "LW2",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "6 podios en la temporada 2026, incluyendo 4 primeros lugares. 3 podios en la temporada 2025.",
+            "paralympic_participation": "Es un atleta activo que se está preparando para los Juegos Paralímpicos de 2026.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not applicable",
+            "performance_trends": "Finales consistentes en el podio en eventos de la Copa del Mundo, mostrando un patrón de mejora y dominio en la temporada 2026.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Sebastian Marburger tiene actualmente 28 años. Su código FIS es 100848."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291674)",
+        "[Resultados FIS - Szklarska Poreba-Jakuszyce](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=805)",
+        "[Resultados FIS - Finsterau](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=711)",
+        "[Resultados FIS - Canmore](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=627)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291674)",
+        "[Resultados FIS - Szklarska Poreba-Jakuszyce](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=805)",
+        "[Resultados FIS - Finsterau](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=711)",
+        "[Resultados FIS - Canmore](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=627)"
+    ]
+}

@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Brittany Hudak",
+    "date_of_birth": "1993-06-02",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 15,
+    "world_cup_points": 224,
+    "country": "CAN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6/8",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Campeona General de Esquí de Fondo de la Copa del Mundo 2014-15. Medalla de bronce en 15 km estilo clásico en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2014, 2018 y 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de bronce en 12.5 km biatlón en los Juegos Paralímpicos de Invierno de 2018 y 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Resultados consistentes en eventos de la Copa del Mundo y Juegos Paralímpicos, indicando una trayectoria ascendente en el rendimiento.",
+            "preparation_style": "Entrena con el Sturgeon River Nordic Ski Club bajo la dirección del entrenador Brian McKeever, enfocándose en esquí de fondo y biatlón.",
+            "personal_contextual_info": "Nació con una discapacidad, faltándole parte de su brazo izquierdo por debajo del codo. Está cursando una carrera en trabajo social."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de bronce en 12.5 km biatlón en los Juegos Paralímpicos de Invierno de 2018 y 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2018 y 2022.",
+            "participation": "Esquí de fondo",
+            "achievements": "Medalla de bronce en 15 km estilo clásico en los Juegos Paralímpicos de Invierno de 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Resultados consistentes en eventos de la Copa del Mundo y Juegos Paralímpicos, indicando una trayectoria ascendente en el rendimiento.",
+            "preparation_style": "Entrena con el Sturgeon River Nordic Ski Club bajo la dirección del entrenador Brian McKeever, enfocándose en esquí de fondo y biatlón.",
+            "personal_contextual_info": "Nació con una discapacidad, faltándole parte de su brazo izquierdo por debajo del codo. Está cursando una carrera en trabajo social."
+        }
+    ],
+    "personal_data": "Nació el 2 de junio de 1993 en Prince Albert, Saskatchewan, Canadá.",
+    "reference_urls": [
+        "[Wikipedia - Brittany Hudak](https://en.wikipedia.org/wiki/Brittany_Hudak)",
+        "[Comité Paralímpico Canadiense - Brittany Hudak](https://paralympic.ca/athlete/brittany-hudak/)",
+        "[Esquí de Fondo Canadá - Brittany Hudak](https://cccski.com/National-Ski-Team/Athlete-Information/Para-Nordic-World-Cup-Team/Brittany-Hudak.html)",
+        "[Nordiq Canadá - Brittany Hudak](https://nordiqcanada.ca/athlete/brittany-hudak/)"
+    ]
+}

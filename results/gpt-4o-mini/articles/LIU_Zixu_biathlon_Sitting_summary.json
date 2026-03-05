@@ -1,0 +1,43 @@
+﻿{
+    "name_of_the_athlete": "Liu Zixu",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 16,
+    "world_cup_points": 285,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro en los 6 km en silla de ruedas masculinos en los Juegos Paralímpicos de Invierno de 2022; Medalla de Bronce en los 12.5 km en silla de ruedas masculinos en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Participó en esquí de fondo en los Juegos Paralímpicos de Invierno de 2022.",
+            "achievements": "5to Lugar en los 10 km de media distancia en silla de ruedas masculinos en los Juegos Paralímpicos de Invierno de 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró un rendimiento sólido en su debut, ganando una medalla de oro y una medalla de bronce.",
+            "preparation_style": "Enfoque basado en la confianza, enfatizado por su entrenador, Zhu Dewen.",
+            "personal_contextual_info": "Originario de Xi'an, China, comenzó su entrenamiento en biatlón en 2017 tras un accidente automovilístico en 2008."
+        },
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "4to Lugar en el sprint de esquí de fondo masculino en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Liu Zixu ha mostrado resiliencia en su carrera deportiva, especialmente tras su accidente automovilístico en 2008.",
+    "reference_urls": [
+        "[Wikipedia - Liu Zixu](https://en.wikipedia.org/wiki/Liu_Zixu)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/liu-zixu/44062)",
+        "[DayDayNews - Liu Zixu](https://daydaynews.cc/en/sports/1864749.html)",
+        "[Diario del Pueblo - Liu Zixu](https://en.people.cn/n3/2022/0305/c90000-9966646.html)",
+        "[CGTN - Liu Zixu](https://news.cgtn.com/news/2022-03-06/Liu-Zixu-wins-China-s-first-gold-medal-at-Beijing-Winter-Paralympics-18baHZdGQU0/index.html)"
+    ]
+}

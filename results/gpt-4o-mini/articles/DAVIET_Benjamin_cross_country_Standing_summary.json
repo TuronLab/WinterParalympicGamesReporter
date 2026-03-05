@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Benjamin Daviet",
+    "date_of_birth": "1989-06-16",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 38,
+    "world_cup_points": 148,
+    "country": "FRA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW2",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "10 medallas paralímpicas (5 de oro, 4 de plata, 1 de bronce). 9 veces campeón mundial en biatlón adaptado y esquí de fondo.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Sochi 2014, PyeongChang 2018 y Beijing 2022.",
+            "participation": "Remo adaptado",
+            "achievements": "Vicecampeón de Francia en 2023 y clasificado para los Juegos de París 2024.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Finalizaciones consistentes en el podio en eventos importantes desde 2014.",
+            "preparation_style": "Equilibra su entrenamiento entre el esquí de fondo y el remo, participando en un riguroso entrenamiento a lo largo del año.",
+            "personal_contextual_info": "Proviene del valle de Bouchet, conocido por su belleza natural. Su entrada en los deportes adaptativos fue provocada por un accidente significativo a la edad de 17 años."
+        },
+        {
+            "sport_name": "Remo adaptado",
+            "major_achievements": "Vicecampeón de Francia en 2023.",
+            "paralympic_participation": "Clasificado para los Juegos de París 2024.",
+            "participation": "Esquí de fondo",
+            "achievements": "5º lugar en los dobles mixtos en los Juegos de París 2024.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Involucrado en actividades de divulgación comunitaria y mentoría para jóvenes atletas.",
+    "reference_urls": [
+        "[Wikipedia - Benjamin Daviet](https://en.wikipedia.org/wiki/Benjamin_Daviet)",
+        "[Paralympic.org - Benjamin Daviet](https://www.paralympic.org/benjamin-daviet)",
+        "[Sitio Oficial de Benjamin Daviet](https://www.benjamin-daviet.com/)",
+        "[Comité Paralímpico y Deportivo Francés](https://france-paralympique.fr/paralympiens/benjamin-daviet/)"
+    ]
+}

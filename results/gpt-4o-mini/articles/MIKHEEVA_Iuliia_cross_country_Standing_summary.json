@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Iuliia Mikheeva",
+    "date_of_birth": "1999-01-26",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 19,
+    "world_cup_points": 199,
+    "country": "RUS",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Invierno 2018 con múltiples eventos y fuertes actuaciones en Campeonatos Mundiales.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno 2018: 6 km Femenino: 14º lugar, 10 km Femenino: 10º lugar, Sprint Clásico Femenino 1.5 km: 14º lugar, 12.5 km Femenino: 8º lugar, 7.5 km Clásico Femenino: 16º lugar.",
+            "participation": "Biatlón",
+            "achievements": "Juegos Paralímpicos de Invierno 2018 en Biatlón: 7.5 km Clásico Femenino: 16º lugar, 12.5 km Femenino: 8º lugar, Sprint Clásico Femenino 1.5 km: 14º lugar, 10 km Femenino: 10º lugar, 6 km Femenino: 14º lugar.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en Campeonatos Mundiales y Copas del Mundo, generalmente ubicándose dentro del top 20.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290465&type=result)",
+        "[Paralympic.org](https://www.paralympic.org/iuliia-mikheeva)",
+        "[The Sports](https://www.the-sports.org/iuliia-mikheeva-biathlon-spf533184.html)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290465&type=result)",
+        "[Paralympic.org](https://www.paralympic.org/iuliia-mikheeva)",
+        "[The Sports](https://www.the-sports.org/iuliia-mikheeva-biathlon-spf533184.html)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290465&type=result)",
+        "[Paralympic.org](https://www.paralympic.org/iuliia-mikheeva)",
+        "[The Sports](https://www.the-sports.org/iuliia-mikheeva-biathlon-spf533184.html)"
+    ]
+}

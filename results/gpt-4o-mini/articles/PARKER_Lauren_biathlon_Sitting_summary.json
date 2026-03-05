@@ -1,0 +1,52 @@
+﻿{
+    "name_of_the_athlete": "Lauren Parker",
+    "date_of_birth": "1988-12-15",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 12,
+    "world_cup_points": 72,
+    "country": "AUS",
+    "category": "Sitting",
+    "paralympic_category_lw": "PTWC",
+    "sports": [
+        {
+            "sport_name": "Para-Triathlon",
+            "major_achievements": "Medalla de plata en la categoría PTWC Femenina en los Juegos Paralímpicos de Verano de 2020; Medalla de oro en la categoría PTWC Femenina en los Juegos Paralímpicos de Verano de 2024.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Verano de 2020 y 2024.",
+            "participation": "Compite en para-ciclismo y para-biathlon.",
+            "achievements": "Medalla de plata en la categoría PTWC Femenina en los Juegos Paralímpicos de Verano de 2020; Medalla de oro en la categoría PTWC Femenina en los Juegos Paralímpicos de Verano de 2024.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ha mostrado una notable progresión en su rendimiento desde su entrada en los para-deportes.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nacida el 15 de diciembre de 1988 en Newcastle, Nueva Gales del Sur, Australia. Hizo la transición a los para-deportes tras un grave accidente de entrenamiento en abril de 2017."
+        },
+        {
+            "sport_name": "Para-Cycling",
+            "major_achievements": "Medalla de oro y medalla de plata en ciclismo en los Juegos Paralímpicos de Verano de 2024.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Verano de 2024.",
+            "participation": "Compite en para-triathlon y para-biathlon.",
+            "achievements": "Medalla de oro y medalla de plata en ciclismo en los Juegos Paralímpicos de Verano de 2024.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ha mostrado una notable progresión en su rendimiento desde su entrada en los para-deportes.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nacida el 15 de diciembre de 1988 en Newcastle, Nueva Gales del Sur, Australia. Hizo la transición a los para-deportes tras un grave accidente de entrenamiento en abril de 2017."
+        },
+        {
+            "sport_name": "Para-Biathlon",
+            "major_achievements": "Compitiendo en para-biathlon en los Juegos Paralímpicos de Invierno de 2026.",
+            "paralympic_participation": "Compitiendo en los Juegos Paralímpicos de Invierno de 2026.",
+            "participation": "Compite en para-triathlon y para-ciclismo.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nacida el 15 de diciembre de 1988 en Newcastle, Nueva Gales del Sur, Australia. Hizo la transición a los para-deportes tras un grave accidente de entrenamiento en abril de 2017."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Lauren Parker](https://en.wikipedia.org/wiki/Lauren_Parker)",
+        "[Unión Internacional de Biathlon - Perfil del Atleta](https://www.biathlonworld.com/athlete/parker-lauren/66873)",
+        "[Paralympics Australia - Lauren Parker](https://www.paralympic.org.au/athlete/lauren-parker/)"
+    ]
+}

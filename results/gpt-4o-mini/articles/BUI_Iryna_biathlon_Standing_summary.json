@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Iryna Vasylivna Bui",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 6,
+    "world_cup_points": 500,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro en 10 km - Mujeres - Pie en los Juegos Paralímpicos de Invierno 2022; Medalla de Bronce en 7.5 km Clásico - Mujeres - Pie en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2014, 2018 y 2022.",
+            "participation": "Compite también en esquí de fondo.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora notable desde los Juegos Paralímpicos de Invierno 2017/2018 hasta los Juegos de 2021/2022.",
+            "preparation_style": "Ha dedicado 12 años a un entrenamiento riguroso.",
+            "personal_contextual_info": "Dedicó sus medallas a los soldados ucranianos y a su nación durante los Juegos Paralímpicos de Invierno de 2022."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/bui-iryna/17241)",
+        "[The-Sports.org - Resultados de Iryna Bui](https://www.the-sports.org/?nomavectiret=iryna-bui-biathlon&spf=533177)",
+        "[NBC Olympics - Iryna Bui Lidera Barrida Ucraniana](https://www.nbcolympics.com/videos/iryna-bui-leads-ukrainian-sweep-biathlon-10km-standing)",
+        "[Popsugar - Atletas Ucranianos Barrida en el Podio de Biatlón Paralímpico](https://www.popsugar.com/fitness/Ukrainian-Athletes-Sweep-Paralympic-Biathlon-Podium-48617482)"
+    ]
+}

@@ -1,0 +1,39 @@
+﻿{
+    "name_of_the_athlete": "ZHENG Peng",
+    "date_of_birth": "1992-10-21",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 23,
+    "world_cup_points": 246,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Primer atleta chino en ganar una medalla de oro en esquí de fondo paralímpico. El paralímpico invernal chino más condecorado con un total de cuatro medallas en los Juegos de 2022.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno PyeongChang 2018 y en los Juegos Paralímpicos de Invierno Beijing 2022.",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Mejoró del 4º lugar en 2018 a ganar dos medallas de oro y dos medallas de plata en 2022, lo que indica un progreso significativo.",
+            "preparation_style": "Se centró en la mejora física y mental después de los Juegos de 2018.",
+            "personal_contextual_info": "ZHENG expresó que su éxito fue un sueño hecho realidad y atribuyó su mejora a cuatro años de entrenamiento dedicado."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[Wikipedia - Zheng Peng](https://en.wikipedia.org/wiki/Zheng_Peng)",
+        "[Artículo de Global Times](https://www.globaltimes.cn/page/202203/1254538.shtml)",
+        "[Artículo de Xinhua News](https://english.news.cn/20220309/b3bba3c73c3440a0a3d53559e1128388/c.html)",
+        "[Artículo de Inside the Games](https://www.insidethegames.biz/articles/beijing-2022-paralympics-cross-country)",
+        "[Artículo de Laitimes sobre la Medalla de Oro](https://www.laitimes.com/en/article/3c8tn_3sxws.html)",
+        "[Artículo de Laitimes sobre la Primera Medalla de Oro](https://www.laitimes.com/en/article/3bjn4_3s8se.html)",
+        "[Wikipedia - Zheng Peng](https://en.wikipedia.org/wiki/Zheng_Peng)",
+        "[Artículo de Global Times](https://www.globaltimes.cn/page/202203/1254538.shtml)",
+        "[Artículo de Xinhua News](https://english.news.cn/20220309/b3bba3c73c3440a0a3d53559e1128388/c.html)",
+        "[Artículo de Inside the Games](https://www.insidethegames.biz/articles/beijing-2022-paralympics-cross-country)",
+        "[Artículo de Laitimes sobre la Medalla de Oro](https://www.laitimes.com/en/article/3c8tn_3sxws.html)",
+        "[Artículo de Laitimes sobre la Primera Medalla de Oro](https://www.laitimes.com/en/article/3bjn4_3s8se.html)"
+    ]
+}

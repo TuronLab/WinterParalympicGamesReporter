@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "YUAN Mingshou",
+    "date_of_birth": "1996-07-06",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 44,
+    "world_cup_points": 78,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "B2",
+    "sports": [
+        {
+            "sport_name": "Para-biatlón",
+            "major_achievements": "Medalla de bronce en el biatlón individual masculino de 12.5 km para atletas con discapacidad visual en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2022 en Beijing.",
+            "participation": "Esquí de fondo.",
+            "achievements": "Medallas de plata y bronce en varios eventos en la Copa del Mundo de Para Biatlón 2024.",
+            "guide": "Wang Guanyu.",
+            "performance_trends": "Mejora notable en eventos de la Copa del Mundo.",
+            "preparation_style": "Entrenamiento en instalaciones de altitud, enfoque en técnica de esquí y resistencia.",
+            "personal_contextual_info": "Nació con una discapacidad visual congénita y superó desafíos significativos relacionados con su discapacidad visual."
+        }
+    ],
+    "personal_data": "Creció en el condado de Qu, en la provincia de Sichuan, China, en un entorno familiar de apoyo.",
+    "reference_urls": [
+        "[Comité Paralímpico Internacional - Mingshou Yuan](https://www.paralympic.org/mingshou-yuan)",
+        "[FIS - Biografía del Atleta Mingshou Yuan](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291277&type=result)",
+        "[Resultados de Beijing 2022](https://www.paralympic.org/beijing-2022/results)",
+        "[Biathlon World - Perfil del Atleta](https://www.biathlonworld.com/athlete/yuan-mingshou/44056)"
+    ]
+}

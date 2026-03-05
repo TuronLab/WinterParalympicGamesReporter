@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Merle Marie Menje",
+    "date_of_birth": "2004-08-19",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 12,
+    "world_cup_points": 244,
+    "country": "GER",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "5ª en Relevo Mixto, 7ª en Sprint Clásico en Silla, 9ª en Distancia Media Clásica en Silla en los Campeonatos Mundiales de Deportes de Nieve para Personas con Discapacidad 2021; 4ª en Sprint y 8ª en 10 km en el Para-Langlauf-WM 2025.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Verano de Tokio 2020.",
+            "participation": "Atletismo Paralímpico",
+            "achievements": "1ª en 400m T54, 1ª en 5000m T54, 2ª en 100m T54, 2ª en 800m T54 en los Campeonatos Europeos 2021; 4ª en 800m T54, 4ª en 1500m T54, 6ª en 5000m T54, 8ª en 400m T54 en los Juegos Paralímpicos de Tokio 2020.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ha mostrado una mejora constante en su rendimiento, especialmente en esquí de fondo.",
+            "preparation_style": "Participa en un régimen de entrenamiento que equilibra tanto el atletismo como el esquí de fondo.",
+            "personal_contextual_info": "Conocida como 'Wunderkind' (Niño Maravilla) en Alemania, equilibra su carrera deportiva de élite con su educación."
+        },
+        {
+            "sport_name": "Atletismo Paralímpico",
+            "major_achievements": "1ª en 400m T54, 1ª en 5000m T54, 2ª en 100m T54, 2ª en 800m T54 en los Campeonatos Europeos 2021.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Verano de Tokio 2020.",
+            "participation": "Esquí de fondo",
+            "achievements": "4ª en 800m T54, 4ª en 1500m T54, 6ª en 5000m T54, 8ª en 400m T54 en los Juegos Paralímpicos de Tokio 2020.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Merle Menje](https://en.wikipedia.org/wiki/Merle_Menje)",
+        "[Paralympic.org Feature on Merle Menje](https://www.paralympic.org/es/feature/merle-menje-summer-winter-success)",
+        "[Toyota Times - Merle Menje Profile](https://toyotatimes.jp/en/sports/teams_athletes/athlete/merle_menje.html)",
+        "[ZDF - Para-Langlauf-WM](https://www.zdfheute.de/sport/para-langlauf-wm-toblach-merle-menje-100.html)"
+    ]
+}

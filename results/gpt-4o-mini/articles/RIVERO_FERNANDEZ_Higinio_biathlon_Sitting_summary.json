@@ -1,0 +1,37 @@
+﻿{
+    "name_of_the_athlete": "Higinio Rivero Fernández",
+    "date_of_birth": "1982-01-01",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 13,
+    "world_cup_points": 310,
+    "country": "ESP",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW 10.5",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Primer atleta español en competir en un Campeonato Mundial de Biatlón Paralímpico (2025). Clasificado para los Juegos Paralímpicos de Milano-Cortina 2026 en biatlón y esquí de fondo.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Tokio 2020 y París 2024 en paracanotaje.",
+            "participation": "Compite también en paracanotaje.",
+            "achievements": "Compitió en eventos de paracanotaje en los Juegos Paralímpicos de Tokio 2020 y París 2024, apuntando a los Campeonatos Europeos en junio de 2026.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Compitió en múltiples eventos de la Copa del Mundo en Finlandia, Italia, Noruega, Suecia y Eslovenia durante la temporada 2024-25, enfocándose en acumular puntos para la clasificación paralímpica.",
+            "preparation_style": "Entrena en el Centro de Perfección Técnica en Fadura, utilizando equipos especializados y esquís de rodillo para simular condiciones competitivas. Participa en entrenamiento mental para mejorar el rendimiento de tiro bajo esfuerzo físico.",
+            "personal_contextual_info": "Nacido en 1982 en Barakaldo, España, sufrió una lesión de médula espinal en 2013 debido a un accidente de escalada, lo que lo llevó a su transición a los deportes adaptativos. Representa al Club Pirineísta Mayencos y a la Federación Aragonesa de Deportes de Invierno."
+        },
+        {
+            "sport_name": "Paracanotaje",
+            "major_achievements": "Compitió en eventos de paracanotaje en los Juegos Paralímpicos de Tokio 2020 y París 2024.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Tokio 2020 y París 2024.",
+            "participation": "Information not publicly available",
+            "achievements": "Apuntando a los Campeonatos Europeos en junio de 2026.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": []
+}

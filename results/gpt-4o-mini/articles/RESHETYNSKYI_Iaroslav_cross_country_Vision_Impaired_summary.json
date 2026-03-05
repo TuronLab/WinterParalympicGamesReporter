@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Iaroslav Reshetynskyi",
+    "date_of_birth": "1992-09-24",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 16,
+    "world_cup_points": 287,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "B1 ou B2",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de plata en la categoría de hombres con discapacidad visual en los Campeonatos Mundiales de Esquí Nórdico Para 2023, 2° lugar en la carrera de hombres con discapacidad visual (10 km estilo libre) en Steinkjer 2025, múltiples finales en el podio en eventos de la Copa del Mundo masculina.",
+            "paralympic_participation": "Iaroslav Reshetynskyi está preparado para participar en los Juegos Paralímpicos de Milano Cortina 2026.",
+            "participation": "Participa en Biatlón Para.",
+            "achievements": "Logró finales en el podio en eventos internacionales de biatlón.",
+            "guide": "Guiado por Dmytro Drahun durante las competiciones.",
+            "performance_trends": "Mantuvo un rendimiento constante, medallando consistentemente en eventos de la Copa del Mundo y Campeonatos en las últimas temporadas.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Representa a Ucrania en el escenario internacional de deportes para."
+        }
+    ],
+    "personal_data": "Nació el 24 de septiembre de 1992.",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/2023_World_Para_Nordic_Skiing_Championships",
+        "https://www.fis-ski.com/para-cross-country/news/2024-25/para-cross-country-world-cup-concludes-in-steinkjer-as-athletes-gear-up-for-trondheim-2025",
+        "https://www.paralympic.org/iaroslav-reshetynskyi",
+        "https://www.biathlonworld.com/athlete/reshetynskyi-iaroslav/19082"
+    ]
+}

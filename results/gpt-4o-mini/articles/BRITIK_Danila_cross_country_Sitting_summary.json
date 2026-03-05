@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Danila Britik",
+    "date_of_birth": "1995-04-05",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 37,
+    "world_cup_points": 148,
+    "country": "RUS",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "5 medallas de bronce en los Campeonatos Mundiales Para de Esquí Nórdico de Lillehammer 2022 (3 en esquí de fondo, 2 en biatlón).",
+            "paralympic_participation": "Programado para competir en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+            "participation": "Biatlón",
+            "achievements": "Bronce en 10 km y 12.5 km Masculino en los Campeonatos Mundiales Para de Esquí Nórdico de Lillehammer 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Finalizaciones consistentes en el podio en eventos importantes, particularmente en los Campeonatos Mundiales Para 2022.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Originario de Chelyabinsk, Rusia, compite para el Comité Paralímpico Ruso debido a la suspensión de los atletas rusos."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291197)",
+        "[Perfil Paralímpico](https://www.paralympic.org/danila-britik)",
+        "[Wikipedia](https://no.wikipedia.org/wiki/Danila_Britik)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291197)",
+        "[Perfil Paralímpico](https://www.paralympic.org/danila-britik)",
+        "[Wikipedia](https://no.wikipedia.org/wiki/Danila_Britik)"
+    ]
+}

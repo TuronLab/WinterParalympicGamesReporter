@@ -1,0 +1,44 @@
+﻿{
+    "name_of_the_athlete": "Iryna Vasylievna Bui",
+    "date_of_birth": "1995-04-29",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 7,
+    "world_cup_points": 526,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de Oro en 10 km de Mujeres de Pie en los Juegos Paralímpicos de Invierno 2022; Medalla de Bronce en 7.5 km de Mujeres Clásico de Pie en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2014, 2018 y 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de Oro en 10 km de Mujeres de Pie en los Juegos Paralímpicos de Invierno 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente en eventos importantes, con una notable mejora que llevó a una medalla de oro en los 10 km en los Juegos Paralímpicos de 2022.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació con dedos subdesarrollados en la mano izquierda."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro en 10 km de Mujeres de Pie en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2014, 2018 y 2022.",
+            "participation": "Esquí de Fondo",
+            "achievements": "Medalla de Oro en 10 km de Mujeres de Pie en los Juegos Paralímpicos de Invierno 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente en eventos importantes, con una notable mejora que llevó a una medalla de oro en los 10 km en los Juegos Paralímpicos de 2022.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació con dedos subdesarrollados en la mano izquierda."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Paralympic.org - Perfil de Iryna Bui](https://www.paralympic.org/iryna-bui)",
+        "[Wikipedia - Iryna Bui](https://fr.wikipedia.org/wiki/Iryna_Bui)",
+        "[The Sports - Resultados de Iryna Bui](https://www.the-sports.org/iryna-bui-biathlon-spf533177.html)",
+        "[Paralympic.org - Perfil de Iryna Bui](https://www.paralympic.org/iryna-bui)",
+        "[Wikipedia - Iryna Bui](https://fr.wikipedia.org/wiki/Iryna_Bui)",
+        "[The Sports - Resultados de Iryna Bui](https://www.the-sports.org/iryna-bui-biathlon-spf533177.html)"
+    ]
+}

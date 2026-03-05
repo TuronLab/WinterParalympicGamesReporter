@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Yves Bourque",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 50,
+    "world_cup_points": 62,
+    "country": "CAN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Invierno 2014 y 2018, logrando posiciones destacadas.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Sochi 2014 y Pyeongchang 2018.",
+            "participation": "También ha participado en snowboard.",
+            "achievements": "Logró marcas personales en campeonatos nacionales antes de los Paralímpicos.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ha mostrado una participación constante en eventos importantes desde 2014, con mejoras graduales a pesar de lesiones.",
+            "preparation_style": "Entrena seis días a la semana durante 11 meses al año, enfocándose en resistencia y técnica.",
+            "personal_contextual_info": "Nacido sin piernas, construyó su primer equipo de esquí a mediados de la década de 1980 y ha estado involucrado en el esquí para-nórdico desde 2008."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil del Atleta Paralímpico](https://paralympic.ca/athlete/yves-bourque/)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289792)",
+        "[CBC News](https://www.cbc.ca/news/canada/montreal/52-year-old-mauricie-paralympian-gears-up-for-his-2nd-winter-games-1.4533054)"
+    ]
+}

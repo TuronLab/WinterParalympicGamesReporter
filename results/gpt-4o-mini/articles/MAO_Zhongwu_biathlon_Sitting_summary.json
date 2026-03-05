@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Mao Zhongwu",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 24,
+    "world_cup_points": 185,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de oro en el evento de medio fondo masculino en la categoría de sentado; Medallas de plata en los eventos de sprint masculino y fondo masculino en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Esquí de fondo",
+            "achievements": "Medalla de oro en el evento de 10 km libre; Medallas de plata en los eventos de 1.5 km sprint y 18 km fondo en los Juegos Paralímpicos de Invierno de 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró un rendimiento excepcional en los Juegos Paralímpicos de Invierno de 2022, asegurando un total de cinco medallas.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Mao Zhongwu fue paralizado de la cintura para abajo debido a un accidente hace 16 años. Su participación en los deportes ha tenido un impacto profundo en su vida."
+        },
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de oro en el evento de 10 km libre; Medallas de plata en los eventos de 1.5 km sprint y 18 km fondo en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de oro en el evento de 10 km libre; Medallas de plata en los eventos de 1.5 km sprint y 18 km fondo en los Juegos Paralímpicos de Invierno de 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró un rendimiento excepcional en los Juegos Paralímpicos de Invierno de 2022, asegurando un total de cinco medallas.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Mao Zhongwu fue paralizado de la cintura para abajo debido a un accidente hace 16 años. Su participación en los deportes ha tenido un impacto profundo en su vida."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia](https://en.wikipedia.org/wiki/Mao_Zhongwu)",
+        "[China Daily](https://epaper.chinadaily.com.cn/a/202204/21/WS6260a58fa3109375516eb859.html)",
+        "[Global Times](https://global.chinadaily.com.cn/a/202204/08/WS624fb050a310fd2b29e55d0f_2.html)"
+    ]
+}

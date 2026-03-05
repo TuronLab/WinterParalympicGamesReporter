@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Anja Wicker",
+    "date_of_birth": "1991-12-22",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 1,
+    "world_cup_points": 815,
+    "country": "GER",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro: 10 km en Silla de Mujeres, Medalla de Plata: 12.5 km en Silla de Mujeres en los Juegos Paralímpicos de Sochi 2014; Medalla de Bronce: Media Distancia en Silla de Mujeres en los Juegos Paralímpicos de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Sochi 2014, PyeongChang 2018, Beijing 2022 y competirá en Milano Cortina 2026.",
+            "participation": "También compite en esquí de fondo.",
+            "achievements": "Medalla de Oro: 10 km en Esquí de Fondo, Medalla de Bronce: 20 km en Esquí de Fondo, Medalla de Bronce: Equipo Mixto en Esquí de Fondo en los Campeonatos Mundiales 2025.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Finalizaciones consistentes en el podio en eventos importantes, incluyendo múltiples medallas en los Juegos Paralímpicos y Campeonatos Mundiales.",
+            "preparation_style": "El entrenamiento comienza anualmente el 1 de mayo, con un compromiso de 15-20 horas por semana, incluyendo esquí en roller y sesiones de fuerza.",
+            "personal_contextual_info": "Nació con Síndrome de Regresión Caudal, que afecta su parte inferior del cuerpo, lo que lleva a su clasificación como atleta en silla de ruedas."
+        }
+    ],
+    "personal_data": "Anja Wicker ha expresado una fuerte conexión con su ciudad natal y valora el tiempo pasado con su familia y amigos.",
+    "reference_urls": [
+        "[Wikipedia - Anja Wicker](https://en.wikipedia.org/wiki/Anja_Wicker)",
+        "[Paralympic.org - Anja Wicker](https://www.paralympic.org/feature/anja-wicker-race-wind-milano-cortina-2026)",
+        "[Team Deutschland Paralympics](https://www.teamdeutschland-paralympics.de/athletinnen/details/anja-wicker)",
+        "[Sitio Oficial de Anja Wicker](https://anja-wicker.de/)"
+    ]
+}

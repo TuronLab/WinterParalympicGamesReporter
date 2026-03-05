@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Thomas Karbøl Oxaal",
+    "date_of_birth": "1999-10-21",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 5,
+    "world_cup_points": 585,
+    "country": "NOR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "B3",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de Plata en el Relevo Abierto 4x2.5 km Masculino en los Juegos Paralímpicos de Invierno Beijing 2022. 9º Lugar en Distancia Media Masculina Libre VI. 12º Lugar en Sprint Masculino Libre VI (Clasificación). 3º Lugar en Relevo Abierto 4x2.5 km.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2022 en Esquí de fondo.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Geir Lervik",
+            "performance_trends": "Rendimiento notable en los Juegos Paralímpicos de Invierno de 2022 que contribuyó a un logro significativo de medallas.",
+            "preparation_style": "Miembro del Equipo Nacional de Esquí de Fondo de Noruega para la temporada 2023/2024, con un enfoque colaborativo de entrenamiento.",
+            "personal_contextual_info": "Representa a Sauda IL, un club de esquí noruego."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Thomas_Oxaal",
+        "https://www.paralympic.org/thomas-oxaal",
+        "https://www.proxcskiing.com/traditional-skiing/norways-cross-country-skiing-team-for-the-2023-2024-season/"
+    ]
+}

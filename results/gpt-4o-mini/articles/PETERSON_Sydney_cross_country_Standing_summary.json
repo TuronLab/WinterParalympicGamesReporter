@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Sydney Peterson",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 5,
+    "world_cup_points": 596,
+    "country": "USA",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de oro, plata y bronce en los Juegos Paralímpicos de Beijing 2022",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Beijing 2022 y en los Juegos Paralímpicos de Invierno 2026",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Compitiendo en las tres distancias de esquí de fondo en los Juegos Paralímpicos de Invierno 2026",
+            "preparation_style": "Equilibra su entrenamiento con la investigación doctoral en neurociencia en la Universidad de Utah",
+            "personal_contextual_info": "Diagnosticada con distonía, que afecta su brazo y pierna izquierdos, esquía con un solo bastón"
+        }
+    ],
+    "personal_data": "Comenzó a esquiar a la edad de cinco años, utilizando el deporte como una forma de terapia física",
+    "reference_urls": [
+        "[La esquiadora estadounidense equilibra el entrenamiento paralímpico y la investigación](https://www.npr.org/2026/03/04/nx-s1-5717133/winter-paralympics-sydney-peterson-movement-disorder)",
+        "[La esquiadora paralímpica estadounidense Sydney Peterson equilibra...](https://www.dailyskier.com/u-s-paralympic-skier-sydney-peterson/)",
+        "[Esquí de Fondo Paralímpico](https://www.nbcolympics.com/para-cross-country-skiing)",
+        "[Juegos Paralímpicos de Invierno 2026: quiénes son los mejores de Australia...](https://www.theguardian.com/sport/2026/mar/04/milano-cortina-winter-paralympics-2026-australia-medal-contenders)"
+    ]
+}

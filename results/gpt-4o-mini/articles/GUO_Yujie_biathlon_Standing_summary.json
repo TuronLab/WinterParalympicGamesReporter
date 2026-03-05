@@ -1,0 +1,50 @@
+﻿{
+    "name_of_the_athlete": "GUO Yujie",
+    "date_of_birth": "2004-03-16",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 10,
+    "world_cup_points": 270,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro en el sprint femenino de pie en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Esquí de Fondo",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento notable en los Juegos Paralímpicos de Invierno de 2022, donde ganó una medalla de oro.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació el 16 de marzo de 2004 en Zhangjiakou, China."
+        },
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Biatlón",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Fuente: Xinhua](https://english.news.cn/20220305/381e959102b54f1199da93b960c1d52f/c.html)",
+        "[Fuente: Global Times](https://www.globaltimes.cn/galleries/4273.html)",
+        "[Fuente: China Daily](https://www.chinadaily.com.cn/a/202203/07/WS6225645fa310cdd39bc8acc2.html)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/China_at_the_2022_Winter_Paralympics)",
+        "[Fuente: bjreview.com](https://www.bjreview.com/China/202203/t20220301_800277300.html)",
+        "[Fuente: Wikipedia](https://fr.wikipedia.org/wiki/Guo_Yujie)",
+        "[Xinhua](https://english.news.cn/20220305/381e959102b54f1199da93b960c1d52f/c.html)",
+        "[China Daily](https://www.chinadaily.com.cn/a/202203/07/WS6225645fa310cdd39bc8acc2.html)",
+        "[Wikipedia](https://fr.wikipedia.org/wiki/Guo_Yujie)",
+        "[Global Times](https://www.globaltimes.cn/galleries/4273.html)",
+        "[France TV](https://www.france.tv/sport/handisport/jeux-paralympiques/3160975-para-biathlon-yujie-guo-sacree-championne-paralympique.html)",
+        "[bjreview.com](https://www.bjreview.com/China/202203/t20220301_800277300.html)"
+    ]
+}

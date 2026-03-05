@@ -1,0 +1,64 @@
+﻿{
+    "name_of_the_athlete": "Joshua Sweeney",
+    "date_of_birth": "1987-06-06",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 5,
+    "world_cup_points": 515,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Compitiendo en Biatlón Para con un enfoque en los próximos Juegos Paralímpicos de Milán/Cortina 2026.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Hockey sobre Hielo Para, Esquí Nórdico Para, Triatlones.",
+            "achievements": "Medallista de oro en hockey sobre hielo en los Juegos Paralímpicos de Sochi 2014 y 16º lugar en el evento de 18 km en silla de ruedas en los Juegos Paralímpicos de Pekín 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Reconoció desafíos previos con la velocidad y la precisión de tiro en biatlón, actualmente se enfoca en mejorar la técnica de esquí.",
+            "preparation_style": "Enfocado en mejorar la técnica de esquí para mejorar el rendimiento de tiro.",
+            "personal_contextual_info": "Ex sargento del Cuerpo de Marines de los EE. UU. que resultó herido en Afganistán, actualmente reside en Nampa, Idaho."
+        },
+        {
+            "sport_name": "Hockey sobre Hielo Para",
+            "major_achievements": "Medallista de oro en los Juegos Paralímpicos de Sochi 2014.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Sochi 2014.",
+            "participation": "Information not publicly available",
+            "achievements": "Medalla de oro en hockey sobre hielo en los Juegos Paralímpicos de Sochi 2014.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Esquí Nórdico Para",
+            "major_achievements": "Terminó en 16º lugar en el evento de 18 km en silla de ruedas en los Juegos Paralímpicos de Pekín 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Pekín 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "16º lugar en el evento de 18 km en silla de ruedas en los Juegos Paralímpicos de Pekín 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Triatlones",
+            "major_achievements": "Ganador de la categoría de Desarrollo Para en el Triatlón de León.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Compitió en Ironman 70.3 Boise.",
+            "achievements": "Ganador de la categoría de Desarrollo Para en el Triatlón de León.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Joshua Sweeney](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Nordic Mag - Josh Sweeney](https://www.nordicmag.info/para-biathlon-de-tireur-delite-a-specialiste-de-biathlon-josh-sweeney-vise-les-jeux-paralympiques-de-milan-cortina-2026-0813/)",
+        "[Paralympic.org - Ones to Watch in Para Biathlon](https://www.paralympic.org/feature/milano-cortina-2026-ones-watch-biathlon)",
+        "[Team USA - Milano Cortina 2026 Paralympics Roster](https://www.teamusa.com/milano-cortina-2026/paralympics/roster)"
+    ]
+}

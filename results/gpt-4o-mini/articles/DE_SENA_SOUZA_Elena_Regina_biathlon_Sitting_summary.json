@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Elena Regina de Sena Souza",
+    "date_of_birth": "2003-11-09",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 11,
+    "world_cup_points": 72,
+    "country": "BRA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "3er lugar en la Final de Sprint en la Copa del Mundo, Szklarska Poreba-Jakuszyce (28-01-2026). 4to lugar en la Clasificación de Sprint en la Copa del Mundo, Szklarska Poreba-Jakuszyce (28-01-2026). 18vo lugar en la Clasificación de Sprint en la Copa del Mundo, Finsterau (17-01-2026). 1 podio en la Copa del Mundo durante la temporada 2026.",
+            "paralympic_participation": "Compitiendo en eventos de biatlón en los Juegos Paralímpicos de 2026.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró un podio en la Copa del Mundo, lo que indica una fuerte presencia competitiva. Los datos específicos sobre los tiempos de esquí y la precisión de tiro no están disponibles.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Elena de Sena Souza nació el 9 de noviembre de 2003 y actualmente reside en Francisco Morato, São Paulo, Brasil."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil de IBU](https://www.biathlonworld.com/athlete/de-sena-souza-elena-regina/55482)",
+        "[Perfil de FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291734)"
+    ]
+}

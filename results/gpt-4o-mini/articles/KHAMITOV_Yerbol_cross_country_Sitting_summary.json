@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Khamitov Yerbol",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 7,
+    "world_cup_points": 572,
+    "country": "KAZ",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Participó en los Juegos Paralímpicos de Invierno de 2022. 7° lugar en el evento de 18 km en la categoría de sentado (49:23.1). 9° lugar en el evento de 10 km en la categoría de sentado (34:45.5). 15° lugar en la clasificación de sprint de 1.5 km (2:28.67), no se clasificó para las finales. 5° lugar en el relevo abierto de 4 x 2.5 km con su compañero Alexandr Gerlits (30:00.4).",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Las tendencias de rendimiento específicas en esquí de fondo no están disponibles públicamente.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "27 años, de la región de Kazajistán del Norte."
+        },
+        {
+            "sport_name": "Para-biatlón",
+            "major_achievements": "Medalla de oro en el Sprint Masculino de 7.5 km en la categoría de sentado en la Copa del Mundo de Para Biatlón de la IBU. Aseguró el Globo de Cristal en la Copa del Mundo de Para Biatlón de la IBU, convirtiéndose en el primer atleta kazajo en ganar el Puntaje Total.",
+            "paralympic_participation": "Compitió en eventos de para-biatlón en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Khamitov Yerbol es reconocido por sus logros como un atleta pionero en la escena de deportes de invierno de Kazajistán, particularmente en para-biatlón, donde ha establecido un precedente para futuros atletas.",
+    "reference_urls": [
+        "[Kazajistán en los Juegos Paralímpicos de Invierno de 2022](https://www.gov.kz/memleket/entities/sko/press/news/details/937343?lang=en)",
+        "[Agencia de Noticias Kazinform](https://qazmonitor.com/news/1342/paralympian-yerbol-khamitov-became-world-champion-in-sweden)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/khamitov-yerbol/40929)"
+    ]
+}

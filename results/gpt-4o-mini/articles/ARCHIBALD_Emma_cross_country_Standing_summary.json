@@ -1,0 +1,40 @@
+﻿{
+    "name_of_the_athlete": "Emma Archibald",
+    "date_of_birth": "2003-04-16",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 11,
+    "world_cup_points": 338,
+    "country": "CAN",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medallas de oro dobles en los Juegos de Canadá 2023.",
+            "paralympic_participation": "Nominada para competir en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró cuatro resultados entre los cinco primeros en el circuito de la Copa del Mundo durante las últimas tres temporadas.",
+            "preparation_style": "Entrena con el equipo provincial de esquí de fondo de Nueva Escocia y ha participado en un campamento de desarrollo de Para de Nordiq Canada.",
+            "personal_contextual_info": "Nació con el Síndrome de Banda Amniótica y pies en garra, desafíos que ha superado."
+        }
+    ],
+    "personal_data": "Nació en Mississauga, Ontario, y actualmente reside en Fall River, Nueva Escocia.",
+    "reference_urls": [
+        "[Fuente: nordiqcanada.ca](https://nordiqcanada.ca/athlete/emma-archibald/)",
+        "[Fuente: uottawa.ca](https://www.uottawa.ca/en/news-all/nursing-student-emma-archibald-skis-canada-paralympics)",
+        "[Fuente: nordiqcanada.ca](https://nordiqcanada.ca/athlete/emma-archibald/)",
+        "[Fuente: nordiqcanada.ca](https://nordiqcanada.ca/athlete/emma-archibald/)",
+        "[Fuente: uottawa.ca](https://www.uottawa.ca/en/news-all/nursing-student-emma-archibald-skis-canada-paralympics)",
+        "[Fuente: uottawa.ca](https://www.uottawa.ca/en/news-all/nursing-student-emma-archibald-skis-canada-paralympics)",
+        "[Fuente: uottawa.ca](https://www.uottawa.ca/en/news-all/nursing-student-emma-archibald-skis-canada-paralympics)",
+        "[Fuente: cbc.ca](https://www.cbc.ca/news/canada/nova-scotia/emma-archibald-nova-scotia-paralympic-skier-9.7112420)",
+        "[Fuente: nordiqcanada.ca](https://nordiqcanada.ca/athlete/emma-archibald/)",
+        "[Fuente: nordiqcanada.ca](https://nordiqcanada.ca/athlete/emma-archibald/)",
+        "[uottawa.ca](https://www.uottawa.ca/en/news-all/nursing-student-emma-archibald-skis-canada-paralympics)",
+        "[nordiqcanada.ca](https://nordiqcanada.ca/athlete/emma-archibald/)",
+        "[cbc.ca](https://www.cbc.ca/news/canada/nova-scotia/emma-archibald-nova-scotia-paralympic-skier-9.7112420)"
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "JEONG Jaeseok",
+    "date_of_birth": "1987-05-15",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 17,
+    "world_cup_points": 280,
+    "country": "KOR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Invierno de Beijing 2022 y los Campeonatos Mundiales de Deportes de Nieve Para de Lillehammer 2021.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno de Beijing 2022: Hombres en silla de ruedas - Distancia larga: 22º, Sprint: 33º (Clasificación), Distancia media: 28º.",
+            "participation": "Compite en esquí nórdico.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Los datos de rendimiento para la temporada 2025/2026 no están disponibles.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació el 15 de mayo de 1987 y representa a la República de Corea."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del atleta](https://www.biathlonworld.com/cz/athlete/jeong-jaeseok/51328)",
+        "[Perfil del atleta paralímpico](https://www.paralympic.org/jaeseok-jeong)"
+    ]
+}

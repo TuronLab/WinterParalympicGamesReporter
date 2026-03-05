@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Matej Skoda",
+    "date_of_birth": "2005-06-26",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 22,
+    "world_cup_points": 259,
+    "country": "CZE",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "10º lugar en Salida Masiva, Szklarska Poreba-Jakuszyce, Copa del Mundo (01-02-2026); 11º lugar en Salida por Intervalos, Szklarska Poreba-Jakuszyce, Copa del Mundo (31-01-2026); 13º lugar en Salida por Intervalos, Szklarska Poreba-Jakuszyce, Copa del Mundo (29-01-2026); 14º lugar en Final de Sprint, Szklarska Poreba-Jakuszyce, Copa del Mundo (28-01-2026); 14º lugar en Clasificación de Sprint, Szklarska Poreba-Jakuszyce, Copa del Mundo (28-01-2026)",
+            "paralympic_participation": "Información no disponible públicamente",
+            "participation": "Información no disponible públicamente",
+            "achievements": "Información no disponible públicamente",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo con posiciones que varían del 10º al 14º.",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        }
+    ],
+    "personal_data": "Información no disponible públicamente",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291894)",
+        "[IPC](https://www.paralympic.org/cross-country-skiing)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291894)",
+        "[IPC](https://www.paralympic.org/cross-country-skiing)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291894)",
+        "[IPC](https://www.paralympic.org/cross-country-skiing)"
+    ]
+}

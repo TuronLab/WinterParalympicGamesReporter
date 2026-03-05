@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Higinio Rivero Fernandez",
+    "date_of_birth": "1982-03-19",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 36,
+    "world_cup_points": 150,
+    "country": "ESP",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Clasificado para los Juegos Paralímpicos de Milano-Cortina 2026 en biatlón y esquí de fondo.",
+            "paralympic_participation": "Juegos Paralímpicos de Milano-Cortina 2026",
+            "participation": "Compite en biatlón y paracanoeing.",
+            "achievements": "Compitió en los Juegos Paralímpicos de Tokio 2020, finalizando en sexto lugar. Medallista de plata en el Campeonato Mundial de paracanoeing en 2021.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ha demostrado una mejora gradual en sus clasificaciones, particularmente durante la temporada 2025-2026.",
+            "preparation_style": "Utiliza un ergómetro para el entrenamiento de esquí y practica técnicas de tiro bajo condiciones de fatiga. Entrena en diversas ubicaciones como Italia, Eslovenia y Francia.",
+            "personal_contextual_info": "Nacido en Bilbao, España. Representa al Club Pirineísta Mayencos y a la Federación Aragonesa de Deportes de Invierno (FADI)."
+        },
+        {
+            "sport_name": "Paracanoeing",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Tokio 2020, finalizando en sexto lugar. Medallista de plata en el Campeonato Mundial de paracanoeing en 2021.",
+            "paralympic_participation": "Juegos Paralímpicos de Tokio 2020",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292033&type=result)",
+        "[Artículo de Jaca Times](https://www.jacatimes.es/2026/02/el-biatleta-paralimpico-higinio-rivero.html)",
+        "[Artículo de Diario Que!](https://www.que.es/2026/02/16/higinio-rivero-pionero-milan-cortina-2026/)"
+    ]
+}

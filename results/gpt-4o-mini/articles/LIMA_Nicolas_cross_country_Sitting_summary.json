@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Nicolas Lima",
+    "date_of_birth": "1999-03-29",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 32,
+    "world_cup_points": 184,
+    "country": "ARG",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "22º en Distancia Media Masculina - Clásico Sentado (Campeonatos Mundiales de Lillehammer 2021), 15º en Distancia Larga Masculina - Estilo Libre Sentado (Campeonatos Mundiales de Lillehammer 2021), 17º en Distancia Larga Masculina Sentado (Juegos Paralímpicos de Beijing 2022)",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Clasificaciones que varían del 15º al 27º en competiciones importantes, indicando un atleta en desarrollo con potencial de mejora.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Reconocido por su perseverancia y dedicación al esquí de fondo, representando a Argentina en los próximos Juegos Paralímpicos de Invierno de Milano Cortina 2026."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Comité Paralímpico Internacional - Nicolas Lima](https://www.paralympic.org/nicolas-lima)",
+        "[Olympics.com - Argentinos en los Juegos Paralímpicos de Invierno Milano Cortina 2026](https://www.olympics.com/es/milano-cortina-2026/juegos-paralimpicos/noticias/argentinos-en-los-juegos-paralimpicos-de-invierno-milano-cortina-2026-quien-es-nicolas-lima/)",
+        "[FIS Ski - Resultados](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC)"
+    ]
+}

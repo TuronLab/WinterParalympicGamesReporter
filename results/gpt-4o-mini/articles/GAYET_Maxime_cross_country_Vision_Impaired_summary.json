@@ -1,0 +1,28 @@
+﻿{
+    "name_of_the_athlete": "Maxime Gayet",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 8,
+    "world_cup_points": 363,
+    "country": "FRA",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Participó en varios circuitos de la Copa del Mundo de Esquí de Fondo Paralímpico.",
+            "paralympic_participation": "Programado para competir en eventos de esquí de fondo para personas con discapacidad en Milán/Cortina 2026.",
+            "participation": "Compite principalmente en esquí de fondo.",
+            "achievements": "Information not publicly available",
+            "guide": "Guidado por Alexis Bernard.",
+            "performance_trends": "Finalizaciones consistentes dentro del top 15 en las recientes Copas del Mundo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "Fuente: Nordic Mag"
+    ]
+}

@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Louise Perottosdotter",
+    "date_of_birth": "1997-05-24",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 16,
+    "world_cup_points": 221,
+    "country": "SWE",
+    "category": "Standing",
+    "paralympic_category_lw": "LW9",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "1er lugar en la temporada de la Copa del Mundo 2022.",
+            "paralympic_participation": "Preparándose para los Juegos Paralímpicos de Milano Cortina 2026.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Colocaciones consistentemente dentro de los 15 mejores en eventos de la Copa del Mundo.",
+            "preparation_style": "Ciclismo, carrera, esquí en línea y entrenamiento de fuerza durante la temporada baja.",
+            "personal_contextual_info": "Descubrió el para-deporte después de la escuela secundaria y se ha centrado en mejorar su técnica y explosividad en el entrenamiento."
+        }
+    ],
+    "personal_data": "Nacida el 24 de mayo de 1997 en Suecia, ha estado esquiando desde la infancia.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291106)",
+        "[Falu-Kuriren](https://www.falukuriren.se/2023-05-11/idrottspristagaren-louise-till-sin-tranare-det-var-du-som-fick-in-mig-i-parasporten)",
+        "[Siljan News](https://www.siljannews.se/malung-salen/dubbelt-prisad-louise-perottosdotter-har-siktet-installt-pa-paralympic/)"
+    ]
+}

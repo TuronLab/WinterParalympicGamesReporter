@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Zhai Yuxin",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 9,
+    "world_cup_points": 247,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Invierno 2021/2022 con colocaciones destacadas.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno 2021/2022",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Datos de rendimiento específicos no disponibles públicamente.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/zhai-yuxin/44070)",
+        "[Les Sports](https://www.les-sports.info/yuxin-zhai-biathlon-spf718302.html)",
+        "[Nordic Mag](https://www.nordicmag.info/tag/zhai-yuxin/)",
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/zhai-yuxin/44070)",
+        "[Les Sports](https://www.les-sports.info/yuxin-zhai-biathlon-spf718302.html)",
+        "[Nordic Mag](https://www.nordicmag.info/tag/zhai-yuxin/)"
+    ]
+}

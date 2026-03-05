@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "YANG Qianru",
+    "date_of_birth": "2001-05-09",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 15,
+    "world_cup_points": 136,
+    "country": "CHN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Información no pública disponible",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "5º Lugar, Sprint VI Femenino en los Juegos Paralímpicos de Invierno de Beijing 2022; 5º Lugar, Distancia Media VI Femenino en los Juegos Paralímpicos de Invierno de Beijing 2022; 6º Lugar, Clasificación Sprint Libre VI Femenino en los Juegos Paralímpicos de Invierno de Beijing 2022; 4º Lugar, Semifinal Sprint Libre VI Femenino en los Juegos Paralímpicos de Invierno de Beijing 2022; 5º Lugar, Ronda Final Individual VI Femenino en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Biatlón",
+            "achievements": "5º Lugar, Evento de Biatlón Femenino en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "guide": "Requiere un guía para sus eventos.",
+            "performance_trends": "Ha finalizado consistentemente en el top 6 en eventos importantes.",
+            "preparation_style": "Entrenamiento riguroso durante varias horas de esquí y tiro, en una base nacional de deportes de nieve en Baiyin, diseñada para atletas con discapacidades.",
+            "personal_contextual_info": "Yang expresa un fuerte deseo de seguir mejorando su rendimiento para los próximos Juegos Paralímpicos de Invierno de Milano Cortina 2026."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "5º Lugar en el Evento de Biatlón Femenino en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Esquí de fondo.",
+            "achievements": "Información no pública disponible",
+            "guide": "Requiere un guía para su entrenamiento.",
+            "performance_trends": "Ha finalizado consistentemente en el top 6 en eventos importantes.",
+            "preparation_style": "Entrenamiento riguroso que incluye el esquí y la práctica de tiro.",
+            "personal_contextual_info": "Yang aspira a mejorar y tener éxito en futuros eventos."
+        }
+    ],
+    "personal_data": "Información no pública disponible",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291271&type=cups&cupcode=WC",
+        "https://www.paralympic.org/qianru-yang",
+        "http://en.people.cn/n3/2024/0218/c90000-20134166.html"
+    ]
+}

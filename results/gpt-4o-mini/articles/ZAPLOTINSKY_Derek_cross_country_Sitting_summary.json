@@ -1,0 +1,40 @@
+﻿{
+    "name_of_the_athlete": "Derek Zaplotinsky",
+    "date_of_birth": "1985-04-04",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 15,
+    "world_cup_points": 318,
+    "country": "CAN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "1er lugar en los 5 km en silla de ruedas masculinos en la Copa Mundial Para Nórdica (2024)",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2018 y 2022",
+            "participation": "Inicialmente comenzó como atleta para en ciclismo antes de hacer la transición al esquí de fondo",
+            "achievements": "8º lugar en el evento de media distancia en los Juegos Paralímpicos de Beijing 2022",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró su primer título de Copa del Mundo en 2024, indicando una mejora significativa en el rendimiento",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Derek está paralizado de la cintura para abajo"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Fuente: CBC Sports](https://www.cbc.ca/sports/paralympics/winter-sports/para-world-cup-zaplotinsky-cross-country-1.7144043)",
+        "[Fuente: Nordiq Canada](https://nordiqcanada.ca/athlete/derek-zaplotinsky/)",
+        "[Fuente: Nordiq Canada](https://nordiqcanada.ca/athlete/derek-zaplotinsky/)",
+        "[Fuente: CBC Sports](https://www.cbc.ca/sports/paralympics/winter-sports/para-world-cup-zaplotinsky-cross-country-1.7144043)",
+        "[Fuente: Paralympic Canada](https://paralympic.ca/athlete/derek-zaplotinsky/)",
+        "[Fuente: Nordiq Canada](https://nordiqcanada.ca/athlete/derek-zaplotinsky/)",
+        "[Fuente: Nordiq Canada](https://nordiqcanada.ca/athlete/derek-zaplotinsky/)",
+        "[Fuente: CBC Sports](https://www.cbc.ca/sports/paralympics/winter-sports/para-world-cup-zaplotinsky-cross-country-1.7144043)",
+        "[Fuente: Paralympic Canada](https://paralympic.ca/athlete/derek-zaplotinsky/)",
+        "[CBC Sports](https://www.cbc.ca/sports/paralympics/winter-sports/para-world-cup-zaplotinsky-cross-country-1.7144043)",
+        "[Nordiq Canada](https://nordiqcanada.ca/athlete/derek-zaplotinsky/)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=290369&type=fispoints)",
+        "[Paralympic Canada](https://paralympic.ca/athlete/derek-zaplotinsky/)"
+    ]
+}

@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Cai Jiayun",
+    "date_of_birth": "2000-11-12",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 28,
+    "world_cup_points": 221,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de Plata en la Prueba de Fondo Masculina Clásica de Pie y Medalla de Bronce en la Prueba de Fondo Masculina Libre de Pie en los Juegos Paralímpicos de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Cai demostró un rendimiento consistente con finales en el podio en los Juegos Paralímpicos de Beijing 2022.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació el 12 de noviembre de 2000 en Yunnan, China."
+        }
+    ],
+    "personal_data": "Representa activamente a la República Popular de China en el esquí nórdico.",
+    "reference_urls": [
+        "[Wikipedia - Cai Jiayun](https://en.wikipedia.org/wiki/Cai_Jiayun)",
+        "[Paralympic.org - Jiayun Cai](https://www.paralympic.org/jiayun-cai)",
+        "[FIS - Biografía del Atleta Jiayun CAI](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290980)"
+    ]
+}

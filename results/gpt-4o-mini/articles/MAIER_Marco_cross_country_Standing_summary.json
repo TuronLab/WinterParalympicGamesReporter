@@ -1,0 +1,45 @@
+﻿{
+    "name_of_the_athlete": "Marco Maier",
+    "date_of_birth": "1999-12-20",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 39,
+    "world_cup_points": 147,
+    "country": "GER",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de plata en los Juegos Paralímpicos de Invierno de 2022 (sprint de 1.5 km), medallas de oro en los Campeonatos Mundiales de 2023 (sprint estilo libre, relevo de 4x2.5 km), medalla de oro en los Juegos Universitarios de Invierno de 2025 (10 km estilo libre y sprint clásico).",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de plata en los Juegos Paralímpicos de Invierno de 2022 (6 km de pie), medalla de oro en los Campeonatos Mundiales de 2023 (7.5 km de pie).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora notable que lleva a múltiples medallas de oro en 2023 y 2025, consistentes finales en el podio en eventos importantes.",
+            "preparation_style": "Enfoque de entrenamiento centrado en el esquí de fondo y el biatlón, adaptado para acomodar el estilo clásico de esquí.",
+            "personal_contextual_info": "Nació con sindactilia, que afecta a tres dedos de su mano izquierda. Es un atleta profesional y miembro del equipo de esquí Zoll."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de plata en los Juegos Paralímpicos de Invierno de 2022 (6 km de pie), medalla de oro en los Campeonatos Mundiales de 2023 (7.5 km de pie).",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Esquí de fondo",
+            "achievements": "Medalla de plata en los Juegos Paralímpicos de Invierno de 2022 (sprint de 1.5 km), medallas de oro en los Campeonatos Mundiales de 2023 (sprint estilo libre, relevo de 4x2.5 km), medalla de oro en los Juegos Universitarios de Invierno de 2025 (10 km estilo libre y sprint clásico).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora notable que lleva a múltiples medallas de oro en 2023 y 2025, consistentes finales en el podio en eventos importantes.",
+            "preparation_style": "Enfoque de entrenamiento centrado en el esquí de fondo y el biatlón, adaptado para acomodar el estilo clásico de esquí.",
+            "personal_contextual_info": "Nació con sindactilia, que afecta a tres dedos de su mano izquierda. Es un atleta profesional y miembro del equipo de esquí Zoll."
+        }
+    ],
+    "personal_data": "Marco disfruta pasar tiempo con amigos, combatir incendios y participar en actividades al aire libre.",
+    "reference_urls": [
+        "[Wikipedia - Marco Maier](https://en.wikipedia.org/wiki/Marco_Maier)",
+        "[Paralympic.org - Marco Maier](https://www.paralympic.org/marco-maier)",
+        "[FIS - Biografía de Marco Maier](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=290395)",
+        "[Munzinger Biographie - Marco Maier](https://www.munzinger.de/register/portrait/biographien/maier+marco/01/10949)",
+        "[Xinhua News - Marco Maier Oro en Torino 2025](https://english.news.cn/20250116/8a2856416f554f72bb72cdd46e271053/c.html)",
+        "[Team Deutschland Paralympics - Marco Maier](https://www.teamdeutschland-paralympics.de/athletinnen/details/marco-maier)",
+        "[BR24 - Marco Maier](https://www.br.de/nachrichten/sport/marco-maier-bei-paralympics-aus-dem-allgaeu-an-die-weltspitze,V8Sx6wY)"
+    ]
+}

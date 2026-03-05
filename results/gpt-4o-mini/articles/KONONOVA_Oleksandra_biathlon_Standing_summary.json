@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Oleksandra Mykolaivna Kononova",
+    "date_of_birth": "1991-02-27",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 5,
+    "world_cup_points": 522,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Oro en 12.5 km de pie en los Juegos Paralímpicos de Vancouver 2010, Oro en 12.5 km de pie y Oro en 10 km de pie en los Juegos Paralímpicos de Sochi 2014, Plata en 10 km de pie en los Juegos Paralímpicos de Beijing 2022, Oro en 6 km de pie y Bronce en 10 km de pie en los Campeonatos Mundiales de Deportes de Nieve para Personas con Discapacidad 2021.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Vancouver 2010, Sochi 2014 y Beijing 2022.",
+            "participation": "Esquí de fondo",
+            "achievements": "Oro en 1 km de pie, Oro en 5 km de pie y Oro en relevos 3x2.5 km, abierto en los Juegos Paralímpicos de Vancouver 2010; Oro en 10 km de pie en los Juegos Paralímpicos de Beijing 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Dominó la categoría femenina de pie durante años, logrando victorias significativas en competiciones importantes y asegurando seis victorias en eventos de biatlón y esquí de fondo en la temporada 2018-19.",
+            "preparation_style": "Entrena sobre patines durante las temporadas de primavera y verano, encontrando que su discapacidad no afecta su rendimiento en el esquí.",
+            "personal_contextual_info": "Nació en Brovary, Ucrania. Experimentó acoso debido a su discapacidad durante su infancia, pero descubrió su pasión por el esquí a una edad temprana. Fue criada por su abuela después de quedar huérfana."
+        },
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Oro en 1 km de pie, Oro en 5 km de pie y Oro en relevos 3x2.5 km, abierto en los Juegos Paralímpicos de Vancouver 2010; Oro en 10 km de pie en los Juegos Paralímpicos de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Vancouver 2010 y Beijing 2022.",
+            "participation": "Biatlón",
+            "achievements": "Oro en 12.5 km de pie en los Juegos Paralímpicos de Vancouver 2010, Oro en 12.5 km de pie y Oro en 10 km de pie en los Juegos Paralímpicos de Sochi 2014, Plata en 10 km de pie en los Juegos Paralímpicos de Beijing 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Dominó la categoría femenina de pie durante años, logrando victorias significativas en competiciones importantes.",
+            "preparation_style": "Entrena sobre patines durante las temporadas de primavera y verano, encontrando que su discapacidad no afecta su rendimiento en el esquí.",
+            "personal_contextual_info": "Nació en Brovary, Ucrania. Experimentó acoso debido a su discapacidad durante su infancia, pero descubrió su pasión por el esquí a una edad temprana. Fue criada por su abuela después de quedar huérfana."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Oleksandra Kononova](https://en.wikipedia.org/wiki/Oleksandra_Kononova)",
+        "[Paralympic.org - Oleksandra Kononova](https://www.paralympic.org/oleksandra-kononova)",
+        "[PopSugar - Los Atletas Ucranianos Barren el Podio del Biatlón Paralímpico](https://www.popsugar.com/fitness/ukrainian-athletes-sweep-biathlon-2022-paralympics-48743453)",
+        "[Able2UK - Beijing 2022: Ucrania gana medallas triples en biatlón](https://www.able2uk.com/able2do-anything/sport/beijing-2022-ukraine-win-triple-medals-in-biathlon)"
+    ]
+}

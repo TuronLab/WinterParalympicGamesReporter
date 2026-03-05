@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Luca Tavasci",
+    "date_of_birth": "1993-09-21",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 18,
+    "world_cup_points": 289,
+    "country": "SUI",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Participó en los Juegos Paralímpicos de PyeongChang 2018 y Beijing 2022, logrando un 7° lugar en los Campeonatos Mundiales 2023.",
+            "paralympic_participation": "PyeongChang 2018: 11° lugar en 20 km Clásico, 14° lugar en 10 km Libre, 16° lugar en 1.5 km Sprint. Beijing 2022: 11° lugar en 20 km Clásico, 13° lugar en 12.5 km Libre, 16° lugar en Sprint.",
+            "participation": "Biatlón",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos importantes desde 2018, con mejora notable en 2023.",
+            "preparation_style": "Entrena principalmente en St. Moritz, Suiza, enfocándose en esquí de fondo y ciclismo de montaña en la temporada baja.",
+            "personal_contextual_info": "Superó linfoma y meningitis antes de dedicarse al deporte. Estudiante de ingeniería civil."
+        }
+    ],
+    "personal_data": "Nació en Samedan, Suiza.",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=290481&type=cups&cupcode=WC)",
+        "[Perfil Paralímpico Suizo](https://www.swissparalympic.ch/athleten-archiv/luca-tavasci/)",
+        "[Perfil en Paralympic.org](https://www.paralympic.org/luca-tavasci)",
+        "[Los Resultados Deportivos](https://www.the-sports.org/l-tavasci-cross-country-skiing-spf718222.html)",
+        "[Perfil de la Unión Internacional de Biatlón](https://www.biathlonworld.com/athlete/tavasci-luca/29311)"
+    ]
+}

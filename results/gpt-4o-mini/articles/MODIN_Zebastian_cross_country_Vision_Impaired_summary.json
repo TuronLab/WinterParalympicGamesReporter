@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Zebastian Modin",
+    "date_of_birth": "1994-06-20",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 1,
+    "world_cup_points": 748,
+    "country": "SWE",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de bronce en el esprint masculino de 1 km en los Juegos Paralímpicos de Vancouver 2010; Medallas de oro en el esprint masculino de 1 km estilo libre y en el masculino de 20 km clásico en los Juegos Paralímpicos de Sochi 2014; Medallas de plata en el esprint clásico masculino de 1.5 km en los Juegos Paralímpicos de Pyeongchang 2018 y en el masculino de 12.5 km estilo libre en los Juegos Paralímpicos de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Vancouver 2010, Sochi 2014, Pyeongchang 2018 y Beijing 2022.",
+            "participation": "Compite también en biatlón.",
+            "achievements": "Éxitos limitados en biatlón con menos finales en el podio en comparación con el esquí de fondo.",
+            "guide": "Colaboración con guías es esencial, entrenan juntos para mejorar el rendimiento.",
+            "performance_trends": "Finales consistentes en el podio en campeonatos y Juegos Paralímpicos, especialmente en eventos de esprint.",
+            "preparation_style": "La colaboración con guías mejora la dinámica del equipo y el rendimiento.",
+            "personal_contextual_info": "Nacido el 20 de junio de 1994 en Östersund, Suecia. Compite en la clasificación B1 debido a una discapacidad visual."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://es.wikipedia.org/wiki/Zebastian_Modin",
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289530&type=fispoints",
+        "https://www.biathlonworld.com/news/para-biathlon-zebastian-modin-story/7ctyMvG6bW23Ph5akibwUS",
+        "https://www.theskisaga.com/cross-country-skiing/two-wins-for-zebastian-modin-season-opener/"
+    ]
+}

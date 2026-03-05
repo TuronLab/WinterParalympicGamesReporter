@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Theo Bold",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 7,
+    "world_cup_points": 433,
+    "country": "GER",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Para Biathlon",
+            "major_achievements": "14th place in previous events at world championships and international competitions.",
+            "paralympic_participation": "2026 Winter Paralympics (Events: Sprint and Individual)",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Jakob Bold",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Focus on endurance and shooting accuracy, collaborative training with guide.",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Theo Bold is dedicated to biathlon and showcases commitment and competitive spirit.",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/bold-theo/57095",
+        "https://en.wikipedia.org/wiki/Germany_at_the_2026_Winter_Paralympics"
+    ]
+}

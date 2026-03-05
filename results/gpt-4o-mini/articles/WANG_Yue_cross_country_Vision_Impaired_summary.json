@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Wang Yue",
+    "date_of_birth": "1999-05-08",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 7,
+    "world_cup_points": 297,
+    "country": "CHN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "B2",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de plata en los 10 km libres en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Compite con la guía Li Yalin en sus eventos de biatlón.",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de bronce en el biatlón femenino de 10 km en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Compite con la guía Li Yalin.",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Wang Yue nació el 8 de mayo de 1999 y representa a China en eventos de esquí nórdico paralímpico.",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Wang_Yue_(skier)",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/72063",
+        "https://www.gettyimages.com/detail/news-photo/wang-yue-r-of-china-and-her-guide-li-yalin-compete-during-news-photo/1238969825"
+    ]
+}

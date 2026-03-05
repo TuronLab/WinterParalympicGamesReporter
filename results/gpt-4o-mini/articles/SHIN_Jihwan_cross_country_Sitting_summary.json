@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "SHIN Jihwan",
+    "date_of_birth": "1996-08-21",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 44,
+    "world_cup_points": 108,
+    "country": "KOR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Cross-Country Skiing",
+            "major_achievements": "No major titles or podium finishes reported in the available data.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Competes in Biathlon as well.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "FIS Points: 195.96 (7th FIS points list 2025/26), 213.20 (4th FIS points list 2025/26), 314.46 (5th FIS points list 2025/26)",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Currently active in his sports and continues to compete at the international level."
+        }
+    ],
+    "personal_data": "Age: 29, Nationality: South Korea (KOR), Status: Active",
+    "reference_urls": [
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292230)",
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/shin-jihwan/62269)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292230)",
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/shin-jihwan/62269)"
+    ]
+}

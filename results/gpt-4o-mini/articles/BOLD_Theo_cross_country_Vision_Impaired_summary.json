@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Theo BOLD",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 7,
+    "world_cup_points": 383,
+    "country": "GER",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Programado para competir en los Juegos Paralímpicos Milano Cortina 2026. Reconocido como un atleta a seguir en las próximas competiciones.",
+            "paralympic_participation": "Compitiendo en Milano Cortina 2026.",
+            "participation": "Compite en Biatlón también.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Terminó 1er lugar en la Copa del Mundo FIS Para Nórdico Biatlón Individual (12.5 km) celebrada en Vuokatti el 13.12.2022.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/60725",
+        "https://www.teamdeutschland-paralympics.de/athletinnen/details/theo-bold",
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291865",
+        "https://www.paralympic.org/feature/milano-cortina-2026-ones-watch-para-cross-country-skiing"
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Oleksandra Danylenko",
+    "date_of_birth": "Información no pública disponible",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 8,
+    "world_cup_points": 245,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Información no pública disponible",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Compitiendo en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno de Milano Cortina 2026: Evento de biatlón (resultado específico no documentado).",
+            "participation": "Información no disponible públicamente",
+            "achievements": "Logros en otros deportes no están actualmente disponibles.",
+            "guide": "Información no pública disponible",
+            "performance_trends": "Estadísticas de rendimiento para 2025/2026 no están disponibles.",
+            "preparation_style": "No se han documentado metodologías de entrenamiento específicas.",
+            "personal_contextual_info": "Detalles personales no están disponibles."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/danylenko-oleksandra/61904",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/20506"
+    ]
+}

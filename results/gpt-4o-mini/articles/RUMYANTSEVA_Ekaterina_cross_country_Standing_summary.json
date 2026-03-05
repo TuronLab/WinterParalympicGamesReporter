@@ -1,0 +1,44 @@
+﻿{
+    "name_of_the_athlete": "Ekaterina Rumyantseva",
+    "date_of_birth": "1991-01-28",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 18,
+    "world_cup_points": 206,
+    "country": "RUS",
+    "category": "Standing",
+    "paralympic_category_lw": "LW5/7",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de Oro en 6 km femenino - de pie (Juegos Paralímpicos de Invierno de 2018), Medalla de Oro en 10 km femenino - de pie (Juegos Paralímpicos de Invierno de 2018), Medalla de Oro en 15 km femenino libre - de pie (Juegos Paralímpicos de Invierno de 2018), Medalla de Plata en 7.5 km femenino clásico - de pie (Juegos Paralímpicos de Invierno de 2018), Medalla de Plata en 12.5 km femenino - de pie (Juegos Paralímpicos de Invierno de 2018)",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de 2018",
+            "participation": "Biatlón",
+            "achievements": "Medalla de Oro en 6 km femenino - de pie (Juegos Paralímpicos de Invierno de 2018), Medalla de Plata en 12.5 km femenino - de pie (Juegos Paralímpicos de Invierno de 2018), Medalla de Plata en 7.5 km femenino clásico - de pie (Juegos Paralímpicos de Invierno de 2018)",
+            "guide": "Information not publicly available",
+            "performance_trends": "Dominó los Juegos Paralímpicos de Invierno de 2018 con múltiples medallas, mostrando un rendimiento sólido en varias distancias.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Apodo: Katya"
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro en 6 km femenino - de pie (Juegos Paralímpicos de Invierno de 2018), Medalla de Plata en 12.5 km femenino - de pie (Juegos Paralímpicos de Invierno de 2018), Medalla de Plata en 7.5 km femenino clásico - de pie (Juegos Paralímpicos de Invierno de 2018)",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de 2018",
+            "participation": "Esquí de fondo",
+            "achievements": "Medalla de Oro en 6 km femenino - de pie (Juegos Paralímpicos de Invierno de 2018), Medalla de Plata en 12.5 km femenino - de pie (Juegos Paralímpicos de Invierno de 2018), Medalla de Plata en 7.5 km femenino clásico - de pie (Juegos Paralímpicos de Invierno de 2018)",
+            "guide": "Information not publicly available",
+            "performance_trends": "Dominó los Juegos Paralímpicos de Invierno de 2018 con múltiples medallas, mostrando un rendimiento sólido en varias distancias.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Apodo: Katya"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Ekaterina Rumyantseva](https://en.wikipedia.org/wiki/Ekaterina_Rumyantseva)",
+        "[The Sports - Resultados de Ekaterina Rumyantseva](https://www.the-sports.org/ekaterina-rumyantseva-biathlon-spf533172.html)",
+        "[Paralympic.org - Ekaterina Rumyantseva](https://www.paralympic.org/news/ekaterina-rumyantseva-named-female-athlete-month)",
+        "[Wikipedia - Ekaterina Rumyantseva](https://en.wikipedia.org/wiki/Ekaterina_Rumyantseva)",
+        "[The Sports - Resultados de Ekaterina Rumyantseva](https://www.the-sports.org/ekaterina-rumyantseva-biathlon-spf533172.html)",
+        "[Paralympic.org - Ekaterina Rumyantseva](https://www.paralympic.org/news/ekaterina-rumyantseva-named-female-athlete-month)"
+    ]
+}

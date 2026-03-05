@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "IWAMOTO Keigo",
+    "date_of_birth": "1995-11-20",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 34,
+    "world_cup_points": 181,
+    "country": "JPN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW3",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Compitió en múltiples Juegos Paralímpicos y Campeonatos Mundiales, clasificándose consistentemente entre los 20 mejores.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2014, 2018 y 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Logró un 15° lugar en la prueba masculina de 10 km clásico en los Juegos Paralímpicos de Invierno 2021/2022.",
+            "guide": "Information not applicable",
+            "performance_trends": "Participación constante en eventos internacionales importantes, con un enfoque en mejorar las clasificaciones a lo largo del tiempo.",
+            "preparation_style": "Los atletas en esta categoría típicamente se enfocan en el entrenamiento de fuerza del tren superior y la resistencia.",
+            "personal_contextual_info": "Afiliado a Tsuchiya Home y entrenando activamente para los Juegos Paralímpicos de Milano Cortina 2026."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=290149)",
+        "[Perfil Paralímpico](https://www.paralympic.org/keigo-iwamoto)",
+        "[El Perfil Deportivo](https://www.the-sports.org/k-iwamoto-cross-country-skiing-spf718224.html)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=290149)",
+        "[Perfil Paralímpico](https://www.paralympic.org/keigo-iwamoto)",
+        "[El Perfil Deportivo](https://www.the-sports.org/k-iwamoto-cross-country-skiing-spf718224.html)"
+    ]
+}

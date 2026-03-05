@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Darya Fedzkovich",
+    "date_of_birth": "2000-10-03",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 24,
+    "world_cup_points": 50,
+    "country": "BLR",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Invierno Pyeongchang 2018 y los Campeonatos Mundiales de Para Deportes de Nieve Lillehammer 2021.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno Pyeongchang 2018 y Lillehammer 2021.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Clasificaciones generalmente dentro del top 20, con un notable 5° lugar en la distancia larga en Lillehammer 2021.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Darya Fedzkovich es una atleta activa que representa a Bielorrusia en el esquí nórdico."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Comité Paralímpico Internacional - Darya Fedzkovich](https://www.paralympic.org/darya-fedzkovich)",
+        "[Olympics.com - Perfil de Darya Fedzkovich](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/64624)",
+        "[FIS - Biografía del Atleta Darya Fedzkovich](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290568)",
+        "[Comité Paralímpico Internacional - Darya Fedzkovich](https://www.paralympic.org/darya-fedzkovich)",
+        "[Olympics.com - Perfil de Darya Fedzkovich](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/64624)",
+        "[FIS - Biografía del Atleta Darya Fedzkovich](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290568)",
+        "[Comité Paralímpico Internacional - Darya Fedzkovich](https://www.paralympic.org/darya-fedzkovich)",
+        "[Olympics.com - Perfil de Darya Fedzkovich](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/64624)",
+        "[FIS - Biografía del Atleta Darya Fedzkovich](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290568)"
+    ]
+}

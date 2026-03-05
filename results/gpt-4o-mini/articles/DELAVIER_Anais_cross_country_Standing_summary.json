@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Anaïs Delavier",
+    "date_of_birth": "2003-02-18",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 22,
+    "world_cup_points": 141,
+    "country": "FRA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "2º lugar en 10 km clásico en los Campeonatos Mundiales de Biatlón Paralímpico 2024. Medallas de oro en esquí de fondo tanto en la modalidad corta como larga en los Juegos Paralímpicos Europeos de Juventud 2020.",
+            "paralympic_participation": "Participación activa en eventos internacionales, incluidos los Juegos Paralímpicos Europeos de Juventud y Campeonatos Mundiales.",
+            "participation": "Compite también en biatlón.",
+            "achievements": "Medallas de oro en biatlón en los Juegos Paralímpicos Europeos de Juventud 2020. 2º lugar en Pursuit Sprint y 11º en Biatlón 12.5 km en los Campeonatos Mundiales de Biatlón Paralímpico 2024.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Finalizaciones consistentes en el top 10 en eventos recientes de la Copa del Mundo.",
+            "preparation_style": "Participa en un régimen de entrenamiento integral que incluye entrenamiento de fuerza, carrera y ciclismo.",
+            "personal_contextual_info": "Se describe a sí misma como 'volontaire, motivé, gentil' (dispuesta, motivada, amable). Sus pasatiempos incluyen la pesca y proyectos de bricolaje."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medallas de oro en biatlón en los Juegos Paralímpicos Europeos de Juventud 2020.",
+            "paralympic_participation": "Participación activa en eventos internacionales, incluidos los Juegos Paralímpicos Europeos de Juventud y Campeonatos Mundiales.",
+            "participation": "Compite también en esquí de fondo.",
+            "achievements": "2º lugar en Pursuit Sprint y 11º en Biatlón 12.5 km en los Campeonatos Mundiales de Biatlón Paralímpico 2024.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora notable en sus resultados, particularmente en los Campeonatos Mundiales de Biatlón Paralímpico 2024.",
+            "preparation_style": "Participa en un régimen de entrenamiento integral que incluye entrenamiento de fuerza, carrera y ciclismo.",
+            "personal_contextual_info": "Se describe a sí misma como 'volontaire, motivé, gentil' (dispuesta, motivada, amable). Sus pasatiempos incluyen la pesca y proyectos de bricolaje."
+        }
+    ],
+    "personal_data": "Nacionalidad: Francesa. Club: FFH-FFS - Club des Sports La Feclaz.",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292071)",
+        "[Artículo de Nordic Mag sobre Jakuszyce](https://www.nordicmag.info/en/para-cross-country-skiing-jakuszyce-anais-delavier-cleo-blanc-and-maxime-gayet-guided-by-alexis-bernard-in-the-top-10-of-the-mass-start-classic-0201/)",
+        "[Artículo de Nordic Mag sobre Resultados de Jakuszyce](https://www.nordicmag.info/en/para-cross-country-skiing-jakuszyce-maxime-gayet-guided-by-alexis-bernard-eighth-in-the-individual-classic-ninth-place-for-anais-delavier-0131/)"
+    ]
+}

@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Scott Meenagh",
+    "date_of_birth": "1989-09-16",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 51,
+    "world_cup_points": 56,
+    "country": "GBR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "17º lugar en el evento de 15 km libre en los Juegos Paralímpicos de Invierno 2018; 12º lugar en el evento de 18 km clásico en los Juegos Paralímpicos de Invierno 2022; Primer esquiador nórdico británico en unos Juegos Paralímpicos en 20 años (2018); Parte del primer equipo de relevos británico en terminar el evento de relevos 4 × 2.5 km en unos Juegos Paralímpicos (2022).",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "participation": "Remo: Compitió como capitán del equipo del Ejército Británico en los Juegos Invictus 2014.",
+            "achievements": "No se dispone de resultados específicos en remo.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Compitió en los Juegos Paralímpicos de Invierno 2018 y 2022, demostrando una notable mejora en el rendimiento, pasando del 17º al 12º lugar en los respectivos eventos.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Scott Meenagh nació el 16 de septiembre de 1989 en Cumbernauld, Escocia. Es un exsoldado del Ejército Británico que perdió ambas piernas en 2011 debido a una explosión de un artefacto explosivo improvisado en Afganistán."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Paralympic.org - Scott Meenagh](https://www.paralympic.org/scott-meenagh)",
+        "[Wikipedia - Scott Meenagh](https://en.wikipedia.org/wiki/Scott_Meenagh)",
+        "[BBC Sport - Campeonato Mundial Para Nórdico](https://www.bbc.com/sport/disability-sport/64312345)",
+        "[GB Snowsport - Meenagh tercero en la Copa del Mundo de Biatlón Sprint Para](https://www.gbsnowsport.com/news/meenagh-third-in-para-biathlon-sprint-world-cup)"
+    ]
+}

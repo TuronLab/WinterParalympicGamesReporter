@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "KOBAL Vladislav",
+    "date_of_birth": "2008-01-01",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 4,
+    "world_cup_points": 480,
+    "country": "KAZ",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "4to lugar en Salida Masiva en Szklarska Poreba-Jakuszyce (01-02-2026), 5to lugar en Salida por Intervalos en Szklarska Poreba-Jakuszyce (31-01-2026), 6to lugar en Salida por Intervalos en Szklarska Poreba-Jakuszyce (29-01-2026), 4to lugar en Clasificación de Sprint en Szklarska Poreba-Jakuszyce (28-01-2026), 7mo lugar en Final de Sprint en Szklarska Poreba-Jakuszyce (28-01-2026), 8vo lugar en Relevo Abierto en Finsterau (18-01-2026), 13er lugar en Clasificación de Sprint en Finsterau (17-01-2026), 13er lugar en Final de Sprint en Finsterau (17-01-2026), 19no lugar en Salida Masiva en Finsterau (15-01-2026), 11er lugar en Salida por Intervalos en Finsterau (14-01-2026), 15to lugar en Sprint en Trondheim (05-03-2025), 8vo lugar en Sprint en Steinkjer (01-03-2025), 10mo lugar en Salida por Intervalos en Steinkjer (28-02-2025), 20mo lugar en Salida por Intervalos en Toblach (14-02-2025), 10mo lugar en Salida por Intervalos en Toblach (12-02-2025), 14to lugar en Salida por Intervalos en Val di Fiemme (02-02-2025), 22do lugar en Sprint en Val di Fiemme (01-02-2025)",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Kobal ha mostrado una participación constante en eventos de la Copa del Mundo, con la mayoría de sus posiciones dentro del top 20.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Kobal nació en 2008 y actualmente tiene 17 años. Representa a Kazajistán en competiciones internacionales."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=292432)",
+        "[Resultados FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=289477&raceid=711)"
+    ]
+}

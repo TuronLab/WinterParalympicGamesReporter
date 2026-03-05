@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Kseniia Berezhnaia",
+    "date_of_birth": "2005-05-09",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 12,
+    "world_cup_points": 212,
+    "country": "RUS",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente en el top 20 en eventos significativos de la Copa del Mundo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Como atleta con discapacidad visual, demuestra notable potencial y habilidad."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291224",
+        "https://www.ipc-services.org/fpdms/web/calendar/ns/athlete/43742"
+    ]
+}

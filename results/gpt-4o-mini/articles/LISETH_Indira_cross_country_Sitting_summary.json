@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Indira Milena Hopsdahl Liseth",
+    "date_of_birth": "1986-06-15",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 7,
+    "world_cup_points": 408,
+    "country": "NOR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "3er lugar en la Norgescupen para la temporada 2018/19 en la categoría sentada; 7mo lugar en el Clásico de 10 km de Salida por Intervalo Femenino Sentado en Toblach, Italia, el 12 de febrero de 2025; 8vo lugar en el Clásico de Sprint Femenino Sentado en Val di Fiemme, Italia, el 1 de febrero de 2025.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Tenis en silla de ruedas, hockey sobre hielo para personas con discapacidad, levantamiento de potencia.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación regular en eventos tanto nacionales como internacionales; mejoras notables en las clasificaciones a lo largo del tiempo.",
+            "preparation_style": "Enfatiza el establecimiento de metas y el auto-desafío.",
+            "personal_contextual_info": "Nació con una lesión en la médula espinal que resulta en parálisis desde la cintura hacia abajo. Fue adoptada a la edad de seis años y se mudó a Noruega."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Indira Liseth](https://no.wikipedia.org/wiki/Indira_Liseth)",
+        "[Skiforbundet - Indira Liseth](https://www.ski-tv.no/indira-liseth-1)"
+    ]
+}

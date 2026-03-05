@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Alex Lajtman",
+    "date_of_birth": "2003-09-20",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 18,
+    "world_cup_points": 54,
+    "country": "SVK",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Calificado para los Juegos Paralímpicos de Invierno de 2026 en Milán y Cortina d'Ampezzo.",
+            "paralympic_participation": "Compitiendo en esquí de fondo (sprint, 10 km, 20 km); aspira a calificar para biatlón.",
+            "participation": "Compitió inicialmente en esquí alpino antes de hacer la transición al esquí de fondo y biatlón.",
+            "achievements": "Logró el tercer lugar en la Copa Europea en Croacia.",
+            "guide": "Marko Havran, un exesquiador de fondo competitivo.",
+            "performance_trends": "Actualmente está en un intenso entrenamiento enfocado tanto en el esquí de fondo como en las habilidades de biatlón.",
+            "preparation_style": "Enfocado en el entrenamiento de distancia y habilidades relacionadas con el biatlón.",
+            "personal_contextual_info": "Tiene visión limitada debido a daño en los nervios que sufrió a la edad de tres años, lo que le permite ver solo hasta 2.5 metros."
+        },
+        {
+            "sport_name": "Esquí Alpino",
+            "major_achievements": "Logró el tercer lugar en la Copa Europea en Croacia.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Su potencial deportivo fue descubierto a través de varios campamentos organizados por el Comité Paralímpico Eslovaco.",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/lajtman-alex/40774",
+        "https://www.paralympic.org/alex-lajtman",
+        "https://www.teraz.sk/zimne-sporty/slovensku-vypravu-na-zph-2026-moze-r/868261-clanok.html",
+        "https://www.denniksport.sk/olympijske/c/slovensky-priekopnik-v-para-bezeckom-lyzovani-alex-lajtman-pribeh"
+    ]
+}

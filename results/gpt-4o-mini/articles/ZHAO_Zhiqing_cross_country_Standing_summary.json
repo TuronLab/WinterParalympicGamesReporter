@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "ZHAO Zhiqing",
+    "date_of_birth": "1997-11-06",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 20,
+    "world_cup_points": 195,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW5/7",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "3er lugar en la categoría de Mujeres en Sprint de Pie y 2do lugar en la categoría de Mujeres en Individual de Pie en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Compite también en biatlón.",
+            "achievements": "Medalla de plata en el Biatlón de Mujeres 12.5 km de Pie y medalla de bronce en el Biatlón de Mujeres 6 km de Pie en los Juegos Paralímpicos de Invierno de 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente en eventos importantes, logrando podios en eventos de sprint y fuertes posiciones en eventos de larga distancia.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació en Zhangjiakou, China, y representa activamente a su país en el esquí nórdico."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de plata en el Biatlón de Mujeres 12.5 km de Pie y medalla de bronce en el Biatlón de Mujeres 6 km de Pie en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Compite también en esquí de fondo.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Zhiqing Zhao - Perfil Paralímpico](https://www.paralympic.org/zhiqing-zhao)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291036)",
+        "[Wikipedia - Zhao Zhiqing](https://en.wikipedia.org/wiki/Zhao_Zhiqing)"
+    ]
+}

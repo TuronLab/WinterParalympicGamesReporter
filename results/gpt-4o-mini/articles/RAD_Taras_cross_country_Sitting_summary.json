@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Taras Rad",
+    "date_of_birth": "1999-11-20",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 2,
+    "world_cup_points": 745,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Oro en 12.5 km Masculino en Silla (Esquí de Fondo) en los Juegos Paralímpicos de Invierno PyeongChang 2018; Oro en Sprint Masculino en Silla y Oro en Larga Distancia Masculino en Silla en los Campeonatos Mundiales de Esquí Nórdico Para 2019.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno PyeongChang 2018 y Beijing 2022, y competirá en 2026.",
+            "participation": "Biatlón",
+            "achievements": "Oro en Biatlón de Media Distancia Masculino en Silla en PyeongChang 2018; múltiples medallas en eventos de biatlón en Campeonatos Mundiales.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo, con posiciones predominantemente dentro del top 10.",
+            "preparation_style": "Entrenamiento 12 veces a la semana en nieve, natación tres veces a la semana y ciclismo diario.",
+            "personal_contextual_info": "Tuvo su pierna amputada a los 14 años debido a una infección de una herida no tratada. Se unió a los deportes adaptativos a través de la organización Invasport en Ucrania."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Oro en Biatlón de Media Distancia Masculino en Silla en PyeongChang 2018.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno PyeongChang 2018.",
+            "participation": "Information not publicly available",
+            "achievements": "Múltiples medallas en eventos de biatlón en Campeonatos Mundiales, incluyendo plata y bronce en varias distancias.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Taras Rad tuvo su pierna amputada debido a una infección de una herida no tratada a la edad de 14 años. Su transición a los deportes adaptativos fue facilitada por la organización Invasport en Ucrania.",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290532&type=result)",
+        "[Perfil Paralímpico](https://www.paralympic.org/taras-rad)",
+        "[Wikipedia](https://en.wikipedia.org/wiki/Taras_Rad)"
+    ]
+}

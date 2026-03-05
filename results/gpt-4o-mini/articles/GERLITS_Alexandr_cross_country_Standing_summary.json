@@ -1,0 +1,46 @@
+﻿{
+    "name_of_the_athlete": "Alexandr Gerlits",
+    "date_of_birth": "1989-07-31",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 15,
+    "world_cup_points": 312,
+    "country": "KAZ",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "5to lugar en 10 km Clásico Masculino - De pie en los Juegos Paralímpicos de Invierno 2022, 5to lugar en 15 km Masculino - De pie en los Juegos Paralímpicos de Invierno 2022, 5to lugar en Sprint Clásico 1.5 km Masculino - De pie en los Juegos Paralímpicos de Invierno 2022, 3er lugar en 12.5 km Masculino - De pie en los Juegos Paralímpicos de Invierno 2022, 8vo lugar en 7.5 km Masculino - De pie en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de bronce en biatlón en los Juegos Paralímpicos de Invierno 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Consistent top 10 finishes in major events, with a notable podium finish (3rd) in the 12.5 km event at the 2022 Paralympics.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de bronce en biatlón en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "participation": "Esquí de Fondo",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Paralympic.org - Perfil de Alexandr Gerlits](https://www.paralympic.org/alexandr-gerlits)",
+        "[FIS - Biografía de Alexandr Gerlits](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290679)",
+        "[Wikipedia - Alexandr Gerlits](https://en.wikipedia.org/wiki/Alexandr_Gerlits)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/gerlits-alexandr/31647)",
+        "[Paralympic.org - Perfil de Alexandr Gerlits](https://www.paralympic.org/alexandr-gerlits)",
+        "[FIS - Biografía de Alexandr Gerlits](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290679)",
+        "[Wikipedia - Alexandr Gerlits](https://en.wikipedia.org/wiki/Alexandr_Gerlits)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/gerlits-alexandr/31647)"
+    ]
+}

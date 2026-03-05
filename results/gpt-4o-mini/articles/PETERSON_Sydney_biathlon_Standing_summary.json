@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Sydney Peterson",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 11,
+    "world_cup_points": 239,
+    "country": "USA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW9",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "1 medalla de Oro, 1 medalla de Plata, 1 medalla de Bronce en los Juegos Paralímpicos de Invierno de 2022; Medalla de Plata en el relevo mixto 4 x 2.5 km y Medalla de Bronce en el sprint estilo clásico de 1 km en los Campeonatos Mundiales de 2025.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Esquí de fondo.",
+            "achievements": "3 medallas (1 Oro, 1 Plata, 1 Bronce) en esquí de fondo en los Juegos Paralímpicos de Invierno de 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Las actuaciones recientes indican una recuperación y un regreso a la forma competitiva tras la cirugía, con finales destacados en eventos de la Copa del Mundo.",
+            "preparation_style": "Equilibra su riguroso horario de entrenamiento con sus estudios académicos, dedicando aproximadamente 700 horas al año al entrenamiento.",
+            "personal_contextual_info": "Diagnosticada con distonía, lo que ha influido en su carrera atlética e intereses académicos."
+        },
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "3 medallas (1 Oro, 1 Plata, 1 Bronce) en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Ciudad natal: Lake Elmo, Minnesota. Educación: Licenciatura en Neurociencia de la Universidad de St. Lawrence; actualmente cursando un doctorado en la Universidad de Utah.",
+    "reference_urls": [
+        "[Team USA - Perfil de Sydney Peterson](https://www.teamusa.com/profiles/sydney-peterson)",
+        "[U.S. Paralympics Nordic Skiing - Sydney Peterson](https://www.usparanordic.org/news/2024/march/20/on-the-mend-from-brain-surgery-sydney-peterson-has-school-and-skiing-on-the-mind)",
+        "[U.S. Paralympics Nordic Skiing - El Viaje de Sydney Peterson](https://www.usparanordic.org/news/2026/february/26/sydney-peterson-has-the-perfect-mentor-for-dealing-with-the-work-life-balance-of-skiing-and-pursuing-a-phd)"
+    ]
+}

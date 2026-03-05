@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Benjamin Daviet",
+    "date_of_birth": "1989-06-16",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 2,
+    "world_cup_points": 761,
+    "country": "FRA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW2",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "10 medallas paralímpicas (5 de oro, 4 de plata, 1 de bronce); 9 veces campeón del mundo en biatlón paraolímpico.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Sochi 2014, PyeongChang 2018 y Beijing 2022.",
+            "participation": "Esquí de fondo paraolímpico; Remo paraolímpico.",
+            "achievements": "Vicecampeón de Francia en remo paraolímpico (2023); Compitió en remo paraolímpico en París 2024, finalizando 5º en el evento de dobles mixtos.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ganador constante de medallas en múltiples Juegos Paralímpicos y Campeonatos Mundiales; tendencia fuerte con múltiples medallas de oro en 2022.",
+            "preparation_style": "Participa en sesiones de entrenamiento con el equipo nacional francés de esquí y biatlón, enfocándose en la condición física y la mejora técnica.",
+            "personal_contextual_info": "Proviene del valle de Bouchet, Francia; activamente involucrado en la promoción del deporte y en compartir su trayectoria con jóvenes atletas."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Benjamin Daviet](https://en.wikipedia.org/wiki/Benjamin_Daviet)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/daviet-benjamin/17291?tab=overview)",
+        "[Sitio Oficial de Benjamin Daviet](https://www.benjamin-daviet.com/)",
+        "[Equipo de Francia - Benjamin Daviet](https://www.equipedefrance.com/athlete/benjamin-daviet)",
+        "[Comité Paralímpico y Deportivo Francés](https://france-paralympique.fr/paralympiens/benjamin-daviet/)",
+        "[Paralympic.org - Reportaje sobre Benjamin Daviet](https://www.paralympic.org/feature/benjamin-daviet-winter-success-paris-2024)"
+    ]
+}

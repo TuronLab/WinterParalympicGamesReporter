@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Leonie Maria Walter",
+    "date_of_birth": "2004-01-17",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 3,
+    "world_cup_points": 514,
+    "country": "GER",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de bronce en 15 km clásico (Juegos Paralímpicos de Invierno 2022), Medalla de oro en 18 km individual, 10 km estilo libre y relevos mixtos 4x2.5 km (Campeonatos Mundiales 2023).",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2022 obteniendo medallas.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de oro en 10 km visualmente discapacitada femenina y medallas de bronce en 6 km y 12.5 km visualmente discapacitadas (Juegos Paralímpicos de Invierno 2022).",
+            "guide": "Pirmin Strecker",
+            "performance_trends": "Walter ha mostrado una trayectoria constante hacia arriba en sus actuaciones.",
+            "preparation_style": "Énfasis en entrenamiento de resistencia y refinamiento de técnica para esquí y tiro en biatlón.",
+            "personal_contextual_info": "Conocida por sus excepcionales actuaciones a pesar de su discapacidad visual."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Leonie_Maria_Walter",
+        "https://www.paralympic.org/feature/road-milano-cortina-2026-leonie-maria-walter",
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=290983"
+    ]
+}

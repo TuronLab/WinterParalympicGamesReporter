@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Romana LOBASHEVA",
+    "date_of_birth": "2004-05-05",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 11,
+    "world_cup_points": 221,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "NS3",
+    "sports": [
+        {
+            "sport_name": "esquí de fondo",
+            "major_achievements": "No se han registrado logros importantes hasta ahora.",
+            "paralympic_participation": "Actualmente no hay información disponible públicamente sobre su participación en Juegos Paralímpicos.",
+            "participation": "Biatlón",
+            "achievements": "Información no disponible públicamente",
+            "guide": "Anastasiia SHABALDINA",
+            "performance_trends": "Ha mostrado tiempos competitivos tanto en eventos de sprint como de distancia, indicando mejora continua.",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Disponibilidad de información personal como residencia y pasatiempos no disponible públicamente."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292160",
+        "https://www.biathlonworld.com/athlete/lobasheva-romana/61903",
+        "https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=818",
+        "https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=694"
+    ]
+}

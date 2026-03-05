@@ -1,0 +1,52 @@
+﻿{
+    "name_of_the_athlete": "ABE Yurika",
+    "date_of_birth": "1995-10-07",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 9,
+    "world_cup_points": 285,
+    "country": "JPN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "13° lugar en el biatlón de 6 km en pie en los Juegos Paralímpicos de Invierno 2014 y 13° lugar en el clásico femenino de 7.5 km - pie en los Juegos Paralímpicos de Invierno 2018.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2014 y 2018.",
+            "participation": "Esquí de fondo",
+            "achievements": "Múltiples finales entre los cinco primeros en los Campeonatos Mundiales de Esquí Nórdico IPC 2015.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora notable en su rendimiento en biatlón, logrando finales entre los cinco primeros en eventos para 2015.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "ABE Yurika tiene daño nervioso en su brazo izquierdo desde el nacimiento."
+        },
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "10° lugar en el sprint libre de 1 km, 9° lugar en el libre de 5 km y 8° lugar en el libre de 15 km en los Juegos Paralímpicos de Invierno 2014.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2014.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[source](https://en.wikipedia.org/wiki/Yurika_Abe)",
+        "[source](https://www.the-sports.org/yurika-abe-biathlon-spf533179.html)",
+        "[source](https://www.paralympic.org/news/made-homeless-tsunami-abe-pushed)",
+        "[source](https://en.wikipedia.org/wiki/Yurika_Abe)",
+        "[source](https://en.wikipedia.org/wiki/Yurika_Abe)",
+        "[source](https://en.wikipedia.org/wiki/Yurika_Abe)",
+        "[source](https://www.paralympic.org/news/made-homeless-tsunami-abe-pushed)",
+        "[source](https://en.wikipedia.org/wiki/Yurika_Abe)",
+        "[source](https://en.wikipedia.org/wiki/Yurika_Abe)",
+        "[source](https://en.wikipedia.org/wiki/Yurika_Abe)",
+        "[source](https://en.wikipedia.org/wiki/Yurika_Abe)",
+        "[Wikipedia - Yurika Abe](https://en.wikipedia.org/wiki/Yurika_Abe)",
+        "[The Sports - Yurika Abe Biathlon](https://www.the-sports.org/yurika-abe-biathlon-spf533179.html)",
+        "[Paralympic News - Yurika Abe](https://www.paralympic.org/news/made-homeless-tsunami-abe-pushed)"
+    ]
+}

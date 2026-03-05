@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "DANG Hesong",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 13,
+    "world_cup_points": 245,
+    "country": "CHN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "8° lugar en Sprint VI Masculino (Final) el 5 de marzo de 2022; 8° lugar en Media Distancia VI Masculino (Final) el 8 de marzo de 2022; 6° lugar en Individual VI Masculino (Ronda Final) el 11 de marzo de 2022; 8° lugar en Media Distancia Libre VI Masculino (Final) el 12 de marzo de 2022; 4° lugar en Relevos Abiertos 4x2.5km (Final) el 13 de marzo de 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró resultados consistentes dentro de las ocho mejores posiciones en los Juegos Paralímpicos de Invierno Beijing 2022.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "DANG Hesong es un atleta de la República Popular de China que compite en biatlón y esquí nórdico.",
+    "reference_urls": [
+        "https://www.paralympic.org/hesong-dang",
+        "https://en.wikipedia.org/wiki/China_at_the_2026_Winter_Paralympics"
+    ]
+}

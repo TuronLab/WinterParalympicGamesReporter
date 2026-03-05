@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Valiantsina Biryla",
+    "date_of_birth": "1994-11-01",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 16,
+    "world_cup_points": 194,
+    "country": "BLR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Información no disponible públicamente",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de 2014, 2018 y 2022.",
+            "participation": "Información no disponible públicamente",
+            "achievements": "Información no disponible públicamente",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo con posiciones variables.",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        }
+    ],
+    "personal_data": "Información no disponible públicamente",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289889)",
+        "[Resultados FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=290282&raceid=696)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289889)",
+        "[Resultados FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=290282&raceid=696)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289889)",
+        "[Resultados FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=290282&raceid=696)"
+    ]
+}

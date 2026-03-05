@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "ZHAI Yuxin",
+    "date_of_birth": "2000-11-11",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 14,
+    "world_cup_points": 225,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "6ª en la Final de Sprint Femenino en Silla de Ruedas, 5ª en la Final de Media Distancia Femenina en Silla de Ruedas, 6ª en la Ronda Final Individual Femenina en Silla de Ruedas, 9ª en la Final de Media Distancia Femenina en Silla de Ruedas en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Compite en Biatlón también.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Colocaciones consistentes dentro del top 10 en competiciones importantes.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Nació el 11 de noviembre de 2000 y representa a la República Popular de China."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291297)",
+        "[Paralympic.org](https://www.paralympic.org/yuxin-zhai)",
+        "[Biathlonworld.com](https://www.biathlonworld.com/athlete/zhai-yuxin/44070)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291297)",
+        "[Paralympic.org](https://www.paralympic.org/yuxin-zhai)",
+        "[Biathlonworld.com](https://www.biathlonworld.com/athlete/zhai-yuxin/44070)"
+    ]
+}

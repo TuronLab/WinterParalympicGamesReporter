@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Lennart Volkert",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 2,
+    "world_cup_points": 805,
+    "country": "GER",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "9° lugar en un evento de biatlón en Finlandia, diciembre de 2022. 8° lugar en competiciones posteriores en Finlandia.",
+            "paralympic_participation": "Competidor anticipado en los próximos Juegos Paralímpicos de Invierno.",
+            "participation": "Fútbol",
+            "achievements": "Campeón Internacional Alemán de Esquí de Fondo Adaptado en su cumpleaños número 22.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento en mejora constante en los últimos años.",
+            "preparation_style": "Entrenando junto a entrenadores especializados para atletas con discapacidades visuales, centrándose en técnicas tanto de esquí de patinaje como clásicas.",
+            "personal_contextual_info": "Originalmente de Markt Schwaben, Alemania, donde asiste al Adolf-Weber-Gymnasium en Múnich. Planea trasladarse a Friburgo para oportunidades de entrenamiento."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.badische-zeitung.de/person/Lennart+Volkert",
+        "https://www.biathlonworld.com/athlete/volkert-lennart/35885",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/64353",
+        "https://drs.org/2026/01/09/para-ski-nordisch-weltcup-im-suedschwarzwald/"
+    ]
+}

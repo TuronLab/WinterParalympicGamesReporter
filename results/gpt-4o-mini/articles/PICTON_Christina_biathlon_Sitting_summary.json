@@ -1,0 +1,35 @@
+﻿{
+    "name_of_the_athlete": "Christina Picton",
+    "date_of_birth": "1993-04-06",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 6,
+    "world_cup_points": 381,
+    "country": "CAN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de 2022, logrando terminar entre las ocho mejores en todos los eventos en los que participó.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Beijing 2022.",
+            "participation": "Exmiembro del Equipo Nacional Femenino de Hockey sobre Hielo en Silla de Ruedas de Canadá.",
+            "achievements": "Compitió en la Copa Internacional de Hockey sobre Hielo en Silla de Ruedas Femenina de la IPC en 2014, contribuyendo al primer gol del equipo.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Inició su carrera en esquí nórdico y biatlón en 2018, logrando un cuarto lugar en un evento de la Copa del Mundo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Christina Picton perdió parte de su pierna derecha debido a una amputación."
+        }
+    ],
+    "personal_data": "Trabaja como diseñadora gráfica contratada, enfocándose en el parasport y la concienciación y educación sobre la discapacidad.",
+    "reference_urls": [
+        "[Wikipedia - Christina Picton](https://en.wikipedia.org/wiki/Christina_Picton)",
+        "[Comité Paralímpico Canadiense - Christina Picton](https://paralympic.ca/athlete/christina-picton/)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/picton-christina/23928)",
+        "[Hornby Organic - Christina Picton](https://hornbyorganic.com/blogs/sponsorship/christina-picton)",
+        "[Wikipedia - Christina Picton](https://en.wikipedia.org/wiki/Christina_Picton)",
+        "[Comité Paralímpico Canadiense - Christina Picton](https://paralympic.ca/athlete/christina-picton/)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/picton-christina/23928)",
+        "[Hornby Organic - Christina Picton](https://hornbyorganic.com/blogs/sponsorship/christina-picton)"
+    ]
+}

@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "ABE Yurika",
+    "date_of_birth": "1995-10-07",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 14,
+    "world_cup_points": 265,
+    "country": "JPN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "8ª en 15km Estilo Libre en Sochi 2014, 9ª en 6km de Pie en Pyeongchang 2018, 8ª en Clásico de Larga Distancia en Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Sochi 2014, Pyeongchang 2018 y Beijing 2022.",
+            "participation": "Biatlón",
+            "achievements": "13ª en Biatlón de 6km de Pie en Sochi 2014.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos importantes desde 2014, con mejoras en clasificaciones en distancias más largas.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Tiene daño nervioso en su brazo izquierdo desde el nacimiento."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "13ª en Biatlón de 6km de Pie en Sochi 2014.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Sochi 2014.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Yurika Abe](https://en.wikipedia.org/wiki/Yurika_Abe)",
+        "[Comité Paralímpico Internacional - Yurika Abe](https://www.paralympic.org/yurika-abe)",
+        "[FIS - Biografía del Atleta Yurika ABE](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289721&type=result)"
+    ]
+}

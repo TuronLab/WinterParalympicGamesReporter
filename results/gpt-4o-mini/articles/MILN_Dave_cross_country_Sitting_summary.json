@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Dave Miln",
+    "date_of_birth": "1985-12-06",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 47,
+    "world_cup_points": 86,
+    "country": "AUS",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo Para",
+            "major_achievements": "Seleccionado para representar a Australia en los Juegos Paralímpicos de Invierno de 2026.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2026.",
+            "participation": "Biatlón Para, Baloncesto en Silla de Ruedas.",
+            "achievements": "Medalla de plata en biatlón avanzado en los Juegos Invictus 2025.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Primera competencia en Esquí de Fondo Para y Biatlón Para en Canadá en 2024.",
+            "preparation_style": "Enfatiza una mentalidad militar en su entrenamiento, enfocándose en la perseverancia a través de la adversidad.",
+            "personal_contextual_info": "Nacido el 6 de diciembre de 1985 en Salisbury, Inglaterra. Sirvió casi 15 años en el ejército del Reino Unido antes de transferirse a la Armada Real Australiana en 2019."
+        },
+        {
+            "sport_name": "Biatlón Para",
+            "major_achievements": "Medalla de plata en biatlón avanzado en los Juegos Invictus 2025.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2026.",
+            "participation": "Esquí de Fondo Para, Baloncesto en Silla de Ruedas.",
+            "achievements": "Medalla de plata en biatlón avanzado en los Juegos Invictus 2025.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Primera competencia en Esquí de Fondo Para y Biatlón Para en Canadá en 2024.",
+            "preparation_style": "Enfatiza una mentalidad militar en su entrenamiento, enfocándose en la perseverancia a través de la adversidad.",
+            "personal_contextual_info": "Nacido el 6 de diciembre de 1985 en Salisbury, Inglaterra. Sirvió casi 15 años en el ejército del Reino Unido antes de transferirse a la Armada Real Australiana en 2019."
+        }
+    ],
+    "personal_data": "Su accidente de esquí en 2022 llevó a cambios significativos en su vida, dirigiéndolo hacia una exitosa carrera en deportes adaptativos.",
+    "reference_urls": [
+        "[David Miln](https://en.wikipedia.org/wiki/David_Miln)",
+        "[Aussie Biathlete Dave Miln Conquers Invictus](https://snowaction.com.au/aussie-biathlete-dave-miln-conquers-invictus/)",
+        "[Perfil de Dave Miln](https://www.paralympic.org.au/)",
+        "[La lesión abre la puerta a los deportes adaptativos](https://www.defence.gov.au/news-events/news/)"
+    ]
+}

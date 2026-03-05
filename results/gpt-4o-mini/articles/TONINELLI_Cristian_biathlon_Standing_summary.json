@@ -1,0 +1,43 @@
+﻿{
+    "name_of_the_athlete": "Cristian Toninelli",
+    "date_of_birth": "1988-05-20",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 6,
+    "world_cup_points": 473,
+    "country": "ITA",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Juegos Paralímpicos de Invierno PyeongChang 2018: 17º en 20 km libre masculino de pie, 23º en 1.5 km sprint clásico masculino de pie, 21º en 10 km clásico masculino de pie; Juegos Paralímpicos de Invierno Beijing 2022: 10º en relevo abierto 4x2.5 km, 16º en media distancia libre masculino de pie, 24º en sprint libre masculino de pie; Campeonatos Mundiales de Deportes de Nieve Para 2025: 20º en 10 km masculino, 24º en 20 km masculino; Copa del Mundo de Biatlón 2026: 13º en sprint de 7.5 km, 16º en persecución de sprint, 14º en individual de 12.5 km.",
+            "paralympic_participation": "PyeongChang 2018, Beijing 2022, y preparando para Milano Cortina 2026.",
+            "participation": "Esquí Nórdico",
+            "achievements": "Logró el 8º lugar en eventos de la Copa del Mundo.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora notable en competiciones recientes, logrando el 8º lugar en múltiples eventos de la Copa del Mundo en 2023.",
+            "preparation_style": "Cristian Toninelli equilibra su entrenamiento con un trabajo a tiempo completo en gestión de seguridad, entrenando diariamente después del trabajo.",
+            "personal_contextual_info": "Cristian nació con focomelia en su mano derecha."
+        },
+        {
+            "sport_name": "Esquí Nórdico",
+            "major_achievements": "Logró el 8º lugar en eventos de la Copa del Mundo.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Biatlón",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/toninelli-cristian/35028?tab=results)",
+        "[Comité Italiano Paralímpico - Cristian Toninelli](https://www.comitatoparalimpico.it/organizzazione/organismi-sportivi/federazioni-sportive-paralimpiche/item/toninelli-cristian.html)",
+        "[Paralympic.org - Cristian Toninelli](https://www.paralympic.org/cristian-toninelli)",
+        "[Avvenire - Milano Cortina, Toninelli il cacciatore di medaglie](https://www.avvenire.it/agora/sport/milano-cortina-toninelli-il-cacciatore-di-medaglie_103173)",
+        "[Polisportiva Disabili Valcamonica - Cristian Toninelli en Suecia](https://www.polisportivadisabilivalcamonica.it/news-je/bene-cristian-toninelli-in-svezia-nella-coppa-del-mondo-di-biathlon/)"
+    ]
+}

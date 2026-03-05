@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Evgenii Chernyi",
+    "date_of_birth": "2005-12-03",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 40,
+    "world_cup_points": 128,
+    "country": "RUS",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Cross-Country Skiing",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil Paralímpico](https://www.paralympic.org/evgenii-chernyi)",
+        "[Resultados de la FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=3802)"
+    ]
+}

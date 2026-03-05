@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Maddie Mullin",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 13,
+    "world_cup_points": 69,
+    "country": "CAN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Terminó segunda en tres carreras consecutivas de la Copa del Mundo en Canmore, Alberta; ocupó el octavo lugar en el sprint femenino con dificultad visual en Notschrei, Alemania.",
+            "paralympic_participation": "Participará en los Juegos Paralímpicos de Milano Cortina 2026.",
+            "participation": "Participa también en Esquí de Fondo en Silla de Ruedas.",
+            "achievements": "Logró resultados notables en la Copa del Mundo de Esquí de Fondo en Silla de Ruedas, pero los resultados específicos permanecen no verificados.",
+            "guide": "Brooke Ailey",
+            "performance_trends": "Recientes competiciones indican un patrón de mejora en el rendimiento.",
+            "preparation_style": "Enfatiza la comunicación y colaboración con su guía durante el entrenamiento.",
+            "personal_contextual_info": "Comenzó a esquiar a los diez años y busca representar visiblemente a atletas con discapacidades."
+        },
+        {
+            "sport_name": "Esquí de Fondo en Silla de Ruedas",
+            "major_achievements": "Participa en la Copa del Mundo.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Valora la visibilidad y representación en los deportes para aquellos que no están seguros de su lugar en estos espacios.",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/mullin-maddie/52287",
+        "https://nordiqcanada.ca/news-item/how-different-paths-led-maddie-mullin-and-brooke-ailey-to-one-team/",
+        "https://nordiqcanada.ca/news-item/canadas-para-biathlon-team-shoots-their-way-to-seven-podiums-in-notschrei-germany/"
+    ]
+}

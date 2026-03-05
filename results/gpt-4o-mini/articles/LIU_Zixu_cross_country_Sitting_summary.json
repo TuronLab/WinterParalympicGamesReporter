@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Liu Zixu",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 28,
+    "world_cup_points": 224,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de Oro en Esquí de Fondo Sprint en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Compite también en biatlón.",
+            "achievements": "Primera medalla de oro para la delegación china en la historia de los Juegos Paralímpicos de Invierno.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró una mejora significativa al ganar una medalla de oro en su primera gran competencia internacional.",
+            "preparation_style": "El régimen de entrenamiento se centra en el esquí de fondo y el biatlón, enfatizando la resistencia y la precisión en el tiro.",
+            "personal_contextual_info": "Originario de Xi'an, China, ha superado desafíos personales significativos, incluyendo un accidente automovilístico en 2008."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro en Biatlón Masculino 6km en Posición Sentada en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Compite también en esquí de fondo.",
+            "achievements": "5to Lugar en Biatlón Masculino 10km en Posición Sentada en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró una mejora significativa al ganar una medalla de oro en su primera gran competencia internacional.",
+            "preparation_style": "El régimen de entrenamiento se centra en el esquí de fondo y el biatlón, enfatizando la resistencia y la precisión en el tiro.",
+            "personal_contextual_info": "Originario de Xi'an, China, ha superado desafíos personales significativos, incluyendo un accidente automovilístico en 2008."
+        }
+    ],
+    "personal_data": "Liu Zixu es un destacado atleta chino especializado en esquí de fondo y biatlón, con un impacto significativo en la escena deportiva paralímpica.",
+    "reference_urls": [
+        "[Paralympic.org - Perfil de Liu Zixu](https://www.paralympic.org/news/zixu-liu-strikes-gold-put-hosts-china-top-three)",
+        "[CGTN - China enviará 70 atletas a los Juegos Paralímpicos de Invierno de 2026 en Milano Cortina](https://news.cgtn.com/news/2026-02-28/China-to-send-70-athletes-to-2026-Milano-Cortina-Winter-Paralympics-1L7P5nrtEFa/p.html)",
+        "[TDI - Liu Zixu gana la primera medalla de oro en los Juegos Paralímpicos de Invierno](https://thediplomaticinsight.com/china-liu-zixu-strikes-first-gold-in-winter-paralympics/)",
+        "[Wikipedia - Liu Zixu](https://en.wikipedia.org/wiki/Liu_Zixu)"
+    ]
+}

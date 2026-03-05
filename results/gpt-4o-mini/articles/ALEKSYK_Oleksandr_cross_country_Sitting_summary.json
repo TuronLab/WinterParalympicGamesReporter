@@ -1,0 +1,47 @@
+﻿{
+    "name_of_the_athlete": "Oleksandr Aleksyk",
+    "date_of_birth": "2004-07-23",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 8,
+    "world_cup_points": 528,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participó en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de oro en el biatlón masculino de 12.5 km para personas con discapacidad visual en los Juegos Paralímpicos de Invierno 2022. Medalla de plata en el biatlón masculino de 6 km para personas con discapacidad visual en los Juegos Paralímpicos de Invierno 2022. Medalla de plata en el biatlón masculino de 12.5 km para personas con discapacidad visual en los Juegos Paralímpicos de Invierno 2018. Medalla de bronce en el biatlón masculino de 6 km para personas con discapacidad visual en los Campeonatos Mundiales de Deportes de Nieve Para 2021.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Datos de rendimiento no disponibles públicamente.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de oro en el biatlón masculino de 12.5 km para personas con discapacidad visual en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "participation": "Esquí de Fondo",
+            "achievements": "Medalla de plata en el biatlón masculino de 6 km para personas con discapacidad visual en los Juegos Paralímpicos de Invierno 2022. Medalla de plata en el biatlón masculino de 12.5 km para personas con discapacidad visual en los Juegos Paralímpicos de Invierno 2018. Medalla de bronce en el biatlón masculino de 6 km para personas con discapacidad visual en los Campeonatos Mundiales de Deportes de Nieve Para 2021.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Datos de rendimiento no disponibles públicamente.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Paralympic.org - Perfil de Oleksandr Aleksyk](https://www.paralympic.org/oleksandr-aleksyk)",
+        "[Paralympic.org - Resultados de Beijing 2022](https://www.paralympic.org/beijing-2022/results/cross-country)",
+        "[Wikipedia - Oleksandr Kazik](https://en.wikipedia.org/wiki/Oleksandr_Kazik)",
+        "[Paralympic.org - Perfil de Oleksandr Aleksyk](https://www.paralympic.org/oleksandr-aleksyk)",
+        "[Paralympic.org - Resultados de Beijing 2022](https://www.paralympic.org/beijing-2022/results/cross-country)",
+        "[Wikipedia - Oleksandr Kazik](https://en.wikipedia.org/wiki/Oleksandr_Kazik)",
+        "[Paralympic.org - Perfil de Oleksandr Aleksyk](https://www.paralympic.org/oleksandr-aleksyk)",
+        "[Paralympic.org - Resultados de Beijing 2022](https://www.paralympic.org/beijing-2022/results/cross-country)",
+        "[Wikipedia - Oleksandr Kazik](https://en.wikipedia.org/wiki/Oleksandr_Kazik)"
+    ]
+}

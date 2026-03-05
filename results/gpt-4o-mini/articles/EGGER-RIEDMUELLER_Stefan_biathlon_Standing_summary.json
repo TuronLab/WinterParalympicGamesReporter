@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Stefan Egger-Riedmüller",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 13,
+    "world_cup_points": 384,
+    "country": "AUT",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Invierno 2026 en Milán y Cortina d'Ampezzo.",
+            "paralympic_participation": "Compitiendo en los Juegos Paralímpicos de Invierno 2026.",
+            "participation": "Compite en Para-Langlauf (esquí de fondo).",
+            "achievements": "Tercer lugar en la clasificación general de la Copa del Mundo de Para-Langlauf.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ha asegurado tres colocaciones entre los diez primeros en la Copa del Mundo de Para-Langlauf.",
+            "preparation_style": "Sigue un enfoque de entrenamiento profesional, apoyado por un entrenador con experiencia en deportes de alto rendimiento.",
+            "personal_contextual_info": "Nacido con hemimelia fibular, que afecta su pantorrilla y músculo derecho."
+        },
+        {
+            "sport_name": "Para-Langlauf (Esquí de Fondo)",
+            "major_achievements": "Tercer lugar en la clasificación general de la Copa del Mundo de Para-Langlauf (2023).",
+            "paralympic_participation": "Compitiendo en los Juegos Paralímpicos de Invierno 2026.",
+            "participation": "Information not publicly available",
+            "achievements": "Tercer lugar en la clasificación general de la Copa del Mundo de Para-Langlauf.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Terminó tercero en la clasificación general de la Copa del Mundo de Para-Langlauf, lo que indica un rendimiento y mejora consistentes.",
+            "preparation_style": "Enfatiza la importancia del rendimiento consistente en su régimen de entrenamiento.",
+            "personal_contextual_info": "Ha estado compitiendo en la Copa del Mundo durante solo dos años."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/egger-riedmueller-stefan/58605)",
+        "[Noticias de Ski Austria](https://www.skiaustria.at/de/news/egger-riedmüller-dritter-im-gesamtweltcup-der-para-langlaeufer)",
+        "[Wikipedia - Participantes de los Juegos Paralímpicos de Invierno 2026](https://de.wikipedia.org/wiki/Winter-Paralympics_2026/Teilnehmer_(Österreich)"
+    ]
+}

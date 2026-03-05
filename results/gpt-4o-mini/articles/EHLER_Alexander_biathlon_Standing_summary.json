@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Alexander Ehler",
+    "date_of_birth": "1969-06-26",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 12,
+    "world_cup_points": 399,
+    "country": "GER",
+    "category": "Standing",
+    "paralympic_category_lw": "LW4",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de bronce en el relevo mixto de esquí de fondo 4x2.5 km en los Juegos Paralímpicos 2018; 5º lugar en biatlón 7.5 km.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos desde 2018.",
+            "participation": "Esquí de fondo",
+            "achievements": "Medalla de bronce en el relevo mixto de esquí de fondo 4x2.5 km en los Juegos Paralímpicos 2018.",
+            "guide": "Information not publicly available",
+            "performance_trends": "5º lugar en biatlón 7.5 km; 4º lugar en biatlón 12.5 km; 2º lugar en biatlón 15 km.",
+            "preparation_style": "Enfoque calmado hacia las competiciones, confiando en el apoyo de su equipo.",
+            "personal_contextual_info": "Comenzó su carrera deportiva a los nueve años; tiene dos hijas que son esgrimistas exitosas."
+        }
+    ],
+    "personal_data": "Ehler sufrió un accidente de motocicleta que resultó en una diferencia de longitud de pierna de 9 cm.",
+    "reference_urls": [
+        "[Perfil](https://nordski.de/sportlerprofil/alexander-ehler.html)",
+        "[Perfil del Atleta](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/60729)",
+        "[Detalles](https://www.teamdeutschland-paralympics.de/athletinnen/details/alexander-ehler)",
+        "[Artículo sobre Ehler](https://www.tagesspiegel.de/sport/aus-der-isolation-in-die-loipe-8018713.html)",
+        "[Artículo sobre Ehler](https://www.faz.net/aktuell/sport/wintersport/paralympics-langlaeufer-alexander-ehler-erfuellt-sich-kindheitstraum-15489902.html)",
+        "[Resultados del Sprint de Biatlón](https://www.sportschau.de/wintersport/para/alexander-ehler-beim-biathlon-sprint-in-den-top-ten-100.html)"
+    ]
+}

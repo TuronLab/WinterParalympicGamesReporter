@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Linn Kazmaier",
+    "date_of_birth": "2006-11-05",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 1,
+    "world_cup_points": 623,
+    "country": "GER",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de Oro: 10 km Libre, Medalla de Plata: 15 km Clásico, Medalla de Bronce: 1.5 km Sprint en las Paralimpiadas de Invierno de Beijing 2022; Medallas de Oro: 18 km Individual, 10 km Estilo Libre, Relevo Abierto 4x2.5 km en los Campeonatos Mundiales 2023.",
+            "paralympic_participation": "Participó en las Paralimpiadas de Invierno de Beijing 2022 donde ganó varias medallas.",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Florian Baumann",
+            "performance_trends": "Demostró progresión en la clasificación de medallas con consistencia en el rendimiento en competiciones internacionales.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Kazmaier tiene un diagnóstico de Zapfendystrophie y reside en Oberlenningen/Freiburg."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Plata: 6 km Discapacidad Visual, Medalla de Plata: 12.5 km Discapacidad Visual en las Paralimpiadas de Invierno de Beijing 2022.",
+            "paralympic_participation": "Participó en las Paralimpiadas de Invierno de Beijing 2022.",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Medalla de Oro: 12.5 km Individual, Medalla de Plata: 7.5 km Sprint en los Campeonatos Mundiales 2023.",
+            "guide": "Florian Baumann",
+            "performance_trends": "Información no disponible públicamente.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Kazmaier tiene un diagnóstico de Zapfendystrophie y reside en Oberlenningen/Freiburg."
+        }
+    ],
+    "personal_data": "Kazmaier está dedicando sus esfuerzos al esquí de fondo y al biatlón, a la par de sus estudios.",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Linn_Kazmaier",
+        "https://www.paralympic.org/linn-kazmaier",
+        "https://www.biathlonworld.com/athlete/kazmaier-linn/50185",
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291501&type=result"
+    ]
+}

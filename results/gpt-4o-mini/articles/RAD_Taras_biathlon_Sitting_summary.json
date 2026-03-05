@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Taras Rad",
+    "date_of_birth": "1999-11-20",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 3,
+    "world_cup_points": 570,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de oro en los 12.5 km en silla de ruedas masculino en PyeongChang 2018. Medalla de plata en el Sprint en silla de ruedas masculino en Beijing 2022. Medallas de bronce en los 6 km en silla de ruedas masculino y en los 10 km en silla de ruedas masculino en Beijing 2022. Múltiples medallas en los Campeonatos Mundiales de Esquí Nórdico Para 2017, incluyendo tres medallas de plata.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de PyeongChang 2018 y Beijing 2022.",
+            "participation": "Esquí de fondo, natación, fútbol y atletismo antes de la amputación.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Fuerte debut en los Juegos Paralímpicos de Invierno de 2018 con una medalla de oro. Éxito continuo en los Juegos Paralímpicos de Invierno de 2022.",
+            "preparation_style": "12 sesiones de entrenamiento por semana en nieve, natación tres veces por semana, ciclismo a la escuela.",
+            "personal_contextual_info": "Nacido el 20 de noviembre de 1999 en Ucrania. Introducido al deporte a través de la organización Invasport."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Paralympic.org - Perfil de Taras Rad](https://www.paralympic.org/taras-rad)",
+        "[Wikipedia - Taras Rad](https://en.m.wikipedia.org/wiki/Taras_Rad)",
+        "[IPC News - El amor duradero por el deporte impulsa el éxito de Taras Rad en la Copa del Mundo](https://www.paralympic.org/news/enduring-love-sport-fuels-taras-rad-s-world-cup-success)"
+    ]
+}

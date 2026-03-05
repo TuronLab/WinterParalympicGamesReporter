@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Carina Edlingerová",
+    "date_of_birth": "1998-08-13",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 2,
+    "world_cup_points": 660,
+    "country": "CZE",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Oro en los Campeonatos Mundiales de 2025 en Pokljuka (3 medallas) y Bronce en las Pruebas Paralímpicas de 2026 en Val di Fiemme. Medalla de oro en la carrera de 1.5 km y bronce en los 10 km libres en los Juegos Paralímpicos de Invierno de 2022.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de 2018 y 2022.",
+            "participation": "Esquí de fondo previamente.",
+            "achievements": "6 títulos en esquí nórdico y ganadora geral de la Copa del Mundo en 2016/2017 y 2017/2018.",
+            "guide": "Julian Edlinger hasta 2025, actualmente Petra Hynčicová.",
+            "performance_trends": "Progresión significativa de rendimiento, logrando resultados destacados poco después de cambiar de deporte.",
+            "preparation_style": "Entrenamiento regular con el equipo checo de biatlón centrado en esquí y tiro.",
+            "personal_contextual_info": "Sufre de la enfermedad de Stargardt, que causa pérdida de visión progresiva y cambió de representación a Chequia debido a desacuerdos con la Asociación de Esquí de Austria."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Carina_Edlinger",
+        "https://www.biathlonworld.com/athlete/edlingerova-carina/29128",
+        "https://www.biathlonworld.com/news/carina-edlingerova-czech-para-biathlon-medal-hope/WwvTtVAXcgd4EB9TtQbQ9",
+        "https://www.biatlon.cz/2025/12/17/cesky-biatlon-posilila-paralympijska-vitezka-kdo-je-carina-edlingerova/",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/27617"
+    ]
+}

@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Błażej Bieńko",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 4,
+    "world_cup_points": 621,
+    "country": "POL",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "6° Lugar en la carrera de persecución en los Campeonatos Mundiales en Canadá, 2024; 5° Lugar en dos eventos en Notschrei, Alemania, durante la temporada 2025/2026.",
+            "paralympic_participation": "Milano Cortina 2026 Winter Paralympics (próximamente); ha participado en competencias internacionales para atletas con discapacidad visual.",
+            "participation": "Participó en karate y fútbol durante su infancia antes de hacer la transición completa al biatlón.",
+            "achievements": "Information not publicly available",
+            "guide": "Michał Lańda, quien asiste en la navegación durante las carreras y ayuda a mantener el ritmo de carrera.",
+            "performance_trends": "Błażej ha mostrado una mejora constante, logrando posiciones en el top diez de diversas competencias internacionales.",
+            "preparation_style": "Enfoca su entrenamiento en la combinación de habilidades de carrera sólidas con tiro preciso, incluyendo ajustes en técnicas de carrera y práctica enfocada de tiro.",
+            "personal_contextual_info": "La evolución de Błażej de otros deportes al biatlón demuestra una notable adaptabilidad y compromiso para desarrollar habilidades adecuadas para los deportes de invierno."
+        }
+    ],
+    "personal_data": "Información no pública disponible",
+    "reference_urls": [
+        "https://www.sport.de/wintersport/para-biathlon/co8929/weltmeisterschaft/ma9557188/ergebnisse/",
+        "https://www.sportschau.de/live-und-ergebnisse/parasport/biathlon/co8896/vuokatti/ma9541941/ergebnisse",
+        "https://biathlonunion.kz/en/calendar/2425/PB2425SWRLCH__/PB2425SWRLCH__VMIN",
+        "https://www.biathlonworld.com/athlete/bienko-blazej/50621"
+    ]
+}

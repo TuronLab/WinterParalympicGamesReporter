@@ -1,0 +1,38 @@
+﻿{
+    "name_of_the_athlete": "ZAINO Nicole",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 14,
+    "world_cup_points": 69,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí Nórdico para Personas con Discapacidad",
+            "major_achievements": "Compitiendo en esquí nórdico para personas con discapacidad (Biatlón y Esquí de Fondo) en los Juegos Paralímpicos de Invierno de 2026 en Italia.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno de 2026: Compitiendo en esquí nórdico para personas con discapacidad (Biatlón y Esquí de Fondo).",
+            "participation": "Compitiendo en esquí de fondo como parte del esquí nórdico para personas con discapacidad.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Las tendencias de rendimiento específicas y las mejoras a lo largo del tiempo no están disponibles públicamente.",
+            "preparation_style": "Nicole emplea un enfoque científico en su entrenamiento, aprovechando su formación en ingeniería mecánica para mejorar su rendimiento.",
+            "personal_contextual_info": "Nicole sufrió un derrame cerebral a la edad de 8 años, lo que resultó en parálisis parcial en un lado de su cuerpo. Tiene un doctorado en ingeniería mecánica."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Fuente: Team USA](https://www.teamusa.com/profiles/nicole-zaino)",
+        "[Fuente: NBC Olympics](https://www.nbcolympics.com/news/usopc-names-full-2026-milan-cortina-paralympics-roster)",
+        "[Fuente: Team USA](https://www.teamusa.com/profiles/nicole-zaino)",
+        "[Fuente: US Para Nordic](https://www.usparanordic.org/news/2023/october/20/with-phd-in-hand-nicole-zaino-uses-a-scientific-approach-as-she-climbs-the-ranks-in-sit-skiing)",
+        "[Fuente: Courant](https://www.courant.com/2026/03/03/a-ct-native-had-a-stroke-at-age-8-that-brought-paralysis-now-shes-going-to-ski-in-the-paralympics/)",
+        "[Fuente: UW CREATE](https://create.uw.edu/education/student-membership/transformational-thinking-interdisciplinary-research/)",
+        "[Perfil de Team USA](https://www.teamusa.com/profiles/nicole-zaino)",
+        "[Noticias de US Para Nordic](https://www.usparanordic.org/news/2023/october/20/with-phd-in-hand-nicole-zaino-uses-a-scientific-approach-as-she-climbs-the-ranks-in-sit-skiing)",
+        "[NBC Olympics](https://www.nbcolympics.com/news/usopc-names-full-2026-milan-cortina-paralympics-roster)",
+        "[Artículo de Courant](https://www.courant.com/2026/03/03/a-ct-native-had-a-stroke-at-age-8-that-brought-paralysis-now-shes-going-to-ski-in-the-paralympics/)",
+        "[UW CREATE](https://create.uw.edu/education/student-membership/transformational-thinking-interdisciplinary-research/)"
+    ]
+}

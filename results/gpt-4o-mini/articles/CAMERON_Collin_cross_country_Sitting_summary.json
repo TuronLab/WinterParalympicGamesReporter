@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Collin Cameron",
+    "date_of_birth": "1988-03-31",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 17,
+    "world_cup_points": 290,
+    "country": "CAN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "3er lugar (15 km), 3er lugar (sprint), 3er lugar (relevo mixto), 4to lugar (10 km) en los Juegos Paralímpicos de 2022; 3er lugar (biatlón 7.5 km), 3er lugar (biatlón 15 km), 3er lugar (relevo de esquí de fondo), 4to lugar (sprint), 5to lugar (15 km) en los Juegos Paralímpicos de 2018; Medalla de oro (sprint) y 2 medallas de plata en los Campeonatos Mundiales de Esquí Nórdico para Personas con Discapacidad 2019.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de 2018, 2022 y confirmada para 2026.",
+            "participation": "Hockey sobre hielo para personas con discapacidad.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Finalizaciones consistentes en el podio en eventos importantes, logrando tres medallas de bronce en los Juegos Paralímpicos de 2018 y 2022; cinco resultados en el podio en siete participaciones durante la temporada competitiva de 2020.",
+            "preparation_style": "Entrena bajo la guía del entrenador Brian McKeever y el técnico de cera Ian Daffern.",
+            "personal_contextual_info": "Nacido en Barrie, Ontario, y originario de Bracebridge, Ontario. Tiene una condición conocida como artrogriposis, que afecta sus extremidades inferiores y el desarrollo muscular."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Collin Cameron - Comité Paralímpico Canadiense](https://paralympic.ca/athlete/collin-cameron/)",
+        "[Collin Cameron - Nordiq Canada](https://nordiqcanada.ca/athlete/collin-cameron/)",
+        "[Collin Cameron - Comité Paralímpico Internacional](https://www.paralympic.org/collin-cameron)",
+        "[Collin Cameron - Wikipedia](https://en.wikipedia.org/wiki/Collin_Cameron)",
+        "[La inversión en el esquiador Cameron trajo un retorno sin riesgo - The Toronto Observer](https://www.torontoobserver.ca)"
+    ]
+}

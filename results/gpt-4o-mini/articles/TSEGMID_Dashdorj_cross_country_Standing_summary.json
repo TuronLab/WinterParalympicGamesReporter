@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Tsegmid Dashdorj",
+    "date_of_birth": "2001-03-19",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 36,
+    "world_cup_points": 164,
+    "country": "MGL",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participó en los Campeonatos Mundiales de Esquí Nórdico Para 2019 y en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Sochi 2014, Pyeongchang 2018 y Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en competiciones internacionales, con resultados variables.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "La participación en tres Juegos Paralímpicos consecutivos subraya su dedicación y resiliencia."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil de Dashdorj Tsegmid](https://www.paralympic.org/dashdorj-tsegmid)",
+        "[Resultados de Esquí de Fondo](https://www.fis-ski.com/DB/general/results.html?sectorcode=CC&raceid=51346)",
+        "[Resultados IPC](https://www.paralympic.org/)"
+    ]
+}

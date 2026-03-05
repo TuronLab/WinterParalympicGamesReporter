@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Ty Wiberg",
+    "date_of_birth": "2001-11-27",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 46,
+    "world_cup_points": 102,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Compitió en múltiples Copas del Mundo y Copas Continentales desde 2018. Seleccionado para el equipo de desarrollo de esquí nórdico de los EE. UU. Paralímpicos. Aspirando a clasificar para los Juegos Paralímpicos de Invierno de 2026.",
+            "paralympic_participation": "Actualmente aspira a clasificar para los Juegos Paralímpicos de Invierno de 2026 en Milano Cortina.",
+            "participation": "Compitió en biatlón paralímpico, esquí alpino, carreras en silla de ruedas y posee un cinturón negro en karate.",
+            "achievements": "21° lugar en el sprint de biatlón de 7.5 kilómetros en la categoría masculina en la Copa del Mundo en enero de 2025.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ha mostrado una participación constante en eventos de la Copa del Mundo, lo que indica un compromiso con su deporte.",
+            "preparation_style": "Entrena seis días a la semana, alternando entre esquí de fondo y biatlón. Su régimen de entrenamiento incluye entrenamiento de intervalos y esquí de larga distancia los fines de semana, y sesiones de entrenamiento de fuerza dos veces a la semana.",
+            "personal_contextual_info": "Ciudad natal: Chippewa Falls, Wisconsin. Educación: Actualmente es estudiante de tercer año en la Universidad Estatal de Montana, especializándose en Salud Comunitaria. Promueve activamente la concienciación sobre los parasportes y la accesibilidad para personas con discapacidades."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291403)",
+        "[Midwest Adaptive Nordic](https://midwestadaptivenordic.org/about/ty-wiberg/)",
+        "[Esquí Nórdico de EE. UU. Paralímpicos](https://www.usparanordic.org/news/2025/august/07/a-big-2026-for-ty-wiberg-would-be-even-sweeter-with-a-trip-to-milano-cortina-mixed-in)",
+        "[Equipo EE. UU.](https://www.teamusa.com/news/2023/march/17/meet-ty-wiberg-an-up-and-comer-on-team-usas-para-nordic-ski-development-team)",
+        "[Centro Deportivo Crosscut Mountain](https://www.crosscutmt.org/crosscut-news/ty-wiberg)"
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Hryhorii Shymko",
+    "date_of_birth": "1996-01-09",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 19,
+    "world_cup_points": 288,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "No ha asegurado títulos importantes ni podios.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Biatlón",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo, sin podios reportados.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Hryhorii Shymko tiene actualmente 30 años y sigue siendo un competidor activo en los deportes de invierno."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=292043)",
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/shymko-hryhorii/59538)"
+    ]
+}

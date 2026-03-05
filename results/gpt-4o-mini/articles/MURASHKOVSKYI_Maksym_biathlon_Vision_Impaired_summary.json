@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "MURASHKOVSKYI Maksym",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 12,
+    "world_cup_points": 275,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Participó y logró finales en el podio en los Campeonatos Mundiales de Esquí Nórdico Para. Competidor en los eventos de biatlón de los Juegos Paralímpicos de 2026.",
+            "paralympic_participation": "Compitiendo activamente en biatlón después de una exitosa clasificación para los Juegos Paralímpicos de Invierno 2024, programados para marzo de 2026.",
+            "participation": "No hay datos verificados que indiquen participación en deportes fuera del biatlón.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mantuvo un rendimiento constante a lo largo de la temporada, terminando frecuentemente dentro de las mejores posiciones.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "La información personal básica y los datos biográficos siguen siendo limitados y no se divulgan públicamente."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.nordicmag.info/en/para-biathlon-all-the-final-overall-rankings-for-the-2024-2025-world-cup-0311/",
+        "https://www.teamdeutschland-paralympics.de/news/details/para-biathlon-vier-kristallkugeln-fuer-deutschland"
+    ]
+}

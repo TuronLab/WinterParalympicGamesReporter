@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Yuriy Berezin",
+    "date_of_birth": "1984-02-05",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 35,
+    "world_cup_points": 166,
+    "country": "KAZ",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Logros mayores específicos no disponibles públicamente.",
+            "paralympic_participation": "Información no disponible públicamente.",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Los datos de rendimiento indican una participación constante en varias listas de puntos FIS, con clasificaciones que fluctúan pero que generalmente se mantienen dentro del rango competitivo para su clase.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[Perfil de Paralympic.org](https://www.paralympic.org/yuriy-berezin)",
+        "[Perfil de FIS Cross-Country](https://www.fis-ski.com/cross-country)",
+        "[Perfil de Paralympic.org](https://www.paralympic.org/yuriy-berezin)",
+        "[Perfil de FIS Cross-Country](https://www.fis-ski.com/cross-country)"
+    ]
+}

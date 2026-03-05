@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "GUO Yujie",
+    "date_of_birth": "2004-03-16",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 21,
+    "world_cup_points": 194,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Cross-Country Skiing",
+            "major_achievements": "Competed in multiple World Cup events and World Championships.",
+            "paralympic_participation": "Active participant in the 2026 Winter Paralympics.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not applicable",
+            "performance_trends": "Consistent participation in World Cup events with placements ranging from 7th to 13th.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Born on March 16, 2004, in Hebei, China. Currently 21 years old and actively competing."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291037)",
+        "[Perfil Paralímpico](https://www.paralympic.org/yujie-guo)",
+        "[Perfil Olímpico](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/72065)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291037)",
+        "[Perfil Paralímpico](https://www.paralympic.org/yujie-guo)",
+        "[Perfil Olímpico](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/72065)"
+    ]
+}

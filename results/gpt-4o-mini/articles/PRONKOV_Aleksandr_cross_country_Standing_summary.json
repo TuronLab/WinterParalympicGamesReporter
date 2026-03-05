@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Aleksandr Pronkov",
+    "date_of_birth": "1997-05-29",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 32,
+    "world_cup_points": 204,
+    "country": "RUS",
+    "category": "Standing",
+    "paralympic_category_lw": "LW5/7",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de oro en 10 km de pie masculino en los Juegos Paralímpicos de Invierno 2014, Medalla de plata en Sprint de pie masculino en los Campeonatos Mundiales de Para Deportes de Nieve 2021 en Lillehammer, Medalla de bronce en Media Distancia - Clásico de pie masculino en los Campeonatos Mundiales de Para Deportes de Nieve 2021 en Lillehammer.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno 2014.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Consistentes finales en el podio en Campeonatos Mundiales y Copas del Mundo, destacándose particularmente en eventos de sprint y media distancia.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=290147)",
+        "[Perfil Paralímpico](https://www.paralympic.org/aleksandr-pronkov)",
+        "[Wikipedia](https://en.wikipedia.org/wiki/Aleksandr_Pronkov)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=290147)",
+        "[Perfil Paralímpico](https://www.paralympic.org/aleksandr-pronkov)",
+        "[Wikipedia](https://en.wikipedia.org/wiki/Aleksandr_Pronkov)"
+    ]
+}

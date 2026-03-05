@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Natalie Wilkie",
+    "date_of_birth": "2001-01-21",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 10,
+    "world_cup_points": 402,
+    "country": "CAN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Oro: 7.5 km Clásico Femenino de Pie, Plata: Relevo Mixto 4x2.5 km, Bronce: 1.5 km Sprint Clásico Femenino de Pie en los Juegos Paralímpicos de PyeongChang 2018; Oro: 10 km Libre Femenino de Pie, Plata: Medio Distancia Libre Femenino de Pie, Bronce: Relevo Mixto 4x2.5 km en los Juegos Paralímpicos de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de PyeongChang 2018 y Beijing 2022.",
+            "participation": "Compite en esquí de fondo para personas sin discapacidad a nivel nacional en Canadá.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Emergió como una competidora de élite en los Juegos Paralímpicos de 2018, ganando tres medallas y manteniendo una fuerte presencia en el podio en campeonatos posteriores.",
+            "preparation_style": "Wilkie reanudó su entrenamiento poco después de su grave accidente en 2016, demostrando una notable resiliencia y dedicación a su deporte.",
+            "personal_contextual_info": "Nació el 21 de enero de 2001 en Salmon Arm, Columbia Británica, Canadá. Perdió cuatro dedos en un accidente de carpintería en 2016, lo que la llevó a esquiar en la categoría paralímpica."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Natalie Wilkie](https://en.wikipedia.org/wiki/Natalie_Wilkie)",
+        "[Paralympic.org - Natalie Wilkie](https://www.paralympic.org/natalie-wilkie)",
+        "[Comité Paralímpico Canadiense - Natalie Wilkie](https://paralympic.ca/athlete/natalie-wilkie/)",
+        "[Lakeland Today - Natalie Wilkie](https://www.lakelandtoday.ca/alberta-2022-beijing-winter-olympics/skier-natalie-wilkie-stands-out-at-paralympics-again-with-four-medals-5166771)",
+        "[We Are Girls in Sport - Juegos Paralímpicos de Invierno](https://www.wearegirlsinsport.com/blog/winterparalympics)"
+    ]
+}

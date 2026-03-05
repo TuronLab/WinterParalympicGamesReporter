@@ -1,0 +1,35 @@
+﻿{
+    "name_of_the_athlete": "Karl Tabouret",
+    "date_of_birth": "2003-05-03",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 3,
+    "world_cup_points": 636,
+    "country": "FRA",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro en Sprint Clásico y Medalla de Plata en 10km Clásico en los Campeonatos Mundiales 2025, Medalla de Oro en los Juegos Europeos Juveniles Paralímpicos 2020.",
+            "paralympic_participation": "Seleccionado para los Juegos Paralímpicos de Milán-Cortina 2026.",
+            "participation": "Compite en Esquí de Fondo Para.",
+            "achievements": "Medalla de Oro en Sprint Clásico y 5km Libre en Beitostoelen (2024).",
+            "guide": "Information not publicly available",
+            "performance_trends": "1º en Sprint Clásico y 1º en 5km Libre en Beitostoelen, Noruega en 2024.",
+            "preparation_style": "Entrenamiento guiado por Vincent Duchene y Anaïs Bescond, enfocado en esquí nórdico y biatlón.",
+            "personal_contextual_info": "Comenzó a esquiar en estilo nórdico para a los 8 años y fue reconocido por el equipo francés de Handisport a los 17 años."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/tabouret-karl/44394)",
+        "[Equipo de Francia - Karl Tabouret](https://www.equipedefrance.com/athlete/karl-tabouret)",
+        "[Comité Paralímpico y Deportivo Francés - Karl Tabouret](https://france-paralympique.fr/paralympiens/karl-tabouret/)",
+        "[Bleus Handisport - Karl Tabouret](https://www.bleushandisport.com/bleus/tabouret/)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/tabouret-karl/44394)",
+        "[Equipo de Francia - Karl Tabouret](https://www.equipedefrance.com/athlete/karl-tabouret)",
+        "[Comité Paralímpico y Deportivo Francés - Karl Tabouret](https://france-paralympique.fr/paralympiens/karl-tabouret/)",
+        "[Bleus Handisport - Karl Tabouret](https://www.bleushandisport.com/bleus/tabouret/)"
+    ]
+}

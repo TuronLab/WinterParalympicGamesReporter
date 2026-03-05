@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "KOVALEVSKYI Anatolii",
+    "date_of_birth": "1990-06-29",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 13,
+    "world_cup_points": 322,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de bronce en las Paralimpiadas de Invierno 2018 (7.5 km Masculino Discapacitados Visuales). Medalla de oro en el Sprint de Biatlón 7.5 km Masculino Discapacitados Visuales (Campeonatos Mundiales IPC 2017). Medalla de plata en la Distancia Corto Masculina DV en los Campeonatos Mundiales de Esquí Nórdico IPC 2015.",
+            "paralympic_participation": "Participación en las Paralimpiadas de Invierno 2014, 2018 y 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de oro en el Sprint de Biatlón Masculino de 7.5 km para Discapacitados Visuales en los Campeonatos Mundiales IPC 2017.",
+            "guide": "KOVALEVSKYI ha utilizado guías durante la competición debido a su discapacidad visual.",
+            "performance_trends": "Transición de finales en 6º lugar en 2014 a múltiples finales en el podio para 2022, mostrando una mejora significativa.",
+            "preparation_style": "Entrenado por su padre, Ganna Glukhykh, centrándose en regímenes de entrenamiento personalizados.",
+            "personal_contextual_info": "Inició su carrera paralímpica en esquí nórdico en 2009."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de oro en el Sprint de Biatlón Masculino de 7.5 km para Discapacitados Visuales en los Campeonatos Mundiales IPC 2017.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Esquí de Fondo",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Anatolii_Kovalevskyi",
+        "https://www.paralympic.org/anatolii-kovalevskyi",
+        "https://www.biathlonworld.com/athlete/kovalevskyi-anatolii/14226"
+    ]
+}

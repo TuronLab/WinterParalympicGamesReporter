@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Ivan Golubkov",
+    "date_of_birth": "1995-12-04",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 22,
+    "world_cup_points": 270,
+    "country": "RUS",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Seis veces Campeón del Mundo en Esquí de Fondo y Biatlón. Campeón de la Copa del Mundo a los 18 años. Ganador del Globo de Cristal General a los 20 años.",
+            "paralympic_participation": "Milano Cortina 2026: Programado para competir en esquí de fondo (debut).",
+            "participation": "Biatlón: Compite junto al esquí de fondo.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Golubkov ha exhibido una tendencia ascendente constante en su rendimiento, destacada por múltiples victorias en medallas de oro en competiciones importantes.",
+            "preparation_style": "Golubkov enfatiza el entrenamiento en casa como un componente crucial de su preparación.",
+            "personal_contextual_info": "Ivan Golubkov es originario de Inta en la República de Komi, Rusia, y representa a la Academia de Esquí de Fondo y Biatlón de Moscú."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289938&type=fispoints)",
+        "[Perfil Paralímpico](https://www.paralympic.org/ivan-golubkov)",
+        "[Artículo sobre los Logros de Golubkov](https://www.paralympic.org/feature/ivan-golubkov-proves-home-training-can-make-champion)",
+        "[Resultados de Lillehammer 2021](https://www.paralympic.org/ivan-golubkov)"
+    ]
+}

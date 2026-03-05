@@ -1,0 +1,44 @@
+﻿{
+    "name_of_the_athlete": "Daniele Stefanoni",
+    "date_of_birth": "1966-08-28",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 41,
+    "world_cup_points": 114,
+    "country": "ITA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW4",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Invierno de 2006 en Torino, Italia.",
+            "paralympic_participation": "2006 Juegos Paralímpicos de Invierno (Esquí de Fondo)",
+            "participation": "Remo",
+            "achievements": "Compitió en los dobles sculls mixtos de tronco y brazos (TAMix2x) en los Campeonatos Mundiales de Remo y terminó en cuarto lugar en los Juegos Paralímpicos de 2008.",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Las actuaciones recientes indican una presencia competitiva en eventos de la Copa del Mundo, con posiciones generalmente dentro del top 15-30.",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        },
+        {
+            "sport_name": "Remo",
+            "major_achievements": "Terminó en cuarto lugar en los Juegos Paralímpicos de 2008.",
+            "paralympic_participation": "2008 Juegos Paralímpicos de Verano (Remo), 2012 Juegos Paralímpicos de Verano (Remo)",
+            "participation": "Esquí de Fondo",
+            "achievements": "Compitió en los dobles sculls mixtos de tronco y brazos (TAMix2x) en los Campeonatos Mundiales de Remo.",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Información no disponible públicamente",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        }
+    ],
+    "personal_data": "Información no disponible públicamente",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=289477)",
+        "[IPC](https://www.paralympic.org/daniele-stefanoni)",
+        "[World Rowing](https://worldrowing.com/2011/12/13/athletes-in-poznan-stefania-toscano-and-daniele-stefanoni/)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=289477)",
+        "[IPC](https://www.paralympic.org/daniele-stefanoni)",
+        "[World Rowing](https://worldrowing.com/2011/12/13/athletes-in-poznan-stefania-toscano-and-daniele-stefanoni/)"
+    ]
+}

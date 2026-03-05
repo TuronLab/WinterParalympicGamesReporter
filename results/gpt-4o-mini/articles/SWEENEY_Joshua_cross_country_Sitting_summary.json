@@ -1,0 +1,55 @@
+﻿{
+    "name_of_the_athlete": "Joshua Sweeney",
+    "date_of_birth": "1987-06-06",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 4,
+    "world_cup_points": 704,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Beijing 2022, terminando en 16º lugar en el evento de 18 km en silla de ruedas.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Transición del hockey sobre hielo para atletas con discapacidad al esquí nórdico para atletas con discapacidad.",
+            "preparation_style": "Enfocado en mejorar la técnica de esquí para mejorar el rendimiento en biatlón y esquí de fondo.",
+            "personal_contextual_info": "Ex Marine de EE. UU. que se trasladó a los deportes adaptativos tras sus lesiones en combate."
+        },
+        {
+            "sport_name": "Hockey sobre Hielo para Atletas con Discapacidad",
+            "major_achievements": "Medallista de oro en los Juegos Paralímpicos de Sochi 2014.",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Sochi 2014.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Actualmente reside en Nampa, Idaho.",
+    "reference_urls": [
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Wikipedia - Joshua Sweeney](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Fuente: Wikipedia](https://en.wikipedia.org/wiki/Joshua_Sweeney)",
+        "[Wikipedia - Joshua Sweeney](https://en.wikipedia.org/wiki/Joshua_Sweeney)"
+    ]
+}

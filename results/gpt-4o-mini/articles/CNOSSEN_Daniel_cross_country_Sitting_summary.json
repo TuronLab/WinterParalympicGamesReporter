@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Daniel Cnossen",
+    "date_of_birth": "1980-05-17",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 6,
+    "world_cup_points": 598,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "3er lugar en un evento (final en el podio) durante la temporada 2025/2026.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo con posiciones variables que indican un nivel de rendimiento competitivo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Daniel Cnossen nació el 17 de mayo de 1980 y actualmente está activo en el deporte del esquí de fondo. Su código FIS es 100164."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Biografía del atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289627)",
+        "[Resultados de esquí de fondo para atletas con discapacidad - Finsterau (GER) 2025/2026](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=697)",
+        "[Resultados de esquí de fondo para atletas con discapacidad - Canmore (CAN) 2025/2026](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&raceid=622)",
+        "[Lista de puntos FIS 2025/26](https://www.fis-ski.com/DB/general/fis-points-details.html?sectorcode=PCC&listid=171)",
+        "[Lista de puntos FIS 2025/26](https://www.fis-ski.com/DB/general/fis-points-details.html?sectorcode=PCC&listid=173)"
+    ]
+}

@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Andrea Eskau",
+    "date_of_birth": "1971-03-21",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 6,
+    "world_cup_points": 438,
+    "country": "GER",
+    "category": "Sitting",
+    "paralympic_category_lw": "H4",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Oro - 10 km Biatlón, Oro - 12.5 km Biatlón, Plata - 12 km Sentado, Plata - 1.1 km Sprint Sentado, Plata - 5 km Sentado, Bronce - Relevo Mixto (4x2.5 km) en 2018 PyeongChang; Oro - 6 km Biatlón, Oro - 5 km Esquí de Fondo en 2014 Sochi; Bronce - 10 km Biatlón, Plata - 5 km Esquí de Fondo en 2010 Vancouver.",
+            "paralympic_participation": "Participaciones en los Juegos Paralímpicos de Invierno: 2010, 2014, 2018.",
+            "participation": "Ciclismo adaptado",
+            "achievements": "Oro - Carrera en Ruta H5 (2016 Río de Janeiro), Oro - Contrarreloj (2012 Londres), Oro - Carrera en Ruta (2012 Londres), Oro - Carrera en Ruta (2008 Pekín).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ganadora constante de medallas en múltiples Juegos Paralímpicos, mostrando mejora y dominio en eventos de Biatlón y Esquí de Fondo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Se convirtió en parapléjica debido a un accidente de ciclismo en 1998 y comenzó a competir en 2002."
+        },
+        {
+            "sport_name": "Ciclismo adaptado",
+            "major_achievements": "Oro en Carrera en Ruta y Contrarreloj en los Campeonatos Mundiales de Paraciclismo UCI 2017.",
+            "paralympic_participation": "Participaciones en los Juegos Paralímpicos de Verano: 2008, 2012, 2016, 2020 (nominada), 2024 (nominada).",
+            "participation": "Information not publicly available",
+            "achievements": "Oro - Carrera en Ruta H5 (2016 Río de Janeiro), Oro - Contrarreloj (2012 Londres), Oro - Carrera en Ruta (2012 Londres), Oro - Carrera en Ruta (2008 Pekín).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Paralympic.org - Andrea Eskau](https://www.paralympic.org/andrea-eskau)",
+        "[Wikipedia - Andrea Eskau](https://de.wikipedia.org/wiki/Andrea_Eskau)",
+        "[BBC Sport - Esquí nórdico para personas con discapacidad](https://www.bbc.com/sport/disability-sport/43228088)"
+    ]
+}

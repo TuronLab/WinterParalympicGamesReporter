@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Jesse Bachinsky",
+    "date_of_birth": "1998-05-26",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 12,
+    "world_cup_points": 338,
+    "country": "CAN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de Oro en Sprint y Medallas de Bronce en Media y Larga Distancia en los Juegos de Invierno de Canadá 2019.",
+            "paralympic_participation": "Participación en el evento de prueba de los Juegos Paralímpicos 2024-25, 8.º lugar en 10 km en Italia.",
+            "participation": "Instructor de snowboard y participa en actividades de verano como kayak y paddle surf.",
+            "achievements": "Información no públicamente disponible.",
+            "guide": "Levi Nadlersmith, quien se comunica por radio durante las carreras.",
+            "performance_trends": "Consistente en mantener posiciones entre los 15 mejores en eventos de esquí nórdico para desde 2017.",
+            "preparation_style": "Régimen de entrenamiento estructurado, entrenando con un guía.",
+            "personal_contextual_info": "Nacido sin visión central y diagnosticado con una enfermedad ocular degenerativa que llevó a la ceguera completa a los 15 años."
+        }
+    ],
+    "personal_data": "Inspirado para mentorear a jóvenes con discapacidades visuales, alentándolos a perseguir sus sueños.",
+    "reference_urls": [
+        "https://paralympic.ca/athlete/jesse-bachinsky/",
+        "https://www.paralympic.org/jesse-bachinsky",
+        "https://nordiqcanada.ca/athlete/jesse-bachinsky/",
+        "https://www.cbc.ca/news/canada/thunder-bay/jesse-bachinsky-para-nordic-1.3428918",
+        "https://www.winnipegfreepress.com/special/canadagames/2019/02/28/bachinsky-scores-three-games-medals"
+    ]
+}

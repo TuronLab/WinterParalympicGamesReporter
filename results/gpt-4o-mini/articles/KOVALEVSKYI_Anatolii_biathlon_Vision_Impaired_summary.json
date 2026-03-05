@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Anatolii Kovalevskyi",
+    "date_of_birth": "1990-06-24",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 8,
+    "world_cup_points": 414,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Plata en 15 km Individual Discapacidad Visual en Sochi 2014; Medalla de Bronce en 7.5 km Discapacidad Visual en Pyeongchang 2018.",
+            "paralympic_participation": "Sochi 2014, Pyeongchang 2018, Pekín 2022.",
+            "participation": "Esquí de Fondo.",
+            "achievements": "Medalla de Plata en Relevo Abierto Masculino de 4x2.5 km en Pekín 2022.",
+            "guide": "Oleksandr Mukshyn.",
+            "performance_trends": "Consistente colocación en las primeras posiciones en competiciones desde 2014.",
+            "preparation_style": "Entrenado por su padre, Ganna Glukhykh.",
+            "personal_contextual_info": "Altura: 1.70 m; Peso: 68 kg."
+        },
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de Plata en Relevo Abierto Masculino de 4x2.5 km en Pekín 2022.",
+            "paralympic_participation": "Pekín 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Anatolii_Kovalevskyi",
+        "https://www.biathlonworld.com/athlete/kovalevskyi-anatolii/14226",
+        "https://www.paralympic.org/"
+    ]
+}

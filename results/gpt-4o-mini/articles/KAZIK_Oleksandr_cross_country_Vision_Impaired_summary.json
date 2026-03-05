@@ -1,0 +1,43 @@
+﻿{
+    "name_of_the_athlete": "Oleksandr Kazik",
+    "date_of_birth": "1996-10-22",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 9,
+    "world_cup_points": 360,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "B1",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Plata en Masculino 12.5 km en los Juegos Paralímpicos de Invierno 2018; Oro en Masculino Individual VI en los Juegos Paralímpicos de Invierno 2022; Plata en Masculino Sprint VI en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de 2018 y 2022.",
+            "participation": "Biatlón.",
+            "achievements": "Plata en Masculino 12.5 km en los Juegos Paralímpicos de Invierno 2018; Oro en Masculino 12.5 km en los Juegos Paralímpicos de Invierno 2022; Plata en Masculino 6 km en los Juegos Paralímpicos de Invierno 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mostró una mejora constante, especialmente en los eventos de 12.5 km y sprint.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Plata en Masculino 12.5 km en los Juegos Paralímpicos de Invierno 2018; Oro en Masculino 12.5 km en los Juegos Paralímpicos de Invierno 2022; Plata en Masculino 6 km en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de 2018 y 2022.",
+            "participation": "Esquí de Fondo.",
+            "achievements": "Plata en Masculino 12.5 km en los Juegos Paralímpicos de Invierno 2018; Oro en Masculino 12.5 km en los Juegos Paralímpicos de Invierno 2022; Plata en Masculino 6 km en los Juegos Paralímpicos de Invierno 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Kazik ha tenido un desarrollo notable en sus resultados en biatlón.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Oleksandr_Kazik",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/20435",
+        "https://www.biathlonworld.com/athlete/kazik-oleksandr/24009",
+        "https://www.paralympic.org/oleksandr-kazik",
+        "https://db.ipc-services.org/sdms/web/calendar/ns/athlete/24009"
+    ]
+}

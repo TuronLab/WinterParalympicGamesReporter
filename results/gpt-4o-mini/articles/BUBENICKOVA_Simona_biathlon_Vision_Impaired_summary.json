@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Simona Bubenickova",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 3,
+    "world_cup_points": 385,
+    "country": "CZE",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "1er lugar en la Copa del Mundo en Notschrei, 8 de enero de 2026, para mujeres con discapacidad visual.",
+            "paralympic_participation": "Preparándose para los Juegos Paralímpicos de Invierno de Milán-Cortina 2026.",
+            "participation": "Esquí de Fondo",
+            "achievements": "Information not publicly available",
+            "guide": "David Šrůtek",
+            "performance_trends": "Estadísticas de rendimiento específicas no están disponibles o están pendientes de recolección.",
+            "preparation_style": "Se centra en integrar técnicas de entrenamiento en el rendimiento competitivo, enfatizando la preparación mental y el enfoque en el tiro.",
+            "personal_contextual_info": "A los 17 años, ha demostrado un talento excepcional y resiliencia, superando desafíos significativos debido a su discapacidad visual."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/bubenickova-simona/58584",
+        "https://paralympic.cz/2026/01/fantasticky-debut-simona-bubenickova-ovladla-svuj-prvni-zavod-svetoveho-poharu-v-para-biatlonu/",
+        "https://www.biatlon.cz/2026/01/08/fantasticky-debut-simona-bubenickova-ovladla-svuj-prvni-zavod-svetoveho-poharu-v-para-biatlonu/",
+        "https://rscagitos.gov.cz/sportovci/simona-bubenickova"
+    ]
+}

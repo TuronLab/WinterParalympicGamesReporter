@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Iaroslav Reshetynskyi",
+    "date_of_birth": "1992-09-24",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 6,
+    "world_cup_points": 440,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de bronce en Distancia Larga Masculina DV (2019)",
+            "paralympic_participation": "Participaciones en Juegos Paralímpicos de Sochi 2014, Pyeongchang 2018, Beijing 2022",
+            "participation": "Esquí Nórdico",
+            "achievements": "Compite regularmente en los Campeonatos Mundiales de Esquí Nórdico IPC con múltiples terminaciones en el top",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logrophas reached multiple top 10 finishes and podium finishes in major competitions.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Representa una fuerte presencia competitiva en el campo de las competiciones de para-biathlon."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/reshetynskyi-iaroslav/19082",
+        "https://www.paralympic.org/iaroslav-reshetynskyi",
+        "https://www.the-sports.org/iaroslav-reshetynskyi-biathlon-spf533212.html"
+    ]
+}

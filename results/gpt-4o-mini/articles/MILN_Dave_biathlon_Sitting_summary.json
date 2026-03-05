@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "David Miln",
+    "date_of_birth": "1985-12-06",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 25,
+    "world_cup_points": 168,
+    "country": "AUS",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de plata en biatlón avanzado en los Juegos Invictus 2025. Abanderado de Australia en los Juegos Invictus 2025.",
+            "paralympic_participation": "Seleccionado para competir en biatlón y esquí de fondo en los Juegos Paralímpicos de Invierno 2026.",
+            "participation": "Compite en baloncesto en silla de ruedas para un club en Manly. Compitió en esquí alpino para el equipo de la Marina Británica antes de su accidente.",
+            "achievements": "En los Juegos Invictus 2025, ganó 4 medallas de oro en natación (50m libre, 100m libre, 50m braza, 50m espalda) y una plata en el relevo mixto.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Compitió en eventos internacionales de la FIS desde la temporada 2024/25, indicando una progresión constante en su carrera de biatlón.",
+            "preparation_style": "Enfatiza una mentalidad militar en su entrenamiento, enfocándose en la perseverancia a través de la adversidad.",
+            "personal_contextual_info": "Es un ex Comando de la Marina Real y Oficial de Guerra de Minas y Buceo de Desminado. Su transición a los deportes adaptativos ocurrió tras un accidente de esquí que cambió su vida en 2022."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - David Miln](https://en.wikipedia.org/wiki/David_Miln)",
+        "[Paralympics Australia - Dave Miln](https://www.paralympic.org.au/athlete/dave-miln/)",
+        "[Biathlon Australia - Aussie Biathlete Dave Miln Conquers Invictus](https://www.biathlonaustralia.com.au/news/aussie-biathlete-dave-miln-conquers-invictus)"
+    ]
+}

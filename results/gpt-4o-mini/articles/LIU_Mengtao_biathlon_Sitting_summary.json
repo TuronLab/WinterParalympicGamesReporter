@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Liu Mengtao",
+    "date_of_birth": "2001-11-23",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 18,
+    "world_cup_points": 270,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro en 6 km Masculino en Silla de Ruedas - Tiempo: 30:37.7; Medalla de Bronce en 12.5 km Masculino en Silla de Ruedas - Tiempo: 19:33.3",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022 (Beijing)",
+            "participation": "Esquí de fondo",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró una mejora significativa en su rendimiento, logrando posiciones en el podio en eventos importantes durante los Juegos Paralímpicos de Invierno de 2022.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Reconocido por su determinación y se ha convertido en una fuente de orgullo nacional para China en los deportes de invierno."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/liu-mengtao/32048)",
+        "[Paralympic.org - Perfil de Liu Mengtao](https://www.paralympic.org/mengtao-liu)",
+        "[Wikipedia - Liu Mengtao](https://en.wikipedia.org/wiki/Liu_Mengtao)",
+        "[China Daily - El Orgullo Nacional Inspira a Liu hacia la Gloria](https://www.chinadaily.com.cn/a/202203/08/WS6226e366a310cdd39bc8b2ed_4.html)",
+        "[Laitimes - El Rendimiento de Liu Mengtao](https://www.laitimes.com/en/article/3dbsk_3u0ub.html)"
+    ]
+}

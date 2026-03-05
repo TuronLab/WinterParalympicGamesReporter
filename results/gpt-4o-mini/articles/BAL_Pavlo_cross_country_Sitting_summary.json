@@ -1,0 +1,52 @@
+﻿{
+    "name_of_the_athlete": "Pavlo Bal",
+    "date_of_birth": "1986-06-12",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 3,
+    "world_cup_points": 742,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de oro en los Campeonatos Mundiales de Deportes de Nieve para Personas con Discapacidad 2021 en biatlón (12.5 km).",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2022.",
+            "participation": "Para-biatlón, Para-ciclismo",
+            "achievements": "Medalla de bronce en la carrera en ruta H5 en los Juegos Paralímpicos de 2024 (para-ciclismo).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en listas de puntos de la FIS con clasificaciones que fluctúan entre las posiciones 4 y 6 a lo largo de las temporadas.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Para-biatlón",
+            "major_achievements": "Medalla de oro en los Campeonatos Mundiales de Deportes de Nieve para Personas con Discapacidad 2021 (12.5 km).",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2022.",
+            "participation": "Esquí de fondo, Para-ciclismo",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Para-ciclismo",
+            "major_achievements": "Medalla de bronce en la carrera en ruta H5 en los Juegos Paralímpicos de 2024.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Verano 2024.",
+            "participation": "Esquí de fondo, Para-biatlón",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291361&type=fispoints)",
+        "[Pavlo Bal - Wikipedia](https://en.wikipedia.org/wiki/Pavlo_Bal)",
+        "[Juegos Paralímpicos de Invierno Milano Cortina 2026](https://www.paralympic.org/milano-cortina-2026)"
+    ]
+}

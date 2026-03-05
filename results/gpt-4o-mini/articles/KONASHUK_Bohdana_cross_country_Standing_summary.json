@@ -1,0 +1,47 @@
+﻿{
+    "name_of_the_athlete": "Bohdana Konashuk",
+    "date_of_birth": "1998-03-18",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 6,
+    "world_cup_points": 567,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "3ª en Sprint de Mujeres - Estilo Libre de pie en los Campeonatos Mundiales de Esquí Nórdico Para 2019 en Prince George.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Pyeongchang 2018 y Beijing 2022.",
+            "participation": "Biatlón",
+            "achievements": "10ª en 7.5 km Clásico de Mujeres - de pie en los Juegos Paralímpicos de Invierno (temporada 2021/2022).",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo con finales en el podio en varias categorías.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "10ª en 7.5 km Clásico de Mujeres - de pie en los Juegos Paralímpicos de Invierno (temporada 2021/2022).",
+            "paralympic_participation": "Información no disponible públicamente.",
+            "participation": "Esquí de Fondo",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Información no disponible públicamente.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290690)",
+        "[IPC](https://www.paralympic.org/bohdana-konashuk)",
+        "[IBU](https://www.biathlonworld.com/athlete/konashuk-bohdana/31663?tab=results)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290690)",
+        "[IPC](https://www.paralympic.org/bohdana-konashuk)",
+        "[IBU](https://www.biathlonworld.com/athlete/konashuk-bohdana/31663?tab=results)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=290690)",
+        "[IPC](https://www.paralympic.org/bohdana-konashuk)",
+        "[IBU](https://www.biathlonworld.com/athlete/konashuk-bohdana/31663?tab=results)"
+    ]
+}

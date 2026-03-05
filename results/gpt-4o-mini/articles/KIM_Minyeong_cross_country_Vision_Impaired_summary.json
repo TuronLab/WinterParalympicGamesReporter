@@ -1,0 +1,40 @@
+﻿{
+    "name_of_the_athlete": "KIM Minyeong",
+    "date_of_birth": "1999-11-24",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 18,
+    "world_cup_points": 259,
+    "country": "KOR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo Para",
+            "major_achievements": "Participación en múltiples eventos dentro de su categoría, destacando una posición entre los 10 primeros.",
+            "paralympic_participation": "Participación próxima en los Juegos Paralímpicos de Milano Cortina 2026.",
+            "participation": "Participa también en Biatlón Para.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Variabilidad en resultados, con un notable 10º lugar en la Salida Masiva del 7 de diciembre de 2025.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Biatlón Para",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291700",
+        "https://www.biathlonworld.com/athlete/kim-minyeong/55223"
+    ]
+}

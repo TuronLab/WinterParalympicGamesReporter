@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Oleksandr Aleksyk",
+    "date_of_birth": "2004-07-23",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 22,
+    "world_cup_points": 198,
+    "country": "UKR",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biathlon",
+            "major_achievements": "Competed in the 2022 Paralympic Winter Games with notable placements in multiple events.",
+            "paralympic_participation": "2022 Paralympic Winter Games: 11° lugar en 7.5 km Masculino - Sentado (12/03/2022), 13° lugar en 15 km Masculino - Sentado (11/03/2022), 13° lugar en 12.5 km Masculino - Sentado (08/03/2022), 19° lugar en 7.5 km Masculino - Sentado (05/03/2022)",
+            "participation": "Competes in Para Cross-Country Skiing.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Oleksandr Aleksyk is a young athlete, born in 2004, indicating a promising future in Paralympic sports as he continues to develop his skills and compete at higher levels.",
+    "reference_urls": [
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/aleksyk-oleksandr/44275?tab=overview)",
+        "[The-Sports](https://www.the-sports.org/o-aleksyk-biathlon-spf717455.html)",
+        "[Perfil IPC](https://www.paralympic.org/oleksandr-aleksyk)"
+    ]
+}

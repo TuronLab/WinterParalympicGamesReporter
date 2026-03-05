@@ -1,0 +1,35 @@
+﻿{
+    "name_of_the_athlete": "Erin Martin",
+    "date_of_birth": "1986-07-18",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 11,
+    "world_cup_points": 263,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "Sitting",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "15ª en la Prueba de Media Distancia Femenina en Silla de Ruedas (7.5 km) y 16ª en la Prueba de Sprint Femenina en Silla de Ruedas (1 km) en los Juegos Paralímpicos de Invierno de Beijing 2022; 3er lugar en los Campeonatos Nacionales de Esquí en Silla de Ruedas de EE. UU. (2022)",
+            "paralympic_participation": "Participación en los Juegos Paralímpicos de Invierno de Beijing 2022",
+            "participation": "Biatlón Paralímpico",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Progreso rápido desde que comenzó a competir a principios de 2019, lo que la llevó a calificar para los Juegos Paralímpicos.",
+            "preparation_style": "Enfoque en la recuperación y el crecimiento personal a través de la competencia; involucrada en el desarrollo del esquí nórdico paralímpico en el Noroeste del Pacífico.",
+            "personal_contextual_info": "Nacida en Seattle, trabaja como enfermera registrada en el Hospital Infantil de Seattle."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil de Team USA](https://www.teamusa.com/profiles/erin-martin-1213540)",
+        "[Kiro 7 News](https://www.kiro7.com/sports/olympics/seattle-nurse-para-nordic-skier-erin-martin-earns-spot-2026-winter-paralympics/5QRJIR7S3ZB4TOR7JT22VAKLEU/)",
+        "[Midwest Adaptive Nordic](https://midwestadaptivenordic.org/about/erin-martin/)",
+        "[Comité Paralímpico Internacional](https://www.paralympic.org/erin-martin)",
+        "[Perfil de Team USA](https://www.teamusa.com/profiles/erin-martin-1213540)",
+        "[Kiro 7 News](https://www.kiro7.com/sports/olympics/seattle-nurse-para-nordic-skier-erin-martin-earns-spot-2026-winter-paralympics/5QRJIR7S3ZB4TOR7JT22VAKLEU/)",
+        "[Midwest Adaptive Nordic](https://midwestadaptivenordic.org/about/erin-martin/)",
+        "[Comité Paralímpico Internacional](https://www.paralympic.org/erin-martin)"
+    ]
+}

@@ -1,0 +1,54 @@
+﻿{
+    "name_of_the_athlete": "Aaron Pike",
+    "date_of_birth": "1986-05-04",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 4,
+    "world_cup_points": 565,
+    "country": "USA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Seis veces paralímpico en eventos tanto de verano como de invierno.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2014, 2018 y 2022. Participará en los Juegos Paralímpicos de Invierno 2026.",
+            "participation": "Compitió en carreras en silla de ruedas y esquí de fondo.",
+            "achievements": "Logró resultados significativos en biatlón y esquí de fondo.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Continúa mejorando y compitiendo a altos niveles, con un enfoque en lograr medallas en eventos futuros.",
+            "preparation_style": "Entrenamiento durante todo el año que incluye biatlón y atletismo, con un enfoque en el entrenamiento cruzado.",
+            "personal_contextual_info": "Conocido por su resiliencia y determinación, se comprometió a los deportes adaptativos tras una lesión en la columna vertebral a los 13 años. Está comprometido con la atleta Oksana Masters."
+        },
+        {
+            "sport_name": "Carreras en Silla de Ruedas",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Verano 2012, 2016 y 2020.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Verano 2012, 2016 y 2020.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Logró resultados significativos junto a sus actuaciones en biatlón.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Aaron Pike](https://en.wikipedia.org/wiki/Aaron_Pike_(athlete)",
+        "[Paralympic.org - Perfil de Aaron Pike](https://www.paralympic.org/athletes/aaron-pike)",
+        "[Nordic Mag - El Verano de Aaron Pike](https://www.nordicmag.info/en/para-biathlon-para-cross-country-skiing-american-aaron-pikes-summer-between-the-ski-slopes-and-the-athletics-track-0828/)",
+        "[Team USA - Aaron Pike](https://www.teamusa.com/profiles/aaron-pike)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/pike-aaron/8883)"
+    ]
+}

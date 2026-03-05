@@ -1,0 +1,45 @@
+﻿{
+    "name_of_the_athlete": "Anja Wicker",
+    "date_of_birth": "1991-12-22",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 4,
+    "world_cup_points": 552,
+    "country": "GER",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Cross-Country",
+            "major_achievements": "2025 Campeona Mundial en el Clásico de Salida en Intervalo de 10 km Sentado",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Biatlón Para",
+            "achievements": "2024 Campeonatos Mundiales de Biatlón Para: Medalla de bronce en el Teamsprint (con Andrea Eskau)",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora constante en las competiciones recientes, con un margen de victoria significativo en los Campeonatos Mundiales de 2025.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/para-cross-country/news/2024-25/wicker-mao-and-bubenickova-earn-maiden-titles-in-toblach)",
+        "[FIS](https://www.fis-ski.com/para-cross-country/news/2024-25/wicker-mao-and-bubenickova-earn-maiden-titles-in-toblach)",
+        "[BSSA](https://nordski.de/DBS/BSSA)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289467&type=fispoints)",
+        "[Resultados de los Campeonatos Mundiales FIS](https://www.fis-ski.com/para-cross-country/news/2024-25/wicker-mao-and-bubenickova-earn-maiden-titles-in-toblach)",
+        "[Resultados de Biatlón Para BSSA](https://nordski.de/DBS/BSSA)",
+        "[FIS](https://www.fis-ski.com/para-cross-country/news/2024-25/wicker-mao-and-bubenickova-earn-maiden-titles-in-toblach)",
+        "[BSSA](https://nordski.de/DBS/BSSA)",
+        "[BSSA](https://nordski.de/DBS/BSSA)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289467&type=fispoints)",
+        "[Resultados de los Campeonatos Mundiales FIS](https://www.fis-ski.com/para-cross-country/news/2024-25/wicker-mao-and-bubenickova-earn-maiden-titles-in-toblach)",
+        "[Resultados de Biatlón Para BSSA](https://nordski.de/DBS/BSSA)",
+        "[FIS](https://www.fis-ski.com/para-cross-country/news/2024-25/wicker-mao-and-bubenickova-earn-maiden-titles-in-toblach)",
+        "[BSSA](https://nordski.de/DBS/BSSA)",
+        "[BSSA](https://nordski.de/DBS/BSSA)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=289467&type=fispoints)",
+        "[Resultados de los Campeonatos Mundiales FIS](https://www.fis-ski.com/para-cross-country/news/2024-25/wicker-mao-and-bubenickova-earn-maiden-titles-in-toblach)",
+        "[Resultados de Biatlón Para BSSA](https://nordski.de/DBS/BSSA)"
+    ]
+}

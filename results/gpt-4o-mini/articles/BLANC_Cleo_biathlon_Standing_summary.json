@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Cléo Blanc",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 12,
+    "world_cup_points": 155,
+    "country": "FRA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW9",
+    "sports": [
+        {
+            "sport_name": "Biathlon",
+            "major_achievements": "2024: Campeona de Francia en para biatlón; 2025: Campeona de Francia en para biatlón, todas las categorías combinadas; 2025: Ganadora de la clasificación general de la Copa de Francia; 2025: Ganadora del trofeo de joven potencial.",
+            "paralympic_participation": "Apuntando a la clasificación para los Juegos Paralímpicos de 2030.",
+            "participation": "Esquí de fondo (Ski de Fond)",
+            "achievements": "2025: Vicecampeona de Francia en para esquí de fondo (clásico); 2024: Compitió en los 10 km en la Copa Continental Gålå (patinaje).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró un tiempo de 26'49''2 en el Campeonato de 2024, con un tiempo ajustado de 23'52''1 después de aplicar el coeficiente de handicap.",
+            "preparation_style": "Integrada en el Pôle France ski nordique en el Lycée Reinach, equilibrando compromisos académicos con entrenamiento riguroso.",
+            "personal_contextual_info": "Nacida en Bourg-Saint-Maurice, Savoie; diagnosticada con hemiparesia debido a un accidente cerebrovascular al nacer, afectando el lado izquierdo de su cuerpo."
+        },
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "2025: Vicecampeona de Francia en para esquí de fondo (clásico); 2024: Compitió en los 10 km en la Copa Continental Gålå (patinaje).",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Biathlon",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Cléo comenzó su trayectoria en biatlón y esquí de fondo en 2018 y ha estado compitiendo desde 2020.",
+    "reference_urls": [
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/blanc-cleo/61982)",
+        "[Savoie Nordic](https://www.savoienordic.com/le-portrait-de-cleo-blanc-para-biathlete-fondeuse.html)",
+        "[Socios H+ Sport](https://partenaires-sport-handicap.fr/projet/cleo-blanc/)",
+        "[Savoie News](https://www.savoie-news.fr/reportages/sport-dhiver/article/cleo-blanc-brille-aux-championnats-de-france-un-titre-et-un-podium)"
+    ]
+}

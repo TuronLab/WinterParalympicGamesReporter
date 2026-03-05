@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Sin Eui-hyun",
+    "date_of_birth": "1980-04-01",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 8,
+    "world_cup_points": 419,
+    "country": "KOR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro en Esquí de Fondo Clásico Masculino de 7.5 km en Silla de Ruedas y Medalla de Bronce en Esquí de Fondo Masculino de 20 km en Silla de Ruedas en los Juegos Paralímpicos de Invierno 2018.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "participation": "Esquí de Fondo",
+            "achievements": "Ganó ambas carreras de biatlón en los Campeonatos Nacionales Paralímpicos de EE. UU. 2017 y medalla de bronce en la Copa del Mundo 2016.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Mejora notable que lo llevó a ganar la medalla de oro en 2018.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Su éxito ha servido de inspiración para muchas personas con discapacidades."
+        }
+    ],
+    "personal_data": "Seleccionado como el abanderado de Corea del Sur durante la ceremonia de apertura de los Juegos Paralímpicos de Invierno 2018.",
+    "reference_urls": [
+        "[Wikipedia - Sin Eui-hyun](https://en.wikipedia.org/wiki/Sin_Eui-hyun)",
+        "[Unión Internacional de Biatlón - Perfil del atleta](https://www.biathlonworld.com/athlete/shin-eui-hyun/21269)",
+        "[Daily Joongang - Shin termina el biatlón de media distancia en 11° lugar](https://dailyjoongang.ca/shin-finishes-middle-distance-biathlon-in-11th-place/)",
+        "[Biographs - Biografía de Sin Eui-Hyun](https://biographs.org/sin-eui-hyun)",
+        "[Faster Skier - La esperanza de medalla de Corea del Sur, Eui Hyun Sin se prepara para los Juegos Paralímpicos en casa](https://fasterskier.com/2017/05/south-koreas-medal-hope-eui-hyun-sin-preps-for-2018-home-paralympics/)"
+    ]
+}

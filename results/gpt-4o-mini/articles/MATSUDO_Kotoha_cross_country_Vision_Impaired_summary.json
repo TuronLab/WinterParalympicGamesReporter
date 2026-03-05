@@ -1,0 +1,28 @@
+﻿{
+    "name_of_the_athlete": "Kotoha Matsudo",
+    "date_of_birth": "2001-07-02",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 16,
+    "world_cup_points": 60,
+    "country": "JPN",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Información no disponibles públicamente",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "1er lugar en Salida en Intervalo Femenina, Clasificación de Sprint Femenina y Final de Sprint Femenina en los Campeonatos Nacionales Abiertos (febrero de 2026); 4to lugar en Salida Masiva y 5to lugar en Salida en Intervalo en Eventos de Copa del Mundo (enero de 2026).",
+            "paralympic_participation": "Programada para los Juegos Paralímpicos de Milano Cortina 2026 en eventos como el 10 km Clásico Femenino.",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Logró múltiples podios en campeonatos nacionales y posiciones consistentes en el top 5 en eventos de la Copa del Mundo.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        }
+    ],
+    "personal_data": "Atleta activa basada en Hokkaido.",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292038"
+    ]
+}

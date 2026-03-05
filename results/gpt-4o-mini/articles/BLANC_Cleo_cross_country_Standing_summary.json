@@ -1,0 +1,40 @@
+﻿{
+    "name_of_the_athlete": "Cléo Blanc",
+    "date_of_birth": "2008-01-01",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 17,
+    "world_cup_points": 208,
+    "country": "FRA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW9",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "7º lugar en la carrera individual de patinaje de 6 km en Jakuszyce, Polonia (2026); 7º lugar en la salida masiva de la Copa del Mundo en Szklarska Poreba-Jakuszyce (2026); 10º lugar en la clasificación de sprint en Szklarska Poreba-Jakuszyce (2026).",
+            "paralympic_participation": "Compitiendo en los Juegos Paralímpicos de Milán/Cortina 2026.",
+            "participation": "Compitió en biatlón.",
+            "achievements": "Compitió en eventos de biatlón, incluyendo la Copa del Mundo de Biatlón.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Finalizaciones consistentes en el top 10 en eventos recientes de la Copa del Mundo.",
+            "preparation_style": "Entrena en el Pôle France ski nordique, enfocándose en su desarrollo académico y atlético.",
+            "personal_contextual_info": "Sufrió un derrame cerebral en la infancia, resultando en hemiplegia izquierda."
+        }
+    ],
+    "personal_data": "Cléo Blanc es miembro de la comisión de para-atletas de Francia, abogando por los atletas con discapacidades.",
+    "reference_urls": [
+        "[Fuente: Nordic Mag](https://www.nordicmag.info/en/para-cross-country-skiing-jakuszyce-feclazienne-cleo-blanc-takes-seventh-place-in-the-6-km-individual-skate-race-0129/)",
+        "[Fuente: FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292183&type=result)",
+        "[Fuente: FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292183&type=result)",
+        "[Fuente: Sitio web oficial de Cléo Blanc](https://cleo-blanc.fr/)",
+        "[Fuente: Nordic Mag](https://www.nordicmag.info/en/para-cross-country-skiing-jakuszyce-feclazienne-cleo-blanc-takes-seventh-place-in-the-6-km-individual-skate-race-0129/)",
+        "[Fuente: Nordic Mag](https://www.nordicmag.info/en/para-cross-country-skiing-jakuszyce-feclazienne-cleo-blanc-takes-seventh-place-in-the-6-km-individual-skate-race-0129/)",
+        "[Fuente: Sitio web oficial de Cléo Blanc](https://cleo-blanc.fr/)",
+        "[Fuente: Sitio web oficial de Cléo Blanc](https://cleo-blanc.fr/)",
+        "[Fuente: Sitio web oficial de Cléo Blanc](https://cleo-blanc.fr/)",
+        "[Fuente: Sitio web oficial de Cléo Blanc](https://cleo-blanc.fr/)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292183&type=result)",
+        "[Nordic Mag](https://www.nordicmag.info/en/para-cross-country-skiing-jakuszyce-feclazienne-cleo-blanc-takes-seventh-place-in-the-6-km-individual-skate-race-0129/)",
+        "[Sitio Web Oficial de Cléo Blanc](https://cleo-blanc.fr/)"
+    ]
+}

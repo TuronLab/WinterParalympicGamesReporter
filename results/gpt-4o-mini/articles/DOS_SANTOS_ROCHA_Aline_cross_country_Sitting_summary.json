@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Aline dos Santos Rocha",
+    "date_of_birth": "1991-02-20",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 5,
+    "world_cup_points": 509,
+    "country": "BRA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Medalla de Oro en la carrera de sprint femenino en categoría de sentado en los Campeonatos Mundiales de Esquí Nórdico Para 2023 y Medalla de Bronce en la carrera de media distancia (10 kilómetros) en los Campeonatos Mundiales de Esquí Nórdico Para 2023.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2018, 12° lugar en la prueba de 5 km femenino en categoría de sentado y en los Juegos Paralímpicos de Invierno 2022, 7° lugar en la prueba de larga distancia femenino en categoría de sentado.",
+            "participation": "Compitió en carreras en silla de ruedas en los Juegos Paralímpicos de Verano 2016.",
+            "achievements": "3° lugar en el Maratón de Berlín en 2021.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Progresó del 12° lugar en 2018 al 7° lugar en 2022, logrando una medalla de oro en 2023.",
+            "preparation_style": "Entrena principalmente en un 'caverboard' para imitar los movimientos del esquí, participa en sesiones de entrenamiento en Ushuaia, Argentina, y ha asistido a campamentos de entrenamiento en Suecia y Alemania.",
+            "personal_contextual_info": "Nacida el 20 de febrero de 1991, reside en São Carlos, Brasil. Está casada y su esposo actúa como su entrenador."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Aline Rocha - Wikipedia](https://en.wikipedia.org/wiki/Aline_Rocha)",
+        "[Aline dos Santos Rocha - Comité Paralímpico Internacional](https://www.paralympic.org/aline-dos-santos-rocha)",
+        "[Aline Rocha: La primera campeona de Brasil en la Copa del Mundo de Esquí Paralímpico](https://agenciabrasil.ebc.com.br/en/esportes/noticia/2023-01/cross-country-skiing-aline-rocha-brazils-1st-world-champion)",
+        "[Un día de entrenamiento con la pionera paralímpica de Brasil Aline Rocha](https://www.paralympic.org/feature/para-biathlon-day-training-aline-rocha)",
+        "[Aline DOS SANTOS ROCHA - Biografía del Atleta - Para Esquí de Fondo - FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=290115&type=fispoints)"
+    ]
+}

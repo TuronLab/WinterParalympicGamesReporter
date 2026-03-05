@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Brittany Hudak",
+    "date_of_birth": "1993-06-02",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 2,
+    "world_cup_points": 662,
+    "country": "CAN",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de bronce en biatlón femenino de 12.5 km en los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2014, 2018 y 2022.",
+            "participation": "Esquí de fondo",
+            "achievements": "Medalla de bronce en 15 km clásico femenino de pie en los Juegos Paralímpicos de Invierno 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró cuatro medallas de oro y una de plata en la temporada 2021-2022 de la Copa del Mundo de Esquí Para Nórdico.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació con una discapacidad, faltándole parte de su brazo izquierdo por debajo del codo."
+        },
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de bronce en 15 km clásico femenino de pie en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "participation": "Biatlón",
+            "achievements": "Medalla de bronce en biatlón femenino de 12.5 km en los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró un notable éxito durante la temporada 2021-2022 de la Copa del Mundo de Esquí Para Nórdico.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Nació con una discapacidad, faltándole parte de su brazo izquierdo por debajo del codo."
+        }
+    ],
+    "personal_data": "Posee una licenciatura en Trabajo Social de la Universidad de Regina.",
+    "reference_urls": [
+        "[Wikipedia - Brittany Hudak](https://en.wikipedia.org/wiki/Brittany_Hudak)",
+        "[Comité Paralímpico Canadiense - Brittany Hudak](https://paralympic.ca/athlete/brittany-hudak/)",
+        "[Nordiq Canada - Brittany Hudak](https://nordiqcanada.ca/athlete/brittany-hudak/)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/hudak-brittany/20641)"
+    ]
+}

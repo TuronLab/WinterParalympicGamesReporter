@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "IWAMOTO Mika",
+    "date_of_birth": "2003-04-10",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 13,
+    "world_cup_points": 279,
+    "country": "JPN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "15ª posición en el Sprint Libre Femenino de Pie y 15ª posición en la Distancia Media Libre Femenina de Pie en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "40ª posición en 10 km F en Sapporo Shirahatayama, 96ª posición en 5 km C en Otoineppu, 97ª posición en 5 km F en Otoineppu.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación en múltiples eventos con resultados variados, indicando un desarrollo continuo en el rendimiento competitivo.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=cc&competitorid=270105)",
+        "[Perfil Paralímpico](https://www.paralympic.org/mika-iwamoto)",
+        "[Federación Japonesa de Esquí Para](https://jps-ski.com/players/mika-iwamoto)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=cc&competitorid=270105)",
+        "[Perfil Paralímpico](https://www.paralympic.org/mika-iwamoto)",
+        "[Federación Japonesa de Esquí Para](https://jps-ski.com/players/mika-iwamoto)",
+        "[Perfil FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=cc&competitorid=270105)",
+        "[Perfil Paralímpico](https://www.paralympic.org/mika-iwamoto)",
+        "[Federación Japonesa de Esquí Para](https://jps-ski.com/players/mika-iwamoto)"
+    ]
+}

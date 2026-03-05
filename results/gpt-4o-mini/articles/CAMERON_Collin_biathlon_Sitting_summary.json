@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Cameron Collin",
+    "date_of_birth": "1988-03-31",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 23,
+    "world_cup_points": 195,
+    "country": "CAN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biathlon",
+            "major_achievements": "Medallas de bronce en los Juegos Paralímpicos de Invierno 2018 y 2022, oro y dos platas en los Campeonatos Mundiales Para Nórdicos 2019.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2018 y 2022.",
+            "participation": "Esquí de fondo",
+            "achievements": "Logros en esquí de fondo incluyen podios en varios eventos de la Copa del Mundo.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Podios consistentes en competiciones importantes, incluyendo tres medallas de bronce en los Juegos Paralímpicos de Invierno de 2018 y 2022.",
+            "preparation_style": "Enfoque de entrenamiento centrado en el biatlón y el esquí de fondo, enfatizando la adaptabilidad a las lesiones.",
+            "personal_contextual_info": "Nacido en Barrie, Ontario, su transición del hockey sobre trineo al para-esquí refleja su dedicación a los deportes de invierno."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[My Haliburton Now](https://www.myhaliburtonnow.com/48001/news/bracebridges-collin-cameron-wins-bronze-at-winter-paralympics/)",
+        "[Comité Paralímpico Canadiense](https://paralympic.ca/athlete/collin-cameron/)",
+        "[Wikipedia](https://en.wikipedia.org/wiki/Collin_Cameron)",
+        "[CTV News](https://www.ctvnews.ca/calgary/article/para-nordic-skier-collin-cameron-battles-back-from-injury-to-win-gold/)",
+        "[Región de Muskoka](https://www.muskokaregion.com/news/bracebridge-skier-paralympics/article_313074a0-ba29-5fe3-a179-c42d3e2af244.html)",
+        "[Toronto Observer](https://torontoobserver.ca/2022/03/30/investment-in-skiier-cameron-brought-no-risk-return/)"
+    ]
+}

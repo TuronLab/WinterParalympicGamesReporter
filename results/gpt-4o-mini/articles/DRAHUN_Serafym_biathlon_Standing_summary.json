@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "DRAHUN Serafym",
+    "date_of_birth": "2005-05-22",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 9,
+    "world_cup_points": 448,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Logró una clasificación general entre los atletas que compiten en la categoría de pie, ganando cuatro medallas a lo largo de la temporada 2025-2026.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno de Beijing 2022: Sprint Masculino Pie: 15º, Distancia Larga Masculina Pie Clásico: 15º, Sprint Masculino Pie Libre: 15º, Distancia Media Masculina Pie Libre: 17º.",
+            "participation": "Compite en esquí nórdico.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Representa a Ucrania en competiciones internacionales."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/drahun-serafym/51973?tab=overview)",
+        "[Perfil IPC](https://www.paralympic.org/serafym-drahun)",
+        "[Artículo EMPR](https://empr.media/discover-ukraine/sport/ukraine-wins-28-medals-in-paralympic-world-cup-racing-season/)"
+    ]
+}

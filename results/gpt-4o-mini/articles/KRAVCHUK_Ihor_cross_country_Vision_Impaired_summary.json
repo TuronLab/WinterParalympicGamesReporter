@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Ihor Kravchuk",
+    "date_of_birth": "2000-08-17",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 15,
+    "world_cup_points": 296,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo Paraolímpico",
+            "major_achievements": "10ª posición en la Distancia Media Masculina - Clásica VI en los Campeonatos Mundiales de Lillehammer 2022, 3ª posición en la final de sprint en los eventos FIS 2026.",
+            "paralympic_participation": "Programado para participar en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Los atletas con discapacidades visuales compiten con la asistencia de guías videntes.",
+            "performance_trends": "Rendimiento reciente indica posiciones consistentes alrededor del top 10, destacando un 3er lugar en la final de sprint durante la Copa del Mundo FIS 2026.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=291365",
+        "https://www.paralympic.org/ihor-kravchuk",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/20503"
+    ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Diego Colombari",
+    "date_of_birth": "1982-03-29",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 13,
+    "world_cup_points": 322,
+    "country": "ITA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Tokio 2020.",
+            "participation": "Ciclismo en Handbike",
+            "achievements": "Medalla de Oro en Relevo Mixto H1-5 en los Juegos Paralímpicos de Tokio 2020; 4º en Contrarreloj Masculina H5.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Las actuaciones recientes indican una presencia competitiva en eventos de la Copa del Mundo, con posiciones que varían entre el 11º y el 21º.",
+            "preparation_style": "Diego enfatiza la importancia del enfoque mental y la preparación, utilizando a menudo objetos personales para motivación antes de las competiciones.",
+            "personal_contextual_info": "Diego Colombari es de Cuneo, Italia, y tiene un trasfondo en ciclismo, haciendo la transición al esquí de fondo después de un accidente de motocicleta que llevó a la amputación de su pierna izquierda."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292238)",
+        "[IPC](https://www.paralympic.org/diego-colombari)",
+        "[CIP](https://www.comitatoparalimpico.it/organizzazione/sport/atleti-paralimpici/item/colombari-diego.html)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292238)",
+        "[IPC](https://www.paralympic.org/diego-colombari)",
+        "[CIP](https://www.comitatoparalimpico.it/organizzazione/sport/atleti-paralimpici/item/colombari-diego.html)"
+    ]
+}

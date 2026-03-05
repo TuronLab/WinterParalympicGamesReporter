@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "HAN Seunghee",
+    "date_of_birth": "2003-07-01",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 10,
+    "world_cup_points": 312,
+    "country": "KOR",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW10",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "19ª en la Final de Sprint en la Copa del Mundo, Finsterau (17-01-2026); 19ª en la Clasificación de Sprint en la Copa del Mundo, Finsterau (17-01-2026); 20ª en la Salida Masiva en la Copa del Mundo, Finsterau (15-01-2026); 19ª en la Salida por Intervalos en la Copa del Mundo, Finsterau (14-01-2026); 13ª en la Salida Masiva en la Copa del Mundo, Canmore (07-12-2025).",
+            "paralympic_participation": "Compitiendo en los Juegos Paralímpicos de Milano Cortina 2026.",
+            "participation": "Compite en Biatlón Para.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "44 puntos en la Final de Sprint (17-01-2026); 181.50 puntos en la Clasificación de Sprint (17-01-2026); 211.73 puntos en la Salida Masiva (15-01-2026); 216.65 puntos en la Salida por Intervalos (14-01-2026); 226.01 puntos en la Salida Masiva (07-12-2025).",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Fecha de nacimiento: 01-07-2003; Edad: 22; Nacionalidad: Corea del Sur."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291699)",
+        "[IBU](https://www.biathlonworld.com/athlete/han-seunghee/55222)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291699)",
+        "[IBU](https://www.biathlonworld.com/athlete/han-seunghee/55222)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291699)",
+        "[IBU](https://www.biathlonworld.com/athlete/han-seunghee/55222)"
+    ]
+}

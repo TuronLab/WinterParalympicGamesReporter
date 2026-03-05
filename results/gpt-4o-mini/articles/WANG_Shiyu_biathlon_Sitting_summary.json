@@ -1,0 +1,40 @@
+﻿{
+    "name_of_the_athlete": "WANG Shiyu",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 8,
+    "world_cup_points": 255,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "4º lugar en los Juegos Paralímpicos de Beijing 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Beijing 2022.",
+            "participation": "Esquí de fondo paralímpico.",
+            "achievements": "4º lugar en el biatlón paralímpico en los Juegos Paralímpicos de Beijing 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Compitió en biatlón paralímpico en los Juegos Paralímpicos de Beijing 2022, logrando un 4º lugar.",
+            "preparation_style": "Entrenamiento comienza a las 05:45, incluye estiramientos generales y enfoque en esquí sobre ruedas y entrenamiento de fuerza.",
+            "personal_contextual_info": "WANG Shiyu tiene actualmente 26 años (a partir de 2026)."
+        },
+        {
+            "sport_name": "Esquí de fondo paralímpico",
+            "major_achievements": "Campeona del Mundo en la carrera de 20 km de salida en intervalos estilo libre en la categoría de sentado en los Campeonatos Mundiales de Esquí de Fondo Paralímpico FIS 2025.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "4º lugar en el evento de sprint femenino en la categoría de sentado en los Juegos Paralímpicos de Beijing 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró un rendimiento consistente con un enfoque en la disciplina y el entrenamiento.",
+            "preparation_style": "Énfasis en la consistencia, la disciplina y un enfoque paso a paso para la mejora.",
+            "personal_contextual_info": "Describe su entrenamiento como un proceso orientado a la mejora continua."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Perfil IBU](https://www.biathlonworld.com/athlete/wang-shiyu/40599)",
+        "[Paralympic.org](https://www.paralympic.org/feature/para-cross-country-skiing-day-training-shiyu-wang)"
+    ]
+}

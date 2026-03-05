@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "David Chavez",
+    "date_of_birth": "1999-03-02",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 54,
+    "world_cup_points": 24,
+    "country": "ESA",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Clasificado para los Juegos Paralímpicos de Invierno de Milano Cortina 2026, convirtiéndose en el primer atleta de El Salvador en competir en unos Juegos de Invierno.",
+            "paralympic_participation": "Milano Cortina 2026",
+            "participation": "Surf Adaptado",
+            "achievements": "Logros notables en surf adaptado, pero los resultados específicos no están disponibles públicamente.",
+            "guide": "Information not publicly available",
+            "performance_trends": "David ha mostrado una mejora en su rendimiento, particularmente en el evento de 10 kilómetros, donde ha reducido su tiempo a 38 minutos y alcanzado el 37º en el ranking mundial.",
+            "preparation_style": "Entrena entre dos y tres horas diarias, alternando entre sesiones en máquina y trabajo de fuerza en arena.",
+            "personal_contextual_info": "El viaje de David hacia el deporte comenzó después de un evento que cambió su vida en 2015, cuando sufrió una lesión en la médula espinal. Desde entonces, se ha convertido en un defensor de los atletas con discapacidades en El Salvador."
+        }
+    ],
+    "personal_data": "David Chavez es un atleta de 27 años de El Salvador, que compite en esquí de fondo. Está clasificado en la categoría LW10.5 (sentado) y actualmente se está preparando para su debut en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+    "reference_urls": [
+        "[Paralympic.org](https://www.paralympic.org/feature/para-cross-country-skier-david-chavez-el-salvador)",
+        "[FIS Ski](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292028)",
+        "[Sportsin.biz](https://sportsin.biz/david-chavez-the-salvadoran-who-turned-sand-into-snow-to-reach-milano-cortina/)",
+        "[Paralympic.org](https://www.paralympic.org/feature/para-cross-country-skier-david-chavez-el-salvador)",
+        "[FIS Ski](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292028)",
+        "[Sportsin.biz](https://sportsin.biz/david-chavez-the-salvadoran-who-turned-sand-into-snow-to-reach-milano-cortina/)",
+        "[Paralympic.org](https://www.paralympic.org/feature/para-cross-country-skier-david-chavez-el-salvador)",
+        "[FIS Ski](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=292028)",
+        "[Sportsin.biz](https://sportsin.biz/david-chavez-the-salvadoran-who-turned-sand-into-snow-to-reach-milano-cortina/)"
+    ]
+}

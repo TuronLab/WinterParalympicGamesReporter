@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Zebastian Tintin Modin",
+    "date_of_birth": "1994-06-20",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 16,
+    "world_cup_points": 132,
+    "country": "SWE",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Bronce - Sprint de 1 km, Discapacitados Visuales (2010 Vancouver), Medalla de Plata - Sprint Libre de 1 km (2014 Sochi), Medalla de Plata - Relevos Mixtos 4x2.5 km (2014 Sochi), Medalla de Plata - Sprint Clásico de 1.5 km (2018 Pyeongchang)",
+            "paralympic_participation": "Participación en 2010, 2014, 2018 Juegos Paralímpicos",
+            "participation": "Esquí de Fondo",
+            "achievements": "Múltiples posiciones en el podio en eventos de la Copa del Mundo en esquí de fondo (resultados exactos no disponibles)",
+            "guide": "Albin Ackerot (2010, 2014), Johannes Andersson y Robin Bryntesson (2018)",
+            "performance_trends": "Datos de rendimiento no están disponibles públicamente",
+            "preparation_style": "Enfoque actualmente en esquí de fondo, dedicación equilibrada a biatlón",
+            "personal_contextual_info": "Compite en la clasificación B1 debido a discapacidad visual."
+        },
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Múltiples posiciones en el podio en eventos de la Copa del Mundo (resultados exactos no disponibles)",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Biatlon",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Zebastian_Modin",
+        "https://www.biathlonworld.com/cz/athlete/modin-zebastian/13639?tab=overview",
+        "https://www.biathlonworld.com/news/para-biathlon-zebastian-modin-story/7ctyMvG6bW23Ph5akibwUS",
+        "https://www.paralympic.org/zebastian-modin"
+    ]
+}

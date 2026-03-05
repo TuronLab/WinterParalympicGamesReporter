@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Steffen Lehmker",
+    "date_of_birth": "1989-01-15",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 15,
+    "world_cup_points": 334,
+    "country": "GER",
+    "category": "Standing",
+    "paralympic_category_lw": "Plexus paralysis",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de bronce en el relevo mixto en los Juegos Paralímpicos de 2018 (PyeongChang), Medalla de bronce en el relevo mixto en los Campeonatos Mundiales de 2023 (Östersund), Campeón alemán en el sprint de biatlón de 7.5 km (27 de enero de 2019).",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de 2018 (PyeongChang) y está programado para participar en los Juegos Paralímpicos de 2026 (Milán-Cortina).",
+            "participation": "Esquí nórdico, fútbol, maratón.",
+            "achievements": "No se documentan logros específicos en fútbol o maratón.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Regresó a la competencia internacional en 2023 después de casi tres años de ausencia y logró un lugar en el podio en los Campeonatos Mundiales de 2023.",
+            "preparation_style": "Entrena seis veces a la semana, principalmente en rodillos de esquí debido al acceso limitado a la nieve.",
+            "personal_contextual_info": "Nació en Uelzen, Alemania, trabaja como profesor de escuela profesional en Bad Bevensen y tiene una hija de dos años."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Steffen Lehmker](https://de.wikipedia.org/wiki/Steffen_Lehmker)",
+        "[Unión Internacional de Biatlón - Perfil del atleta](https://www.biathlonworld.com/de/athlete/lehmker-steffen/30394)",
+        "[Equipo de Paraski Nórdico Alemania](https://nordski.de/sportlerprofil/steffen-lehmker.html)",
+        "[Equipo Alemania Paralímpicos](https://www.teamdeutschland-paralympics.de/news/details/steffen-lehmker-das-privileg-des-jongleurs)",
+        "[Parasport.de - Steffen Lehmker](https://parasport.de/vorbilder/steffen-lehmker)",
+        "[BBS1 Gifhorn - Campeón alemán en biatlón](https://www.bbs1-gifhorn.de/node/11213)",
+        "[Plexuskinder - Steffen Lehmker inicia en los Paralímpicos 2026](https://plexuskinder.de/2026/02/26/steffen-lehmker-2026/)",
+        "[BRS-Hamburg - Steffen Lehmker: El privilegio del malabarista](https://brs-hamburg.de/sportangebote/alle-sport-in-kuerze-artikel/1306-steffen-lehmker-das-privileg-des-jongleurs)",
+        "[DBS - Deporte de alto rendimiento en el deporte para discapacitados](https://www.dbs-npc.de/nachrichten-805/steffen-lehmker-das-privileg-des-jongleurs.html)"
+    ]
+}

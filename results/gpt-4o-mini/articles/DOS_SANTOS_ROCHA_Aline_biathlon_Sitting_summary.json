@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Aline DOS SANTOS ROCHA",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 10,
+    "world_cup_points": 235,
+    "country": "BRA",
+    "category": "Sitting",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Representó a Brasil en los Juegos Paralímpicos de Invierno de Pekín 2022 y está programada para llevar la bandera brasileña por tercera vez en los Juegos Paralímpicos de Invierno de 2026.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2018, 2022 y está programada para 2026.",
+            "participation": "Atletismo",
+            "achievements": "Medalla de plata en los 400m T53/T54 en los Juegos Parapanamericanos (2023).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Se convirtió en parapléjica tras un accidente automovilístico a los 15 años, lo que influyó significativamente en su trayectoria deportiva."
+        },
+        {
+            "sport_name": "Atletismo",
+            "major_achievements": "Medalla de plata en los 400m T53/T54 en los Juegos Parapanamericanos (2023).",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Biatlón",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Aline es reconocida como una pionera en los deportes de invierno brasileños, habiendo hecho contribuciones significativas a la visibilidad y representación de atletas con discapacidades en su país.",
+    "reference_urls": [
+        "[Perfil de la IBU](https://www.biathlonworld.com/athlete/dos-santos-rocha-aline/20324)",
+        "[Artículo de ClicRDC](https://clicrdc.com.br/esporte/aline-rocha-da-neve-a-pista-estreia-com-medalha-nos-jogos-parapan-americanos/)",
+        "[Artículo de Ge Globo](https://ge.globo.com/paralimpiadas-de-inverno/noticia/2026/03/03/aline-rocha-e-cristian-ribera-serao-os-porta-bandeiras-do-brasil-nas-paralimpiadas-de-inverno.ghtml)"
+    ]
+}

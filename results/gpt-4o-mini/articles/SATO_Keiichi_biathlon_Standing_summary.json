@@ -1,0 +1,40 @@
+﻿{
+    "name_of_the_athlete": "SATO Keiichi",
+    "date_of_birth": "1979-07-14",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 14,
+    "world_cup_points": 362,
+    "country": "JPN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "7º lugar en 15 km masculino - de pie (11/03/2022), 9º lugar en 12.5 km masculino - de pie (08/03/2022), 11º lugar en 7.5 km masculino - de pie (05/03/2022), 12º lugar en 10 km masculino - de pie (12/03/2022)",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022",
+            "participation": "Compite en esquí de fondo",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación constante en eventos importantes, con posiciones generalmente dentro de los 15 mejores",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Es un atleta activo que compite tanto en biatlón como en esquí de fondo"
+        },
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[The Sports](https://www.the-sports.org/k-sato-biathlon-spf717431.html)",
+        "[Les Sports](https://www.les-sports.info/keiichi-sato-biathlon-spf332891.html)"
+    ]
+}

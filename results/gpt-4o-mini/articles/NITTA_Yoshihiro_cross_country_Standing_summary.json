@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "NITTA Yoshihiro",
+    "date_of_birth": "1980-07-08",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 16,
+    "world_cup_points": 306,
+    "country": "JPN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6/8",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Total de Medallas Paralímpicas: 4 (2 de oro, 1 de plata, 1 de bronce). Medallas de oro en 2010 Vancouver: 1 km Sprint de pie y 10 km de pie; Medalla de oro en 2018 Pyeongchang: 10 km Clásico de pie. Medalla de plata en 2018 Pyeongchang: 1.5 km Sprint Clásico de pie. Medalla de bronce en 2002 Salt Lake City: 5 km Técnica Clásica LW5-9.",
+            "paralympic_participation": "Participación en siete Juegos Paralímpicos de Invierno desde 1998 hasta 2022.",
+            "participation": "También ha competido en eventos de biatlón.",
+            "achievements": "Logros específicos en biatlón no detallados en las fuentes.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente a lo largo de múltiples Juegos Paralímpicos, con picos de rendimiento en 2010 y 2018.",
+            "preparation_style": "Enfoque en el entrenamiento en el extranjero, particularmente en entrenamiento sobre nieve en Nueva Zelanda, con énfasis en dieta y condición física.",
+            "personal_contextual_info": "Perdió su brazo izquierdo por debajo del codo a la edad de tres años debido a un accidente. Comenzó a esquiar a la edad de nueve años."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Yoshihiro Nitta](https://en.wikipedia.org/wiki/Yoshihiro_Nitta_(skier)",
+        "[Paralympic.org - Yoshihiro Nitta](https://www.paralympic.org/yoshihiro-nitta)",
+        "[FIS - Biografía del Atleta Yoshihiro NITTA](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=179147&type=cups&cupcode=FEC)",
+        "[Kyodo News - Nitta persigue un épico final en esquí de fondo](https://english.kyodonews.net/news/2022/03/8c28955ce59e-paralympics-nitta-gunning-for-epic-cross-country-finish-in-7th-games.html)",
+        "[Kyodo News - Nitta gana en 10 km clásico de pie](https://english.kyodonews.net/pyeongchang/news/2018/03/d950330786a6-update1-paralympics-cross-country-skier-nitta-wins-standing-10km-classical.html)"
+    ]
+}

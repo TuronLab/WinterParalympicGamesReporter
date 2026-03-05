@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "Linn Kazmaier",
+    "date_of_birth": "2006-11-05",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 5,
+    "world_cup_points": 332,
+    "country": "GER",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "B3",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Plata en Biatlón de 6 km y 12.5 km durante los Juegos Paralímpicos de Invierno de 2022; Medalla de Oro en 12.5 km Individual y Medalla de Plata en Sprint de 7.5 km en los Campeonatos Mundiales de Esquí Nórdico Para 2023; 1er lugar en la Copa del Mundo de Biatlón en 2023 y 2024 con un total de 4 medallas de Oro y 2 medallas de Plata.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Esquí de fondo paralímpico.",
+            "achievements": "Medallas de Oro en 10 km Libre, Plata en 15 km Clásico y Bronce en Sprint de 1.5 km en los Juegos Paralímpicos de Invierno de 2022; Medallas de Oro en Individual de 18 km, 10 km Libre, y Relevo Abierto 4x2.5 km en los Campeonatos Mundiales de Esquí Nórdico Para 2023.",
+            "guide": "Florian Baumann",
+            "performance_trends": "Es la atleta de biatlón paralímpico más joven en los Juegos Paralímpicos de Invierno de 2022. Logró una mejora notable en su rendimiento al ganar múltiples medallas en los Campeonatos Mundiales de 2023.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Reside en Oberlenningen/Freiburg, Alemania, y disfruta de pasatiempos como el monociclo."
+        },
+        {
+            "sport_name": "Esquí de Fondo Paralímpico",
+            "major_achievements": "Medalla de Oro en 10 km Libre durante los Juegos Paralímpicos de Invierno de 2022; múltiples medallas en los Campeonatos Mundiales de Esquí Nórdico Para 2023.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Medallas de Oro en Individual de 18 km, 10 km Libre, y Relevo Abierto 4x2.5 km en los Campeonatos Mundiales de Esquí Nórdico Para 2023.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Linn_Kazmaier",
+        "https://www.biathlonworld.com/athlete/kazmaier-linn/50185",
+        "https://www.teamdeutschland-paralympics.de/athletinnen/details/linn-kazmaier",
+        "https://nordski.de/sportlerprofil/linn-kazmaier.html"
+    ]
+}

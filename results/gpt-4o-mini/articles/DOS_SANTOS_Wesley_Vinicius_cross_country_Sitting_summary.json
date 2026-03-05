@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Wesley Vinicius DOS SANTOS",
+    "date_of_birth": "1998-03-11",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 24,
+    "world_cup_points": 242,
+    "country": "BRA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW11.5",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Beijing 2022.",
+            "paralympic_participation": "Juegos Paralímpicos de Beijing 2022: Distancia Larga Masculina Sentado: 23º, Clasificación de Sprint Masculino Sentado: 24º, Distancia Media Masculina Sentado: 27º.",
+            "participation": "Compite en biatlón.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Puntos FIS para la temporada 2025/26: 149.11 (7ª lista de puntos FIS), 172.04 (6ª lista de puntos FIS), 174.18 (5ª lista de puntos FIS), 179.80 (4ª lista de puntos FIS), 337.06 (3ª lista de puntos FIS).",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Wesley DOS SANTOS reside en São Carlos, SP, Brasil."
+        }
+    ],
+    "personal_data": "Wesley DOS SANTOS es un atleta activo que representa a Brasil en competiciones internacionales, contribuyendo a la visibilidad y éxito de los atletas brasileños en deportes de invierno.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291207)",
+        "[IBU](https://www.biathlonworld.com/athlete/dos-santos-wesley-vinicius/43573)",
+        "[Paralympic.org](https://www.paralympic.org/wesley-vinicius-dos-santos)"
+    ]
+}

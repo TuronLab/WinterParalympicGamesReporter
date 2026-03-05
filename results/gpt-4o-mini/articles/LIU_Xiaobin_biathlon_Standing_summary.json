@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Liu Xiaobin",
+    "date_of_birth": "2000-09-19",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 21,
+    "world_cup_points": 208,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW5/7",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Compite en esquí nórdico.",
+            "achievements": "Sprint Masculino de Pie: 13º (5 de marzo de 2022), Media Distancia Masculina de Pie: 7º (8 de marzo de 2022), Clasificación de Sprint Libre Masculino de Pie: 5º (9 de marzo de 2022), Semifinal de Sprint Libre Masculino de Pie: 5º (9 de marzo de 2022), Media Distancia Libre Masculina de Pie: 4º (12 de marzo de 2022).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Esquí Nórdico",
+            "major_achievements": "Compitió en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Information not publicly available",
+            "achievements": "Salida en Intervalo: 4º (12 de marzo de 2022), Sprint: 9º (9 de marzo de 2022).",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Liu Xiaobin nació el 19 de septiembre de 2000 y se ha establecido rápidamente como un atleta competitivo en biatlón y esquí nórdico, particularmente durante los Juegos Paralímpicos de Invierno de Beijing 2022.",
+    "reference_urls": [
+        "[Perfil de la IBU](https://www.biathlonworld.com/athlete/liu-xiaobin/44051?tab=overview)",
+        "[Perfil Paralímpico](https://www.paralympic.org/xiaobin-liu)",
+        "[Perfil de la FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291280&type=result)"
+    ]
+}

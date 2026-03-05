@@ -1,0 +1,35 @@
+﻿{
+    "name_of_the_athlete": "Nurlan Alimov",
+    "date_of_birth": "1987-07-16",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 6,
+    "world_cup_points": 431,
+    "country": "KAZ",
+    "category": "Standing",
+    "paralympic_category_lw": "LW6",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participación en los Juegos Paralímpicos de Invierno 2026 y en los Campeonatos Mundiales de Para Nórdico.",
+            "paralympic_participation": "2026 Juegos Paralímpicos de Invierno.",
+            "participation": "Para Biatlón",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Participación constante en eventos FIS con rangos y puntos variables a lo largo de las temporadas.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291018&type=fispoints)",
+        "[Resultados FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=289477&raceid=711)",
+        "[Perfil Paralímpico](https://www.paralympic.org/nurlan-alimov)",
+        "[Base de Datos Olímpica](https://www.olympiandatabase.com/nordic-ski-world-championships-nations-kazakhstan-trondheim-2025-cross-country)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=291018&type=fispoints)",
+        "[Resultados FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=289477&raceid=711)",
+        "[Perfil Paralímpico](https://www.paralympic.org/nurlan-alimov)",
+        "[Base de Datos Olímpica](https://www.olympiandatabase.com/nordic-ski-world-championships-nations-kazakhstan-trondheim-2025-cross-country)"
+    ]
+}

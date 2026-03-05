@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Sergey Ussoltsev",
+    "date_of_birth": "1974-11-07",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 33,
+    "world_cup_points": 178,
+    "country": "KAZ",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participó en los Juegos Paralímpicos de Invierno 2018 con los siguientes resultados: 12º en Relevo Mixto 4x2.5 km, 20º en 7.5 km Masculino - Sentado, 13º en 15 km Masculino - Sentado, 25º en Sprint Masculino 1.1 km - Asistido, 11º en 12.5 km Masculino - Sentado, 15º en 15 km Masculino - Sentado, 16º en 7.5 km Masculino - Sentado.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno 2018.",
+            "participation": "Biatlón",
+            "achievements": "Las especialidades incluyen 12.5 km - Sentado, 15 km - Sentado, 7.5 km - Sentado, Sprint 1.1 km - Asistido, Relevo Mixto 4x2.5 km.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Puntos FIS para PWG 2026: 131.44; Puntos FIS para 2025/26: 136.85 (6ª lista), 141.79 (4ª lista).",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289864)",
+        "[Perfil del Comité Paralímpico Internacional](https://www.paralympic.org/sergey-ussoltsev)",
+        "[Perfil de la Unión Internacional de Biatlón](https://www.biathlonworld.com/athlete/ussoltsev-sergey/17881)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289864)",
+        "[Perfil del Comité Paralímpico Internacional](https://www.paralympic.org/sergey-ussoltsev)",
+        "[Perfil de la Unión Internacional de Biatlón](https://www.biathlonworld.com/athlete/ussoltsev-sergey/17881)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=289864)",
+        "[Perfil del Comité Paralímpico Internacional](https://www.paralympic.org/sergey-ussoltsev)",
+        "[Perfil de la Unión Internacional de Biatlón](https://www.biathlonworld.com/athlete/ussoltsev-sergey/17881)"
+    ]
+}

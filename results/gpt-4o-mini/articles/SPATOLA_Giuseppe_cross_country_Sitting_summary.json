@@ -1,0 +1,36 @@
+﻿{
+    "name_of_the_athlete": "Giuseppe Spatola",
+    "date_of_birth": "1982-10-03",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 20,
+    "world_cup_points": 278,
+    "country": "ITA",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de bronce en la prueba de media distancia masculina en silla de ruedas en los Juegos Paralímpicos de Invierno de Pekín 2022.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de Pekín 2022.",
+            "participation": "Información no disponible públicamente.",
+            "achievements": "Información no disponible públicamente.",
+            "guide": "Información no disponible públicamente.",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo con posiciones que varían entre el 12º y el 20º en varios formatos.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Giuseppe Spatola es un atleta militar, y su vida cambió significativamente después de un grave accidente automovilístico en 2003, que resultó en la pérdida de su pierna derecha por debajo de la rodilla."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291741)",
+        "[Comitato Italiano Paralimpico](https://www.comitatoparalimpico.it/item/giuseppe-spatola.html)",
+        "[IPC](https://www.paralympic.org/cross-country-skiing)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291741)",
+        "[Comitato Italiano Paralimpico](https://www.comitatoparalimpico.it/item/giuseppe-spatola.html)",
+        "[IPC](https://www.paralympic.org/cross-country-skiing)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&competitorid=291741)",
+        "[Comitato Italiano Paralimpico](https://www.comitatoparalimpico.it/item/giuseppe-spatola.html)",
+        "[IPC](https://www.paralympic.org/cross-country-skiing)"
+    ]
+}

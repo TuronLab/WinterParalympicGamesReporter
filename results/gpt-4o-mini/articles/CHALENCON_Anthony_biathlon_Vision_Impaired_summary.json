@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Anthony Chalençon",
+    "date_of_birth": "1990-08-13",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 3,
+    "world_cup_points": 656,
+    "country": "FRA",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Oro en Relevo Abierto (4 x 2.5 km), bronce en 15 km para discapacitados visuales en los Juegos Paralímpicos de Invierno 2018. Campeón del Mundo en Relevo en dos ocasiones (2015, 2017).",
+            "paralympic_participation": "Competidor en los Juegos Paralímpicos de Invierno 2010, 2018 y Beijing 2022.",
+            "participation": "Compitió anteriormente como esquiador alpino.",
+            "achievements": "Logros notables como esquiador alpino no están disponibles públicamente.",
+            "guide": "Brice Ottonello (actual).",
+            "performance_trends": "Competición constante en diversas distancias, como 12.5 km y 15 km en eventos para discapacitados visuales.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Discapacidad visual debido a degeneración retiniana."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Anthony_Chalençon",
+        "https://www.biathlonworld.com/athlete/chalencon-anthony/13100",
+        "https://www.paralympic.org/feature/milano-cortina-2026-ones-watch-biathlon",
+        "https://www.the-sports.org/anthony-chalencon-biathlon-spf533219.html",
+        "https://en.morzine-avoriaz.com/discover-morzine/1-commune-2-stations/sporting-ambassadors/anthony-chalencon-para-biathlon/"
+    ]
+}

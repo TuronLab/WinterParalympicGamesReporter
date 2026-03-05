@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "SUZUKI Go",
+    "date_of_birth": "1996-12-09",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 42,
+    "world_cup_points": 98,
+    "country": "JPN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "Clasificación general de la Copa del Mundo 2026: 42º lugar con 98 puntos; Clasificación general de la Copa del Mundo 2025: 43º lugar con 38 puntos.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Participación activa en eventos de la Copa del Mundo y clasificaciones consistentes.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Atleta activo."
+        }
+    ],
+    "personal_data": "Fecha de nacimiento: 9 de diciembre de 1996; Nacionalidad: Japón; Estado: Atleta activo.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=292224&type=cups&cupcode=WC)",
+        "[FIS](https://www.fis-ski.com/cross-country)",
+        "[CTS](https://trainright.com/cross-country-ski-training-4-tips-and-a-workout-to-improve-fitness/)"
+    ]
+}

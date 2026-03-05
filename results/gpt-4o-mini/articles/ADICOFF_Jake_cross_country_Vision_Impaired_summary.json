@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "Jake Adicoff",
+    "date_of_birth": "1995-05-16",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 6,
+    "world_cup_points": 505,
+    "country": "USA",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "NS3",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "1º en múltiples eventos en la Copa del Mundo de Esquí de Fondo Para 2025/26 FIS, Oro en los Campeonatos Mundiales de Esquí de Fondo Para 2025.",
+            "paralympic_participation": "Detalles sobre participaciones paralímpicas pasadas no disponibles públicamente.",
+            "participation": "Esquí Alpino: Participó en varias competiciones sin resultados específicos disponibles.",
+            "achievements": "Participó en varias competiciones de esquí alpino.",
+            "guide": "Peter Wolter.",
+            "performance_trends": "Alcanzó un total de 5 medallas de oro y 1 de bronce en la temporada 2026. Promedio de 3 podios en la temporada 2025.",
+            "preparation_style": "Información no disponible públicamente.",
+            "personal_contextual_info": "Información no disponible públicamente."
+        }
+    ],
+    "personal_data": "Información no disponible públicamente.",
+    "reference_urls": [
+        "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=268658&type=result",
+        "https://www.fis-ski.com/para-cross-country/news/2025-26/para-cross-country-jake-adicoff-chenyang-wangdouble-wins-finsterau-world-cup-stop",
+        "https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=291989&raceid=707"
+    ]
+}

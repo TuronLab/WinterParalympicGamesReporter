@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "WANG Shiyu",
+    "date_of_birth": "1999-06-17",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 13,
+    "world_cup_points": 239,
+    "country": "CHN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Campeona del Mundo en la carrera de 20 km de salida en intervalos estilo libre sentada en los Campeonatos Mundiales de Esquí de Fondo Paralímpico FIS 2025 en Toblach, Italia.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Compitió en Biatlón Paralímpico en Beijing 2022.",
+            "achievements": "4º lugar en Biatlón Paralímpico en Beijing 2022.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró su primera medalla en el Campeonato Mundial en 2025, ganando la carrera de 20 km de salida en intervalos estilo libre sentada.",
+            "preparation_style": "Entrena dos veces al día, enfatizando la consistencia y la disciplina en su régimen de entrenamiento.",
+            "personal_contextual_info": "Es una atleta activa con un fuerte enfoque en mejorar sus resultados en comparación con sus actuaciones paralímpicas anteriores."
+        }
+    ],
+    "personal_data": "WANG Shiyu nació el 17 de junio de 1999 en China.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&seasoncode=2026&categorycode=WC&position=4&type=result&competitorid=291041)",
+        "[Paralympic.org](https://www.paralympic.org/feature/para-cross-country-skiing-day-training-shiyu-wang)",
+        "[Paralympic.org](https://www.paralympic.org/shiyu-wang)"
+    ]
+}

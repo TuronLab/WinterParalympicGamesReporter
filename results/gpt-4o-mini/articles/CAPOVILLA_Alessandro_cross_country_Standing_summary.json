@@ -1,0 +1,33 @@
+﻿{
+    "name_of_the_athlete": "Alessandro Capovilla",
+    "date_of_birth": "1973-11-15",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 14,
+    "world_cup_points": 327,
+    "country": "ITA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW4",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Participación en múltiples eventos de la Copa del Mundo con posiciones notables.",
+            "paralympic_participation": "Información no disponible públicamente",
+            "participation": "Información no disponible públicamente",
+            "achievements": "Información no disponible públicamente",
+            "guide": "Información no disponible públicamente",
+            "performance_trends": "Participación constante en eventos de la Copa del Mundo con posiciones que varían desde el 8º hasta el 29º.",
+            "preparation_style": "Información no disponible públicamente",
+            "personal_contextual_info": "Información no disponible públicamente"
+        }
+    ],
+    "personal_data": "Información no disponible públicamente",
+    "reference_urls": [
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=299031)",
+        "[Resultados de Esquí de Fondo FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=299031)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=299031)",
+        "[Resultados de Esquí de Fondo FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=299031)",
+        "[Biografía del Atleta FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=299031)",
+        "[Resultados de Esquí de Fondo FIS](https://www.fis-ski.com/DB/general/results.html?sectorcode=PCC&competitorid=299031)"
+    ]
+}

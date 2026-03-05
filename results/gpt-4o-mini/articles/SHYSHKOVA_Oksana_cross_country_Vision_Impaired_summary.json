@@ -1,0 +1,41 @@
+﻿{
+    "name_of_the_athlete": "Oksana Shyshkova",
+    "date_of_birth": "1991-06-10",
+    "gender": "female",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 13,
+    "world_cup_points": 206,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Bronce en 1km Sprint Clásico en 2014 Sochi, Oro en Relevo Mixto de Mujeres 4x2.5 km, Plata en Mujeres 15 km Libre (Discapacidad Visual), Bronce en Mujeres 1.5 km Sprint (Discapacidad Visual) en PyeongChang 2018, Oro en Mujeres 15 km Clásico y Oro en Mujeres 6 km (Discapacidad Visual) en Beijing 2022.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de 2010, 2014, 2018 y 2022.",
+            "participation": "Biatlón",
+            "achievements": "Oro en Mujeres 10 km Discapacidad Visual y Plata en Mujeres 6 km Discapacidad Visual en PyeongChang 2018.",
+            "guide": "Lada Nesterenko",
+            "performance_trends": "Participación constante en múltiples Juegos Paralímpicos de Invierno con una mejora en el conteo de medallas a lo largo de los años.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Originaria de Járkov, Ucrania, comenzó a esquiar después de que su vista se deteriorara."
+        },
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Oro en Mujeres 10 km Discapacidad Visual y Plata en Mujeres 6 km Discapacidad Visual en PyeongChang 2018.",
+            "paralympic_participation": "Compitió en los Juegos Paralímpicos de Invierno de 2018.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Lada Nesterenko",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Oksana_Shyshkova",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/20442",
+        "https://www.pravda.com.ua/eng/news/2022/03/07/7329082/"
+    ]
+}

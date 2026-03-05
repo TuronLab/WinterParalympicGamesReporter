@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "WU Junbao",
+    "date_of_birth": "Information not publicly available",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 47,
+    "world_cup_points": 52,
+    "country": "CHN",
+    "category": "Standing",
+    "paralympic_category_lw": "LW11",
+    "sports": [
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Medalla de Plata en la Sprint Masculina en Silla de Ruedas en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "paralympic_participation": "Compitió en el evento de Distancia Larga Masculina en Silla de Ruedas en los Juegos Paralímpicos de Invierno de Beijing 2022.",
+            "participation": "Carreras en Silla de Ruedas durante un año antes de enfocarse en el esquí de fondo.",
+            "achievements": "No se documentaron logros específicos en este deporte.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Demostró una mejoría en su condición física después de años de entrenamiento dedicado.",
+            "preparation_style": "Entrenamiento riguroso, a menudo involucrando mañanas tempranas y noches tardías.",
+            "personal_contextual_info": "Aboga por las personas con discapacidades, enfatizando la importancia de la perseverancia y el trabajo duro."
+        }
+    ],
+    "personal_data": "Mao Zhongwu, 35 años, se unió al equipo nacional en 2018.",
+    "reference_urls": [
+        "[Comité Paralímpico Internacional - Perfil de Mao Zhongwu](https://www.paralympic.org/junbao-wu)",
+        "[Archivo de Resultados de Beijing 2022](https://www.paralympic.org/results)",
+        "[Artículo de Global Times sobre Esquiadores Para de Fondo Chinos](https://www.globaltimes.cn)"
+    ]
+}

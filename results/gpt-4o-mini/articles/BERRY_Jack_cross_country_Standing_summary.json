@@ -1,0 +1,37 @@
+﻿{
+    "name_of_the_athlete": "Jack Berry",
+    "date_of_birth": "2007-08-20",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 9,
+    "world_cup_points": 410,
+    "country": "USA",
+    "category": "Standing",
+    "paralympic_category_lw": "LW4",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "1er lugar en la carrera de sprint de esquí de fondo clásico, West Yellowstone, Montana (11 de enero de 2025) con un tiempo de 3:08.69.",
+            "paralympic_participation": "Aspira a competir en los Juegos Paralímpicos de Invierno de Milano Cortina 2026.",
+            "participation": "Ciclismo adaptativo",
+            "achievements": "Participó en varios eventos de ciclismo adaptativo y organizó una carrera de bicicletas benéfica para apoyar la investigación sobre el cáncer infantil.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Hizo un notable debut a nivel de Copa del Mundo, terminando en 7° lugar en un campo competitivo.",
+            "preparation_style": "Entrena rigurosamente, participando en sesiones de entrenamiento dos veces al día, con un enfoque en el entrenamiento de fuerza y el esquí en rodillos durante la temporada baja.",
+            "personal_contextual_info": "Diagnosticado con osteosarcoma a los 10 años, se sometió a una cirugía de rotación y ha estado libre de cáncer desde 2021. Actualmente cursa estudios en Boston College."
+        }
+    ],
+    "personal_data": "Edad: 18, Ciudad natal: Missoula, Montana",
+    "reference_urls": [
+        "[Fuente: U.S. Paralympics Nordic Skiing](https://www.usparanordic.org/news/2025/january/27/the-next-step-for-rising-teen-jack-berry-is-a-european-world-cup-trip)",
+        "[Fuente: U.S. Paralympics Nordic Skiing](https://www.usparanordic.org/news/2025/january/27/the-next-step-for-rising-teen-jack-berry-is-a-european-world-cup-trip)",
+        "[Fuente: FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=292082&type=cups&cupcode=WC)",
+        "[Fuente: Team USA](https://www.teamusa.com/profiles/jack-berry)",
+        "[Fuente: Team USA](https://www.teamusa.com/profiles/jack-berry)",
+        "[Fuente: U.S. Paralympics Nordic Skiing](https://www.usparanordic.org/news/2025/january/27/the-next-step-for-rising-teen-jack-berry-is-a-european-world-cup-trip)",
+        "[Fuente: Team USA](https://www.teamusa.com/profiles/jack-berry)",
+        "[U.S. Paralympics Nordic Skiing](https://www.usparanordic.org/news/2025/january/27/the-next-step-for-rising-teen-jack-berry-is-a-european-world-cup-trip)",
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=PCC&competitorid=292082&type=cups&cupcode=WC)",
+        "[Team USA](https://www.teamusa.com/profiles/jack-berry)"
+    ]
+}

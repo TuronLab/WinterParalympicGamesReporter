@@ -1,0 +1,42 @@
+﻿{
+    "name_of_the_athlete": "MINAMOTO Takaharu",
+    "date_of_birth": "1980-05-16",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 9,
+    "world_cup_points": 393,
+    "country": "JPN",
+    "category": "Sitting",
+    "paralympic_category_lw": "LW12",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "13° lugar en Sprint 7.5km (silla de ruedas) en los Campeonatos Mundiales de Biatlón Paralímpico de la IBU 2025; 11° lugar en Sprint 7.5km (silla de ruedas) en la Copa del Mundo de Biatlón Paralímpico de la IBU 2025.",
+            "paralympic_participation": "Aspira a representar a Japón en los Juegos Paralímpicos de Milán-Cortina 2026.",
+            "participation": "Compite en esquí nórdico para personas con discapacidad.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Los datos específicos sobre el tiempo promedio de esquí y la precisión de tiro no están disponibles públicamente.",
+            "preparation_style": "Enfoque de entrenamiento centrado en mejorar la precisión de tiro y el rendimiento general.",
+            "personal_contextual_info": "Afiliación: Amgen KK, Asociación Japonesa de Esquí para Personas con Discapacidad. Base: Tokio, Japón."
+        },
+        {
+            "sport_name": "Esquí Nórdico para Personas con Discapacidad",
+            "major_achievements": "2° lugar en 5km (silla de ruedas) y 7° lugar en Sprint Combinado LW12 en la Copa Paracontinental de la FIS (Copa de Asia) 2025; 3° lugar en 1km (silla de ruedas) en los Campeonatos de Esquí de Fondo de Japón para Personas con Discapacidad 2025; 3° lugar en 2.5km LW12 en los Campeonatos de Esquí de Fondo Paralímpico de Japón 2025.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "MINAMOTO está decidido a representar a Japón en los Juegos Paralímpicos de Milán-Cortina 2026, mostrando su ambición y dedicación al deporte.",
+    "reference_urls": [
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/minamoto-takaharu/50012)",
+        "[Información de Deportes Tokio](https://en.sports-tokyo-info.metro.tokyo.lg.jp/athlete/athlete/676.html)",
+        "[Parasapo Tokio - Atleta Destacado](https://www.parasapo.tokyo/featured-athletes/minamoto-takaharu)",
+        "[Federación Japonesa de Esquí para Personas con Discapacidad](https://jps-ski.com/players/takaharu-minamoto)"
+    ]
+}

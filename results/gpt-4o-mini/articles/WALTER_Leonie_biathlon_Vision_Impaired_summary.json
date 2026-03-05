@@ -1,0 +1,31 @@
+﻿{
+    "name_of_the_athlete": "Leonie Maria Walter",
+    "date_of_birth": "2004-01-17",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 4,
+    "world_cup_points": 350,
+    "country": "GER",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Oro en 10 km discapacidad visual, Medalla de Bronce en 6 km y 12.5 km en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2022.",
+            "participation": "Compite en Esquí de Fondo Para.",
+            "achievements": "Medalla de Bronce en 15 km clásico en los Juegos Paralímpicos de Invierno 2022.",
+            "guide": "Pirmin Strecker en los Juegos Paralímpicos de Invierno 2022; Christian Krasman durante la Copa del Mundo 2025.",
+            "performance_trends": "Mostró un rendimiento notable en la Copa del Mundo de Biatlón 2025 con un primer lugar en el sprint de 7.5 km.",
+            "preparation_style": "Entrenado por Ralf Rombach utilizando métodos adaptados para atletas con discapacidad visual.",
+            "personal_contextual_info": "Reconocida como talento emergente en el biatlón, proviene de Friburgo, Alemania."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Leonie_Walter",
+        "Information not publicly available",
+        "https://www.theskisaga.com/biathlon/para-biathlete-walter-wins-wm-general-rehearsal/",
+        "https://www.teamdeutschland-paralympics.de/athletinnen/details/leonie-walter"
+    ]
+}

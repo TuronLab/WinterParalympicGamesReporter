@@ -1,0 +1,30 @@
+﻿{
+    "name_of_the_athlete": "LOBASHEVA Romana",
+    "date_of_birth": "Information not publicly available",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 12,
+    "world_cup_points": 72,
+    "country": "UKR",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biathlon",
+            "major_achievements": "Seleccionada como parte del equipo ucraniano para los Juegos Paralímpicos de Invierno 2026.",
+            "paralympic_participation": "Compitiendo en los Juegos Paralímpicos de Invierno 2026.",
+            "participation": "Compitió previamente en atletismo.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Métricas de rendimiento específicas no disponibles.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Parte de una delegación récord de Ucrania para los Juegos Paralímpicos de Invierno 2026, que incluye 35 atletas, 25 de ellos en biatlón paralímpico."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "https://www.biathlonworld.com/athlete/lobasheva-romana/61903",
+        "https://empr.media/discover-ukraine/sport/ukraine-to-compete-at-the-2026-paralympic-games-with-a-record-breaking-squad-who-is-on-the-roster/",
+        "https://www.paralympic.org/"
+    ]
+}

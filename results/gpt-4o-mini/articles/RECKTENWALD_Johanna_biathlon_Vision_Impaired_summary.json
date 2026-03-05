@@ -1,0 +1,54 @@
+﻿{
+    "name_of_the_athlete": "Johanna Recktenwald",
+    "date_of_birth": "2001-06-11",
+    "gender": "female",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 1,
+    "world_cup_points": 725,
+    "country": "GER",
+    "category": "Vision Impaired",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Participó en los Campeonatos Mundiales de Esquí Nórdico Para 2023, ganando una medalla de plata en 12.5 km Individual y medallas de bronce en 7.5 km Sprint y Sprint Estilo Libre. Ganadora general de la Copa del Mundo de Biatlón Para 2026.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno 2022, finalizando 4ta en ambas las categorías de 10 km y 12.5 km.",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Logró consistentes posiciones entre los cuatro primeros durante su primera participación, demostrando un crecimiento significativo en sus competencias.",
+            "preparation_style": "Entrena en el centro de entrenamiento para atletas con discapacidad en Freiburg-Schwarzwald como parte del equipo paralímpico alemán.",
+            "personal_contextual_info": "Involucrada en iniciativas comunitarias para promover la inclusión en los deportes y enfrenta su discapacidad de distrofia de conos y bastones."
+        },
+        {
+            "sport_name": "Esquí de Fondo",
+            "major_achievements": "Compitió en los Juegos Mundiales Universitarios 2025, ganando medallas de plata en Sprint Clásico y 10 km Estilo Libre.",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Information not publicly available",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        },
+        {
+            "sport_name": "Ciclismo",
+            "major_achievements": "Information not publicly available",
+            "paralympic_participation": "Information not publicly available",
+            "participation": "Activa en ciclismo paralímpico, enfocándose en carreras en tándem.",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "Information not publicly available",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Information not publicly available"
+        }
+    ],
+    "personal_data": "Nació en Marpingen, Saarland, Alemania. Actualmente reside en Freiburg im Breisgau. Estudia Educación en Salud mientras equilibra su vida académica y atlética.",
+    "reference_urls": [
+        "https://en.wikipedia.org/wiki/Johanna_Recktenwald",
+        "https://www.biathlonworld.com/athlete/recktenwald-johanna/35103",
+        "https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/athlete-details/64329",
+        "https://www.paralympic.org/johanna-recktenwald",
+        "https://www.johanna-recktenwald.de/ueber-mich/"
+    ]
+}

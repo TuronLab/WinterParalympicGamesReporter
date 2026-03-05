@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Grygorii Vasylovych Vovchynskyi",
+    "date_of_birth": "1988-07-04",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 5,
+    "world_cup_points": 481,
+    "country": "UKR",
+    "category": "Standing",
+    "paralympic_category_lw": "LW8",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "Medalla de Oro en 6 km - Pie en los Juegos Paralímpicos de Invierno 2022; Medalla de Plata en 12.5 km - Pie en los Juegos Paralímpicos de Invierno 2010; Medallas de Bronce en 3 km Persecución - Pie en los Juegos Paralímpicos de Invierno 2010, 7.5 km - Pie, 12.5 km - Pie, Sprint Clásico 1.5 km - Pie y 15 km - Pie en los Juegos Paralímpicos de Invierno 2022.",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno en 2010, 2014, 2018 y 2022.",
+            "participation": "Esquí de fondo",
+            "achievements": "Medalla de Plata en Relevo Masculino - Abierto y Medalla de Bronce en 10 km - Pie en los Juegos Paralímpicos de Invierno 2010.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Rendimiento consistente con múltiples finales en el podio en eventos importantes, especialmente en los Juegos Paralímpicos de Invierno.",
+            "preparation_style": "Information not publicly available",
+            "personal_contextual_info": "Se graduó de la Universidad Nacional de Cherkasy en 2012."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Grygorii Vovchynskyi](https://en.wikipedia.org/wiki/Grygorii_Vovchynskyi)",
+        "[The Sports - Resultados de Grygorii Vovchynskyi](https://www.the-sports.org/grygorii-vovchynskyi-biathlon-spf533188.html)",
+        "[Daily Mail - Grygorii Vovchynskyi](https://www.dailymail.co.uk/sport/sportsnews/article-10580349/Biathlete-Grygorii-Vovchynskyi-dedicates-gold-medal-Winter-Paralympics-Ukrainian-people.html)",
+        "[International Business Times - Grygorii Vovchynskyi](https://www.ibtimes.sg/who-grygorii-vovchynskyi-ukrainian-biathlete-wins-first-gold-his-war-torn-nation-winter-63191)",
+        "[Inside the Games - Grygorii Vovchynskyi](https://www.insidethegames.biz/articles/1044812/vovchynskyi-and-reptyukh-lead-ukrainian-charge-in-biathlon-relay-at-ipc-para-nordic-skiing-world-cup)"
+    ]
+}

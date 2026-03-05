@@ -1,0 +1,29 @@
+﻿{
+    "name_of_the_athlete": "Zhenghong Schlechte",
+    "date_of_birth": "2007-06-25",
+    "gender": "male",
+    "sport_under_study": "cross_country",
+    "world_cup_rank": 44,
+    "world_cup_points": 78,
+    "country": "USA",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Esquí de fondo",
+            "major_achievements": "16º en Relevo Abierto en Finsterau, Alemania (18 de enero de 2026), 27º en Final de Sprint en Finsterau, Alemania (17 de enero de 2026), 27º en Clasificación de Sprint en Finsterau, Alemania (17 de enero de 2026), 34º en Salida Masiva en Finsterau, Alemania (15 de enero de 2026), 35º en Salida por Intervalos en Finsterau, Alemania (14 de enero de 2026), 19º en Salida Masiva en Canmore, Canadá (7 de diciembre de 2025), 16º en Final de Sprint en Canmore, Canadá (6 de diciembre de 2025), 16º en Clasificación de Sprint en Canmore, Canadá (6 de diciembre de 2025), 21º en Salida por Intervalos en Canmore, Canadá (4 de diciembre de 2025), 9º en Salida por Intervalos en el Centro Nórdico de Canmore, Canadá (27 de noviembre de 2025), 24º en Salida por Intervalos en Val di Fiemme, Italia (2 de febrero de 2025), 23º en Sprint en Val di Fiemme, Italia (1 de febrero de 2025)",
+            "paralympic_participation": "Actualmente busca calificar para los Juegos Paralímpicos de Invierno.",
+            "participation": "Esquí alpino",
+            "achievements": "Information not publicly available",
+            "guide": "Information not publicly available",
+            "performance_trends": "La participación activa en eventos de la Copa del Mundo ha mostrado una mejora gradual en las clasificaciones.",
+            "preparation_style": "Asistió a un campamento de entrenamiento de una semana en un túnel de esquí subterráneo en Oberhof, Alemania.",
+            "personal_contextual_info": "Nacido en China, le falta la mayor parte de su brazo izquierdo por debajo del codo. Actualmente es estudiante de último año en la Escuela Secundaria Mahtomedi en Minnesota, EE. UU."
+        }
+    ],
+    "personal_data": "Su motivación proviene del apoyo de sus compañeros y de las experiencias que ha adquirido en el deporte.",
+    "reference_urls": [
+        "[FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=pcc&type=result&competitorid=292073)",
+        "[U.S. Paralympics](https://www.usparanordic.org/news/2025/april/01/zhenghong-schlechte-looks-to-follow-the-mahtomedi-pipeline-to-para-nordic-success)"
+    ]
+}

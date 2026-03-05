@@ -1,0 +1,32 @@
+﻿{
+    "name_of_the_athlete": "Mark Arendz",
+    "date_of_birth": "1990-03-03",
+    "gender": "male",
+    "sport_under_study": "biathlon",
+    "world_cup_rank": 1,
+    "world_cup_points": 765,
+    "country": "CAN",
+    "category": "Standing",
+    "paralympic_category_lw": "Information not publicly available",
+    "sports": [
+        {
+            "sport_name": "Biatlón",
+            "major_achievements": "12 medallas en los Juegos Paralímpicos de Invierno (2 de Oro, 4 de Plata, 6 de Bronce). Oro en Biatlón de Larga Distancia en los Paralímpicos de 2018. 1º en el Sprint Masculino de 7.5 km (2022). 1º en la Distancia Media Masculina de Esquí de Fondo en Pie (2022). 2º en el Masculino de 7.5 km en Pie (Juegos Paralímpicos de Invierno 2014). 3º en el Masculino de 12.5 km en Pie (Juegos Paralímpicos de Invierno 2014). 1º en eventos de Distancia Media y Sprint de Biatlón (Finsterau 2017).",
+            "paralympic_participation": "Participó en los Juegos Paralímpicos de Invierno de Vancouver 2010, Sochi 2014, PyeongChang 2018 y Beijing 2022.",
+            "participation": "También compite en esquí nórdico para personas con discapacidad.",
+            "achievements": "Oro en la Distancia Media Masculina de Esquí de Fondo en Pie en la Copa del Mundo en Vuokatti, Finlandia (2022). Múltiples medallas en eventos de esquí de fondo.",
+            "guide": "Information not publicly available",
+            "performance_trends": "Ganador constante de medallas en competiciones importantes, incluyendo múltiples medallas en los Juegos Paralímpicos y Campeonatos Mundiales. Rendimiento notable en PyeongChang 2018, donde ganó seis medallas, la mayor cantidad por un canadiense en unos únicos Juegos Paralímpicos de Invierno.",
+            "preparation_style": "Emplea un enfoque de entrenamiento intencionado, centrándose en establecer metas diarias para mejorar la productividad y el rendimiento.",
+            "personal_contextual_info": "Nació el 3 de marzo de 1990 en la Isla del Príncipe Eduardo, Canadá. Perdió su brazo izquierdo en un accidente agrícola a la edad de siete años, pero continuó persiguiendo el esquí y el biatlón. Activo en el servicio comunitario, incluyendo la construcción de una escuela en Nicaragua."
+        }
+    ],
+    "personal_data": "Information not publicly available",
+    "reference_urls": [
+        "[Wikipedia - Mark Arendz](https://en.wikipedia.org/wiki/Mark_Arendz)",
+        "[Unión Internacional de Biatlón - Perfil del Atleta](https://www.biathlonworld.com/athlete/arendz-mark/13452)",
+        "[Perfil del Atleta Paralímpico](https://www.paralympic.org/mark-arendz)",
+        "[Comité Paralímpico Canadiense](https://paralympic.ca/athlete/mark-arendz/)",
+        "[Mark Arendz - Esquí Nórdico](https://www.paralympic.org/mark-arendz)"
+    ]
+}
