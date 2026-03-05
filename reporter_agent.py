@@ -362,12 +362,12 @@ Rules:
         f.write(spanish_article)
 
     # We hardcode available information
-    final_json["sport_under_study"] = sport
-    final_json["gender"] = gender
-    final_json["world_cup_rank"] = world_cup_rank
-    final_json["country"] = country
-    final_json["world_cup_points"] = world_cup_points
-    final_json["category"] = category
+    if sport: final_json["sport_under_study"] = sport
+    if gender: final_json["gender"] = gender
+    if world_cup_rank != -1: final_json["world_cup_rank"] = world_cup_rank
+    if country: final_json["country"] = country
+    if world_cup_points != -1: final_json["world_cup_points"] = world_cup_points
+    if category: final_json["category"] = category
 
     with open(json_path, "w", encoding="utf-8-sig") as f:
         json.dump(final_json, f, indent=4, ensure_ascii=False)
