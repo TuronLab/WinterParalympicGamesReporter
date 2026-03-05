@@ -69,6 +69,7 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
                   Default is 15.
     """
     relative_path_markdown_files = {}
+    MAX_NUM_RETRIALS_BY_ATHLETE = 3
 
     for sport in ["biathlon", "cross_country"]:
         relative_path_markdown_files[sport] = {}
@@ -95,7 +96,7 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
 
                     json_result = None
                     # Sometimes, the web research abruptly stops. We added a retrial logic
-                    for retry_num_i in range(5):
+                    for retry_num_i in range(MAX_NUM_RETRIALS_BY_ATHLETE):
                         try:
                             _, json_result = run_research(
                                 athlete_name=athlete_conf["name"],
