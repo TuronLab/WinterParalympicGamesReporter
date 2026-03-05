@@ -13,7 +13,7 @@ orchestrates a structured research workflow that produces:
 
 The system focuses on strict factual validation, **source traceability**, trying 
 to minimize the hallucination impact, and producing an output as can be seen 
-in the [athlete report navigation example panel](./results/gpt-4o-mini/tables/athlete_navigation_tables.md).
+in the [athlete report navigation example panel](./results/gpt-4o-mini/athlete_navigation_tables.md).
 
 Originally developed for Biathlon and Cross-Country Skiing athletes, the system can be 
 easily adapted to other sports by updating the [get_primary_website method](./utils.py). 
@@ -162,4 +162,4 @@ World Cup that I've manually extracted, with its metadata (stored in the
 
 The script not only compiles all the reports but also generates a Markdown file that makes 
 it easy to navigate through the summaries and individual athlete reports, as the shown in 
-[athlete report navigation example panel](./results/gpt-4o-mini/tables/athlete_navigation_tables.md).
+[athlete report navigation example panel](./results/gpt-4o-mini/athlete_navigation_tables.md).
