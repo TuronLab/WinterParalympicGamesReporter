@@ -73,7 +73,7 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
 
     for sport in ["biathlon", "cross_country"]:
         relative_path_markdown_files[sport] = {}
-        for category in ["sitting", "standing", "vision"]:
+        for category in ["sitting", "standing", "vision_impaired"]:
             relative_path_markdown_files[sport][category] = {}
             for gender in ["male", "female"]:
                 athlete_results, athlete_links = [], []
@@ -84,7 +84,7 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
                         REPORTER_LOGGER.info(f"Maximum number of athletes for {sport}, {category}, {gender}")
                         break
 
-                    _, _, json_result_path = get_output_filenames(athlete_name=athlete_conf["name"], sport=sport, category=category, output_dir=os.path.join(output_base_path, "articles"))
+                    _, _, json_result_path = get_output_filenames(athlete_name=athlete_conf["name"], sport=sport, category=athlete_conf["class"], output_dir=os.path.join(output_base_path, "articles"))
 
                     # Control to not rerun previous experiments
                     if os.path.exists(json_result_path):
