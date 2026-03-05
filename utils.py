@@ -38,7 +38,7 @@ def get_primary_website(sport: str):
         raise Exception(f"Unknown sport {sport}")
 
 def get_athlete_filename(athlete_name: str, sport: str, category: str):
-    return f"{athlete_name.replace(' ', '_')}_{sport}_{category}"
+    return f"{athlete_name.replace(' ', '_')}_{sport.replace(' ', '_')}_{category.replace(' ', '_')}"
 
 def get_output_filenames(athlete_name: str, sport: str, category: str, output_dir: str):
     base_filename = get_athlete_filename(athlete_name=athlete_name, sport=sport, category=category)
