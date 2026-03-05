@@ -1,11 +1,16 @@
 # 🏔️ Paralympic Athlete Reporter Agent
 
 An AI-powered multi-agent research system designed to generate verified, 
-structured reports about Paralympic winter sport athletes (Biathlon and 
-Cross-Country Skiing).
+structured reports about Paralympic winter sport athletes.
 
-This project orchestrates a research workflow using CrewAI agents and OpenAI 
-models deployed through OpenAI API, producing:
+The system was originally developed for Biathlon and Cross-Country Skiing. However, 
+it can be readily adapted to other sports by updating the [get_primary_website method](./utils.py). 
+To do so, simply specify the sport’s name and provide the official website where the 
+agent should begin retrieving athlete information—typically the relevant international 
+federation’s webpage.
+
+Built using CrewAI agents and OpenAI models via the OpenAI API, the project 
+orchestrates a structured research workflow that produces:
 
 - ✅ A fact-checked English article
 - ✅ A validated Spanish translation
@@ -13,7 +18,8 @@ models deployed through OpenAI API, producing:
 - ✅ Excel and Markdown summary tables
 
 The system focuses on strict factual validation, source traceability, trying 
-to minimize the hallucination impact.
+to minimize the hallucination impact, and producing an output as can be seen 
+in the [athlete report navigation example panel](./results/gpt-4o-mini/tables/athlete_navigation_tables.md).
 
 <details><summary>Click here to read about project motivation</summary>
 
@@ -30,11 +36,11 @@ To achieve this, I compiled the current standings of the Paralympic World Cup ac
 all categories, structured the data into a JSON file, and used this functionality to 
 generate a collection of Markdown files containing summaries and reports for each athlete.
 
-I am aware that, even though this multi-agent system retrieves information from the 
-internet, its outputs may still contain inaccuracies or hallucinations, so the results 
-should be interpreted with appropriate caution. Additionally, this project was developed 
-and deployed within just a few hours, so there is significant room for improvement and 
-further refinement.
+While the system can retrieve information from the internet, its outputs may still contain 
+inaccuracies or hallucinations. The results should be interpreted with caution, and manual 
+verification is recommended—made easier by the inclusion of references in each report. 
+This project was developed and deployed in just a few hours, leaving room for future 
+improvements and refinements.
 
 </details>
 
@@ -47,8 +53,8 @@ The pipeline is built using:
 - Website scraping & DuckDuckGo search
 - Structured data validation with Pydantic
 - Automated article generation + fact-checking
-- Structured JSON export
-- Excel & Markdown table generation
+- JSON export of structured schematic article summaries
+- Excel and Markdown table generation from the schematicarticle summary JSON
 
 # 🤖 Agents Workflow
 
@@ -147,3 +153,15 @@ output/
 Additionally, you can use the methods in `utils` to dump the information of the summary
 jsons into tables by using `athletes_summary_to_excel_table` and `athletes_summary_to_markdown_table`
 methods.
+
+## Multiple Athletes Example
+
+For my personal use case, I deployed the [research_top_athletes.py](research_top_k_athletes.py) script, 
+which automatically gathers reports for all athletes registered in the World Cup. It preserves the 
+metadata I manually extracted from official sources.
+
+All collected data is stored in the [athletes](athletes) folder in JSON format, organized by sport, category, and gender.
+
+The script not only compiles all the reports but also generates a Markdown file that makes it easy to navigate the 
+summaries and individual athlete reports, as the shown in 
+[athlete report navigation example panel](./results/gpt-4o-mini/tables/athlete_navigation_tables.md).
