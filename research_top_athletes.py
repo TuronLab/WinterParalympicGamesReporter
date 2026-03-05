@@ -88,7 +88,7 @@ def research_for_top_k_athletes(llm: str | InstanceOf[BaseLLM] | Any, athletes_m
 
                     # Control to not rerun previous experiments
                     if os.path.exists(json_result_path):
-                        athlete_results.append(json.load(open(json_result_path)))
+                        athlete_results.append(json.load(open(json_result_path, encoding="utf-8-sig")))
                         athlete_filename = get_athlete_filename(athlete_name=athlete_conf['name'], sport=sport, category=athlete_conf['class'])
                         athlete_links.append(os.path.join(rf"../articles/{athlete_filename}_ES.md"))
                         REPORTER_LOGGER.info(f"Cached info of {athlete_filename}")
