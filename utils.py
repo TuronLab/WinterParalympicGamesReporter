@@ -5,6 +5,7 @@ from typing import List
 from crewai.tools import BaseTool
 from ddgs import DDGS
 
+from athlete_model import AthleteSummary, SportInfo
 from config import COUNTRY_REGION_MAP, REPORTER_LOGGER
 
 
@@ -54,27 +55,6 @@ def athletes_summary_to_excel_table(athletes: List[dict], output_path: str | Non
     If you pass the output_path, it also saves the xlsx
     """
 
-    # Define columns
-    columns = [
-        "name_of_the_athlete",
-        "date_of_birth",
-        "sex",
-        "country",
-        "paralympic_category_lw",
-        "sport_name",
-        "participates",
-        "major_achievements",
-        "paralympic_participation",
-        "participation",
-        "achievements",
-        "guide",
-        "performance_trends",
-        "preparation_style",
-        "personal_contextual_info",
-        "personal_data",
-        "reference_urls"
-    ]
-
     rows = []
 
     for athlete in athletes or []:
@@ -110,6 +90,7 @@ def athletes_summary_to_excel_table(athletes: List[dict], output_path: str | Non
             }
             rows.append(row)
 
+    columns = list(rows[0].keys())
     df = pd.DataFrame(rows, columns=columns)
 
     if output_path:
@@ -130,26 +111,13 @@ def athletes_summary_to_markdown_table(
     each athlete name to the `.md` file with its report.
     """
 
-    # Table headers
-    headers = [
-        "name_of_the_athlete",
-        "date_of_birth",
-        "sex",
-        "country",
-        "paralympic_category_lw",
-        "sport_name",
-        "participates",
-        "major_achievements",
-        "paralympic_participation",
-        "participation",
-        "achievements",
-        "guide",
-        "performance_trends",
-        "preparation_style",
-        "personal_contextual_info",
-        "personal_data",
-        "reference_urls"
-    ]
+    # Table headers keeping the order of AthleteSummary
+    headers = []
+    for k in AthleteSummary.model_fields.keys():
+        if k != "sports":
+            headers.append(k)
+        else:
+            headers.extend([k for k in SportInfo.model_fields.keys()])
 
     # Markdown: table heading
     md_lines = []
@@ -167,9 +135,9 @@ def athletes_summary_to_markdown_table(
                     name = athlete.get("name_of_the_athlete", "")
                     if links and link_index < len(links):
                         # Markdown link
-                        value = f"[{name}]({links[link_index]})"
+                        value = f"[{name}]({links[link_index]})" if i == 0 else ""
                     else:
-                        value = name
+                        value = name if i == 0 else ""
                 elif field == "reference_urls":
                     value = "; ".join(athlete.get("reference_urls", [""]))
                 elif field in athlete:
@@ -185,7 +153,7 @@ def athletes_summary_to_markdown_table(
                 row.append(str(value))
 
             md_lines.append("| " + " | ".join(row) + " |")
-            link_index += 1
+        link_index += 1
 
     markdown_content = "\n".join(md_lines)
 
