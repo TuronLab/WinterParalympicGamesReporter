@@ -28,6 +28,14 @@ class DuckDuckGoTool(BaseTool):
             REPORTER_LOGGER.error("DuckDuckGoTool failed:", e)
             raise  # re-raise so you see the full traceback
 
+def get_primary_website(sport: str):
+    if sport == "biathlon":
+        return "https://biathlonresults.com/"
+    elif sport == "cross_country":
+        return "https://www.fis-ski.com/"
+    else:
+        raise Exception(f"Unknown sport {sport}")
+
 def get_athlete_filename(athlete_name: str, sport: str, category: str):
     return f"{athlete_name.replace(' ', '_')}_{sport}_{category}"
 
@@ -178,7 +186,7 @@ def athletes_summary_to_markdown_table(
 
     if output_path:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        with open(output_path, "w", encoding="utf-8") as f:
+        with open(output_path, "w", encoding="utf-8-sig") as f:
             f.write(markdown_content)
         REPORTER_LOGGER.info("Markdown table saved successfully in " + output_path)
 

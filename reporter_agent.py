@@ -10,7 +10,7 @@ from athlete_model import AthleteSummary
 from crewai import LLM
 
 from config import REPORTER_LOGGER
-from utils import DuckDuckGoTool, get_output_filenames
+from utils import DuckDuckGoTool, get_output_filenames, get_primary_website
 
 
 # ==========================================================
@@ -78,18 +78,11 @@ def run_research(
 
     os.makedirs(output_dir, exist_ok=True)
 
-    if sport not in ["biathlon", "cross_country"]:
-        raise ValueError("Sport must be either 'biathlon' or 'cross_country'")
-
     # ==========================================================
     # PRIMARY SOURCE
     # ==========================================================
 
-    primary_site = (
-        "https://biathlonresults.com/"
-        if sport == "biathlon"
-        else "https://www.fis-ski.com/"
-    )
+    primary_site = get_primary_website(sport)
 
     # ==========================================================
     # TOOLS
@@ -110,7 +103,8 @@ def run_research(
         backstory=(
             "You are an elite sports data researcher specialized in Paralympic winter sports. "
             "You must first search the official sport-specific results website. "
-            "Then, you should search additional sources including news articles, interviews, national federations, and IPC profiles using DuckDuckGo. "
+            "Then, you should search additional sources including news articles, interviews, national federations, "
+            "and IPC profiles using DuckDuckGo. "
             "Always verify that the information you collect corresponds exactly to the athlete in question, "
             "checking sport, country, and category to avoid confusion with athletes of similar names. "
             "All key facts must be traceable to sources. "
