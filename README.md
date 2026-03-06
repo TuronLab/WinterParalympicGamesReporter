@@ -83,8 +83,8 @@ most reliable information possible
 # 📦 Installation & Setup
 ## 1️⃣ Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone https://github.com/TuronLab/WinterParalympicGamesReporter.git
+cd WinterParalympicGamesReporter
 ```
 ## 2️⃣ Create a Virtual Environment
 ```bash
